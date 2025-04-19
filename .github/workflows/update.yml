@@ -28,8 +28,6 @@ jobs:
 
 
       - name: Commit and push
-        env:
-          PERSONAL_TOKEN: ${{ secrets.MY_PERSONAL_TOKEN }}
         run: |
           git config user.name "Mariana Viana"
           git config user.email "marianaviana@users.noreply.github.com"
