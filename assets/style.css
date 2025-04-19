@@ -1,41 +1,21 @@
 :root {
-  /* Cores principais */
   --primary-light: #3d6bb3;
-  /* Azul mais claro */
   --primary: #0b3d91;
-  /* Azul NASA */
   --secondary-light: #fd6a56;
-  /* Vermelho mais claro */
   --secondary: #fc3d21;
-  /* Vermelho NASA */
-
-  /* Tons de neutros */
   --dark: #1a1a1a;
-  /* Texto escuro */
   --gray-dark: #333333;
-  /* Cinza escuro */
   --gray-light: #cccccc;
-  /* Cinza claro */
   --gray-medium: #666666;
-  /* Cinza médio */
   --light: #f5f5f5;
-  /* Fundo claro */
   --white: #ffffff;
-  /* Branco puro */
-
-  /* Feedback */
   --error: #f44336;
-  /* Vermelho erro */
   --success: #4caf50;
-  /* Verde */
   --warning: #ff9800;
-  /* Laranja */
 
   /* Extras */
   --border-radius: 8px;
-  /* Bordas arredondadas */
   --shadow: rgba(0, 0, 0, 0.1);
-  /* Sombra padrão */
 }
 
 * {
@@ -45,11 +25,19 @@
 }
 
 body {
+  align-items: center;
   background-color: var(--light);
   color: var(--dark);
+  display: flex;
+  flex-direction: column;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.6;
   padding: 20px;
+}
+
+header, main, footer {
+  max-width: 85vw;
+  width: 1200px;
 }
 
 header {
