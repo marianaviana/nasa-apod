@@ -1,24 +1,30 @@
-document.addEventListener('DOMContentLoaded', () => {
-  // Carrega os dados do arquivo JSON
-  fetch('data/apod.json')
-    .then(response => response.json())
-    .then(data => {
-      if (data.length > 0) {
-        displayCurrentAPOD(data[0]);
-        displayHistory(data.slice(1));
-      } else {
-        document.getElementById('apod-container').innerHTML = `
-            <div class="error">Nenhum dado disponível. A atualização automática acontece diariamente.</div>
-          `;
-      }
-    })
-    .catch(error => {
-      console.error('Error loading APOD data:', error);
-      document.getElementById('apod-container').innerHTML = `
-          <div class="error">Erro ao carregar os dados. Por favor, tente novamente mais tarde.</div>
-        `;
-    });
+document.addEventListener('DOMContentLoaded', async () => {
+  try {
+    const response = await fetch('https://raw.githubusercontent.com/marianaviana/nasa-apod/main/data/apod.json');
+
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`);
+    }
+
+    const data = await response.json();
+
+    if (data.length > 0) {
+      displayCurrentAPOD(data[0]);
+      displayHistory(data.slice(1));
+    } else {
+      showError("Nenhum dado disponível ainda. A primeira atualização acontecerá à meia-noite UTC.");
+    }
+  } catch (error) {
+    console.error('Error loading APOD data:', error);
+    showError("Erro ao carregar os dados. Por favor, tente novamente mais tarde.");
+  }
 });
+
+function showError(message) {
+  const container = document.getElementById('apod-container');
+  container.innerHTML = `<div class="error">${message}</div>`;
+}
+
 
 function displayCurrentAPOD(apod) {
   const container = document.getElementById('apod-container');
