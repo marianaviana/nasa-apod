@@ -24,18 +24,14 @@ jobs:
           NASA_API_KEY: ${{ secrets.NASA_API_KEY }}
         run: node ./scripts/fetch-and-translate.js
 
+
       - name: Commit and push
         env:
           PERSONAL_TOKEN: ${{ secrets.MY_PERSONAL_TOKEN }}
         run: |
-          # Configuração do Git
-          git config --global user.name "Mariana Viana"
-          git config --global user.email "marianaviana@users.noreply.github.com"
-
-          # Autenticação segura
-          git remote set-url origin https://x-access-token:${PERSONAL_TOKEN}@github.com/${{ github.repository }}
-
-          # Commit e push
+          git config user.name "Mariana Viana"
+          git config user.email "marianaviana@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${MY_PERSONAL_TOKEN}@github.com/${{ github.repository }}
           git add data/apod.json
           git commit -m "chore: update apod for $(date +'%Y-%m-%d')" || echo "Nada para commitar"
-          git push origin HEAD:${{ github.ref }}
+          git push
