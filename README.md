@@ -6,7 +6,7 @@
 
 Um projeto automatizado que exibe diariamente a incrível "Astronomy Picture of the Day" (APOD) da NASA, com tradução para português e histórico visual.
 
-[▶️ Acesse a Página](https://marianaviana.dev/nasa-apod) | [📋 Veja o Código Fonte](https://github.com/marianaviana/nasa-apod)
+[▶️ Acesse a Página](https://mariviana.dev/nasa-apod) | [📋 Veja o Código Fonte](https://github.com/marianaviana/nasa-apod)
 
 ## ✨ Funcionalidades
 
@@ -37,7 +37,7 @@ Um projeto automatizado que exibe diariamente a incrível "Astronomy Picture of 
    - Armazena histórico visual
 
 ## 🖥️ Pré-visualização
-[https://mariviana.dev/nasa-apod/](https://mariviana.dev/nasa-apod/)
+[▶️ Acesse a Página](https://mariviana.dev/nasa-apod)
 
 # Clone o repositório
 ```bash
