@@ -1,0 +1,41 @@
+name: update-nasa-apod
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  #
+  workflow_dispatch:
+
+jobs:
+  update-apod:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install axios @vitalets/google-translate-api
+
+      - name: Fetch and translate APOD
+        env:
+          NASA_API_KEY: ${{ secrets.NASA_API_KEY }}
+        run: node ./scripts/fetch-and-translate.js
+
+      - name: Commit and push
+        env:
+          PERSONAL_TOKEN: ${{ secrets.MY_PERSONAL_TOKEN }}
+        run: |
+          # Configuração do Git
+          git config --global user.name "Mariana Viana"
+          git config --global user.email "marianaviana@users.noreply.github.com"
+
+          # Autenticação segura
+          git remote set-url origin https://x-access-token:${PERSONAL_TOKEN}@github.com/${{ github.repository }}
+
+          # Commit e push
+          git add data/apod.json
+          git commit -m "chore: update apod for $(date +'%Y-%m-%d')" || echo "Nada para commitar"
+          git push origin HEAD:${{ github.ref }}

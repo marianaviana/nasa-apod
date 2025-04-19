@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NASA >Imagem astronômica do dia</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+
+<body>
+  <header>
+    <h1>NASA APOD</h1>
+    <p>Imagem astronômica do dia</p>
+  </header>
+
+  <main>
+    <section id="current-apod">
+      <h2>Imagem de Hoje</h2>
+      <div id="apod-container">
+        <div class="loader">Carregando...</div>
+      </div>
+    </section>
+
+    <section id="apod-history">
+      <h2>Histórico Recente</h2>
+      <div id="history-container"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>Dados fornecidos pela <a href="https://api.nasa.gov/" target="_blank">NASA API</a></p>
+    <p>Desenvolvido por <a href="https://api.nasa.gov/" target="_blank">mariviana.dev</a></p>
+  </footer>
+
+  <script src="assets/scripts/script.js"></script>
+</body>
+
+</html>
