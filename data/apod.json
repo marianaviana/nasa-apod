@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "date": "2025-04-19",
+    "title": {
+      "en": "Painting with Jupiter",
+      "pt": "Pintura com Júpiter"
+    },
+    "explanation": {
+      "en": "In digital brush strokes, Jupiter's signature atmospheric bands and vortices were used to form this interplanetary post-impressionist work of art. The creative image from citizen scientist Rick Lundh uses data from the Juno spacecraft's JunoCam. To paint on the digital canvas, a JunoCam image with contrasting light and dark tones was chosen for processing and an oil-painting software filter applied. The image data was captured during perijove 10. That was Juno's December 16, 2017 close encounter with the solar system's ruling gas giant. At the time the spacecraft was cruising about 13,000 kilometers above northern Jovian cloud tops. Now in an extended mission, Juno has explored Jupiter and its moons since entering orbit around Jupiter in July of 2016.",
+      "pt": "Em pinceladas digitais, as bandas e vórtices atmosféricos de Júpiter foram usados ​​para formar essa obra de arte pós-impressionista interplanetária. A imagem criativa do cientista do cidadão Rick Lundh usa dados da estreita Juno SpaceCraft. Para pintar na tela digital, foi escolhida uma imagem de Junocam com tons claros e escuros contrastantes para o processamento e um filtro de software de pintura a óleo. Os dados da imagem foram capturados durante o Perijove 10. Esse foi o encontro próximo de Juno em 16 de dezembro de 2017 com a gigante do gás dominante do sistema solar. Na época, a nave espacial estava cruzando cerca de 13.000 quilômetros acima do topo da nuvem do norte da Joviana. Agora em uma missão estendida, Juno explorou Júpiter e suas luas desde que entrou em órbita em torno de Júpiter em julho de 2016."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2504/PIA21983JupiterLundh1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2504/PIA21983JupiterLundh.jpg",
+    "copyright": "Public Domain"
+  }
+]
