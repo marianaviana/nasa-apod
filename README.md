@@ -3,6 +3,7 @@
 ![GitHub Actions](https://img.shields.io/github/actions/workflow/status/marianaviana/nasa-apod/update.yml?label=Daily%20Update)
 ![GitHub last commit](https://img.shields.io/github/last-commit/marianaviana/nasa-apod)
 ![GitHub repo size](https://img.shields.io/github/repo-size/marianaviana/nasa-apod)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Um projeto automatizado que exibe diariamente a incrível "Astronomy Picture of the Day" (APOD) da NASA, com tradução para português e histórico visual.
 
