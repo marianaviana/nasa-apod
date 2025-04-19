@@ -35,8 +35,8 @@ function displayCurrentAPOD(apod) {
     <div class="apod-info">
       <h3>${title}</h3>
       <div class="apod-date">${formatDate(apod.date)}</div>
-      <div class="apod-copyright">Crédito: ${copyright}</div>
       <div class="apod-explanation">${explanation}</div>
+      <div class="apod-copyright">Crédito: ${copyright}</div>
     </div>
   `;
 }
