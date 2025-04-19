@@ -21,18 +21,22 @@ document.addEventListener('DOMContentLoaded', async () => {
 function displayCurrentAPOD(apod) {
   const container = document.getElementById('apod-container');
 
+  const title = typeof apod.title === 'object' ? apod.title.pt : apod.title;
+  const explanation = typeof apod.explanation === 'object' ? apod.explanation.pt : apod.explanation;
+  const copyright = apod.copyright || 'Public Domain';
+
   container.innerHTML = `
     <div class="apod-media">
       ${apod.media_type === 'video' ?
         `<iframe src="${apod.url}" frameborder="0" allowfullscreen></iframe>` :
-        `<img src="${apod.url}" alt="${apod.title}" loading="lazy">`
+        `<img src="${apod.url}" alt="${title}" loading="lazy">`
       }
     </div>
     <div class="apod-info">
-      <h3>${apod.title}</h3>
+      <h3>${title}</h3>
       <div class="apod-date">${formatDate(apod.date)}</div>
-      ${apod.copyright ? `<div class="apod-copyright">Crédito: ${apod.copyright}</div>` : ''}
-      <div class="apod-explanation">${apod.explanation}</div>
+      <div class="apod-copyright">Crédito: ${copyright}</div>
+      <div class="apod-explanation">${explanation}</div>
     </div>
   `;
 }
