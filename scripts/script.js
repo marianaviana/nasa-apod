@@ -22,9 +22,12 @@ function displayCopyright(copyright) {
   if (!copyright) return '';
 
   const linkedCopyright = copyright
-    .replace(/NASA/g, '<a href="https://www.nasa.gov" target="_blank">NASA</a>')
-    .replace(/ESA/g, '<a href="https://www.esa.int" target="_blank">ESA</a>');
-
+    .replace(/ASD/g, '<a href="https://astrophysics.gsfc.nasa.gov/" target="_blank">ASD</a>')
+    .replace(/CSA/g, '<a href="https://www.asc-csa.gc.ca/eng/" target="_blank">CSA</a>')
+    .replace(/ESA/g, '<a href="https://www.esa.int" target="_blank">ESA</a>')
+    .replace(/GSFC/g, '<a href="https://www.nasa.gov/centers/goddard/" target="_blank">GSFC</a>')
+    .replace(/JPL/g, '<a href="https://science.jpl.nasa.gov/" target="_blank">JPL</a>')
+    .replace(/NASA/g, '<a href="https://www.nasa.gov" target="_blank">NASA</a>');
   return `Créditos: ${linkedCopyright}`;
 }
 
