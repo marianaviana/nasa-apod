@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', async () => {
       displayCurrentAPOD(data[0]);
       if (data.length > 1) displayHistory(data.slice(1));
     } else {
-      showError("Nenhum dado disponível ainda. A primeira atualização acontecerá à meia-noite UTC.");
+      showError("Nenhum dado disponível ainda. A primeira atualização acontecerá às 6 UTC.");
     }
   } catch (error) {
     console.error('Error loading APOD data:', error);
@@ -25,7 +25,7 @@ function displayCopyright(copyright) {
     .replace(/NASA/g, '<a href="https://www.nasa.gov" target="_blank">NASA</a>')
     .replace(/ESA/g, '<a href="https://www.esa.int" target="_blank">ESA</a>');
 
-  return `<div class="apod-copyright">Créditos: ${linkedCopyright}</div>`;
+  return `Créditos: ${linkedCopyright}`;
 }
 
 function displayCurrentAPOD(apod) {
@@ -33,20 +33,19 @@ function displayCurrentAPOD(apod) {
 
   const title = typeof apod.title === 'object' ? apod.title.pt : apod.title;
   const explanation = typeof apod.explanation === 'object' ? apod.explanation.pt : apod.explanation;
-  const copyright = apod.copyright || 'Public Domain';
 
   container.innerHTML = `
     <div class="apod-media">
       ${apod.media_type === 'video' ?
-        `<iframe src="${apod.url}" frameborder="0" allowfullscreen></iframe>` :
-        `<img src="${apod.url}" alt="${title}" loading="lazy">`
-      }
+      `<iframe src="${apod.url}" frameborder="0" allowfullscreen></iframe>` :
+      `<img src="${apod.url}" alt="${title}" loading="lazy">`
+    }
     </div>
     <div class="apod-info">
       <h3>${title}</h3>
       <div class="apod-date">${formatDate(apod.date)}</div>
       <div class="apod-explanation">${explanation}</div>
-      <div class="apod-copyright">Créditos: ${displayCopyright(apod.copyright)}</div>
+      <div class="apod-copyright">${displayCopyright(apod.copyright)}</div>
     </div>
   `;
 }
@@ -54,20 +53,24 @@ function displayCurrentAPOD(apod) {
 function displayHistory(historyItems) {
   const container = document.getElementById('history-container');
 
-  container.innerHTML = historyItems.map(item => `
+  container.innerHTML = historyItems.map(item => {
+    const title = typeof item.title === 'object' ? item.title.pt || item.title.en : item.title;
+
+    return `
     <div class="history-item">
       <div class="history-media">
         ${item.media_type === 'video' ?
-          '<div class="video-placeholder"></div>' :
-          `<img src="${item.url}" alt="${item.title}" loading="lazy">`
-        }
+        '<div class="video-placeholder">📹 Vídeo</div>' :
+        `<img src="${item.url}" alt="${title}" loading="lazy">`
+      }
       </div>
       <div class="history-info">
-        <h3>${item.title}</h3>
+        <h3>${title}</h3>
         <div class="history-date">${formatDate(item.date)}</div>
       </div>
     </div>
-  `).join('');
+    `;
+  }).join('');
 }
 
 function formatDate(dateString) {
