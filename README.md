@@ -1,4 +1,4 @@
-# 🌌 NASA APOD - Imagem astronômica do Dia
+# 🌌 NASA APOD - Imagem Astronômica do Dia
 
 ![GitHub Actions](https://img.shields.io/github/actions/workflow/status/marianaviana/nasa-apod/update.yml?label=Daily%20Update)
 ![GitHub last commit](https://img.shields.io/github/last-commit/marianaviana/nasa-apod)
@@ -27,7 +27,7 @@ Um projeto automatizado que exibe diariamente a incrível "Astronomy Picture of 
 ## ⚡ Como Funciona
 
 1. **Automação Diária**:
-   - GitHub Actions roda à meia-noite UTC
+   - GitHub Actions roda todos os dias 1x ao dia
    - Busca a imagem/vídeo do dia da NASA API
    - Traduz automaticamente para português
    - Atualiza o arquivo JSON e faz commit
