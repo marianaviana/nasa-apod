@@ -19,6 +19,17 @@ async function fetchAndTranslate() {
     ]);
 
     // 3. Formata os dados
+    function formatCopyright(copyright) {
+      if (!copyright) return null;
+
+      // Remove quebras de linha múltiplas e espaços extras
+      return copyright
+        .replace(/\n+/g, ', ') // Substitui quebras por vírgulas
+        .replace(/, , /g, ', ') // Limpa vírgulas duplas
+        .trim()
+        .replace(/, $/, ''); // Remove vírgula final
+    }
+
     const apodData = {
       date: nasaResponse.data.date,
       title: {
@@ -32,7 +43,7 @@ async function fetchAndTranslate() {
       media_type: nasaResponse.data.media_type,
       url: nasaResponse.data.url,
       hdurl: nasaResponse.data.hdurl || nasaResponse.data.url,
-      copyright: nasaResponse.data.copyright || 'Public Domain'
+      copyright: formatCopyright(nasaResponse.data.copyright) || null
     };
 
     // 4. Salva no JSON

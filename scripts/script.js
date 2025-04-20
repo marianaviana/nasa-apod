@@ -18,6 +18,16 @@ document.addEventListener('DOMContentLoaded', async () => {
   }
 });
 
+function displayCopyright(copyright) {
+  if (!copyright) return '';
+
+  const linkedCopyright = copyright
+    .replace(/NASA/g, '<a href="https://www.nasa.gov" target="_blank">NASA</a>')
+    .replace(/ESA/g, '<a href="https://www.esa.int" target="_blank">ESA</a>');
+
+  return `<div class="apod-copyright">Créditos: ${linkedCopyright}</div>`;
+}
+
 function displayCurrentAPOD(apod) {
   const container = document.getElementById('apod-container');
 
@@ -36,7 +46,7 @@ function displayCurrentAPOD(apod) {
       <h3>${title}</h3>
       <div class="apod-date">${formatDate(apod.date)}</div>
       <div class="apod-explanation">${explanation}</div>
-      <div class="apod-copyright">Crédito: ${copyright}</div>
+      <div class="apod-copyright">Créditos: ${displayCopyright(apod.copyright)}</div>
     </div>
   `;
 }
