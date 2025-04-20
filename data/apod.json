@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-04-20",
+    "title": {
+      "en": "The Orion Nebula in Visible and Infrared",
+      "pt": "A nebulosa Orion em visível e infravermelho"
+    },
+    "explanation": {
+      "en": "The Great Nebula in Orion is a colorful place.  Visible to the unaided eye, it appears as a small fuzzy patch in the constellation of Orion.  Long exposure, multi-wavelength images like this, however, show the Orion Nebula to be a busy neighborhood of young stars, hot gas, and dark dust.  This digital composite features not only three colors of visible light but four colors of infrared light taken by NASA's orbiting Spitzer Space Telescope as well.  The power behind much of the Orion Nebula (M42) is the Trapezium - four of the brightest stars in the nebula.  Many of the filamentary structures visible are actually shock waves - fronts where fast moving material encounters slow moving gas.  The Orion Nebula spans about 40 light years and is located about 1500 light years away in the same spiral arm of our Galaxy as the Sun.",
+      "pt": "A grande nebulosa em Orion é um lugar colorido.  Visível ao olho sem ajuda, ele aparece como um pequeno remendo difuso na constelação de Orion.  Exposição longa, imagens de vários comprimentos de onda como essa, no entanto, mostram que a nebulosa Orion é um bairro movimentado de estrelas jovens, gás quente e poeira escura.  Este composto digital apresenta não apenas três cores de luz visível, mas também quatro cores de luz infravermelha tirada pelo telescópio espacial Spitzer da NASA.  O poder por trás de grande parte da nebulosa Orion (M42) é o trapézio - quatro das estrelas mais brilhantes da nebulosa.  Muitas das estruturas filamentárias visíveis são na verdade ondas de choque - frentes onde o material em movimento rápido encontra gás lento.  A nebulosa Orion abrange cerca de 40 anos -luz e está localizada a cerca de 1500 anos -luz de distância no mesmo braço espiral de nossa galáxia que o Sol."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2504/M42_SpitzerCzernetz_1080.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2504/M42_SpitzerCzernetz_2000.jpg",
+    "copyright": ", Infrared: NASA, Spitzer Space Telescope;, Visible: , Oliver Czernetz, Siding Spring Obs.,"
+  },
+  {
     "date": "2025-04-19",
     "title": {
       "en": "Painting with Jupiter",
