@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-04-21",
+    "title": {
+      "en": "Galaxy Lenses Galaxy from Webb",
+      "pt": "Galaxy Lentes Galaxy da Webb"
+    },
+    "explanation": {
+      "en": "Is this one galaxy or two? Although it looks like one, the answer is two. One path to this happening is when a small galaxy collides with a larger galaxy and ends up in the center. But in the featured image, something more rare is going on. Here, the central light-colored elliptical galaxy is much closer than the blue and red-colored spiral galaxy that surrounds it. This can happen when near and far galaxies are exactly aligned, causing the gravity of the near galaxy to pull the light from the far galaxy around it in an effect called gravitational lensing. The featured galaxy double was taken by the Webb Space Telescope and shows a complete Einstein ring, with great detail visible for both galaxies.  Galaxy lenses like this can reveal new information about the mass distribution of the foreground lens and the light distribution of the background source.",
+      "pt": "Esta é uma ou duas galáxias? Embora pareça um, a resposta é dois. Um caminho para isso acontecendo é quando uma pequena galáxia colide com uma galáxia maior e acaba no centro. Mas na imagem em destaque, algo mais raro está acontecendo. Aqui, a galáxia elíptica central de cor clara é muito mais próxima que a galáxia espiral azul e de cor vermelha que a rodeia. Isso pode acontecer quando as galáxias próximas e distantes estiverem exatamente alinhadas, fazendo com que a gravidade da galáxia próxima puxe a luz da galáxia distante em torno dela em um efeito chamado lente gravitacional. O Double Galaxy em destaque foi levado pelo Telescópio Espacial Webb e mostra um anel completo de Einstein, com grandes detalhes visíveis para ambas as galáxias.  Lentes de galáxias como essa podem revelar novas informações sobre a distribuição de massa da lente de primeiro plano e a distribuição de luz da fonte de fundo."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2504/GalaxiesLens_Webb_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2504/GalaxiesLens_Webb_1146.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-04-20",
     "title": {
       "en": "The Orion Nebula in Visible and Infrared",
