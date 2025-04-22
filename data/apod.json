@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-04-22",
+    "title": {
+      "en": "Terminator Moon: A Moonscape of Shadows",
+      "pt": "Terminator Moon: uma paisagem de sombras"
+    },
+    "explanation": {
+      "en": "What's different about this Moon? It's the terminators. In the featured image, you can't directly see any terminator -- the line that divides the light of day from the dark of night. That's because the featured image is a digital composite of many near-terminator lunar strips over a full Moon.  Terminator regions show the longest and most prominent shadows -- shadows which, by their contrast and length, allow a flat photograph to appear three-dimensional. The overlay images were taken over two weeks in early April.  Many of the Moon's craters stand out because of the shadows they all cast to the right. The image shows in graphic detail that the darker regions known as maria are not just darker than the rest of the Moon -- they are also flatter.    Dial-A-Moon: Find the Moon phase on your birthday this year",
+      "pt": "O que há de diferente nesta lua? São os terminadores. Na imagem em destaque, você não pode ver diretamente nenhum terminador - a linha que divide a luz do dia do escuro da noite. Isso ocorre porque a imagem em destaque é um composto digital de muitas tiras lunares do terminal próximo sobre uma lua cheia.  As regiões do Terminator mostram as sombras mais longas e proeminentes-sombras que, por seu contraste e comprimento, permitem que uma fotografia plana pareça tridimensional. As imagens de sobreposição foram tiradas ao longo de duas semanas no início de abril.  Muitas das crateras da lua se destacam por causa das sombras que todos lançam para a direita. A imagem mostra em detalhes gráficos que as regiões mais sombrias conhecidas como maria não são apenas mais escuras que o resto da lua - elas também são mais planas.    Dial-a-a-moon: Encontre a fase da lua no seu aniversário este ano"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2504/TerminatorMoon_Addis_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2504/TerminatorMoon_Addis_3558.jpg",
+    "copyright": ", Rich Addis,"
+  },
+  {
     "date": "2025-04-21",
     "title": {
       "en": "Galaxy Lenses Galaxy from Webb",
