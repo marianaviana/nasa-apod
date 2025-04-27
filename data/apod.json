@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-04-27",
+    "title": {
+      "en": "IC 418: The Spirograph Nebula",
+      "pt": "IC 418: a nebulosa Spirograph"
+    },
+    "explanation": {
+      "en": "What is creating the strange texture of IC 418?  Dubbed the Spirograph Nebula for its resemblance to drawings from a cyclical drawing tool, planetary nebula IC 418 shows patterns that are not well understood. Perhaps they are related to chaotic winds from the variable central star, which changes brightness unpredictably in just a few hours.  By contrast, evidence indicates that only a few million years ago, IC 418 was probably a well-understood star similar to our Sun.  Only a few thousand years ago, IC 418 was probably a common red giant star.  Since running out of nuclear fuel, though, the outer envelope has begun expanding outward leaving a hot remnant core destined to become a white-dwarf star, visible in the image center. The light from the central core excites surrounding atoms in the nebula causing them to glow. IC 418 lies about 2000 light-years away and spans 0.3 light-years across.  This false-color image taken from the Hubble Space Telescope reveals the unusual details.",
+      "pt": "O que está criando a textura estranha do IC 418?  Apelidado de Spirograph Nebula por sua semelhança com os desenhos de uma ferramenta de desenho cíclica, a nebulosa planetária IC 418 mostra padrões que não são bem compreendidos. Talvez eles estejam relacionados a ventos caóticos da variável estrela central, que muda de brilho imprevisivelmente em apenas algumas horas.  Por outro lado, as evidências indicam que apenas alguns milhões de anos atrás, o IC 418 provavelmente era uma estrela bem compreendida semelhante ao nosso Sol.  Apenas alguns milhares de anos atrás, o IC 418 era provavelmente uma estrela gigante vermelha comum.  Desde que ficou sem combustível nuclear, porém, o envelope externo começou a expandir para fora, deixando um núcleo quente e remanescente destinado a se tornar uma estrela de duração branca, visível no centro de imagem. A luz do núcleo central excita os átomos ao redor da nebulosa, fazendo com que eles brilhem. O IC 418 fica a cerca de 2000 anos-luz de distância e abrange 0,3 anos-luz de diâmetro.  Esta imagem de cor falsa retirada do Telescópio Espacial Hubble revela os detalhes incomuns."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2504/Spirograph_Hubble_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2504/Spirograph_Hubble_2119.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-04-26",
     "title": {
       "en": "Barred Spiral Galaxy NGC 5335",
