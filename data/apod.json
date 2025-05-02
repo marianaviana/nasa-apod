@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-05-02",
+    "title": {
+      "en": "Young Star Cluster NGC 346",
+      "pt": "Jovem Star Cluster NGC 346"
+    },
+    "explanation": {
+      "en": "The most massive young star cluster in the Small Magellanic Cloud is NGC 346, embedded in our small satellite galaxy's largest star forming region some 210,000 light-years distant. Of course the massive stars of NGC 346 are short lived, but very energetic.  Their winds and radiation sculpt the edges of the region's dusty molecular cloud triggering star-formation within. The star forming region also appears to contain a large population of infant stars. A mere 3 to 5 million years old and not yet burning hydrogen in their cores, the infant stars are strewn about the embedded star cluster. This spectacular infrared view of NGC 346 is from the James Webb Space Telescope's NIRcam. Emission from atomic hydrogen ionized by the massive stars' energetic radiation as well as molecular hydrogen and dust in the star-forming molecular cloud is detailed in pink and orange hues. Webb's sharp image of the young star-forming region spans 240 light-years at the distance of the Small Magellanic Cloud.",
+      "pt": "O cluster de estrelas jovem mais maciço da pequena nuvem de Magellanic é o NGC 346, incorporado em nossa maior região de formação de estrelas da Galaxy Satellite, cerca de 210.000 anos-luz distantes. É claro que as enormes estrelas do NGC 346 têm vida curta, mas muito enérgicas.  Seus ventos e radiação esculpam as bordas da nuvem molecular empoeirada da região, desencadeando a formação de estrelas dentro. A região de formação de estrelas também parece conter uma grande população de estrelas infantis. Meros 3 a 5 milhões de anos e ainda não queimando hidrogênio em seus núcleos, as estrelas infantis estão espalhadas pelo cluster de estrelas incorporado. Esta visão espetacular do NGC 346 é do Nircam do Telescope do Space Telescope. A emissão de hidrogênio atômico ionizada pela radiação energética das estrelas maciças, bem como por hidrogênio molecular e poeira na nuvem molecular formadora de estrelas, é detalhada em tons rosa e laranja. A imagem nítida de Webb da região jovem de formação de estrelas abrange 240 anos-luz à distância da pequena nuvem de magelanic."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2505/jwst-ngc346-800.png",
+    "hdurl": "https://apod.nasa.gov/apod/image/2505/jwst-ngc346.png",
+    "copyright": null
+  },
+  {
     "date": "2025-05-01",
     "title": {
       "en": "MESSENGER's Last Day on Mercury",
