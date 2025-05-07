@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-05-07",
+    "title": {
+      "en": "Galaxy Wars: M81 versus M82",
+      "pt": "Galaxy Wars: M81 versus M82"
+    },
+    "explanation": {
+      "en": "In the upper left corner, surrounded by blue arms and dotted with red nebulas, is spiral galaxy M81.  In the lower right corner, marked by a light central line and surrounded by red glowing gas, is irregular galaxy M82.  This stunning vista shows these two mammoth galaxies locked in gravitational combat, as they have been for the past billion years.   The gravity from each galaxy dramatically affects the other during each hundred-million-year pass.  Last go-round, M82's gravity likely raised density waves rippling around M81, resulting in the richness of M81's spiral arms.  But M81 left M82 with violent star forming regions and colliding gas clouds so energetic the galaxy glows in X-rays.  This big battle is seen from Earth through the faint glow of an Integrated Flux Nebula, a little studied complex of diffuse gas and dust clouds in our Milky Way Galaxy. In a few billion years, only one galaxy will remain.",
+      "pt": "No canto superior esquerdo, cercado por braços azuis e pontilhado com nebulas vermelhas, está a galáxia em espiral M81.  No canto inferior direito, marcado por uma linha central leve e cercado por gás brilhante vermelho, há a galáxia irregular M82.  Esta vista deslumbrante mostra essas duas galáxias gigantescas trancadas em combate gravitacional, como foram nos últimos bilhões de anos.   A gravidade de cada galáxia afeta drasticamente a outra durante cada passe de cem milhões de anos.  Na última rodada, a gravidade do M82 provavelmente aumentou ondas de densidade em torno do M81, resultando na riqueza dos braços espirais do M81.  Mas o M81 deixou o M82 com regiões de formação de estrelas violentas e nuvens de gás em colisão tão energéticas que a galáxia brilha nos raios-X.  Esta grande batalha é vista da Terra através do brilho fraco de uma nebulosa integrada de fluxo, um pouco do complexo estudado de nuvens difusas de gás e poeira em nossa Galaxia da Via Láctea. Em alguns bilhões de anos, apenas uma galáxia permanecerá."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2505/M81M82_CAT_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2505/M81M82_CAT_3780.jpg",
+    "copyright": ", Collaborative Astrophotography Team (CAT),"
+  },
+  {
     "date": "2025-05-06",
     "title": {
       "en": "The Doubly Warped World of Binary Black Holes",
