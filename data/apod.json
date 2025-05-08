@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-05-08",
+    "title": {
+      "en": "M1: The Incredible Expanding Crab",
+      "pt": "M1: o incrível caranguejo em expansão"
+    },
+    "explanation": {
+      "en": "Cataloged as M1, the Crab Nebula is the first on Charles Messier's famous list of things which are not comets. In fact, the Crab Nebula is now known to be a supernova remnant, an expanding cloud of debris from the death explosion of a massive star. The violent birth of the Crab was witnessed by astronomers in the year 1054. Roughly 10 light-years across, the nebula is still expanding at a rate of about 1,500 kilometers per second. You can see the expansion by comparing these sharp images from the Hubble Space Telescope and James Webb Space Telescope. The Crab's dynamic, fragmented filaments were captured in visible light by Hubble in 2005 and Webb in infrared light in 2023. This cosmic crustacean lies about 6,500 light-years away in the constellation Taurus.",
+      "pt": "Catalogado como M1, a nebulosa do caranguejo é a primeira na famosa lista de coisas de Charles Messier que não são cometas. De fato, a nebulosa do caranguejo agora é conhecida por ser um remanescente de supernova, uma nuvem em expansão de detritos da explosão da morte de uma estrela enorme. O nascimento violento do caranguejo foi testemunhado por astrônomos no ano 1054. Aproximadamente 10 anos-luz de diâmetro, a nebulosa ainda está se expandindo a uma taxa de cerca de 1.500 quilômetros por segundo. Você pode ver a expansão comparando essas imagens nítidas do Telescópio Espacial Hubble e do Telescópio Espacial James Webb. Os filamentos dinâmicos e fragmentados do caranguejo foram capturados sob luz visível por Hubble em 2005 e Webb em luz infravermelha em 2023. Este crustáceo cósmico fica a cerca de 6.500 anos-luz de distância no constelação Taurus."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2505/Crab_Webb_998.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2505/Crab_Webb_998.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-05-07",
     "title": {
       "en": "Galaxy Wars: M81 versus M82",
