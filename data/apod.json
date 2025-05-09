@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-05-09",
+    "title": {
+      "en": "IXPE Explores a Black Hole Jet",
+      "pt": "Ixpe explora um jato de buraco negro"
+    },
+    "explanation": {
+      "en": "How do black holes create X-rays? Answering this long-standing question was significantly advanced recently with data taken by NASA’s IXPE satellite. X-rays cannot exit a black hole, but they can be created in the energetic environment nearby, in particular by a jet of particles moving outward. By observing X-ray light arriving from near the supermassive black hole at the center of galaxy BL Lac, called a blazar, it was discovered that these X-rays lacked significant polarization, which is expected when created more by energetic electrons than protons. In the featured artistic illustration, a powerful jet is depicted emanating from an orange-colored accretion disk circling the black hole. Understanding highly energetic processes across the universe helps humanity to understand similar processes that occur on or near our Earth.   Put it All Together: Astronomy Puzzle of the Day",
+      "pt": "Como os buracos negros criam raios-X? Responder a essa pergunta de longa data foi significativamente avançada recentemente com dados obtidos pelo satélite IXPE da NASA. Os raios X não podem sair de um buraco negro, mas podem ser criados no ambiente energético próximo, em particular por um jato de partículas que se movem para fora. Ao observar a luz de raios X chegando perto do buraco negro supermassivo no centro do Galaxy Bl Lac, chamado blazar, descobriu-se que esses raios-X careciam de polarização significativa, o que é esperado quando criado mais por elétrons energéticos do que os prótons. Na ilustração artística em destaque, um jato poderoso é retratado emanando de um disco de acréscimo de cor laranja circulando o buraco negro. Compreender processos altamente enérgicos em todo o universo ajuda a humanidade a entender processos semelhantes que ocorrem na nossa terra ou nas proximidades.   Junte tudo: o quebra -cabeça de astronomia do dia"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2505/BLlac_NasaGarcia_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2505/BLlac_NasaGarcia_4580.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-05-08",
     "title": {
       "en": "M1: The Incredible Expanding Crab",
