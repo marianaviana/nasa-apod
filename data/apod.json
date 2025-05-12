@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-05-12",
+    "title": {
+      "en": "Gaia Reconstructs a Side View of our Galaxy",
+      "pt": "Gaia reconstrói uma vista lateral de nossa galáxia"
+    },
+    "explanation": {
+      "en": "What does our Milky Way Galaxy look like from the side? Because we are on the inside, humanity can’t get an actual picture. Recently, however, just such a map has been made using location data for over a billion stars from ESA’s Gaia mission. The resulting featured illustration shows that just like many other spiral galaxies, our Milky Way has a very thin central disk. Our Sun and all the stars we see at night are in this disk. Although hypothesized before, perhaps more surprising is that the disk appears curved at the outer edges. The colors of our Galaxy's warped central band derive mostly from dark dust, bright blue stars, and red emission nebulas. Although data analysis is ongoing, Gaia was deactivated in March after a successful mission.   Explore Your Universe: Random APOD Generator",
+      "pt": "Como é nossa galáxia da Via Láctea de lado? Como estamos por dentro, a humanidade não pode obter uma imagem real. Recentemente, no entanto, esse mapa foi feito usando dados de localização para mais de um bilhão de estrelas da Missão Gaia da ESA. A ilustração resultante mostra que, assim como muitas outras galáxias em espiral, nossa Via Láctea tem um disco central muito fino. Nosso sol e todas as estrelas que vemos à noite estão neste disco. Embora hipotetizado antes, talvez mais surpreendente seja que o disco apareça curvado nas bordas externas. As cores da banda central distorcida da nossa galáxia derivam principalmente de pó escuro, estrelas azuis brilhantes e nebulas de emissão vermelha. Embora a análise de dados esteja em andamento, Gaia foi desativado em março após uma missão bem -sucedida.   Explore seu universo: gerador APOD aleatório"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2505/MilkyWaySide_Gaia_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2505/MilkyWaySide_Gaia_5000.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-05-11",
     "title": {
       "en": "The Surface of Venus from Venera 14",
