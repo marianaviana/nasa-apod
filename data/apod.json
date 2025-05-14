@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-05-14",
+    "title": {
+      "en": "NGC 1360: The Robin's Egg Nebula",
+      "pt": "NGC 1360: The Robin's Egg Nebula"
+    },
+    "explanation": {
+      "en": "This pretty nebula lies some 1,500 light-years away, its shape and color in this telescopic view reminiscent of a robin's egg. The cosmic cloud spans about 3 light-years, nestled securely within the boundaries of the southern constellation of the Furnace (Fornax). Recognized as a planetary nebula, egg-shaped NGC 1360 doesn't represent a beginning, though. Instead, it corresponds to a brief and final phase in the evolution of an aging star. In fact, visible at the center of the nebula, the central star of NGC 1360 is known to be a binary star system likely consisting of two evolved white dwarf stars, less massive but much hotter than the Sun.  Their intense and otherwise invisible ultraviolet radiation has stripped away electrons from the atoms in their mutually surrounding gaseous shroud. The blue-green hue inside of NGC 1360 seen here is the strong emission produced as electrons recombine with doubly ionized oxygen atoms.   Celestial Surprise: What picture did APOD feature on your birthday? (post 1995)",
+      "pt": "Esta nebulosa bonita fica a cerca de 1.500 anos-luz de distância, sua forma e cor nesta vista telescópica que lembra o ovo de Robin. A nuvem cósmica abrange cerca de três anos-luz, aninhado com segurança dentro dos limites da constelação sul do forno (Fornax). Reconhecida como uma nebulosa planetária, o NGC 1360 em forma de ovo não representa um começo. Em vez disso, corresponde a uma fase breve e final na evolução de uma estrela envelhecida. De fato, visível no centro da nebulosa, a estrela central do NGC 1360 é conhecida por ser um sistema estelar binário provavelmente consistindo de duas estrelas anãs brancas evoluídas, menos massivas, mas muito mais quentes que o sol.  Sua radiação ultravioleta intensa e invisível retirou elétrons dos átomos em sua mortalha gasosa mutuamente circundante. O tom azul esverdeado dentro do NGC 1360 visto aqui é a forte emissão produzida como elétrons recombinando com átomos duplos de oxigênio ionizados.   Surpresa Celestial: que imagem o APOD apareceu no seu aniversário? (Post 1995)"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2505/NGC1360_Chander_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2505/NGC1360_Chander_4310.jpg",
+    "copyright": ", Andrea Iorio, Vikas Chander & , ShaRA Team,"
+  },
+  {
     "date": "2025-05-13",
     "title": {
       "en": "Gaia Reconstructs a Top View of our Galaxy",
