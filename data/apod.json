@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-05-15",
+    "title": {
+      "en": "A Plutonian Landscape",
+      "pt": "Uma paisagem plutão"
+    },
+    "explanation": {
+      "en": "This shadowy landscape of majestic mountains and icy plains stretches toward the horizon on a small, distant world. It was captured from a range of about 18,000 kilometers when New Horizons looked back toward Pluto, 15 minutes after the spacecraft's closest approach on July 14, 2015. The dramatic, low-angle, near-twilight scene follows rugged mountains formally known as Norgay Montes from foreground left, and Hillary Montes along the horizon, giving way to smooth Sputnik Planum at right. Layers of Pluto's tenuous atmosphere are also revealed in the backlit view. With a strangely familiar appearance, the frigid terrain likely includes ices of nitrogen and carbon monoxide with water-ice mountains rising up to 3,500 meters (11,000 feet). That's comparable in height to the majestic mountains of planet Earth. The Plutonian landscape is 380 kilometers (230 miles) across.",
+      "pt": "Essa paisagem sombria de montanhas majestosas e planícies geladas se estende em direção ao horizonte em um mundo pequeno e distante. Foi capturado a partir de uma faixa de cerca de 18.000 quilômetros quando novos horizontes olharam para Plutão, 15 minutos após a abordagem mais próxima da espaçonave em 14 de julho de 2015. A dramática cena de ângulo de ângulo de baixo ângulo segue a cena de tick-twilight, seguindo as montanhas robustas, dando-se a Salão de Planeta de Planeta de Planeta e Hillary ao longo do Horizon. Camadas da atmosfera tênue de Plutão também são reveladas na visão iluminada. Com uma aparência estranhamente familiar, o terreno frígido provavelmente inclui os índices de nitrogênio e monóxido de carbono, com montanhas de gelo de água subindo até 3.500 metros (11.000 pés). Isso é comparável em altura às majestosas montanhas do planeta Terra. A paisagem plutão é de 380 quilômetros de diâmetro."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2505/Pluto-Mountains-Plains9-17-15_1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2505/Pluto-Mountains-Plains9-17-15.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-05-14",
     "title": {
       "en": "NGC 1360: The Robin's Egg Nebula",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2504/CatsEyeWide_Niittee_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2504/CatsEyeWide_Niittee_960.jpg",
     "copyright": "Taavi Niittee (Tõrva Astronomy Club)"
-  },
-  {
-    "date": "2025-04-15",
-    "title": {
-      "en": "Planetary Nebula NGC 1514 from Webb",
-      "pt": "Nebulosa Planetária NGC 1514 de Webb"
-    },
-    "explanation": {
-      "en": "What happens when a star runs out of nuclear fuel? For stars like our Sun, the center condenses into a white dwarf while the outer atmosphere is expelled into space to appear as a planetary nebula. The expelled outer atmosphere of planetary nebula NGC 1514 appears to be a jumble of bubbles -- when seen in visible light. But the view from the James Webb Space Telescope in infrared, as featured here, confirms a different story: in this light the nebula shows a distinct hourglass shape, which is interpreted as a cylinder seen along a diagonal. If you look closely at the center of the nebula, you can also see a bright central star that is part of a binary system. More observations might better reveal how this nebula is evolving and how the central stars are working together to produce the interesting cylinder and bubbles observed.",
-      "pt": "O que acontece quando uma estrela fica sem combustível nuclear? Para estrelas como o nosso Sol, o centro condensa-se numa anã branca, enquanto a atmosfera exterior é expelida para o espaço, surgindo como uma nebulosa planetária. A atmosfera exterior expelida da nebulosa planetária NGC 1514 parece ser um amontoado de bolhas — quando vista à luz visível. Mas a visão do Telescópio Espacial James Webb em infravermelhos, tal como aqui apresentada, confirma uma história diferente: sob esta luz, a nebulosa mostra uma forma distinta de ampulheta, que é interpretada como um cilindro visto ao longo de uma diagonal. Se olhar atentamente para o centro da nebulosa, também poderá ver uma estrela central brilhante que faz parte de um sistema binário. Mais observações poderão revelar melhor como esta nebulosa está a evoluir e como as estrelas centrais estão a trabalhar em conjunto para produzir o interessante cilindro e as bolhas observadas."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2504/NGC1514_WebbSchmidt_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2504/NGC1514_WebbSchmidt_1983.jpg",
-    "copyright": "NASA, ESA, CSA, M. E. Ressler (JPL) et al.; Processing: Judy Schmidt"
   }
 ]
