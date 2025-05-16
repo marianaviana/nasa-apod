@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-05-16",
+    "title": {
+      "en": "Messier 101",
+      "pt": "Messier 101"
+    },
+    "explanation": {
+      "en": "Big, beautiful spiral galaxy M101 is one of the last entries in Charles Messier's famous catalog, but definitely not one of the least. About 170,000 light-years across, this galaxy is enormous, almost twice the size of our own Milky Way. M101 was also one of the original spiral nebulae observed by Lord Rosse's large 19th century telescope, the Leviathan of Parsontown. Assembled from 51 exposures recorded by the Hubble Space Telescope in the 20th and 21st centuries, with additional data from ground based telescopes, this mosaic spans about 40,000 light-years across the central region of M101 in one of the highest definition spiral galaxy portraits ever released from Hubble. The sharp image shows stunning features of the galaxy's face-on disk of stars and dust along with background galaxies, some visible right through M101 itself. Also known as the Pinwheel Galaxy, M101 lies within the boundaries of the northern constellation Ursa Major, about 25 million light-years away.",
+      "pt": "Galáxia espiral grande e bonita é uma das últimas entradas do famoso catálogo de Charles Messier, mas definitivamente não é um dos mínimos. Cerca de 170.000 anos-luz de diâmetro, essa galáxia é enorme, quase o dobro do tamanho da nossa Via Láctea. O M101 também foi uma das nebulosas espirais originais observadas pelo grande telescópio do século XIX de Lord Rosse, o Leviatã de Parsontown. Montados a partir de 51 exposições registradas pelo Telescópio Espacial Hubble nos séculos 20 e 21, com dados adicionais de telescópios baseados em solo, esse mosaico abrange cerca de 40.000 anos-luz em toda a região central do M101 em um dos retratos de galáxias em espiral de maior definição já divulgadas do Hubble. A imagem nítida mostra características impressionantes do disco de estrelas e poeira do Galaxy, juntamente com galáxias de fundo, algumas visíveis até o próprio M101. Também conhecida como galáxia do cata-vento, o M101 fica dentro dos limites da constelação do norte, Ursa Major, a cerca de 25 milhões de anos-luz de distância."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2505/M101_hst1280.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2505/M101_hst6000.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-05-15",
     "title": {
       "en": "A Plutonian Landscape",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2504/LRGB_final_corrected1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2504/LRGB_final_corrected2048.jpg",
     "copyright": "Daniel Adibi"
-  },
-  {
-    "date": "2025-04-16",
-    "title": {
-      "en": "Halo of the Cat's Eye",
-      "pt": "Halo do Olho de Gato"
-    },
-    "explanation": {
-      "en": "What created the unusual halo around the Cat's Eye Nebula? No one is sure. What is sure is that the Cat's Eye Nebula (NGC 6543) is one of the best known planetary nebulae on the sky. Although haunting symmetries are seen in the bright central region, this image was taken to feature its intricately structured outer halo, which spans over three light-years across. Planetary nebulae have long been appreciated as a final phase in the life of a Sun-like star. Only recently however, have some planetaries been found to have expansive halos, likely formed from material shrugged off during earlier puzzling episodes in the star's evolution. While the planetary nebula phase is thought to last for around 10,000 years, astronomers estimate the age of the outer filamentary portions of the Cat's Eye Nebula's halo to be 50,000 to 90,000 years.",
-      "pt": "O que criou o halo invulgar em redor da Nebulosa Olho de Gato? Ninguém tem a certeza. O que é certo é que a Nebulosa Olho de Gato (NGC 6543) é uma das nebulosas planetárias mais conhecidas do céu. Embora se vejam simetrias assustadoras na região central brilhante, esta imagem foi tirada para mostrar o seu halo exterior intrincadamente estruturado, que se estende por mais de três anos-luz de diâmetro. As nebulosas planetárias são há muito consideradas uma fase final na vida de uma estrela semelhante ao Sol. Só recentemente, no entanto, se descobriu que alguns planetários possuem halos expansivos, provavelmente formados a partir de material descartado durante episódios intrigantes anteriores na evolução da estrela. Embora se acredite que a fase de nebulosa planetária dure cerca de 10.000 anos, os astrónomos estimam que a idade das porções filamentosas externas do halo da Nebulosa Olho de Gato seja de 50.000 a 90.000 anos."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2504/CatsEyeWide_Niittee_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2504/CatsEyeWide_Niittee_960.jpg",
-    "copyright": "Taavi Niittee (Tõrva Astronomy Club)"
   }
 ]
