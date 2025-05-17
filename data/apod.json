@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-05-17",
+    "title": {
+      "en": "Ares 3 Landing Site: The Martian Revisited",
+      "pt": "Local de pouso Ares 3: o marciano revisitado"
+    },
+    "explanation": {
+      "en": "This close-up from the Mars Reconnaissance Orbiter's HiRISE camera shows weathered craters and windblown deposits in southern Acidalia Planitia. A striking shade of blue in standard HiRISE image colors, to the human eye the area would probably look grey or a little reddish. But human eyes have not gazed across this terrain, unless you count the eyes of NASA astronauts in the sci-fi novel, \"The Martian,\" by Andy Weir. The novel chronicles the adventures of Mark Watney, an astronaut stranded at the fictional Mars mission Ares 3 landing site, corresponding to the coordinates of this cropped HiRISE frame. For scale, Watney's 6-meter-diameter habitat at the site would be about 1/10th the diameter of the large crater. Of course, the Ares 3 landing coordinates are only about 800 kilometers north of the (real life) Carl Sagan Memorial Station, the 1997 Pathfinder landing site.",
+      "pt": "Este close da câmera Hirise da Mars Reconnaissance Orbiter mostra crateras desgastadas e depósitos soprados pelo vento na Planitia do Sul da Acidalia. Um tom impressionante de azul nas cores padrão da imagem hirise, para o olho humano a área provavelmente pareceria cinza ou um pouco avermelhada. Mas os olhos humanos não olharam para esse terreno, a menos que você conte os olhos dos astronautas da NASA no romance de ficção científica, \"The Marciano\", de Andy Weir. O romance narra as aventuras de Mark Watney, um astronauta preso no local de aterrissagem da Missão 3 de Marte, correspondendo às coordenadas dessa estrutura hirise cortada. Para escala, o habitat de 6 metros de diâmetro de Watney no local seria de cerca de 1/10 o diâmetro da cratera grande. Obviamente, as coordenadas de aterrissagem do ARES 3 estão a apenas 800 quilômetros ao norte da (vida real) Carl Sagan Memorial Station, o local de aterrissagem do Pathfinder de 1997."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2505/PIA19363_1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2505/PIA19363.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-05-16",
     "title": {
       "en": "Messier 101",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2504/C2025_F2SWAN_20250414_DEBartlett1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2504/C2025_F2SWAN_20250414_DEBartlett.jpg",
     "copyright": "NASA, JPL-Caltech, SwRI, MSSS; Processing: Rick Lundh"
-  },
-  {
-    "date": "2025-04-17",
-    "title": {
-      "en": "Virgo Cluster Galaxies",
-      "pt": "Galáxias do Enxame de Virgem"
-    },
-    "explanation": {
-      "en": "Galaxies of the Virgo Cluster are scattered across this nearly 4 degree wide telescopic field of view. About 50 million light-years distant, the Virgo Cluster is the closest large galaxy cluster to our own local galaxy group. Prominent here are Virgo's bright elliptical galaxies from the Messier catalog, M87 at bottom left, and M86 and M84 near center right. M86 and M84 are recognized as part of Markarian's Chain, the visually striking line-up of galaxies on the that runs through the upper portion of this frame. Near the middle of the chain lies an intriguing interacting pair of galaxies, NGC 4438 and NGC 4435, known to some as Markarian's Eyes. Still, giant elliptical galaxy M87 dominates the Virgo cluster. It's the home of a super massive black hole, the first black hole ever imaged by planet Earth's Event Horizon Telescope.",
-      "pt": "As galáxias do Enxame de Virgem estão espalhadas por este campo de visão telescópico de quase 4 graus de largura. A cerca de 50 milhões de anos-luz de distância, o Enxame de Virgem é o grande enxame de galáxias mais próximo do nosso grupo local de galáxias. Destacam-se aqui as brilhantes galáxias elípticas de Virgem do catálogo Messier, M87 no canto inferior esquerdo, e M86 e M84 perto do centro à direita. M86 e M84 são reconhecidas como parte da Cadeia de Markarian, o alinhamento visualmente impressionante de galáxias que atravessa a parte superior deste enquadramento. Perto do meio da cadeia encontra-se um intrigante par de galáxias interativas, NGC 4438 e NGC 4435, conhecidas por alguns como Olhos de Markarian. Ainda assim, a galáxia elíptica gigante M87 domina o enxame de Virgem. É o lar de um buraco negro supermassivo, o primeiro buraco negro alguma vez fotografado pelo Telescópio Event Horizon do planeta Terra."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2504/LRGB_final_corrected1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2504/LRGB_final_corrected2048.jpg",
-    "copyright": "Daniel Adibi"
   }
 ]
