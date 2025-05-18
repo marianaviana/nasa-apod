@@ -1,5 +1,18 @@
 [
   {
+    "date": "2025-05-18",
+    "title": {
+      "en": "Pluto Flyover from New Horizons",
+      "pt": "Plutão Flutão From New Horizons"
+    },
+    "explanation": {
+      "en": "What if you could fly over Pluto -- what might you see? The New Horizons spacecraft did just this in 2015 July as it shot past the distant world at a speed of about 80,000 kilometers per hour. Images from this spectacular passage have been color enhanced, vertically scaled, and digitally combined into the featured two-minute time-lapse video. As your journey begins, light dawns on mountains thought to be composed of water ice but colored by frozen nitrogen.  Soon, to your right, you see a flat sea of mostly solid nitrogen that has segmented into strange polygons that are thought to have bubbled up from a comparatively warm interior.  Craters and ice mountains are common sights below. The video dims and ends over terrain dubbed bladed because it shows 500-meter high ridges separated by kilometer-sized gaps.  The robotic New Horizons spacecraft has too much momentum to ever return to Pluto and is now headed out of our Solar System.",
+      "pt": "E se você pudesse voar sobre Plutão - o que você pode ver? A nave espacial do New Horizons fez exatamente isso em julho de 2015, ao passar pelo mundo distante a uma velocidade de cerca de 80.000 quilômetros por hora. As imagens desta passagem espetacular foram aprimoradas por cores, escaladas verticalmente e combinadas digitalmente no vídeo de lapso de tempo de dois minutos em destaque. Quando sua jornada começa, a luz ocorre nas montanhas que se pensam ser composta de gelo de água, mas coloridas pelo nitrogênio congelado.  Logo, à sua direita, você vê um mar plano de nitrogênio principalmente sólido que se segmentou em polígonos estranhos que se pensam ter borbulhado de um interior comparativamente quente.  As crateras e as montanhas de gelo são vistas comuns abaixo. O vídeo diminui e termina sobre o terreno chamado lâmina porque mostra cristas de 500 metros de altura separadas por lacunas do tamanho de um quilômetro.  A nave espacial robótica New Horizons tem muito impulso para voltar a Plutão e agora está saindo do nosso sistema solar."
+    },
+    "media_type": "other",
+    "copyright": null
+  },
+  {
     "date": "2025-05-17",
     "title": {
       "en": "Ares 3 Landing Site: The Martian Revisited",
@@ -433,20 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2504/PIA21983JupiterLundh1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2504/PIA21983JupiterLundh.jpg",
     "copyright": "Public Domain"
-  },
-  {
-    "date": "2025-04-18",
-    "title": {
-      "en": "Comet C/2025 F2 SWAN",
-      "pt": "Cometa C/2025 F2 SWAN"
-    },
-    "explanation": {
-      "en": "In late March, the comet now designated C/2025 F2 SWAN was found independently by citizen scientists Vladimir Bezugly, Michael Mattiazzo, and Rob Matson while examining publicly available image data from the Solar Wind ANisotropies (SWAN) camera on the sun-staring SOHO spacecraft. Comet SWAN's coma, its greenish color a signature of diatomic carbon molecules fluorescing in sunlight, is at lower left in this telescopic image. SWAN's faint ion tail extends nearly two degrees toward the upper right across the field of view. The interplanetary scene was captured in clear but moonlit skies from June Lake, California on April 14. Seen against background of stars toward the constellation Andromeda, the comet was then some 10 light-minutes from our fair planet. Now a target for binoculars and small telescopes in northern hemisphere morning skies this comet SWAN is headed for a perihelion, its closest approach to the Sun, on May 1. That will bring this visitor from the distant Oort cloud almost as close to the Sun as the orbit of inner planet Mercury.",
-      "pt": "No final de março, o cometa, agora designado C/2025 F2 SWAN, foi encontrado de forma independente pelos cientistas cidadãos Vladimir Bezugly, Michael Mattiazzo e Rob Matson enquanto examinavam dados de imagens disponíveis publicamente da câmara Solar Wind ANisotropies (SWAN) na nave espacial SOHO, que observa o Sol. A cabeleira do cometa SWAN, cuja cor esverdeada é uma assinatura de moléculas de carbono diatómico fluorescentes na luz solar, está no canto inferior esquerdo desta imagem telescópica. A ténue cauda de iões do SWAN estende-se quase dois graus em direção ao canto superior direito do campo de visão. A cena interplanetária foi captada em céus limpos, mas iluminados pela lua, em June Lake, na Califórnia, a 14 de abril. Visto contra o fundo de estrelas em direção à constelação de Andrómeda, o cometa estava a cerca de 10 minutos-luz do nosso belo planeta. Agora um alvo para binóculos e pequenos telescópios nos céus matinais do hemisfério norte, este cometa SWAN dirige-se para um periélio, a sua maior aproximação ao Sol, no dia 1 de maio. Isto levará este visitante da longínqua nuvem de Oort quase tão perto do Sol como a órbita do planeta interior Mercúrio."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2504/C2025_F2SWAN_20250414_DEBartlett1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2504/C2025_F2SWAN_20250414_DEBartlett.jpg",
-    "copyright": "NASA, JPL-Caltech, SwRI, MSSS; Processing: Rick Lundh"
   }
 ]
