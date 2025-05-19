@@ -1,5 +1,18 @@
 [
   {
+    "date": "2025-05-19",
+    "title": {
+      "en": "Charon Flyover from New Horizons",
+      "pt": "Charon Flyover de New Horizons"
+    },
+    "explanation": {
+      "en": "What if you could fly over Pluto's moon Charon -- what might you see? The New Horizons spacecraft did just this in 2015 July as it zipped past Pluto and Charon with cameras blazing.  The images recorded allowed for a digital reconstruction of much of Charon's surface, further enabling the creation of fictitious flights over Charon created from this data.  One such fanciful, minute-long, time-lapse video is shown here with vertical heights and colors of surface features digitally enhanced.  Your journey begins over a wide chasm that divides different types of Charon's landscapes, a chasm that might have formed when Charon froze through. You soon turn north and fly over a colorful depression dubbed Mordor that, one hypothesis holds, is an unusual remnant from an ancient impact.  Your voyage continues over an alien landscape rich with never-before-seen craters, mountains, and crevices.  The robotic New Horizons spacecraft has too much momentum to ever return to Pluto and Charon and is now headed out of our Solar System.    Portal Universe: Random APOD Generator",
+      "pt": "E se você pudesse voar sobre a lua de Plutão Charon - o que você pode ver? A nave espacial da New Horizons fez exatamente isso em julho de 2015, ao passar por Plutão e Charon com câmeras em chamas.  As imagens gravadas permitiram uma reconstrução digital de grande parte da superfície de Charon, permitindo ainda mais a criação de vôos fictícios sobre Charon criados a partir desses dados.  Um desses vídeos fantasiosos, de minuto e com lapso de tempo é mostrado aqui com alturas verticais e cores dos recursos de superfície aprimorados digitalmente.  Sua jornada começa sobre um amplo abismo que divide diferentes tipos de paisagens de Charon, um abismo que poderia ter se formado quando charon congelou. Você logo se vira para o norte e voa sobre uma depressão colorida apelidada de Mordor que, uma hipótese é um remanescente incomum de um impacto antigo.  Sua viagem continua sobre uma paisagem alienígena rica em crateras, montanhas e fendas nunca antes vistas.  A nave espacial robótica New Horizons tem muito impulso para retornar a Plutão e Charon e agora está saindo do nosso sistema solar.    Universo portal: gerador APOD aleatório"
+    },
+    "media_type": "other",
+    "copyright": null
+  },
+  {
     "date": "2025-05-18",
     "title": {
       "en": "Pluto Flyover from New Horizons",
@@ -431,20 +444,5 @@
     "url": "https://apod.nasa.gov/apod/image/2504/M42_SpitzerCzernetz_1080.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2504/M42_SpitzerCzernetz_2000.jpg",
     "copyright": "Infrared: NASA, Spitzer Space Telescope;, Visible: , Oliver Czernetz, Siding Spring Obs.,"
-  },
-  {
-    "date": "2025-04-19",
-    "title": {
-      "en": "Painting with Jupiter",
-      "pt": "Pintura com Júpiter"
-    },
-    "explanation": {
-      "en": "In digital brush strokes, Jupiter's signature atmospheric bands and vortices were used to form this interplanetary post-impressionist work of art. The creative image from citizen scientist Rick Lundh uses data from the Juno spacecraft's JunoCam. To paint on the digital canvas, a JunoCam image with contrasting light and dark tones was chosen for processing and an oil-painting software filter applied. The image data was captured during perijove 10. That was Juno's December 16, 2017 close encounter with the solar system's ruling gas giant. At the time the spacecraft was cruising about 13,000 kilometers above northern Jovian cloud tops. Now in an extended mission, Juno has explored Jupiter and its moons since entering orbit around Jupiter in July of 2016.",
-      "pt": "Em pinceladas digitais, as bandas e vórtices atmosféricos de Júpiter foram usados ​​para formar essa obra de arte pós-impressionista interplanetária. A imagem criativa do cientista do cidadão Rick Lundh usa dados da estreita Juno SpaceCraft. Para pintar na tela digital, foi escolhida uma imagem de Junocam com tons claros e escuros contrastantes para o processamento e um filtro de software de pintura a óleo. Os dados da imagem foram capturados durante o Perijove 10. Esse foi o encontro próximo de Juno em 16 de dezembro de 2017 com a gigante do gás dominante do sistema solar. Na época, a nave espacial estava cruzando cerca de 13.000 quilômetros acima do topo da nuvem do norte da Joviana. Agora em uma missão estendida, Juno explorou Júpiter e suas luas desde que entrou em órbita em torno de Júpiter em julho de 2016."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2504/PIA21983JupiterLundh1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2504/PIA21983JupiterLundh.jpg",
-    "copyright": "Public Domain"
   }
 ]
