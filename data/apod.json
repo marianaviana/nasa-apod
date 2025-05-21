@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-05-21",
+    "title": {
+      "en": "International Space Station Crosses the Sun",
+      "pt": "Estação Espacial Internacional atravessa o sol"
+    },
+    "explanation": {
+      "en": "Typically, the International Space Station is visible only at night.  Slowly drifting across the night sky as it orbits the Earth, the International Space Station (ISS) can be seen as a bright spot about once a month from many locations.  The ISS is then visible only just after sunset or just before sunrise because it shines by reflected sunlight -- once the ISS enters the Earth's shadow, it will drop out of sight. The only occasion when the ISS is visible during the day is when it passes right in front of the Sun. Then, it passes so quickly that only cameras taking short exposures can visually freeze the ISS's silhouette onto the background Sun. The featured picture did exactly that -- it is actually a series of images taken a month ago from Sant Feliu de Buixalleu, Spain with perfect timing.  This image series was later combined with a separate image highlighting the texture of the active Sun which included several Sun's prominences around the edge.   Celestial Surprise: What picture did APOD feature on your birthday? (post 1995)",
+      "pt": "Normalmente, a estação espacial internacional é visível apenas à noite.  Perlinhando -se lentamente ao longo do céu noturno, enquanto orbita a Terra, a Estação Espacial Internacional (ISS) pode ser vista como um ponto brilhante uma vez por mês em muitos locais.  A ISS é então visível apenas logo após o pôr do sol ou pouco antes do nascer do sol, porque brilha pela luz solar refletida - uma vez que a emissão entra na sombra da Terra, ela cairá de vista. A única ocasião em que a ISS é visível durante o dia é quando passa bem em frente ao sol. Em seguida, passa tão rapidamente que apenas as câmeras que tomam exposições curtas podem congelar visualmente a silhueta da ISS no sol de fundo. A foto em destaque fez exatamente isso - na verdade, é uma série de imagens tiradas há um mês de Sant Feliu de Buixalleu, Espanha com tempo perfeito.  Esta série de imagens foi posteriormente combinada com uma imagem separada, destacando a textura do sol ativo, que incluía várias proeminências do sol ao redor da borda.   Surpresa Celestial: que imagem o APOD apareceu no seu aniversário? (Post 1995)"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2505/IssTransit_Sanz_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2505/IssTransit_Sanz_2569.jpg",
+    "copyright": ", Pau Montplet Sanz,"
+  },
+  {
     "date": "2025-05-20",
     "title": {
       "en": "Milky Way over Maunakea",
@@ -429,20 +444,5 @@
     "url": "https://apod.nasa.gov/apod/image/2504/TerminatorMoon_Addis_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2504/TerminatorMoon_Addis_3558.jpg",
     "copyright": ", Rich Addis,"
-  },
-  {
-    "date": "2025-04-21",
-    "title": {
-      "en": "Galaxy Lenses Galaxy from Webb",
-      "pt": "Galaxy Lentes Galaxy da Webb"
-    },
-    "explanation": {
-      "en": "Is this one galaxy or two? Although it looks like one, the answer is two. One path to this happening is when a small galaxy collides with a larger galaxy and ends up in the center. But in the featured image, something more rare is going on. Here, the central light-colored elliptical galaxy is much closer than the blue and red-colored spiral galaxy that surrounds it. This can happen when near and far galaxies are exactly aligned, causing the gravity of the near galaxy to pull the light from the far galaxy around it in an effect called gravitational lensing. The featured galaxy double was taken by the Webb Space Telescope and shows a complete Einstein ring, with great detail visible for both galaxies.  Galaxy lenses like this can reveal new information about the mass distribution of the foreground lens and the light distribution of the background source.",
-      "pt": "Esta é uma ou duas galáxias? Embora pareça um, a resposta é dois. Um caminho para isso acontecendo é quando uma pequena galáxia colide com uma galáxia maior e acaba no centro. Mas na imagem em destaque, algo mais raro está acontecendo. Aqui, a galáxia elíptica central de cor clara é muito mais próxima que a galáxia espiral azul e de cor vermelha que a rodeia. Isso pode acontecer quando as galáxias próximas e distantes estiverem exatamente alinhadas, fazendo com que a gravidade da galáxia próxima puxe a luz da galáxia distante em torno dela em um efeito chamado lente gravitacional. O Double Galaxy em destaque foi levado pelo Telescópio Espacial Webb e mostra um anel completo de Einstein, com grandes detalhes visíveis para ambas as galáxias.  Lentes de galáxias como essa podem revelar novas informações sobre a distribuição de massa da lente de primeiro plano e a distribuição de luz da fonte de fundo."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2504/GalaxiesLens_Webb_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2504/GalaxiesLens_Webb_1146.jpg",
-    "copyright": null
   }
 ]
