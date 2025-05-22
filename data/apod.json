@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-05-22",
+    "title": {
+      "en": "Curly Spiral Galaxy M63",
+      "pt": "Galáxia espiral curly M63"
+    },
+    "explanation": {
+      "en": "A bright spiral galaxy of the northern sky, Messier 63 is nearby, about 30 million light-years distant toward the loyal constellation Canes Venatici. Also cataloged as NGC 5055, the majestic island universe is nearly 100,000 light-years across, about the size of our own Milky Way. Its bright core and majestic spiral arms lend the galaxy its popular name, The Sunflower Galaxy. This exceptionally deep exposure also follows faint loops and curling star streams far into the galaxy's halo. Extending nearly 180,000 light-years from the galactic center, the star streams are likely remnants of tidally disrupted satellites of M63. Other satellite galaxies of M63 can be spotted in the remarkable wide-field image, including dwarf galaxies, which could contribute to M63's star streams in the next few billion years.",
+      "pt": "Uma galáxia espiral brilhante do céu do norte, Messier 63 está nas proximidades, cerca de 30 milhões de anos-luz distantes em direção aos leais bastões de constelação Venatici. Também catalogado como NGC 5055, o Majestic Island Universe tem quase 100.000 anos-luz de diâmetro, do tamanho de nossa própria Via Láctea. Seu núcleo brilhante e braços espirais majestosos emprestam à galáxia seu nome popular, a galáxia do girassol. Essa exposição excepcionalmente profunda também segue loops fracos e os riachos de estrela do curling estão no halo da galáxia. Estendendo quase 180.000 anos-luz do centro galáctico, os riachos estrelados provavelmente são remanescentes de satélites interrompidos em termos de M63. Outras galáxias de satélite do M63 podem ser vistas na notável imagem de campo largo, incluindo galáxias anãs, que podem contribuir para os fluxos estrelas do M63 nos próximos bilhões de anos."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2505/M63_HaLRGB_Apod1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2505/M63_HaLRGB_Apod2048.jpg",
+    "copyright": "Alberto Pisabarro"
+  },
+  {
     "date": "2025-05-21",
     "title": {
       "en": "International Space Station Crosses the Sun",
@@ -429,20 +444,5 @@
     "url": "https://apod.nasa.gov/apod/image/2504/EverythingSky_Koen_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2504/EverythingSky_Koen_3504.jpg",
     "copyright": ", Koen van Barneveld,"
-  },
-  {
-    "date": "2025-04-22",
-    "title": {
-      "en": "Terminator Moon: A Moonscape of Shadows",
-      "pt": "Terminator Moon: uma paisagem de sombras"
-    },
-    "explanation": {
-      "en": "What's different about this Moon? It's the terminators. In the featured image, you can't directly see any terminator -- the line that divides the light of day from the dark of night. That's because the featured image is a digital composite of many near-terminator lunar strips over a full Moon.  Terminator regions show the longest and most prominent shadows -- shadows which, by their contrast and length, allow a flat photograph to appear three-dimensional. The overlay images were taken over two weeks in early April.  Many of the Moon's craters stand out because of the shadows they all cast to the right. The image shows in graphic detail that the darker regions known as maria are not just darker than the rest of the Moon -- they are also flatter.    Dial-A-Moon: Find the Moon phase on your birthday this year",
-      "pt": "O que há de diferente nesta lua? São os terminadores. Na imagem em destaque, você não pode ver diretamente nenhum terminador - a linha que divide a luz do dia do escuro da noite. Isso ocorre porque a imagem em destaque é um composto digital de muitas tiras lunares do terminal próximo sobre uma lua cheia.  As regiões do Terminator mostram as sombras mais longas e proeminentes-sombras que, por seu contraste e comprimento, permitem que uma fotografia plana pareça tridimensional. As imagens de sobreposição foram tiradas ao longo de duas semanas no início de abril.  Muitas das crateras da lua se destacam por causa das sombras que todos lançam para a direita. A imagem mostra em detalhes gráficos que as regiões mais sombrias conhecidas como maria não são apenas mais escuras que o resto da lua - elas também são mais planas.    Dial-a-a-moon: Encontre a fase da lua no seu aniversário este ano"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2504/TerminatorMoon_Addis_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2504/TerminatorMoon_Addis_3558.jpg",
-    "copyright": ", Rich Addis,"
   }
 ]
