@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-05-24",
+    "title": {
+      "en": "Deimos Before Sunrise",
+      "pt": "Deimos antes do nascer do sol"
+    },
+    "explanation": {
+      "en": "Deimos takes 30 hours and 18 minutes to complete one orbit around the Red Planet. That's a little more than one Martian day or sol which is about 24 hours and 40 minutes long, so Deimos drifts westward across the Martian sky. About 15 kilometers across at its widest, the smallest of Mars' two moons is bright though. In fact Deimos is the brightest celestial object in this Martian skyscape captured before sunrise by Perseverance on March 1, the 1,433rd sol of the Mars rover's mission. The image is a composed of 16 exposures recorded by one of the rover's navigation cameras. The individual exposures were combined into a single image for an enhanced low light view. Regulus and Algeiba, bright stars in the constellation Leo, are also visible in the dark Martian predawn sky.",
+      "pt": "Deimos leva 30 horas e 18 minutos para concluir uma órbita ao redor do planeta vermelho. Isso é pouco mais de um dia ou sol marciano, com cerca de 24 horas e 40 minutos de duração, então Deimos flutua para o oeste pelo céu marciano. Cerca de 15 quilômetros de diâmetro mais largo, o menor das duas luas de Marte é brilhante. De fato, Deimos é o objeto celestial mais brilhante nesta paisagem marciana capturada antes do nascer do sol por perseverança em 1º de março, o 1.433º Sol da missão do Mars Rover. A imagem é composta por 16 exposições registradas por uma das câmeras de navegação do Rover. As exposições individuais foram combinadas em uma única imagem para uma visão de baixa luz aprimorada. Regulus e Algeiba, estrelas brilhantes na constelação de Leo, também são visíveis no céu escuro do primavera martiano."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2505/PIA26556_1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2505/PIA26556_2048.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-05-23",
     "title": {
       "en": "NGC 6366 vs 47 Ophiuchi",
@@ -429,20 +444,5 @@
     "url": "https://apod.nasa.gov/apod/image/2504/final_0798443319_dec.png",
     "hdurl": "https://apod.nasa.gov/apod/image/2504/final_0798443319_dec.png",
     "copyright": null
-  },
-  {
-    "date": "2025-04-24",
-    "title": {
-      "en": "NGC 6164: A Dragon's Egg",
-      "pt": "NGC 6164: um ovo de dragão"
-    },
-    "explanation": {
-      "en": "Beautiful emission nebula NGC 6164 was created by a rare, hot, luminous O-type star, some 40 times as massive as the Sun. Seen at the center of the cosmic cloud, the star is a mere 3 to 4 million years old. In another three to four million years the massive star will end its life in a supernova explosion. Spanning around 4 light-years, the nebula itself has a bipolar symmetry. That makes it similar in appearance to more common and familiar planetary nebulae - the gaseous shrouds surrounding dying sun-like stars. Also like many planetary nebulae, NGC 6164 has been found to have an extensive, faint halo, revealed in this deep image of the region. Expanding into the surrounding interstellar medium, the material in the halo is likely from an earlier active phase of the O star. This gorgeous telescopic view is a composite of extensive narrow-band image data, highlighting glowing atomic hydrogen gas in red and oxygen in greenish hues, with broad-band data for the surrounding starfield. Also known as the Dragon's Egg nebula, NGC 6164 is 4,200 light-years away in the right-angled southern constellation of Norma.",
-      "pt": "A belo nebulosa NGC 6164 foi criada por uma estrela rara, quente e luminosa do tipo O, cerca de 40 vezes mais enorme que o Sol. Visto no centro da nuvem cósmica, a estrela tem apenas 3 a 4 milhões de anos. Em mais três a quatro milhões de anos, a enorme estrela terminará sua vida em uma explosão de supernova. Com cerca de 4 anos-luz, a nebulosa em si tem uma simetria bipolar. Isso o torna semelhante à aparência mais comum e familiar nebulosidade - as mortalhas gasosas ao redor de estrelas moribundas semelhantes ao sol. Também como muitas nebulosas planetárias, verificou -se que o NGC 6164 possui uma extensa e fraca halo, revelada nesta imagem profunda da região. Expandindo para o meio interestelar circundante, o material no halo é provavelmente de uma fase ativa anterior da estrela do O. Esta deslumbrante vista telescópica é um composto de extensos dados de imagem de banda estreita, destacando gás atômico de hidrogênio brilhante em vermelho e oxigênio em tons esverdeados, com dados de banda larga para o campo estrelado circundante. Também conhecida como nebulosa do ovo do dragão, o NGC 6164 fica a 4.200 anos-luz de distância na constelação sul-ânica do sul da Norma."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2504/NGC_6164_r4_1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2504/NGC_6164_r4_2048.jpg",
-    "copyright": "Daniel Stern"
   }
 ]
