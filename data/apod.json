@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-05-25",
+    "title": {
+      "en": "Beneath Jupiter",
+      "pt": "Sob Júpiter"
+    },
+    "explanation": {
+      "en": "Jupiter is stranger than we knew. NASA's Juno spacecraft has now completed over 70 swoops past Jupiter as it moves around its highly elliptical orbit. Pictured from 2017, Jupiter is seen from below where, surprisingly, the horizontal bands that cover most of the planet disappear into swirls and complex patterns.  A line of white oval clouds is visible nearer to the equator.  Impressive results from Juno show that Jupiter's weather phenomena can extend deep below its cloud tops, that Jupiter's center has a core that is unexpectedly large and soft, and that Jupiter's magnetic field varies greatly with location.  Although Juno is scheduled to keep orbiting Jupiter further into 2025, at some time the robotic spacecraft will be maneuvered to plunge into the giant planet.    Jigsaw Jumble: Astronomy Puzzle of the Day",
+      "pt": "Júpiter é mais estranho do que sabíamos. A SpaceCraft Juno da NASA já completou mais de 70 pancadas além de Júpiter, pois se move em torno de sua órbita altamente elíptica. Na foto de 2017, Júpiter é visto de baixo onde, surpreendentemente, as bandas horizontais que cobrem a maior parte do planeta desaparecem em redemoinhos e padrões complexos.  Uma linha de nuvens ovais brancas é visível mais próximo do equador.  Resultados impressionantes de Juno mostram que os fenômenos climáticos de Júpiter podem se estender profundamente abaixo de seus tops de nuvens, que o centro de Júpiter tem um núcleo que é inesperadamente grande e suave, e que o campo magnético de Júpiter varia muito com a localização.  Embora Juno esteja programado para manter o orbitar Júpiter em 2025, em algum momento a espaçonave robótica será manobrada para mergulhar no planeta gigante.    Quebra -cabeça: quebra -cabeça da astronomia do dia"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2505/BeneathJupiter_Juno_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2505/BeneathJupiter_Juno_vertical960.jpg",
+    "copyright": ", NASA, Juno, SwRI, MSSS;,  Processing &, License:, Gerald Eichstädt & , Seán Doran,"
+  },
+  {
     "date": "2025-05-24",
     "title": {
       "en": "Deimos Before Sunrise",
@@ -428,21 +443,6 @@
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2504/NGC5335heic2505_1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2504/NGC5335heic2505_2048.jpg",
-    "copyright": null
-  },
-  {
-    "date": "2025-04-25",
-    "title": {
-      "en": "Asteroid Donaldjohanson",
-      "pt": "Asteróide Donaldjohanson"
-    },
-    "explanation": {
-      "en": "Main belt asteroid 52246 Donaldjohanson is about 8 kilometers long and 3.5 kilometers across. On April 20, this sharp close-up of the asteroid was captured at a distance of about 1100 kilometers by the Lucy spacecraft's long range camera during its second asteroid encounter. Named after American paleoanthropologist Donald Johanson, discoverer of the Lucy hominid fossil, the elongated asteroid was likely formed about 150 million years ago from a gentle collision of two smaller bodies creating its characteristic contact binary shape. Launched in October of 2021, the Lucy spacecraft will continue its travels through the main asteroid belt in 2025, but is on its way to explore Jupiter's swarm of Trojan asteroids. Lucy is expected to encounter its first Trojan asteroid target, 3548 Eurybates, in August 2027.",
-      "pt": "Asteróide do cinturão principal 52246 Donaldjohanson tem cerca de 8 quilômetros de comprimento e 3,5 quilômetros de diâmetro. Em 20 de abril, este close acentuado do asteróide foi capturado a uma distância de cerca de 1100 quilômetros pela câmera de longo alcance da SpaceCraft Lucy durante seu segundo encontro de asteróides. Nomeado após o paleoantropologista americano Donald Johanson, descoberto do fóssil Lucy Hominid, o asteróide alongado provavelmente foi formado cerca de 150 milhões de anos atrás a partir de uma colisão suave de dois corpos menores, criando sua forma de contato binária característica. Lançado em outubro de 2021, a Lucy SpaceCraft continuará suas viagens pelo principal cinturão de asteróides em 2025, mas está a caminho de explorar o enxame de asteróides de Trojan de Júpiter. A Lucy deve encontrar seu primeiro alvo de Trojan Asteroid, 3548 Eurybates, em agosto de 2027."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2504/final_0798443319_dec.png",
-    "hdurl": "https://apod.nasa.gov/apod/image/2504/final_0798443319_dec.png",
     "copyright": null
   }
 ]
