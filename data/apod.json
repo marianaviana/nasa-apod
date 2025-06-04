@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-06-04",
+    "title": {
+      "en": "A Milky Road to the Rubin Observatory",
+      "pt": "Um caminho leitosa para o Observatório Rubin"
+    },
+    "explanation": {
+      "en": "Is the sky the same every night? No -- the night sky changes every night in many ways. To better explore how the night sky changes, the USA's NSF and DOE commissioned the Vera C. Rubin Observatory in Cerro Pachón, Chile. In final testing before routine operations, Rubin will begin to explore these nightly changes -- slight differences that can tell us much about our amazing universe and its surprising zoo of objects. With a mirror over 8 meters across, Rubin will continually reimage the entire visible sky every few nights to discover new supernovas, potentially dangerous asteroids, faint comets, and variable stars -- as well as mapping out the visible universe's large-scale structure.  Pictured, the distant central band of our Milky Way Galaxy appears to flow out from the newly operational observatory. Taken last month, the featured picture is a composite of 21 images across the night sky, capturing airglow on the horizon and the Small Magellanic Cloud galaxy on the lower left.    APOD Turns 30!: Free Public Lecture in Anchorage on June 11",
+      "pt": "O céu é o mesmo todas as noites? Não - o céu noturno muda todas as noites de várias maneiras. Para explorar melhor como o céu noturno muda, a NSF e o DOE dos EUA encomendaram o Observatório Vera C. Rubin em Cerro Pachón, Chile. Nos testes finais antes das operações de rotina, Rubin começará a explorar essas mudanças noturnas - pequenas diferenças que podem nos dizer muito sobre o nosso incrível universo e seu surpreendente zoológico de objetos. Com um espelho com mais de 8 metros de diâmetro, Rubin reimageá continuamente todo o céu visível a cada poucas noites para descobrir novas supernovas, asteróides potencialmente perigosos, cometas fracas e estrelas variáveis-além de mapear a estrutura em larga escala do universo visível.  Na foto, a banda central distante da nossa galáxia da Via Láctea parece fluir do recém -operacional Observatório Operacional. Tirada no mês passado, a foto em destaque é um composto de 21 imagens no céu noturno, capturando o Airglow no horizonte e a pequena galáxia de nuvem de magelanic no canto inferior esquerdo.    APOD faz 30!: Palestra pública gratuita em Anchorage em 11 de junho"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2506/RubinMw_assuncao_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2506/RubinMw_assuncao_1460.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-06-03",
     "title": {
       "en": "Rainbow Airglow over the Azores",
@@ -429,20 +444,5 @@
     "url": "https://www.youtube.com/embed/rQcKIN9vj3U?rel=0",
     "hdurl": "https://www.youtube.com/embed/rQcKIN9vj3U?rel=0",
     "copyright": null
-  },
-  {
-    "date": "2025-05-05",
-    "title": {
-      "en": "Planet Lines Across Water",
-      "pt": "Linhas de planeta na água"
-    },
-    "explanation": {
-      "en": "What’s causing those lines? Objects in the sky sometimes appear reflected as lines across water — but why? If the water’s surface is smooth, then reflected objects would appear similarly -- as spots. But if the water is choppy, then there are many places where light from the object can reflect off the water and still come to you -- and so together form, typically, a line. The same effect is frequently seen for the Sun just before sunset and just after sunrise. Pictured about 10 days ago in Ibiza, Spain, images of the setting Moon, Venus (top), and Saturn (right, faint) were captured both directly and in line-reflected forms from the Mediterranean Sea. The other bright object on the right with a water-reflected line is a beacon on a rock to warn passing boats.   Explore Your Universe: Random APOD Generator",
-      "pt": "O que está causando essas linhas? Os objetos no céu às vezes parecem refletidos como linhas na água - mas por quê? Se a superfície da água for lisa, os objetos refletidos apareceriam da mesma forma - como manchas. Mas se a água estiver agitada, existem muitos lugares onde a luz do objeto pode refletir a água e ainda chegar até você - e, em conjunto, uma forma, normalmente, uma linha. O mesmo efeito é frequentemente visto para o sol pouco antes do pôr do sol e logo após o nascer do sol. Na foto, cerca de 10 dias atrás, em Ibiza, Espanha, imagens da Lua, Vênus (em cima) e Saturno (à direita, fraca) foram capturadas diretamente e as formas refletidas na linha do Mar Mediterrâneo. O outro objeto brilhante à direita com uma linha refletida por água é um farol em uma pedra para avisar os barcos que passam.   Explore seu universo: gerador APOD aleatório"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2505/PlanetLines_Hervas_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2505/PlanetLines_Hervas_2603.jpg",
-    "copyright": ", Jose Antonio Hervas,"
   }
 ]
