@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-06-05",
+    "title": {
+      "en": "Savudrija Star Trails",
+      "pt": "Savudrija Star Trails"
+    },
+    "explanation": {
+      "en": "Savudrija lighthouse shines along the coast near the northern end of the Istrian peninsula in this well-composed night skyscape. A navigational aid for sailors on the Adriatic Sea, the historic lighthouse was constructed in the early 19th century. But an even older aid to navigation shines in the sky above, Polaris, alpha star of the constellation Ursa Minor and also known as the North Star. In this scene Polaris forms the shortest bright arc near the North Celestial Pole, the extension of Earth's axis of rotation into space. Of course, the North Celestial Pole lies exactly at the center of all the concentric startrails. The composite image is a digital stack of 400 exposures, each 30 seconds long, taken with camera and tripod fixed to a rotating planet.",
+      "pt": "O farol de Savudrija brilha ao longo da costa, perto do extremo norte da Península Istriana, nesta bem-noite Skyscape. Ajuda de navegação para marinheiros no mar Adriático, o Farol Histórico foi construído no início do século XIX. Mas uma ajuda ainda mais antiga à navegação brilha no céu acima, Polaris, estrela alfa da constelação ursa menor e também conhecida como Estrela do Norte. Nesta cena, o polaris forma o arco mais curto brilhante perto do pólo celestial norte, a extensão do eixo de rotação da Terra no espaço. Obviamente, o polo celestial norte está exatamente no centro de todos os traseiros estelares concêntricos. A imagem composta é uma pilha digital de 400 exposições, cada uma com 30 segundos, tirada com câmera e tripé fixados em um planeta rotativo."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2506/SavudrijaSTARTRAILS_Nadj1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2506/SavudrijaSTARTRAILS_Nadj.jpg",
+    "copyright": "Branko Nadj"
+  },
+  {
     "date": "2025-06-04",
     "title": {
       "en": "A Milky Road to the Rubin Observatory",
@@ -429,20 +444,5 @@
     "url": "https://apod.nasa.gov/apod/image/2505/M81M82_CAT_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2505/M81M82_CAT_3780.jpg",
     "copyright": ", Collaborative Astrophotography Team (CAT),"
-  },
-  {
-    "date": "2025-05-06",
-    "title": {
-      "en": "The Doubly Warped World of Binary Black Holes",
-      "pt": "O mundo duplamente distorcido dos buracos negros binários"
-    },
-    "explanation": {
-      "en": "If one black hole looks strange, what about two? Light rays from accretion disks around a pair of orbiting supermassive black holes make their way through the warped space-time produced by extreme gravity in this detailed computer visualization.  The simulated accretion disks have been given different false color schemes, red for the disk surrounding a 200-million-solar-mass black hole, and blue for the disk surrounding a 100-million-solar-mass black hole.  For these masses, though, both accretion disks would actually emit most of their light in the ultraviolet.  The video allows us to see both sides of each black hole at the same time.  Red and blue light originating from both black holes can be seen in the innermost ring of light, called the photon sphere, near their event horizons.  In the past decade, gravitational waves from black hole collisions have actually been detected, although the coalescence of supermassive black holes remains undiscovered.   Hole New Worlds: It's Black Hole Week at NASA!",
-      "pt": "Se um buraco negro parece estranho, que tal dois? Os raios de luz dos discos de acréscimo em torno de um par de orbitadores negros supermassivos atravessam o espaço-tempo distorcido produzido pela extrema gravidade nessa visualização detalhada do computador.  Os discos de acréscimo simulados receberam diferentes esquemas de cores falsas, vermelho para o disco em torno de um buraco negro de massa solar de 200 milhões e azul para o disco em torno de um buraco negro de massa de 100 milhões de solares.  Para essas massas, porém, ambos os discos de acréscimo emitiriam a maior parte de sua luz no ultravioleta.  O vídeo nos permite ver os dois lados de cada buraco negro ao mesmo tempo.  A luz vermelha e azul originária de ambos os buracos negros pode ser vista no anel mais interno da luz, chamado esfera de fótons, perto de seus horizontes de eventos.  Na década passada, ondas gravitacionais de colisões de buracos negros foram realmente detectados, embora a coalescência de buracos negros supermassivos permaneça não descoberta.   Hole New Worlds: é a Black Hole Week na NASA!"
-    },
-    "media_type": "video",
-    "url": "https://www.youtube.com/embed/rQcKIN9vj3U?rel=0",
-    "hdurl": "https://www.youtube.com/embed/rQcKIN9vj3U?rel=0",
-    "copyright": null
   }
 ]
