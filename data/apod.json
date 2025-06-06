@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-06-06",
+    "title": {
+      "en": "NGC 6302: The Butterfly Nebula",
+      "pt": "NGC 6302: A nebulosa da borboleta"
+    },
+    "explanation": {
+      "en": "The bright clusters and nebulae of planet Earth's night sky are often given the names of flowers or insects, and its whopping 3 light-year wingspan, NGC 6302 is no exception. With an estimated surface temperature of about 250,000 degrees C, the central star of the planetary nebula is transforming into a white dwarf star, becoming exceptionally hot, and shining brightly in ultraviolet light. The central star is hidden from direct view by a torus of dust, but its energetic ultraviolet light ionizes atoms in the nebula. In this sharp, telescopic view composed with narrowband image data, the ionized hydrogen and doubly ionized oxygen atoms are shown in their characteristic red and blue-green hues to reveal a stunning complex of knots and filaments within the nebula's wing-like bipolar outflows. NGC 6302 lies about 4,000 light-years away in the arachnologically correct constellation of the Scorpion (Scorpius).",
+      "pt": "Os aglomerados brilhantes e as nebulosas do céu noturno do planeta Terra geralmente recebem os nomes de flores ou insetos, e sua envergadura impressionante de 3 a um ano-luz, o NGC 6302 não é exceção. Com uma temperatura da superfície estimada de cerca de 250.000 graus C, a estrela central da nebulosa planetária está se transformando em uma estrela anã branca, tornando -se excepcionalmente quente e brilhando intensamente na luz ultravioleta. A estrela central é oculta da vista direta por um toro de poeira, mas sua luz ultravioleta energética ioniza os átomos na nebulosa. Nesta visão telescópica nítida, composta com dados de imagem de banda estreita, o hidrogênio ionizado e os átomos de oxigênio duplamente ionizados são mostrados em seus tons de vermelho e azul-esverdeado para revelar um complexo impressionante de nós e filamentos nas saídas bipolares do tipo asa da nebulosa. O NGC 6302 fica a cerca de 4.000 anos-luz de distância na constelação aracnologicamente correta do escorpião (Scorpius)."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2506/NGC-6302-LRGB-Ha-OIII_1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2506/NGC-6302-LRGB-Ha-OIII.jpg",
+    "copyright": "Mike Selby"
+  },
+  {
     "date": "2025-06-05",
     "title": {
       "en": "Savudrija Star Trails",
@@ -429,20 +444,5 @@
     "url": "https://apod.nasa.gov/apod/image/2505/Crab_Webb_998.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2505/Crab_Webb_998.jpg",
     "copyright": null
-  },
-  {
-    "date": "2025-05-07",
-    "title": {
-      "en": "Galaxy Wars: M81 versus M82",
-      "pt": "Galaxy Wars: M81 versus M82"
-    },
-    "explanation": {
-      "en": "In the upper left corner, surrounded by blue arms and dotted with red nebulas, is spiral galaxy M81.  In the lower right corner, marked by a light central line and surrounded by red glowing gas, is irregular galaxy M82.  This stunning vista shows these two mammoth galaxies locked in gravitational combat, as they have been for the past billion years.   The gravity from each galaxy dramatically affects the other during each hundred-million-year pass.  Last go-round, M82's gravity likely raised density waves rippling around M81, resulting in the richness of M81's spiral arms.  But M81 left M82 with violent star forming regions and colliding gas clouds so energetic the galaxy glows in X-rays.  This big battle is seen from Earth through the faint glow of an Integrated Flux Nebula, a little studied complex of diffuse gas and dust clouds in our Milky Way Galaxy. In a few billion years, only one galaxy will remain.",
-      "pt": "No canto superior esquerdo, cercado por braços azuis e pontilhado com nebulas vermelhas, está a galáxia em espiral M81.  No canto inferior direito, marcado por uma linha central leve e cercado por gás brilhante vermelho, há a galáxia irregular M82.  Esta vista deslumbrante mostra essas duas galáxias gigantescas trancadas em combate gravitacional, como foram nos últimos bilhões de anos.   A gravidade de cada galáxia afeta drasticamente a outra durante cada passe de cem milhões de anos.  Na última rodada, a gravidade do M82 provavelmente aumentou ondas de densidade em torno do M81, resultando na riqueza dos braços espirais do M81.  Mas o M81 deixou o M82 com regiões de formação de estrelas violentas e nuvens de gás em colisão tão energéticas que a galáxia brilha nos raios-X.  Esta grande batalha é vista da Terra através do brilho fraco de uma nebulosa integrada de fluxo, um pouco do complexo estudado de nuvens difusas de gás e poeira em nossa Galaxia da Via Láctea. Em alguns bilhões de anos, apenas uma galáxia permanecerá."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2505/M81M82_CAT_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2505/M81M82_CAT_3780.jpg",
-    "copyright": ", Collaborative Astrophotography Team (CAT),"
   }
 ]
