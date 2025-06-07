@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-06-07",
+    "title": {
+      "en": "Perseverance Selfie with Ingenuity",
+      "pt": "Perseverança selfie com ingenuidade"
+    },
+    "explanation": {
+      "en": "On the Mars rover's mission Sol 46 or Earth date April 6, 2021, Perseverance held out a robotic arm to take its first selfie on Mars. The WATSON camera at the end of the arm was designed to take close-ups of Martian rocks and surface details though, and not a quick snap shot of friends and smiling faces. In the end, teamwork and weeks of planning on Mars time was required to program a complex series of exposures and camera motions to include Perseverance and its surroundings. The resulting 62 frames were composed into a detailed mosaic, one of the most complicated Mars rover selfies ever taken. In this version of the selfie, the rover's Mastcam-Z and SuperCam instruments are looking toward WATSON and the end of the rover's outstretched arm. About 4 meters (13 feet) from Perseverance is a robotic companion, the Mars Ingenuity helicopter. Perseverance has now spent over 1,500 sols exploring the surface of the Red Planet. On Earth date January 18, 2024, Ingenuity made its 72nd and final flight through the thin Martian atmosphere.",
+      "pt": "Na missão de Marte Rover Sol 46 ou na Data da Terra em 6 de abril de 2021, a perseverança estendeu um braço robótico para tirar sua primeira selfie em Marte. A câmera Watson no final do braço foi projetada para levar close-ups de rochas marcianas e detalhes da superfície, e não uma rápida foto de amigos e rostos sorridentes. No final, o trabalho em equipe e as semanas de planejamento no tempo de Marte foram obrigados a programar uma série complexa de exposições e movimentos da câmera para incluir perseverança e seus arredores. Os 62 quadros resultantes foram compostos em um mosaico detalhado, uma das selfies mais complicadas de Mars Rover já tiradas. Nesta versão do The Selfie, os instrumentos mastcam-z e supercam do rover estão olhando para Watson e o fim do braço estendido do veículo espacial. Cerca de 4 metros (13 pés) da perseverança é um companheiro robótico, o helicóptero de ingenuidade de Marte. A perseverança gastou mais de 1.500 sols explorando a superfície do planeta vermelho. Na Data da Terra, 18 de janeiro de 2024, a ingenuidade fez seu 72º e último vôo pela fina atmosfera marciana."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2506/PIA24542_fig2_1100c.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2506/PIA24542_fig2.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-06-06",
     "title": {
       "en": "NGC 6302: The Butterfly Nebula",
@@ -428,21 +443,6 @@
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2505/BLlac_NasaGarcia_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2505/BLlac_NasaGarcia_4580.jpg",
-    "copyright": null
-  },
-  {
-    "date": "2025-05-08",
-    "title": {
-      "en": "M1: The Incredible Expanding Crab",
-      "pt": "M1: o incrível caranguejo em expansão"
-    },
-    "explanation": {
-      "en": "Cataloged as M1, the Crab Nebula is the first on Charles Messier's famous list of things which are not comets. In fact, the Crab Nebula is now known to be a supernova remnant, an expanding cloud of debris from the death explosion of a massive star. The violent birth of the Crab was witnessed by astronomers in the year 1054. Roughly 10 light-years across, the nebula is still expanding at a rate of about 1,500 kilometers per second. You can see the expansion by comparing these sharp images from the Hubble Space Telescope and James Webb Space Telescope. The Crab's dynamic, fragmented filaments were captured in visible light by Hubble in 2005 and Webb in infrared light in 2023. This cosmic crustacean lies about 6,500 light-years away in the constellation Taurus.",
-      "pt": "Catalogado como M1, a nebulosa do caranguejo é a primeira na famosa lista de coisas de Charles Messier que não são cometas. De fato, a nebulosa do caranguejo agora é conhecida por ser um remanescente de supernova, uma nuvem em expansão de detritos da explosão da morte de uma estrela enorme. O nascimento violento do caranguejo foi testemunhado por astrônomos no ano 1054. Aproximadamente 10 anos-luz de diâmetro, a nebulosa ainda está se expandindo a uma taxa de cerca de 1.500 quilômetros por segundo. Você pode ver a expansão comparando essas imagens nítidas do Telescópio Espacial Hubble e do Telescópio Espacial James Webb. Os filamentos dinâmicos e fragmentados do caranguejo foram capturados sob luz visível por Hubble em 2005 e Webb em luz infravermelha em 2023. Este crustáceo cósmico fica a cerca de 6.500 anos-luz de distância no constelação Taurus."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2505/Crab_Webb_998.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2505/Crab_Webb_998.jpg",
     "copyright": null
   }
 ]
