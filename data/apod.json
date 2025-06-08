@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-06-08",
+    "title": {
+      "en": "Facing NGC 3344",
+      "pt": "Enfrente o NGC 3344"
+    },
+    "explanation": {
+      "en": "From our vantage point in the Milky Way Galaxy, we see NGC 3344 face-on. Nearly 40,000 light-years across, the big, beautiful spiral galaxy is located just 20 million light-years away in the constellation of Leo Minor. This multi-color Hubble Space Telescope close-up of NGC 3344 includes remarkable details from near infrared to ultraviolet wavelengths. The frame extends some 15,000 light-years across the spiral's central regions. From the core outward, the galaxy's colors change from the yellowish light of old stars in the center to young blue star clusters and reddish star forming regions along the loose, fragmented spiral arms. Of course, the bright stars with a spiky appearance are in front of NGC 3344 and lie well within our own Milky Way.   APOD Turns 30!: Free Public Lecture in Anchorage on Wednesday, June 11 at 7 pm",
+      "pt": "Do nosso ponto de vista na Galaxia da Via Láctea, vemos o NGC 3344 Face-on. Quase 40.000 anos-luz de diâmetro, a grande e bonita galáxia espiral está localizada a apenas 20 milhões de anos-luz de distância na constelação de Leo Minor. Este close-up do NGC 3344, do Hubble Multi-Color Hubble Space, inclui detalhes notáveis ​​de comprimentos de onda quase infravermelho a ultravioleta. O quadro se estende cerca de 15.000 anos-luz nas regiões centrais da Spiral. Do núcleo para fora, as cores da galáxia mudam da luz amarelada de estrelas velhas no centro para os jovens aglomerados de estrelas azuis e as estrelas avermelhadas formando regiões ao longo dos braços espirais soltos e fragmentados. É claro que as estrelas brilhantes com uma aparência espetada estão em frente ao NGC 3344 e estão bem dentro da nossa Via Láctea.   APOD faz 30!: Palestra pública gratuita em Anchorage na quarta -feira, 11 de junho às 19h"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2506/NGC3344_hst2048.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2506/NGC3344_hst1024.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-06-07",
     "title": {
       "en": "Perseverance Selfie with Ingenuity",
@@ -428,21 +443,6 @@
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2505/mars10_st_path_big.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2505/mars10_st_path_big.jpg",
-    "copyright": null
-  },
-  {
-    "date": "2025-05-09",
-    "title": {
-      "en": "IXPE Explores a Black Hole Jet",
-      "pt": "Ixpe explora um jato de buraco negro"
-    },
-    "explanation": {
-      "en": "How do black holes create X-rays? Answering this long-standing question was significantly advanced recently with data taken by NASA’s IXPE satellite. X-rays cannot exit a black hole, but they can be created in the energetic environment nearby, in particular by a jet of particles moving outward. By observing X-ray light arriving from near the supermassive black hole at the center of galaxy BL Lac, called a blazar, it was discovered that these X-rays lacked significant polarization, which is expected when created more by energetic electrons than protons. In the featured artistic illustration, a powerful jet is depicted emanating from an orange-colored accretion disk circling the black hole. Understanding highly energetic processes across the universe helps humanity to understand similar processes that occur on or near our Earth.   Put it All Together: Astronomy Puzzle of the Day",
-      "pt": "Como os buracos negros criam raios-X? Responder a essa pergunta de longa data foi significativamente avançada recentemente com dados obtidos pelo satélite IXPE da NASA. Os raios X não podem sair de um buraco negro, mas podem ser criados no ambiente energético próximo, em particular por um jato de partículas que se movem para fora. Ao observar a luz de raios X chegando perto do buraco negro supermassivo no centro do Galaxy Bl Lac, chamado blazar, descobriu-se que esses raios-X careciam de polarização significativa, o que é esperado quando criado mais por elétrons energéticos do que os prótons. Na ilustração artística em destaque, um jato poderoso é retratado emanando de um disco de acréscimo de cor laranja circulando o buraco negro. Compreender processos altamente enérgicos em todo o universo ajuda a humanidade a entender processos semelhantes que ocorrem na nossa terra ou nas proximidades.   Junte tudo: o quebra -cabeça de astronomia do dia"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2505/BLlac_NasaGarcia_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2505/BLlac_NasaGarcia_4580.jpg",
     "copyright": null
   }
 ]
