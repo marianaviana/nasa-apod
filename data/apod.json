@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-06-09",
+    "title": {
+      "en": "Between Scylla and Charybdis: A Double Cosmic Discovery",
+      "pt": "Entre Scylla e Charybdis: uma descoberta cósmica dupla"
+    },
+    "explanation": {
+      "en": "Can you identify this celestial object?  Likely not — because this is a discovery image.  Massive stars forge heavy elements in their cores and, after a few million years, end their lives in powerful supernova explosions. These remnants cool relatively quickly and fade, making them difficult to detect.  To uncover such faint, previously unknown supernova remnants, a dedicated group of amateur astrophotographers searched through sky surveys for possible supernova remnant candidates.  The result: the first-ever image of supernova remnant G115.5+9.1 — named Scylla by its discoverers—glowing faintly in the constellation of the mythological King of Aethiopia: Cepheus.  Emission from hydrogen atoms in the remnant is shown in red, and faint emission from oxygen is shown in hues of blue.  Surprisingly, another discovery lurked to the upper right: a faint, previously unknown planetary nebula candidate. In keeping with mythological tradition, it was named Charybdis (Sai 2) — a nod to the ancient Greek expression \"caught between Scylla and Charybdis\" from Homer’s Odyssey.",
+      "pt": "Você pode identificar este objeto celestial?  Provavelmente não - porque esta é uma imagem de descoberta.  Estrelas maciças forgem elementos pesados ​​em seus núcleos e, depois de alguns milhões de anos, terminam suas vidas em poderosas explosões de supernova. Esses remanescentes esfriam relativamente rapidamente e desaparecem, dificultando a detecção.  Para descobrir remanescentes de supernova tão fracos e anteriormente desconhecidos, um grupo dedicado de astrofotógrafos amadores pesquisou através de pesquisas no céu por possíveis candidatos remanescentes de supernova.  O resultado: a primeira imagem de supernova remanescente G115.5+9.1-nomeado Scylla por seus descobridores-levando fracamente na constelação do rei mitológico da Aetiopia: Cefeus.  A emissão de átomos de hidrogênio no remanescente é mostrada em vermelho, e a emissão fraca do oxigênio é mostrada em tons de azul.  Surpreendentemente, outra descoberta espreitou ao candidato superior direito: um candidato fraco e previamente desconhecido de nebulosa planetária. De acordo com a tradição mitológica, foi nomeado Charybdis (Sai ​​2) - um aceno para a expressão grega antiga \"presa entre Scylla e Charybdis\" da Odyssey de Homer."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2506/ScyllaB_LerouxGere_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2506/ScyllaB_LerouxGere_2094.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-06-08",
     "title": {
       "en": "Facing NGC 3344",
@@ -429,20 +444,5 @@
     "url": "https://apod.nasa.gov/apod/image/2505/Venus_Venera14_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2505/Venus_Venera14_1705.jpg",
     "copyright": "Donald Mitchell"
-  },
-  {
-    "date": "2025-05-10",
-    "title": {
-      "en": "Yogi and Friends in 3D",
-      "pt": "Yogi e amigos em 3D"
-    },
-    "explanation": {
-      "en": "This picture from July 1997 shows a ramp from the Pathfinder lander, the Sojourner robot rover, deflated landing airbags, a couch, Barnacle Bill and Yogi Rock appear together in this 3D stereo view of the surface of Mars. Barnacle Bill is the rock just left of the house cat-sized, solar-paneled Sojourner. Yogi is the big friendly-looking boulder at top right. The \"couch\" is the angular rock shape visible near center on the horizon. Look at the image with red/blue glasses (or just hold a piece of clear red plastic over your left eye and blue or green over your right) to get the dramatic 3D perspective. The stereo view was recorded by the remarkable Imager for Mars Pathfinder (IMP) camera. The IMP had two optical paths for stereo imaging and ranging and was equipped with an array of color filters for spectral analysis.  Operating as the first astronomical observatory on Mars, the IMP also recorded images of the Sun and Deimos, the smallest of Mars' two tiny moons.",
-      "pt": "Esta imagem de julho de 1997 mostra uma rampa do pathfinder Lander, o Sojourner Robot Rover, Airbags de Landing, um sofá, o Barnacle Bill e o Yogi Rock aparecem juntos nesta vista estéreo em 3D da superfície de Marte. Barnacle Bill é a rocha à esquerda da casa do tamanho de gatos, do tamanho de um gato, sojourner com painéis solares. Yogi é a grande pedra de aparência amigável no canto superior direito. O \"sofá\" é a forma angular da rocha visível perto do centro no horizonte. Olhe para a imagem com óculos vermelhos/azuis (ou apenas segure um pedaço de plástico vermelho claro sobre o olho esquerdo e azul ou verde sobre a direita) para obter a dramática perspectiva 3D. A visão estéreo foi registrada pelo notável Imager para a câmera Mars Pathfinder (IMP). O IMP apresentou dois caminhos ópticos para imagens estéreo e variação e foi equipado com uma variedade de filtros de cores para análise espectral.  Operando como o primeiro Observatório Astronômico em Marte, o IMP também registrou imagens do Sol e Deimos, a menor das duas minúsculas luas de Marte."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2505/mars10_st_path_big.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2505/mars10_st_path_big.jpg",
-    "copyright": null
   }
 ]
