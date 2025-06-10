@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-06-10",
+    "title": {
+      "en": "Enceladus in True Color",
+      "pt": "Encélado na cor verdadeira"
+    },
+    "explanation": {
+      "en": "Do oceans under the ice of Saturn's moon Enceladus contain life?  A reason to think so involves  long features -- some dubbed tiger stripes -- that are known to be spewing ice from the moon's icy interior into space. These surface cracks create clouds of fine ice particles over the moon's South Pole and create  Saturn's mysterious E-ring.  Evidence for this has come from the robot Cassini spacecraft that orbited Saturn from 2004 to 2017.  Pictured here, a high resolution image of Enceladus is shown in true color from a close flyby.  The deep crevasses are partly shadowed.  Why Enceladus is active remains a mystery, as the neighboring moon Mimas, approximately the same size, appears quite dead. A analysis of ejected ice grains has yielded evidence that complex organic molecules. These large carbon-rich molecules bolster -- but do not prove -- that oceans under Enceladus' surface could contain life.   APOD Turns 30!: Free public lecture in Anchorage tomorrow (Wednesday) at 7 pm",
+      "pt": "Os oceanos sob o gelo da lua de Saturno, Encélado, contêm vida?  Uma razão para pensar que envolve características longas - algumas listras de tigre dubladas - que são conhecidas por vomitar gelo do interior gelado da lua no espaço. Essas rachaduras na superfície criam nuvens de partículas finas de gelo sobre o Pólo Sul da Lua e criam o misterioso e-ring de Saturno.  As evidências para isso vieram da espaçonave robô Cassini que orbitou Saturno de 2004 a 2017. Na foto aqui, uma imagem de alta resolução de Enceladus é mostrada na cor verdadeira de um voo próximo.  As fendas profundas são parcialmente sombreadas.  Por que Encélado é ativo continua sendo um mistério, pois a lua vizinha Mimas, aproximadamente do mesmo tamanho, parece bastante morta. Uma análise dos grãos de gelo ejetada produziu evidências de que moléculas orgânicas complexas. Essas grandes moléculas ricas em carbono reforçam-mas não provam-que os oceanos sob a superfície de Encélado podem conter a vida.   APOD faz 30!: Palestra pública gratuita em Anchorage amanhã (quarta -feira) às 19h"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2506/EnceladusTrue_Cassini_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2506/EnceladusTrue_Cassini_960.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-06-09",
     "title": {
       "en": "Between Scylla and Charybdis: A Double Cosmic Discovery",
@@ -429,20 +444,5 @@
     "url": "https://apod.nasa.gov/apod/image/2505/MilkyWaySide_Gaia_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2505/MilkyWaySide_Gaia_5000.jpg",
     "copyright": null
-  },
-  {
-    "date": "2025-05-11",
-    "title": {
-      "en": "The Surface of Venus from Venera 14",
-      "pt": "A superfície de Vênus de Venera 14"
-    },
-    "explanation": {
-      "en": "If you could stand on Venus -- what would you see?  Pictured is the view from Venera 14, a robotic Soviet lander which parachuted and air-braked down through the thick Venusian atmosphere in March of 1982. The desolate landscape it saw included flat rocks, vast empty terrain, and a featureless sky above Phoebe Regio near Venus' equator. On the lower left is the spacecraft's penetrometer used to make scientific measurements, while the light piece on the right is part of an ejected lens-cap.  Enduring temperatures near 450 degrees Celsius and pressures 75 times that on Earth, the hardened Venera spacecraft lasted only about an hour. Although data from Venera 14 was beamed across the inner Solar System over 40 years ago, digital processing and merging of Venera's unusual images continues even today.  Recent analyses of infrared measurements taken by ESA's orbiting Venus Express spacecraft indicate that active volcanoes may currently exist on Venus.    Jigsaw Fun: Astronomy Puzzle of the Day",
-      "pt": "Se você pudesse suportar Vênus - o que você veria?  Na foto, está a vista de Venera 14, um Lander Soviético Robótico que paraqueira e se fugiu pela atmosfera espessa venusiana em março de 1982. A paisagem desolada que viu incluía rochas planas, vasto terreno vazio e um céu sem aparição acima do regulador de Phoebe, perto de Venus ', o equador. No canto inferior esquerdo está o penetrômetro da espaçonave usado para fazer medições científicas, enquanto a peça leve à direita faz parte de uma lente ejetada.  Temperaturas duradouras próximas a 450 graus Celsius e pressões 75 vezes que na terra, a espaçonave endurecida Venera durou apenas cerca de uma hora. Embora os dados do Venera 14 tenham sido transmitidos pelo sistema solar interno há mais de 40 anos, o processamento digital e a fusão das imagens incomuns da Venera continuam até hoje.  Análises recentes de medições de infravermelho realizadas pela espaçonave Orbiting Venus Express da ESA indicam que atualmente os vulcões ativos podem existir em Venus.    Função de quebra -cabeça: o quebra -cabeça da astronomia do dia"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2505/Venus_Venera14_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2505/Venus_Venera14_1705.jpg",
-    "copyright": "Donald Mitchell"
   }
 ]
