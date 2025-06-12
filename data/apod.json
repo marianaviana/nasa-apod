@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-06-12",
+    "title": {
+      "en": "Solar Eclipse",
+      "pt": "Eclipse solar"
+    },
+    "explanation": {
+      "en": "On April 20, 2023 the shadow of a New Moon raced across planet Earth's southern hemisphere. When viewed along a narrow path that mostly avoided landfall, the Moon in silhouette created a hybrid solar eclipse. Hybrid eclipses are rare and can be seen as a total eclipse or an annular \"ring of fire\" eclipse depending on the observer's position. Viewers of this much anticipated hybrid event were able to witness a total solar eclipse while anchored in the Indian Ocean near the centerline of the eclipse track off the coast of western Australia. This ship-borne image from renowned eclipse chaser Fred Espenak captured the active Sun's magnificent outer atmosphere, or solar corona, streaming into space. The composite of 11 exposures ranging from 1/2000 to 1/2 second, taken during the 62 seconds of totality, records an extended range of brightness to follow alluring details of the corona not quite visible to the eye.  Fred Espenak (1953-2025)",
+      "pt": "Em 20 de abril de 2023, a sombra de uma lua nova correu através do hemisfério sul do Planeta Terra. Quando visto ao longo de um caminho estreito que evitou a terra, a lua em silhueta criou um eclipse solar híbrido. Os eclipses híbridos são raros e podem ser vistos como um eclipse total ou um eclipse anular de \"anel de fogo\", dependendo da posição do observador. Os telespectadores desse evento híbrido muito esperado foram capazes de testemunhar um eclipse solar total enquanto ancorou no Oceano Índico, perto da linha central da pista do Eclipse, na costa da Austrália Ocidental. Esta imagem transmitida por navios do renomado caçador de eclipse Fred Espenak capturou a magnífica atmosfera externa do sol ativo, ou corona solar, entrando no espaço. O composto de 11 exposições que variam de 1/2000 a 1/2 segundo, tomadas durante os 62 segundos de totalidade, registra uma extensa gama de brilho para seguir detalhes atraentes da coroa não muito visíveis aos olhos.  Fred Espenak (1953-2025)"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2506/TSE2023-Comp48-2a1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2506/TSE2023-Comp48-2a.jpg",
+    "copyright": "Fred Espenak"
+  },
+  {
     "date": "2025-06-11",
     "title": {
       "en": "25 Brightest Stars in the Night Sky",
@@ -429,20 +444,5 @@
     "url": "https://apod.nasa.gov/apod/image/2505/NGC1360_Chander_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2505/NGC1360_Chander_4310.jpg",
     "copyright": ", Andrea Iorio, Vikas Chander & , ShaRA Team,"
-  },
-  {
-    "date": "2025-05-13",
-    "title": {
-      "en": "Gaia Reconstructs a Top View of our Galaxy",
-      "pt": "Gaia reconstrói uma visão superior da nossa galáxia"
-    },
-    "explanation": {
-      "en": "What does our Milky Way Galaxy look like from the top? Because we are on the inside, humanity can’t get an actual picture. Recently, however, just such a map has been made using location data for over a billion stars from ESA’s Gaia mission. The resulting featured illustration shows that just like many other spiral galaxies, our Milky Way has distinct spiral arms.  Our Sun and most of the bright stars we see at night are in just one arm: Orion. Gaia data bolsters previous indications that our Milky Way has more than two spiral arms. Our Galaxy's center sports a prominent bar.  The colors of our Galaxy's thin disk derive mostly from dark dust, bright blue stars, and red emission nebula. Although data analysis is ongoing, Gaia was deactivated in March after a succession mission.   Jigsaw Challenge: Astronomy Puzzle of the Day",
-      "pt": "Como é a nossa Via Láctea Galaxy do topo? Como estamos por dentro, a humanidade não pode obter uma imagem real. Recentemente, no entanto, esse mapa foi feito usando dados de localização para mais de um bilhão de estrelas da Missão Gaia da ESA. A ilustração resultante mostra que, assim como muitas outras galáxias em espiral, nossa Via Láctea tem braços espirais distintos.  Nosso sol e a maioria das estrelas brilhantes que vemos à noite estão em apenas um braço: Orion. Os dados da GAIA reforçam as indicações anteriores de que nossa Via Láctea tem mais de dois braços espirais. Nosso Centro da Galaxy ostenta um bar de destaque.  As cores do disco fino da nossa galáxia derivam principalmente de pó escuro, estrelas azuis brilhantes e nebulosa emissão vermelha. Embora a análise de dados esteja em andamento, Gaia foi desativado em março após uma missão de sucessão.   Desafio do Jigsaw: quebra -cabeça da astronomia do dia"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2505/MilkyWayTop_Gaia_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2505/MilkyWayTop_Gaia_2100.jpg",
-    "copyright": null
   }
 ]
