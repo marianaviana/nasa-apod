@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-06-13",
+    "title": {
+      "en": "Rubin's Galaxy",
+      "pt": "Galáxia de Rubin"
+    },
+    "explanation": {
+      "en": "In this Hubble Space Telescope image the bright, spiky stars lie in the foreground toward the heroic northern constellation Perseus and well within our own Milky Way galaxy. In sharp focus beyond is UGC 2885, a giant spiral galaxy about 232 million light-years distant. Some 800,000 light-years across compared to the Milky Way's diameter of 100,000 light-years or so, it has around 1 trillion stars. That's about 10 times as many stars as the Milky Way. Part of an investigation to understand how galaxies can grow to such enormous sizes, UGC 2885 was also part of An Interesting Voyage and American astronomer Vera Rubin's pioneering study of the rotation of spiral galaxies. Her work was the first to convincingly demonstrate the dominating presence of dark matter in our universe. A new U.S. coin has been issured to honor Vera Rubin, while the Vera C. Rubin Observatory is scheduled to unveil images from its first look at the cosmos on June 23.",
+      "pt": "Nesta imagem do telescópio espacial Hubble, as estrelas brilhantes e pontiagudas estão em primeiro plano em direção à heróica constelação do norte, Perseus e bem dentro de nossa própria Galaxia da Via Láctea. Em Sharp Focus Beyond Is UGC 2885, uma galáxia espiral gigante cerca de 232 milhões de anos-luz distantes. Cerca de 800.000 anos-luz de diâmetro, em comparação com o diâmetro da Via Láctea de 100.000 anos-luz ou mais, ele tem cerca de 1 trilhão de estrelas. São cerca de 10 vezes mais estrelas do que a Via Láctea. Parte de uma investigação para entender como as galáxias podem crescer para tamanhos enormes, o UGC 2885 também fez parte de uma viagem interessante e do estudo pioneiro de astrônomo americano Vera Rubin sobre a rotação de galáxias espirais. Seu trabalho foi o primeiro a demonstrar de forma convincente a presença dominante de matéria escura em nosso universo. Uma nova moeda dos EUA foi emitida para homenagear Vera Rubin, enquanto o Observatório Vera C. Rubin está programado para revelar imagens de sua primeira olhada no Cosmos em 23 de junho."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2506/RubinsGalaxy_hst1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2506/RubinsGalaxy_hst2000.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-06-12",
     "title": {
       "en": "Solar Eclipse",
@@ -429,20 +444,5 @@
     "url": "https://apod.nasa.gov/apod/image/2505/Pluto-Mountains-Plains9-17-15_1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2505/Pluto-Mountains-Plains9-17-15.jpg",
     "copyright": null
-  },
-  {
-    "date": "2025-05-14",
-    "title": {
-      "en": "NGC 1360: The Robin's Egg Nebula",
-      "pt": "NGC 1360: The Robin's Egg Nebula"
-    },
-    "explanation": {
-      "en": "This pretty nebula lies some 1,500 light-years away, its shape and color in this telescopic view reminiscent of a robin's egg. The cosmic cloud spans about 3 light-years, nestled securely within the boundaries of the southern constellation of the Furnace (Fornax). Recognized as a planetary nebula, egg-shaped NGC 1360 doesn't represent a beginning, though. Instead, it corresponds to a brief and final phase in the evolution of an aging star. In fact, visible at the center of the nebula, the central star of NGC 1360 is known to be a binary star system likely consisting of two evolved white dwarf stars, less massive but much hotter than the Sun.  Their intense and otherwise invisible ultraviolet radiation has stripped away electrons from the atoms in their mutually surrounding gaseous shroud. The blue-green hue inside of NGC 1360 seen here is the strong emission produced as electrons recombine with doubly ionized oxygen atoms.   Celestial Surprise: What picture did APOD feature on your birthday? (post 1995)",
-      "pt": "Esta nebulosa bonita fica a cerca de 1.500 anos-luz de distância, sua forma e cor nesta vista telescópica que lembra o ovo de Robin. A nuvem cósmica abrange cerca de três anos-luz, aninhado com segurança dentro dos limites da constelação sul do forno (Fornax). Reconhecida como uma nebulosa planetária, o NGC 1360 em forma de ovo não representa um começo. Em vez disso, corresponde a uma fase breve e final na evolução de uma estrela envelhecida. De fato, visível no centro da nebulosa, a estrela central do NGC 1360 é conhecida por ser um sistema estelar binário provavelmente consistindo de duas estrelas anãs brancas evoluídas, menos massivas, mas muito mais quentes que o sol.  Sua radiação ultravioleta intensa e invisível retirou elétrons dos átomos em sua mortalha gasosa mutuamente circundante. O tom azul esverdeado dentro do NGC 1360 visto aqui é a forte emissão produzida como elétrons recombinando com átomos duplos de oxigênio ionizados.   Surpresa Celestial: que imagem o APOD apareceu no seu aniversário? (Post 1995)"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2505/NGC1360_Chander_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2505/NGC1360_Chander_4310.jpg",
-    "copyright": ", Andrea Iorio, Vikas Chander & , ShaRA Team,"
   }
 ]
