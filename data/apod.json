@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-06-15",
+    "title": {
+      "en": "Two Worlds, One Sun",
+      "pt": "Dois mundos, um sol"
+    },
+    "explanation": {
+      "en": "How different does sunset appear from Mars than from Earth? For comparison, two images of our common star were taken at sunset, one from Earth and one from Mars. These images were scaled to have the same angular width and are featured here side-by-side. A quick inspection will reveal that the Sun appears slightly smaller from Mars than from Earth. This makes sense since Mars is 50% further from the Sun than Earth. More striking, perhaps, is that the Martian sunset is noticeably bluer near the Sun than the typically orange colors near the setting Sun from Earth. The reason for the blue hues from Mars is not fully understood, but thought to be related to forward scattering properties of Martian dust. The terrestrial sunset was taken in 2012 March from Marseille, France, while the Martian sunset was captured in 2015 by NASA's robotic Curiosity rover from Gale crater on Mars.   APOD Turns 30!: Free Public Lecture in Cork, Ireland on June 24",
+      "pt": "Quão diferente o pôr do sol aparece de Marte do que da Terra? Para comparação, duas imagens de nossa estrela comum foram tiradas ao pôr do sol, uma da Terra e uma de Marte. Essas imagens foram escaladas para ter a mesma largura angular e são apresentadas aqui lado a lado. Uma rápida inspeção revelará que o sol parece um pouco menor de Marte do que da Terra. Isso faz sentido, já que Marte está 50% mais longe do sol do que da Terra. Mais impressionante, talvez, é que o pôr do sol marciano é visivelmente mais azul perto do sol do que as cores tipicamente laranja perto do sol poente da Terra. A razão para os tons azuis de Marte não é totalmente compreendida, mas acredita -se que esteja relacionada às propriedades de dispersão avançada do pó marciano. O pôr do sol terrestre foi tirado em março de 2012 a partir de Marselha, França, enquanto o pôr do sol marciano foi capturado em 2015 pelo rover robótico da Curiosidade da NASA da Gale Crater em Marte.   APOD faz 30!: Palestra pública gratuita em Cork, Irlanda em 24 de junho"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2506/TwoWorldsOneSun_Bouic_1080.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2506/TwoWorldsOneSun_Bouic_2683.jpg",
+    "copyright": ", Damia Bouic; ,  Right Image Credit:  NASA,, JPL-Caltech,, MSSS;,  Digital processing: , Damia Bouic,"
+  },
+  {
     "date": "2025-06-14",
     "title": {
       "en": "Meteors and Satellite Trails over the Limay River",
@@ -428,21 +443,6 @@
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2505/PIA19363_1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2505/PIA19363.jpg",
-    "copyright": null
-  },
-  {
-    "date": "2025-05-16",
-    "title": {
-      "en": "Messier 101",
-      "pt": "Messier 101"
-    },
-    "explanation": {
-      "en": "Big, beautiful spiral galaxy M101 is one of the last entries in Charles Messier's famous catalog, but definitely not one of the least. About 170,000 light-years across, this galaxy is enormous, almost twice the size of our own Milky Way. M101 was also one of the original spiral nebulae observed by Lord Rosse's large 19th century telescope, the Leviathan of Parsontown. Assembled from 51 exposures recorded by the Hubble Space Telescope in the 20th and 21st centuries, with additional data from ground based telescopes, this mosaic spans about 40,000 light-years across the central region of M101 in one of the highest definition spiral galaxy portraits ever released from Hubble. The sharp image shows stunning features of the galaxy's face-on disk of stars and dust along with background galaxies, some visible right through M101 itself. Also known as the Pinwheel Galaxy, M101 lies within the boundaries of the northern constellation Ursa Major, about 25 million light-years away.",
-      "pt": "Galáxia espiral grande e bonita é uma das últimas entradas do famoso catálogo de Charles Messier, mas definitivamente não é um dos mínimos. Cerca de 170.000 anos-luz de diâmetro, essa galáxia é enorme, quase o dobro do tamanho da nossa Via Láctea. O M101 também foi uma das nebulosas espirais originais observadas pelo grande telescópio do século XIX de Lord Rosse, o Leviatã de Parsontown. Montados a partir de 51 exposições registradas pelo Telescópio Espacial Hubble nos séculos 20 e 21, com dados adicionais de telescópios baseados em solo, esse mosaico abrange cerca de 40.000 anos-luz em toda a região central do M101 em um dos retratos de galáxias em espiral de maior definição já divulgadas do Hubble. A imagem nítida mostra características impressionantes do disco de estrelas e poeira do Galaxy, juntamente com galáxias de fundo, algumas visíveis até o próprio M101. Também conhecida como galáxia do cata-vento, o M101 fica dentro dos limites da constelação do norte, Ursa Major, a cerca de 25 milhões de anos-luz de distância."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2505/M101_hst1280.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2505/M101_hst6000.jpg",
     "copyright": null
   }
 ]
