@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-06-16",
+    "title": {
+      "en": "APOD is 30 Years Old Today",
+      "pt": "Apod tem 30 anos hoje"
+    },
+    "explanation": {
+      "en": "APOD is 30 years old today. In celebration, today's picture uses past APODs as tiles arranged to create a single pixelated image that might remind you of one of the most well-known and evocative depictions of planet Earth's night sky. In fact, this Starry Night consists of 1,836 individual images contributed to APOD over the last 5 years in a mosaic of 32,232 tiles. Today, APOD would like to offer a sincere thank you to our contributors, volunteers, and readers. Over the last 30 years your continuing efforts have allowed us to enjoy, inspire, and share a discovery of the cosmos.",
+      "pt": "O APOD tem 30 anos hoje. Em comemoração, a imagem de hoje usa APODS do passado, enquanto os azulejos organizados para criar uma única imagem pixelizada que possa lembrá-lo de uma das representações mais conhecidas e evocativas do céu noturno do planeta Terra. De fato, esta noite estrelada consiste em 1.836 imagens individuais contribuíram para o APOD nos últimos 5 anos em um mosaico de 32.232 ladrilhos. Hoje, o APOD gostaria de oferecer um sincero agradecimento a nossos colaboradores, voluntários e leitores. Nos últimos 30 anos, seus esforços contínuos nos permitiram desfrutar, inspirar e compartilhar uma descoberta do Cosmos."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2506/APODStarryNight30thanniversary1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2506/APODStarryNight30thanniversary.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-06-15",
     "title": {
       "en": "Two Worlds, One Sun",
@@ -428,21 +443,6 @@
       "pt": "E se você pudesse voar sobre Plutão - o que você pode ver? A nave espacial do New Horizons fez exatamente isso em julho de 2015, ao passar pelo mundo distante a uma velocidade de cerca de 80.000 quilômetros por hora. As imagens desta passagem espetacular foram aprimoradas por cores, escaladas verticalmente e combinadas digitalmente no vídeo de lapso de tempo de dois minutos em destaque. Quando sua jornada começa, a luz ocorre nas montanhas que se pensam ser composta de gelo de água, mas coloridas pelo nitrogênio congelado.  Logo, à sua direita, você vê um mar plano de nitrogênio principalmente sólido que se segmentou em polígonos estranhos que se pensam ter borbulhado de um interior comparativamente quente.  As crateras e as montanhas de gelo são vistas comuns abaixo. O vídeo diminui e termina sobre o terreno chamado lâmina porque mostra cristas de 500 metros de altura separadas por lacunas do tamanho de um quilômetro.  A nave espacial robótica New Horizons tem muito impulso para voltar a Plutão e agora está saindo do nosso sistema solar."
     },
     "media_type": "other",
-    "copyright": null
-  },
-  {
-    "date": "2025-05-17",
-    "title": {
-      "en": "Ares 3 Landing Site: The Martian Revisited",
-      "pt": "Local de pouso Ares 3: o marciano revisitado"
-    },
-    "explanation": {
-      "en": "This close-up from the Mars Reconnaissance Orbiter's HiRISE camera shows weathered craters and windblown deposits in southern Acidalia Planitia. A striking shade of blue in standard HiRISE image colors, to the human eye the area would probably look grey or a little reddish. But human eyes have not gazed across this terrain, unless you count the eyes of NASA astronauts in the sci-fi novel, \"The Martian,\" by Andy Weir. The novel chronicles the adventures of Mark Watney, an astronaut stranded at the fictional Mars mission Ares 3 landing site, corresponding to the coordinates of this cropped HiRISE frame. For scale, Watney's 6-meter-diameter habitat at the site would be about 1/10th the diameter of the large crater. Of course, the Ares 3 landing coordinates are only about 800 kilometers north of the (real life) Carl Sagan Memorial Station, the 1997 Pathfinder landing site.",
-      "pt": "Este close da câmera Hirise da Mars Reconnaissance Orbiter mostra crateras desgastadas e depósitos soprados pelo vento na Planitia do Sul da Acidalia. Um tom impressionante de azul nas cores padrão da imagem hirise, para o olho humano a área provavelmente pareceria cinza ou um pouco avermelhada. Mas os olhos humanos não olharam para esse terreno, a menos que você conte os olhos dos astronautas da NASA no romance de ficção científica, \"The Marciano\", de Andy Weir. O romance narra as aventuras de Mark Watney, um astronauta preso no local de aterrissagem da Missão 3 de Marte, correspondendo às coordenadas dessa estrutura hirise cortada. Para escala, o habitat de 6 metros de diâmetro de Watney no local seria de cerca de 1/10 o diâmetro da cratera grande. Obviamente, as coordenadas de aterrissagem do ARES 3 estão a apenas 800 quilômetros ao norte da (vida real) Carl Sagan Memorial Station, o local de aterrissagem do Pathfinder de 1997."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2505/PIA19363_1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2505/PIA19363.jpg",
     "copyright": null
   }
 ]
