@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-06-17",
+    "title": {
+      "en": "Rosette Nebula Deep Field",
+      "pt": "Rosette Nebula Deep Field"
+    },
+    "explanation": {
+      "en": "Can you find the Rosette Nebula? The red flowery-looking nebula just above the image center may seem a good choice, but that's not it.  The famous Rosette Nebula is really located on the lower right, here colored blue and white, and connected to the other nebulas by gold-colored filaments.  Because the featured image of Rosette's field is so wide, and because of its deep red exposure, it seems to contain other flowers.  Designated NGC 2237, the center of the Rosette Nebula is populated by the bright blue stars of open cluster NGC 2244, whose winds and energetic light are evacuating the nebula's center.  The Rosette Nebula is about 5,000 light years distant and, just by itself, spans about three times the diameter of a full moon. This flowery field can be found toward the constellation of the Unicorn  (Monoceros).   Explore Your Universe: Random APOD Generator",
+      "pt": "Você pode encontrar a nebulosa da roseta? A nebulosa vermelha de aparência florida logo acima do centro de imagem pode parecer uma boa escolha, mas não é isso.  A famosa nebulosa Rosette está realmente localizada no canto inferior direito, aqui azul e branco de cor e conectado às outras nebulas por filamentos de cor dourada.  Como a imagem em destaque do campo de Rosette é tão ampla e, devido à sua profunda exposição vermelha, parece conter outras flores.  Designado NGC 2237, o centro da nebulosa da roseta é preenchido pelas estrelas azuis brilhantes do cluster aberto NGC 2244, cujos ventos e luz energética estão evacuando o centro da nebulosa.  A nebulosa de Rosette fica a cerca de 5.000 anos -luz distantes e, por si só, abrange cerca de três vezes o diâmetro de uma lua cheia. Este campo florido pode ser encontrado para a constelação do unicórnio (monoceros).   Explore seu universo: gerador APOD aleatório"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2506/RosettaDeepRed_Mendez_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2506/RosettaDeepRed_Mendez_3294.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-06-16",
     "title": {
       "en": "APOD is 30 Years Old Today",
@@ -428,19 +443,6 @@
     "explanation": {
       "en": "What if you could fly over Pluto's moon Charon -- what might you see? The New Horizons spacecraft did just this in 2015 July as it zipped past Pluto and Charon with cameras blazing.  The images recorded allowed for a digital reconstruction of much of Charon's surface, further enabling the creation of fictitious flights over Charon created from this data.  One such fanciful, minute-long, time-lapse video is shown here with vertical heights and colors of surface features digitally enhanced.  Your journey begins over a wide chasm that divides different types of Charon's landscapes, a chasm that might have formed when Charon froze through. You soon turn north and fly over a colorful depression dubbed Mordor that, one hypothesis holds, is an unusual remnant from an ancient impact.  Your voyage continues over an alien landscape rich with never-before-seen craters, mountains, and crevices.  The robotic New Horizons spacecraft has too much momentum to ever return to Pluto and Charon and is now headed out of our Solar System.    Portal Universe: Random APOD Generator",
       "pt": "E se você pudesse voar sobre a lua de Plutão Charon - o que você pode ver? A nave espacial da New Horizons fez exatamente isso em julho de 2015, ao passar por Plutão e Charon com câmeras em chamas.  As imagens gravadas permitiram uma reconstrução digital de grande parte da superfície de Charon, permitindo ainda mais a criação de vôos fictícios sobre Charon criados a partir desses dados.  Um desses vídeos fantasiosos, de minuto e com lapso de tempo é mostrado aqui com alturas verticais e cores dos recursos de superfície aprimorados digitalmente.  Sua jornada começa sobre um amplo abismo que divide diferentes tipos de paisagens de Charon, um abismo que poderia ter se formado quando charon congelou. Você logo se vira para o norte e voa sobre uma depressão colorida apelidada de Mordor que, uma hipótese é um remanescente incomum de um impacto antigo.  Sua viagem continua sobre uma paisagem alienígena rica em crateras, montanhas e fendas nunca antes vistas.  A nave espacial robótica New Horizons tem muito impulso para retornar a Plutão e Charon e agora está saindo do nosso sistema solar.    Universo portal: gerador APOD aleatório"
-    },
-    "media_type": "other",
-    "copyright": null
-  },
-  {
-    "date": "2025-05-18",
-    "title": {
-      "en": "Pluto Flyover from New Horizons",
-      "pt": "Plutão Flutão From New Horizons"
-    },
-    "explanation": {
-      "en": "What if you could fly over Pluto -- what might you see? The New Horizons spacecraft did just this in 2015 July as it shot past the distant world at a speed of about 80,000 kilometers per hour. Images from this spectacular passage have been color enhanced, vertically scaled, and digitally combined into the featured two-minute time-lapse video. As your journey begins, light dawns on mountains thought to be composed of water ice but colored by frozen nitrogen.  Soon, to your right, you see a flat sea of mostly solid nitrogen that has segmented into strange polygons that are thought to have bubbled up from a comparatively warm interior.  Craters and ice mountains are common sights below. The video dims and ends over terrain dubbed bladed because it shows 500-meter high ridges separated by kilometer-sized gaps.  The robotic New Horizons spacecraft has too much momentum to ever return to Pluto and is now headed out of our Solar System.",
-      "pt": "E se você pudesse voar sobre Plutão - o que você pode ver? A nave espacial do New Horizons fez exatamente isso em julho de 2015, ao passar pelo mundo distante a uma velocidade de cerca de 80.000 quilômetros por hora. As imagens desta passagem espetacular foram aprimoradas por cores, escaladas verticalmente e combinadas digitalmente no vídeo de lapso de tempo de dois minutos em destaque. Quando sua jornada começa, a luz ocorre nas montanhas que se pensam ser composta de gelo de água, mas coloridas pelo nitrogênio congelado.  Logo, à sua direita, você vê um mar plano de nitrogênio principalmente sólido que se segmentou em polígonos estranhos que se pensam ter borbulhado de um interior comparativamente quente.  As crateras e as montanhas de gelo são vistas comuns abaixo. O vídeo diminui e termina sobre o terreno chamado lâmina porque mostra cristas de 500 metros de altura separadas por lacunas do tamanho de um quilômetro.  A nave espacial robótica New Horizons tem muito impulso para voltar a Plutão e agora está saindo do nosso sistema solar."
     },
     "media_type": "other",
     "copyright": null
