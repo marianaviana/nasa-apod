@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-06-18",
+    "title": {
+      "en": "Space Station Silhouette on the Moon",
+      "pt": "Silhueta da estação espacial na lua"
+    },
+    "explanation": {
+      "en": "What's that unusual spot on the Moon? It's the International Space Station. Using precise timing, the Earth-orbiting space platform was photographed in front of a partially lit gibbous Moon in 2019. The featured image was taken from Palo Alto, California, USA with an exposure time of only 1/667 of a second. In contrast, the duration of the transit of the ISS across the entire Moon was about half a second.  A close inspection of this unusually crisp ISS silhouette will reveal the outlines of numerous solar panels and trusses.  The bright crater Tycho is visible on the lower left, as well as comparatively rough, light colored terrain known as highlands and relatively smooth, dark colored areas known as maria.  Downloadable  apps can tell you when the International Space Station will be visible from your area.   APOD Turns 30!: Free Public Lecture in Cork, Ireland on June 24",
+      "pt": "O que é esse ponto incomum na lua? É a estação espacial internacional. Usando o tempo preciso, a plataforma espacial que orbita com a terra foi fotografada em frente a uma lua gibbous parcialmente iluminada em 2019. A imagem em destaque foi tirada de Palo Alto, Califórnia, EUA, com um tempo de exposição de apenas 1/667 de segundo. Por outro lado, a duração do trânsito da ISS em toda a lua inteira foi de cerca de meio segundo.  Uma inspeção estreita desta silhueta ISS incomumente nítida revelará os contornos de vários painéis e treliças solares.  O Tycho da cratera brilhante é visível no canto inferior esquerdo, bem como um terreno de cor clara e comparativamente áspera, conhecida como terras altas e áreas relativamente lisas e de cor escura conhecidas como Maria.  Os aplicativos para download podem dizer quando a estação espacial internacional será visível da sua área.   APOD faz 30!: Palestra pública gratuita em Cork, Irlanda em 24 de junho"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2506/IssMoon_Holland_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2506/IssMoon_Holland_1063.jpg",
+    "copyright": ", Eric Holland,"
+  },
+  {
     "date": "2025-06-17",
     "title": {
       "en": "Rosette Nebula Deep Field",
@@ -433,18 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2505/MaunaKeaNight_Rogozinska_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2505/MaunaKeaNight_Rogozinska_1295.jpg",
     "copyright": ", Marzena Rogozinska,"
-  },
-  {
-    "date": "2025-05-19",
-    "title": {
-      "en": "Charon Flyover from New Horizons",
-      "pt": "Charon Flyover de New Horizons"
-    },
-    "explanation": {
-      "en": "What if you could fly over Pluto's moon Charon -- what might you see? The New Horizons spacecraft did just this in 2015 July as it zipped past Pluto and Charon with cameras blazing.  The images recorded allowed for a digital reconstruction of much of Charon's surface, further enabling the creation of fictitious flights over Charon created from this data.  One such fanciful, minute-long, time-lapse video is shown here with vertical heights and colors of surface features digitally enhanced.  Your journey begins over a wide chasm that divides different types of Charon's landscapes, a chasm that might have formed when Charon froze through. You soon turn north and fly over a colorful depression dubbed Mordor that, one hypothesis holds, is an unusual remnant from an ancient impact.  Your voyage continues over an alien landscape rich with never-before-seen craters, mountains, and crevices.  The robotic New Horizons spacecraft has too much momentum to ever return to Pluto and Charon and is now headed out of our Solar System.    Portal Universe: Random APOD Generator",
-      "pt": "E se você pudesse voar sobre a lua de Plutão Charon - o que você pode ver? A nave espacial da New Horizons fez exatamente isso em julho de 2015, ao passar por Plutão e Charon com câmeras em chamas.  As imagens gravadas permitiram uma reconstrução digital de grande parte da superfície de Charon, permitindo ainda mais a criação de vôos fictícios sobre Charon criados a partir desses dados.  Um desses vídeos fantasiosos, de minuto e com lapso de tempo é mostrado aqui com alturas verticais e cores dos recursos de superfície aprimorados digitalmente.  Sua jornada começa sobre um amplo abismo que divide diferentes tipos de paisagens de Charon, um abismo que poderia ter se formado quando charon congelou. Você logo se vira para o norte e voa sobre uma depressão colorida apelidada de Mordor que, uma hipótese é um remanescente incomum de um impacto antigo.  Sua viagem continua sobre uma paisagem alienígena rica em crateras, montanhas e fendas nunca antes vistas.  A nave espacial robótica New Horizons tem muito impulso para retornar a Plutão e Charon e agora está saindo do nosso sistema solar.    Universo portal: gerador APOD aleatório"
-    },
-    "media_type": "other",
-    "copyright": null
   }
 ]
