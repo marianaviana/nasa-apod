@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-06-19",
+    "title": {
+      "en": "NGC 3521: Galaxy in a Bubble",
+      "pt": "NGC 3521: Galaxy em uma bolha"
+    },
+    "explanation": {
+      "en": "Gorgeous spiral galaxy NGC 3521 is a mere 35 million light-years away, toward the northern springtime constellation Leo. Relatively bright in planet Earth's sky, NGC 3521 is easily visible in small telescopes but often overlooked by amateur imagers in favor of other Leo spiral galaxies, like M66 and M65. It's hard to overlook in this colorful cosmic portrait though. Spanning some 50,000 light-years the galaxy sports characteristic patchy, irregular spiral arms laced with dust, pink star forming regions, and clusters of young, blue stars. The deep image also finds NGC 3521 embedded in fainter, gigantic, bubble-like shells. The shells are likely tidal debris, streams of stars torn from satellite galaxies that have undergone mergers with NGC 3521 in the distant past.",
+      "pt": "O lindo Galaxy Spiral NGC 3521 fica a meros 35 milhões de anos-luz de distância, em direção à constelação da primavera do norte de Leo. Relativamente brilhante no céu do Planeta Terra, o NGC 3521 é facilmente visível em pequenos telescópios, mas muitas vezes esquecido pelos imagers amadores em favor de outras galáxias em espiral Leo, como M66 e M65. É difícil ignorar este retrato cósmico colorido. Abrangendo cerca de 50.000 anos-luz, o Galaxy Sports Característica Ponta, braços espirais irregulares, com poeira, regiões de formação de estrelas rosa e aglomerados de estrelas jovens e azuis. A imagem profunda também encontra o NGC 3521 incorporado em conchas mais fracas, gigantescas e semelhantes a bolhas. As conchas são provavelmente detritos de maré, fluxos de estrelas arrancados de galáxias satélites que foram submetidas a fusões com NGC 3521 no passado distante."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2506/NGC3521-1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2506/NGC3521-2048.jpg",
+    "copyright": "Vikas Chander"
+  },
+  {
     "date": "2025-06-18",
     "title": {
       "en": "Space Station Silhouette on the Moon",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2505/IssTransit_Sanz_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2505/IssTransit_Sanz_2569.jpg",
     "copyright": ", Pau Montplet Sanz,"
-  },
-  {
-    "date": "2025-05-20",
-    "title": {
-      "en": "Milky Way over Maunakea",
-      "pt": "Via Láctea sobre Maunakea"
-    },
-    "explanation": {
-      "en": "Have you ever seen the band of our Milky Way Galaxy?  In a clear sky from a dark location at the right time, a faint band of light becomes visible across the sky.  Soon after your eyes become dark adapted, you might spot the band for the first time.  It may then become obvious.  Then spectacular.  One reason for your growing astonishment might be the realization that this fuzzy swath, the Milky Way, contains billions of stars.  Visible in the featured image, high above in the night sky, the band of the Milky Way Galaxy arcs.  Also visible are the colorful clouds of Rho Ophiuchi on the right, and the red and circular Zeta Ophiuchi nebula near the top center. Taken in late February from Maunakea, Hawaii, USA, the foreground telescope is the University of Hawaii's 2.2-Meter Telescope. Fortunately, you don’t need to be near the top of a Hawaiian volcano to see the Milky Way.    Put it All Together: Astronomy Puzzle of the Day",
-      "pt": "Você já viu a banda de nossa Galaxia da Via Láctea?  Em um céu claro de um local escuro na hora certa, um fraco bando de luz se torna visível no céu.  Logo depois que seus olhos ficarem escuros adaptados, você poderá ver a banda pela primeira vez.  Pode então se tornar óbvio.  Então espetacular.  Uma razão para o seu crescente espanto pode ser a percepção de que essa faixa difusa, a Via Láctea, contém bilhões de estrelas.  Visível na imagem em destaque, acima do céu noturno, a banda dos arcos da Via Láctea.  Também são visíveis as nuvens coloridas de Rho Ophiuchi à direita, e a nebulosa vermelha e circular Zeta Ophiuchi, perto do centro superior. Tomado no final de fevereiro de Maunakea, Havaí, EUA, o telescópio de primeiro plano é o telescópio de 2,2 metros da Universidade do Havaí. Felizmente, você não precisa estar perto do topo de um vulcão havaiano para ver a Via Láctea.    Junte tudo: o quebra -cabeça de astronomia do dia"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2505/MaunaKeaNight_Rogozinska_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2505/MaunaKeaNight_Rogozinska_1295.jpg",
-    "copyright": ", Marzena Rogozinska,"
   }
 ]
