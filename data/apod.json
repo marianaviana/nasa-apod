@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-06-20",
+    "title": {
+      "en": "Major Lunar Standstill 2024-2025",
+      "pt": "Principal Lunar Stawl 2024-2025"
+    },
+    "explanation": {
+      "en": "dmonton, Alberta, Canada, planet Earth lies on the horizon. in this stack of panoramic composite images. In a monthly time series arranged vertically top to bottom the ambitious photographic project follows the annual north-south swing of sunrise points, from June solstice to December solstice and back again. It also follows the corresponding, but definitely harder to track, Full Moon rise. Of course, the north-south swing of moonrise runs opposite sunrise along the horizon. But these rising Full Moons also span a wider range on the horizon than the sunrises. That's because the well-planned project (as shown in this video) covers the period June 2024 to June 2025, centered on a major lunar standstill. Major lunar standstills represent extremes in the north-south range of moonrise driven by the 18.6 year precession period of the lunar orbit.",
+      "pt": "Dmonton, Alberta, Canadá, Planeta Terra fica no horizonte. Nesta pilha de imagens compostas panorâmicas. Em uma série temporal mensal organizada verticalmente de cima para baixo, o ambicioso projeto fotográfico segue o balanço norte-sul anual de pontos do nascer do sol, do solstício de junho ao solstício de dezembro e de volta. Ele também segue o ascensão correspondente, mas definitivamente mais difícil de rastrear, a lua cheia. Obviamente, o balanço norte-sul do Moonrise corre em frente ao nascer do sol ao longo do horizonte. Mas essas luas cheias em ascensão também abrangem um alcance mais amplo no horizonte do que o nascer do sol. Isso ocorre porque o projeto bem planejado (como mostrado neste vídeo) abrange o período de junho de 2024 a junho de 2025, centrado em uma grande parada lunar. As principais paradas lunares representam extremos na gama norte-sul de riscos de luar, impulsionados pelo período de precessão de 18,6 anos da órbita lunar."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2506/MajorLunarStandstillAPOD_1200.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2506/MajorLunarStandstillAPOD.jpg",
+    "copyright": "Luca Vanzella"
+  },
+  {
     "date": "2025-06-19",
     "title": {
       "en": "NGC 3521: Galaxy in a Bubble",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2505/M63_HaLRGB_Apod1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2505/M63_HaLRGB_Apod2048.jpg",
     "copyright": "Alberto Pisabarro"
-  },
-  {
-    "date": "2025-05-21",
-    "title": {
-      "en": "International Space Station Crosses the Sun",
-      "pt": "Estação Espacial Internacional atravessa o sol"
-    },
-    "explanation": {
-      "en": "Typically, the International Space Station is visible only at night.  Slowly drifting across the night sky as it orbits the Earth, the International Space Station (ISS) can be seen as a bright spot about once a month from many locations.  The ISS is then visible only just after sunset or just before sunrise because it shines by reflected sunlight -- once the ISS enters the Earth's shadow, it will drop out of sight. The only occasion when the ISS is visible during the day is when it passes right in front of the Sun. Then, it passes so quickly that only cameras taking short exposures can visually freeze the ISS's silhouette onto the background Sun. The featured picture did exactly that -- it is actually a series of images taken a month ago from Sant Feliu de Buixalleu, Spain with perfect timing.  This image series was later combined with a separate image highlighting the texture of the active Sun which included several Sun's prominences around the edge.   Celestial Surprise: What picture did APOD feature on your birthday? (post 1995)",
-      "pt": "Normalmente, a estação espacial internacional é visível apenas à noite.  Perlinhando -se lentamente ao longo do céu noturno, enquanto orbita a Terra, a Estação Espacial Internacional (ISS) pode ser vista como um ponto brilhante uma vez por mês em muitos locais.  A ISS é então visível apenas logo após o pôr do sol ou pouco antes do nascer do sol, porque brilha pela luz solar refletida - uma vez que a emissão entra na sombra da Terra, ela cairá de vista. A única ocasião em que a ISS é visível durante o dia é quando passa bem em frente ao sol. Em seguida, passa tão rapidamente que apenas as câmeras que tomam exposições curtas podem congelar visualmente a silhueta da ISS no sol de fundo. A foto em destaque fez exatamente isso - na verdade, é uma série de imagens tiradas há um mês de Sant Feliu de Buixalleu, Espanha com tempo perfeito.  Esta série de imagens foi posteriormente combinada com uma imagem separada, destacando a textura do sol ativo, que incluía várias proeminências do sol ao redor da borda.   Surpresa Celestial: que imagem o APOD apareceu no seu aniversário? (Post 1995)"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2505/IssTransit_Sanz_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2505/IssTransit_Sanz_2569.jpg",
-    "copyright": ", Pau Montplet Sanz,"
   }
 ]
