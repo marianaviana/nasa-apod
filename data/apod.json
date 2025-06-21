@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-06-21",
+    "title": {
+      "en": "Two Worlds, Two Analemmas",
+      "pt": "Dois mundos, dois analemmas"
+    },
+    "explanation": {
+      "en": "Sure, that figure-8 shaped curve you get when you mark the position of the Sun in Earth's sky at the same time each day over one year is called an analemma. On the left, Earth's figure-8 analemma was traced by combining wide-angle digital images recorded during the year from December 2011 through December 2012. But the shape of an analemma depends on the eccentricity of a planet's orbit and the tilt of its axis of rotation, so analemma curves can look different for different worlds. Take Mars for example. The Red Planet's axial tilt is similar to Earth's, but its orbit around the same sun is more eccentric (less circular) than Earth's orbit. As seen from the Martian surface, the analemma traced in the right hand panel is shaped more like a tear drop. The Mars rover Opportunity captured the images used over the Martian year corresponding to Earth dates July 2006 to June 2008. Of course, each world's solstice dates still lie at the top and bottom of their different analemma curves. The last Mars northern summer solstice was May 29, 2025. Our fair planet's 2025 northern summer solstice is at June 21, 2:42 UTC.",
+      "pt": "Claro, essa curva em forma de figura 8 que você recebe quando marca a posição do sol no céu da Terra ao mesmo tempo todos os dias em um ano é chamada de analema. À esquerda, o Análema da Figura 8 da Terra foi rastreado pela combinação de imagens digitais de grande ângulo gravadas durante o ano de dezembro de 2011 a dezembro de 2012. Mas a forma de um analema depende da excentricidade da órbita de um planeta e da inclinação de seu eixo de rotação, para que as curvas de Análema possam parecer diferentes para diferentes mundos. Veja Marte, por exemplo. A inclinação axial do planeta vermelho é semelhante à da Terra, mas sua órbita em torno do mesmo sol é mais excêntrica (menos circular) que a órbita da Terra. Como visto na superfície marciana, o analema rastreado no painel da mão direita tem a forma mais como uma queda de lágrima. A oportunidade de Marte Rover capturou as imagens usadas no ano marciano, correspondendo às datas da Terra em julho de 2006 a junho de 2008. É claro que as datas do solstício de cada mundo ainda estão no topo e na parte inferior de suas diferentes curvas de analêmma. O último solstício de Marte do Norte do Norte foi em 29 de maio de 2025. O solstício de verão de 2025 do Northern do nosso planeta justo é em 21 de junho, 2:42 UTC."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2506/AnalemmaEarthMars1200.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2506/AnalemmaEarthMars.jpg",
+    "copyright": "Tunc Tezel"
+  },
+  {
     "date": "2025-06-20",
     "title": {
       "en": "Major Lunar Standstill 2024-2025",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2505/NGC6366_1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2505/NGC6366_3500.jpg",
     "copyright": "Massimo Di Fusco"
-  },
-  {
-    "date": "2025-05-22",
-    "title": {
-      "en": "Curly Spiral Galaxy M63",
-      "pt": "Galáxia espiral curly M63"
-    },
-    "explanation": {
-      "en": "A bright spiral galaxy of the northern sky, Messier 63 is nearby, about 30 million light-years distant toward the loyal constellation Canes Venatici. Also cataloged as NGC 5055, the majestic island universe is nearly 100,000 light-years across, about the size of our own Milky Way. Its bright core and majestic spiral arms lend the galaxy its popular name, The Sunflower Galaxy. This exceptionally deep exposure also follows faint loops and curling star streams far into the galaxy's halo. Extending nearly 180,000 light-years from the galactic center, the star streams are likely remnants of tidally disrupted satellites of M63. Other satellite galaxies of M63 can be spotted in the remarkable wide-field image, including dwarf galaxies, which could contribute to M63's star streams in the next few billion years.",
-      "pt": "Uma galáxia espiral brilhante do céu do norte, Messier 63 está nas proximidades, cerca de 30 milhões de anos-luz distantes em direção aos leais bastões de constelação Venatici. Também catalogado como NGC 5055, o Majestic Island Universe tem quase 100.000 anos-luz de diâmetro, do tamanho de nossa própria Via Láctea. Seu núcleo brilhante e braços espirais majestosos emprestam à galáxia seu nome popular, a galáxia do girassol. Essa exposição excepcionalmente profunda também segue loops fracos e os riachos de estrela do curling estão no halo da galáxia. Estendendo quase 180.000 anos-luz do centro galáctico, os riachos estrelados provavelmente são remanescentes de satélites interrompidos em termos de M63. Outras galáxias de satélite do M63 podem ser vistas na notável imagem de campo largo, incluindo galáxias anãs, que podem contribuir para os fluxos estrelas do M63 nos próximos bilhões de anos."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2505/M63_HaLRGB_Apod1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2505/M63_HaLRGB_Apod2048.jpg",
-    "copyright": "Alberto Pisabarro"
   }
 ]
