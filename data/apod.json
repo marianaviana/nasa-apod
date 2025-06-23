@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-06-23",
+    "title": {
+      "en": "W5: Pillars of Star Formation",
+      "pt": "W5: Pilares da Formação Estrela"
+    },
+    "explanation": {
+      "en": "How do stars form? Images of the star forming region W5 like those in the infrared by NASA's Wide Field Infrared Survey Explorer (WISE, later NEOWISE) satellite provide clear clues with indications that massive stars near the center of empty cavities are older than stars near the edges.  A likely reason for this is that the older stars in the center are actually triggering the formation of the younger edge stars.  The triggered star formation occurs when hot outflowing gas compresses cooler gas into knots dense enough to gravitationally contract into stars.  In the featured scientifically colored infrared image, spectacular pillars left slowly evaporating from the hot outflowing gas provide further visual clues. W5 is also known as Westerhout 5 (W5) and IC 1848.  Together with IC 1805, the nebulas form a complex region of star formation popularly dubbed the Heart and Soul Nebulas. The featured image highlights a part of W5 spanning about 2,000 light years that is rich in star forming pillars.  W5 lies about 6,500 light years away toward the constellation of Cassiopeia.   APOD Turns 30!: Free public lecture in Cork, Ireland tomorrow (Tuesday) at 7 pm",
+      "pt": "Como se formam as estrelas? As imagens da região de formação de estrelas W5 como as do infravermelho pelo amplo satélite da Pesquisa Infravermelho de Campo de Campo da NASA (Wise, mais tarde Neowise) fornecem pistas claras com indicações de que estrelas maciças próximas ao centro das cavidades vazias são mais antigas que as estrelas próximas às bordas.  Uma razão provável para isso é que as estrelas mais antigas do centro estão realmente desencadeando a formação das estrelas da borda mais jovem.  A formação de estrelas desencadeada ocorre quando o gás que sai o gás comprime gás mais frio em nós densos o suficiente para se contrair gravitacionalmente em estrelas.  Na imagem infravermelha de cor cientificamente em destaque, os pilares espetaculares deixam lentamente evaporando -se do gás quente de saída, fornecem mais pistas visuais. O W5 também é conhecido como Westerhout 5 (W5) e IC 1848. Juntamente com o IC 1805, as nebulas formam uma região complexa de formação de estrelas popularmente apelidada de Nebulas de coração e alma. A imagem em destaque destaca uma parte do W5 que abrange cerca de 2.000 anos -luz, rico em pilares de formação de estrelas.  W5 fica a cerca de 6.500 anos -luz de distância em direção à constelação de Cassiopeia.   APOD faz 30!: Palestra pública gratuita em Cork, Irlanda amanhã (terça -feira) às 19h"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2506/ic1848_WISEantonucci_1080.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2506/ic1848_WISEantonucci_1824.jpg",
+    "copyright": ":, Francesco Antonucci,"
+  },
+  {
     "date": "2025-06-22",
     "title": {
       "en": "A Berry Bowl of Martian Spherules",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2505/BeneathJupiter_Juno_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2505/BeneathJupiter_Juno_vertical960.jpg",
     "copyright": ", NASA, Juno, SwRI, MSSS;,  Processing &, License:, Gerald Eichstädt & , Seán Doran,"
-  },
-  {
-    "date": "2025-05-24",
-    "title": {
-      "en": "Deimos Before Sunrise",
-      "pt": "Deimos antes do nascer do sol"
-    },
-    "explanation": {
-      "en": "Deimos takes 30 hours and 18 minutes to complete one orbit around the Red Planet. That's a little more than one Martian day or sol which is about 24 hours and 40 minutes long, so Deimos drifts westward across the Martian sky. About 15 kilometers across at its widest, the smallest of Mars' two moons is bright though. In fact Deimos is the brightest celestial object in this Martian skyscape captured before sunrise by Perseverance on March 1, the 1,433rd sol of the Mars rover's mission. The image is a composed of 16 exposures recorded by one of the rover's navigation cameras. The individual exposures were combined into a single image for an enhanced low light view. Regulus and Algeiba, bright stars in the constellation Leo, are also visible in the dark Martian predawn sky.",
-      "pt": "Deimos leva 30 horas e 18 minutos para concluir uma órbita ao redor do planeta vermelho. Isso é pouco mais de um dia ou sol marciano, com cerca de 24 horas e 40 minutos de duração, então Deimos flutua para o oeste pelo céu marciano. Cerca de 15 quilômetros de diâmetro mais largo, o menor das duas luas de Marte é brilhante. De fato, Deimos é o objeto celestial mais brilhante nesta paisagem marciana capturada antes do nascer do sol por perseverança em 1º de março, o 1.433º Sol da missão do Mars Rover. A imagem é composta por 16 exposições registradas por uma das câmeras de navegação do Rover. As exposições individuais foram combinadas em uma única imagem para uma visão de baixa luz aprimorada. Regulus e Algeiba, estrelas brilhantes na constelação de Leo, também são visíveis no céu escuro do primavera martiano."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2505/PIA26556_1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2505/PIA26556_2048.jpg",
-    "copyright": null
   }
 ]
