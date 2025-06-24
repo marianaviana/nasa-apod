@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-06-24",
+    "title": {
+      "en": "In the Center of Spiral Galaxy M61",
+      "pt": "No centro da Galaxia Spiral M61"
+    },
+    "explanation": {
+      "en": "Is there a spiral galaxy in the center of this spiral galaxy? Sort of.  Image data from the Hubble Space Telescope, the European Southern Observatory, and smaller telescopes on planet Earth are combined in this detailed portrait of face-on spiral galaxy Messier 61 (M61) and its bright center. A mere 55 million light-years away in the Virgo Cluster of Galaxies, M61 is also known as NGC 4303.  It's considered to be an example of a barred spiral galaxy similar to our own Milky Way.  Like other spiral galaxies, M61 also features sweeping spiral arms, cosmic dust lanes, pinkish star forming regions, and young blue star clusters.  Its core houses an active supermassive black hole surrounded by a bright nuclear spiral -- infalling star-forming gas that itself looks like a separate spiral galaxy.    APOD Turns 30!: Free public lecture in Cork, Ireland TONIGHT (Tuesday) at 7 pm",
+      "pt": "Existe uma galáxia em espiral no centro dessa galáxia em espiral? Mais ou menos.  Os dados da imagem do Telescópio Espacial Hubble, do Observatório Europeu do Sul e dos telescópios menores no planeta Terra são combinados neste retrato detalhado do Galaxy Spiral Messier 61 (M61) e seu centro brilhante. A meros 55 milhões de anos-luz de distância no cluster de Galáxias de Virgem, o M61 também é conhecido como NGC 4303. É considerado um exemplo de uma galáxia espiral barrada semelhante à nossa própria Via Láctea.  Como outras galáxias em espiral, o M61 também apresenta braços espirais amplos, pistas de poeira cósmica, regiões de formação de estrelas rosadas e jovens aglomerados de estrelas azuis.  Seu núcleo abriga um buraco negro supermassivo ativo, cercado por uma espiral nuclear brilhante-um gás que se formava estrelas que se parece com uma galáxia espiral separada.    APOD faz 30!: Palestra pública gratuita em Cork, Irlanda hoje à noite (terça -feira) às 19h"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2506/M61_HubbleEsoGendler_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2506/M61_HubbleEsoGendler_2753.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-06-23",
     "title": {
       "en": "W5: Pillars of Star Formation",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2505/NGC2256_Webb_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2505/NGC2256_Webb_1280.jpg",
     "copyright": null
-  },
-  {
-    "date": "2025-05-25",
-    "title": {
-      "en": "Beneath Jupiter",
-      "pt": "Sob Júpiter"
-    },
-    "explanation": {
-      "en": "Jupiter is stranger than we knew. NASA's Juno spacecraft has now completed over 70 swoops past Jupiter as it moves around its highly elliptical orbit. Pictured from 2017, Jupiter is seen from below where, surprisingly, the horizontal bands that cover most of the planet disappear into swirls and complex patterns.  A line of white oval clouds is visible nearer to the equator.  Impressive results from Juno show that Jupiter's weather phenomena can extend deep below its cloud tops, that Jupiter's center has a core that is unexpectedly large and soft, and that Jupiter's magnetic field varies greatly with location.  Although Juno is scheduled to keep orbiting Jupiter further into 2025, at some time the robotic spacecraft will be maneuvered to plunge into the giant planet.    Jigsaw Jumble: Astronomy Puzzle of the Day",
-      "pt": "Júpiter é mais estranho do que sabíamos. A SpaceCraft Juno da NASA já completou mais de 70 pancadas além de Júpiter, pois se move em torno de sua órbita altamente elíptica. Na foto de 2017, Júpiter é visto de baixo onde, surpreendentemente, as bandas horizontais que cobrem a maior parte do planeta desaparecem em redemoinhos e padrões complexos.  Uma linha de nuvens ovais brancas é visível mais próximo do equador.  Resultados impressionantes de Juno mostram que os fenômenos climáticos de Júpiter podem se estender profundamente abaixo de seus tops de nuvens, que o centro de Júpiter tem um núcleo que é inesperadamente grande e suave, e que o campo magnético de Júpiter varia muito com a localização.  Embora Juno esteja programado para manter o orbitar Júpiter em 2025, em algum momento a espaçonave robótica será manobrada para mergulhar no planeta gigante.    Quebra -cabeça: quebra -cabeça da astronomia do dia"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2505/BeneathJupiter_Juno_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2505/BeneathJupiter_Juno_vertical960.jpg",
-    "copyright": ", NASA, Juno, SwRI, MSSS;,  Processing &, License:, Gerald Eichstädt & , Seán Doran,"
   }
 ]
