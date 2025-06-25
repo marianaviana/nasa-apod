@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-06-25",
+    "title": {
+      "en": "Rubin's First Look: A Sagittarius Skyscape",
+      "pt": "Primeiro visual de Rubin: um Sagitário Skyscape"
+    },
+    "explanation": {
+      "en": "This interstellar skyscape spans over 4 degrees across crowded starfields toward the constellation Sagittarius and the central Milky Way. A First Look image captured at the new NSF–DOE Vera C. Rubin Observatory, the bright nebulae and star clusters featured include famous stops on telescopic tours of the cosmos: Messier 8 and Messier 20. An expansive star-forming region over a hundred light-years across, Messier 8 is also known as the Lagoon Nebula. About 4,000 light-years away the Lagoon Nebula harbors a remarkable cluster of young, massive stars. Their intense radiation and stellar winds energize and agitate this cosmic lagoon's turbulent depths. Messier 20's popular moniker is the Trifid. Divided into three parts by dark interstellar dust lanes, the Trifid Nebula's glowing hydrogen gas creates its dominant red color. But contrasting blue hues in the colorful Trifid are due to dust reflected starlight. The Rubin Observatory visited the Trifid-Lagoon field to acquire all the image data during parts of four nights (May 1-4). At full resolution, Rubin's magnificent Sagittarius skyscape is 84,000 pixels wide and 51,500 pixels tall.",
+      "pt": "Este Skyscape interestelar se estende a mais de 4 graus em campos estrelados em direção à constelação de Sagitário e à Via Láctea Central. Uma imagem de primeiro visual capturada no novo Observatório NSF-DOE VERA C. RUBIN, as nebulosas brilhantes e os aglomerados de estrelas em destaque incluem paradas famosas em passeios telescópicos pelo Cosmos: Messier 8 e Messier 20. Uma região abrangente que se formava em centenas de anos-luz, Messier 8 também é conhecido como a nebulos de lagoaon. A cerca de 4.000 anos-luz de distância, a nebulosa da lagoa abriga um aglomerado notável de estrelas jovens e massivas. Sua intensa radiação e ventos estelares energizam e agitam as profundidades turbulentas dessa lagoa cósmica. O apelido popular de Messier 20 é o trífido. Dividido em três partes por pistas de poeira interestelar escura, o gás de hidrogênio brilhante do nebuloso trívio cria sua cor vermelha dominante. Mas os tons azuis contrastantes no trifídeo colorido são devidos ao pó refletido na luz das estrelas. O Observatório Rubin visitou o campo do trívio-lagoa para adquirir todos os dados da imagem durante partes de quatro noites (1 a 4 de maio). Em resolução total, a magnífica Sagitário Sagitário de Rubin tem 84.000 pixels de largura e 51.500 pixels de altura."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2506/SagittariusTrip_Rubin1100.png",
+    "hdurl": "https://apod.nasa.gov/apod/image/2506/SagittariusTrip_Rubin.png",
+    "copyright": null
+  },
+  {
     "date": "2025-06-24",
     "title": {
       "en": "In the Center of Spiral Galaxy M61",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2505/RhoZeta_Nowak_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2505/RhoZeta_Nowak_2560.jpg",
     "copyright": ", Ireneusz Nowak,"
-  },
-  {
-    "date": "2025-05-26",
-    "title": {
-      "en": "Spiral Galaxy NGC 2566 from Webb",
-      "pt": "Galaxy Spiral NGC 2566 da Webb"
-    },
-    "explanation": {
-      "en": "What’s happening in the center of spiral galaxy NGC 2566? First, the eight rays that appear to be coming out of the center in the featured infrared image are not real — they are diffraction spikes caused by the mechanical structure of the Webb space telescope itself. The center of NGC 2566 is bright but not considered unusual, which means that it likely contains a supermassive black hole, although currently not very active. At only 76 million light years away, the light we see from NGC 2566 today left when dinosaurs roamed the Earth. The picturesque galaxy is close enough so that Earthly telescopes, including Webb and Hubble, can resolve the turbulent clouds of gas and dust where stars can form and so allows study of stellar evolution. NGC 2566, similar in size to our Milky Way Galaxy, is notable for its bright central bar and its prominent outer spiral arms.",
-      "pt": "O que está acontecendo no centro da Spiral Galaxy NGC 2566? Primeiro, os oito raios que parecem estar saindo do centro na imagem infravermelha em destaque não são reais - são picos de difração causados ​​pela estrutura mecânica do próprio telescópio espacial Webb. O centro do NGC 2566 é brilhante, mas não é considerado incomum, o que significa que provavelmente contém um buraco negro supermassivo, embora atualmente não seja muito ativo. A apenas 76 milhões de anos -luz de distância, a luz que vemos do NGC 2566 hoje deixou quando os dinossauros percorreram a Terra. A pitoresca galáxia está próxima o suficiente para que os telescópios terrestres, incluindo Webb e Hubble, possam resolver as nuvens turbulentas de gás e poeira onde as estrelas podem se formar e, portanto, permitem o estudo da evolução estelar. NGC 2566, de tamanho semelhante à nossa Galaxia da Via Láctea, é notável por sua barra central brilhante e seus proeminentes braços espirais externos."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2505/NGC2256_Webb_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2505/NGC2256_Webb_1280.jpg",
-    "copyright": null
   }
 ]
