@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-06-26",
+    "title": {
+      "en": "The Seagull Nebula",
+      "pt": "A nebulosa gaivota"
+    },
+    "explanation": {
+      "en": "An interstellar expanse of glowing gas and obscuring dust presents a bird-like visage to astronomers from planet Earth, suggesting its popular moniker, the Seagull Nebula. This broadband portrait of the cosmic bird covers a 3.5-degree wide swath across the plane of the Milky Way, in the direction of Sirius, alpha star of the constellation of the Big Dog (Canis Major). The bright head of the Seagull Nebula is cataloged as IC 2177, a compact, dusty emission and reflection nebula with embedded massive star HD 53367. The larger emission region, encompassing objects with other catalog designations, is Likely part of an extensive shell structure swept up by successive supernova explosions. The notable bluish arc below and right of center is a bow shock from runaway star FN Canis Majoris. Dominated by the reddish glow of atomic hydrogen, this complex of interstellar gas and dust clouds with other stars of the Canis Majoris OB1 association spans over 200 light-years at the Seagull Nebula's estimated 3,800 light-year distance.",
+      "pt": "Uma extensão interestelar de gás brilhante e poeira obscurecida apresenta um rosto semelhante a um pássaro para os astrônomos do planeta Terra, sugerindo seu apelido popular, a nebulosa gaivota. Este retrato de banda larga do pássaro cósmico cobre uma faixa de 3,5 graus em todo o plano da Via Láctea, na direção de Sirius, estrela alfa da constelação do cachorro grande (Canis Major). A cabeça brilhante da nebulosa gaivota é catalogada como IC 2177, uma nebulosa compacta e emissora empoeirada e reflexão com uma enorme estrela incorporada HD 53367. A região de emissão maior, abrangendo objetos com outras designações de catálogo, é provavelmente parte de uma extensa estrutura de conchas que é transmitida por sucessivo de designações de sucessivo. O notável arco azulado abaixo e o centro do centro é um choque de arco da estrela fugitiva FN Canis majoris. Dominado pelo brilho avermelhado do hidrogênio atômico, esse complexo de nuvens de gás e poeira interestelares com outras estrelas da Associação de Canis Majoris OB1 abrange mais de 200 anos-luz na distância de 3.800 anos de ano-luz do Seagull Nebula."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2506/IC2177SeagullLRGB-APOD1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2506/IC2177SeagullLRGB-APOD2048.jpg",
+    "copyright": "Timothy Martin"
+  },
+  {
     "date": "2025-06-25",
     "title": {
       "en": "Rubin's First Look: A Sagittarius Skyscape",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2505/hs-2015-42-a-largeHH241024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2505/hs-2015-42-a-fullHH24.jpg",
     "copyright": null
-  },
-  {
-    "date": "2025-05-27",
-    "title": {
-      "en": "Zeta and Rho Ophiuchi with Milky Way",
-      "pt": "Zeta e Rho Ophiuchi com Via Láctea"
-    },
-    "explanation": {
-      "en": "Behold one of the most photogenic regions of the night sky, captured impressively.  Featured, the band of our Milky Way Galaxy runs diagonally along the bottom-left corner, while the colorful Rho Ophiuchi cloud complex is visible just right of center and the large red circular Zeta Ophiuchi Nebula appears near the top.  In general, red emanates from nebulas glowing in the light of excited hydrogen gas, while blue marks interstellar dust preferentially reflecting the light of bright young stars.  Thick dust usually appears dark brown.  Many iconic objects of the night sky appear, including (can you find them?) the bright star Antares, the globular star cluster M4, and the Blue Horsehead nebula. This wide field composite, taken over 17 hours, was captured from South Africa last June.    Explore Your Universe: Random APOD Generator",
-      "pt": "Veja uma das regiões mais fotogênicas do céu noturno, capturadas de forma impressionante.  Em destaque, a banda de nossa Galaxia da Via Láctea corre na diagonal ao longo do canto inferior esquerdo, enquanto o colorido complexo de nuvem de Rho Ophiuchi é visível na direita do centro e a grande nebulosa circular de Zeta Ophiuchi aparece perto do topo.  Em geral, o vermelho emana das nebulas brilhando à luz do gás de hidrogênio excitado, enquanto o pó interstelar de marca azul refletindo preferencialmente a luz de estrelas jovens brilhantes.  Poeira grossa geralmente parece marrom escuro.  Muitos objetos icônicos do céu noturno aparecem, incluindo (você pode encontrá -los?) O Bright Star Antares, o Globular Star Cluster M4 e a nebulosa Blue Horsehead. Este amplo composto de campo, tirado mais de 17 horas, foi capturado na África do Sul em junho passado.    Explore seu universo: gerador APOD aleatório"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2505/RhoZeta_Nowak_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2505/RhoZeta_Nowak_2560.jpg",
-    "copyright": ", Ireneusz Nowak,"
   }
 ]
