@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-06-27",
+    "title": {
+      "en": "Messier 109",
+      "pt": "Messier 109"
+    },
+    "explanation": {
+      "en": "Big beautiful barred spiral galaxy Messier 109 is the 109th entry in Charles Messier's famous catalog of bright Nebulae and Star Clusters. You can find it just below the Big Dipper's bowl in the northern constellation Ursa Major. In fact, bright dipper star Phecda, Gamma Ursa Majoris, produces the glare at the upper right corner of this telescopic frame. M109's prominent central bar gives the galaxy the appearance of the Greek letter \"theta\", θ, a common mathematical symbol representing an angle. M109 spans a very small angle in planet Earth's sky though, about 7 arcminutes or 0.12 degrees. But that small angle corresponds to an enormous 120,000 light-year diameter at the galaxy's estimated 60 million light-year distance. The brightest member of the now recognized Ursa Major galaxy cluster, M109 (aka NGC 3992) is joined by spiky foreground stars. Three small, fuzzy bluish galaxies also on the scene, identified (top to bottom) as UGC 6969, UGC 6940 and UGC 6923, are possibly satellite galaxies of the larger barred spiral galaxy Messier 109.",
+      "pt": "Big Beautiful Galaxy Messier 109 é a 109ª entrada no famoso catálogo de nebulosas brilhantes de Charles Messier e aglomerados de estrelas. Você pode encontrá -lo logo abaixo da tigela do Big Dipper na constelação do norte, Ursa Major. De fato, a estrela de dipper brilhante Phecda, Gamma Ursa majoris, produz o brilho no canto superior direito dessa estrutura telescópica. A proeminente barra central do M109 dá à galáxia a aparência da letra grega \"Theta\", θ, um símbolo matemático comum que representa um ângulo. O M109 abrange um ângulo muito pequeno no céu do planeta Terra, cerca de 7 arcminutes ou 0,12 graus. Mas esse pequeno ângulo corresponde a um enorme diâmetro de 120.000 anos-luz na distância estimada em 60 milhões de anos da galáxia. O membro mais brilhante do agora reconhecido URSA Major Galaxy Cluster, M109 (também conhecido como NGC 3992), é acompanhado por estrelas de primeiro plano pontiagudas. Três pequenas galáxias azuladas difusas também em cena, identificadas (de cima para baixo) como UGC 6969, UGC 6940 e UGC 6923, são galáxias de satélite da galáxia espiral mais barrada de Galaxy Messier 109."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2506/M109_Robert_Eder1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2506/M109_Robert_Eder.jpg",
+    "copyright": "Robert Eder"
+  },
+  {
     "date": "2025-06-26",
     "title": {
       "en": "The Seagull Nebula",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2505/sexa_gemsbock_cdk_pub1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2505/sexa_gemsbock_cdk_pub.jpg",
     "copyright": "Franz Hofmann"
-  },
-  {
-    "date": "2025-05-28",
-    "title": {
-      "en": "Herbig-Haro 24",
-      "pt": "Herbig-Haro 24"
-    },
-    "explanation": {
-      "en": "This might look like a double-bladed lightsaber, but these two cosmic jets actually beam outward from a newborn star in a galaxy near you. Constructed from Hubble Space Telescope image data, the stunning scene spans about half a light-year across Herbig-Haro 24 (HH 24), some 1,300 light-years or 400 parsecs away in the stellar nurseries of the Orion B molecular cloud complex. Hidden from direct view, HH 24's central protostar is surrounded by cold dust and gas flattened into a rotating accretion disk. As material from the disk falls toward the young stellar object, it heats up. Opposing jets are blasted out along the system's rotation axis. Cutting through the region's interstellar matter, the narrow, energetic jets produce a series of glowing shock fronts along their path.",
-      "pt": "Isso pode parecer um sabre de luz de lâmina dupla, mas esses dois jatos cósmicos realmente radiem para fora de uma estrela recém-nascida em uma galáxia perto de você. Construídos a partir de dados de imagem do Telescópio Espacial Hubble, a cena impressionante abrange cerca de meio ano-luz através de Herbig-Haro 24 (HH 24), cerca de 1.300 anos-luz ou 400 parsecs de distância nos viveiros estelares do complexo de nuvem molecular de Orion B. Escondido da vista direta, o protostar central do HH 24 é cercado por poeira a frio e gás achatado em um disco de acréscimo rotativo. À medida que o material do disco cai em direção ao objeto jovem estelar, ele aquece. Os jatos opostos são explodidos ao longo do eixo de rotação do sistema. Cortando a matéria interestelar da região, os jatos estreitos e energéticos produzem uma série de frentes de choque brilhante ao longo de seu caminho."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2505/hs-2015-42-a-largeHH241024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2505/hs-2015-42-a-fullHH24.jpg",
-    "copyright": null
   }
 ]
