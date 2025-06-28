@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-06-28",
+    "title": {
+      "en": "Lunar Farside",
+      "pt": "Lunar Farmide"
+    },
+    "explanation": {
+      "en": "Tidally locked in synchronous rotation, the Moon always presents its familiar nearside to denizens of planet Earth. From lunar orbit, the Moon's farside can become familiar, though. In fact this sharp picture, a mosaic from the Lunar Reconnaissance Orbiter's wide angle camera, is centered on the lunar farside. Part of a global mosaic of over 15,000 images acquired between November 2009 and February 2011, the highest resolution version shows features at a scale of 100 meters per pixel. Surprisingly, the rough and battered surface of the farside looks very different from the nearside covered with smooth dark lunar maria.  A likely explanation is that the farside crust is thicker, making it harder for molten material from the interior to flow to the surface and form dark, smooth maria.",
+      "pt": "Tidalmente trancada em rotação síncrona, a lua sempre apresenta seu familiar próximo aos habitantes do planeta Terra. Da órbita lunar, o distante da lua pode se familiarizar. De fato, essa imagem aguda, um mosaico da câmera ampla de reconhecimento de reconhecimento lunar, está centrado no Lunar Farmide. Parte de um mosaico global de mais de 15.000 imagens adquiridas entre novembro de 2009 e fevereiro de 2011, a versão com maior resolução mostra recursos em uma escala de 100 metros por pixel. Surpreendentemente, a superfície áspera e agitada do Farmide parece muito diferente do lado próximo, coberto com Maria Lunar Lunar lisa.  Uma explicação provável é que a crosta de extrema é mais espessa, dificultando o material fundido do interior para fluir para a superfície e formar Maria escuro e liso."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2506/farside_lro800.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2506/farside_lro1600.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-06-27",
     "title": {
       "en": "Messier 109",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2505/Ma2024-5_1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2505/Ma2025-5.jpg",
     "copyright": "Tunc Tezel"
-  },
-  {
-    "date": "2025-05-29",
-    "title": {
-      "en": "Irregular Dwarf Galaxy Sextans A",
-      "pt": "Galaxy sextans de anão irregular A"
-    },
-    "explanation": {
-      "en": "Grand spiral galaxies often seem to get all the attention, flaunting young, bright, blue star clusters and pinkish star forming regions along graceful, symmetric spiral arms. But small galaxies form stars too, like irregular dwarf galaxy Sextans A. Its young star clusters and star forming regions are gathered into a gumdrop-shaped region a mere 5,000 light-years across. Seen toward the navigational constellation Sextans, the small galaxy lies some 4.5 million light-years distant. That puts it near the outskirts of the local group of galaxies, that includes the large, massive spirals Andromeda and our own Milky Way. Brighter Milky Way foreground stars appear spiky and yellowish in this colorful telescopic view of Sextans A.",
-      "pt": "As galáxias da Grand Spiral geralmente parecem chamar toda a atenção, ostentinos de aglomerados jovens, brilhantes e azuis e regiões de estrelas rosadas ao longo de braços espirais graciosos e simétricos. Mas as pequenas galáxias também formam estrelas, como o Galaxy Sextans de anão irregular A. Seus jovens aglomerados de estrelas e regiões de formação de estrelas são coletadas em uma região em forma de gumdrop, apenas 5.000 anos-luz de diâmetro. Visto em direção aos sextanos de constelação de navegação, a pequena galáxia fica cerca de 4,5 milhões de anos-luz distantes. Isso o coloca perto dos arredores do grupo local de galáxias, que inclui as grandes e enormes espirais Andromeda e nossa própria Via Láctea. As estrelas mais brilhantes da Via Láctea parecem espetadas e amareladas nesta vista telescópica colorida de Sextans A."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2505/sexa_gemsbock_cdk_pub1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2505/sexa_gemsbock_cdk_pub.jpg",
-    "copyright": "Franz Hofmann"
   }
 ]
