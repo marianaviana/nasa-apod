@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-06-29",
+    "title": {
+      "en": "Dark Sand Cascades on Mars",
+      "pt": "Cascatas de areia escura em Marte"
+    },
+    "explanation": {
+      "en": "Are these trees growing on Mars? No.  Groups of dark brown streaks have been photographed by the Mars Reconnaissance Orbiter on melting pinkish sand dunes covered with light frost. The featured image was taken in 2008 April near the North Pole of Mars. At that time, dark sand on the interior of Martian sand dunes became more and more visible as the spring Sun melted the lighter carbon dioxide ice.  When occurring near the top of a dune, dark sand may cascade down the dune leaving dark surface streaks -- streaks that might appear at first to be trees standing in front of the lighter regions but cast no shadows. Objects about 25 centimeters across are resolved on this image spanning about one kilometer. Close ups of some parts of this image show billowing plumes indicating that the sand slides were occurring even while the image was being taken.    Celestial Surprise: What picture did APOD feature on your birthday? (post 1995)",
+      "pt": "Essas árvores estão crescendo em Marte? Não. Grupos de faixas marrons escuras foram fotografadas pelo Orbitador de reconhecimento de Marte em derreter dunas de areia rosada cobertas de geada leve. A imagem em destaque foi tirada em 2008 em abril, perto do Pólo Norte de Marte. Naquela época, a areia escura no interior das dunas de areia marciana se tornou cada vez mais visível quando o sol da primavera derreteu o gelo de dióxido de carbono mais claro.  Ao ocorrer perto do topo de uma duna, a areia escura pode cair em cascata pela duna, deixando as faixas da superfície escura - estrias que podem parecer a princípio em pé em frente às regiões mais claras, mas não lançam sombras. Objetos de cerca de 25 centímetros de diâmetro são resolvidos nesta imagem que abrange cerca de um quilômetro. Close -ups de algumas partes desta imagem mostram que plumas ondulantes, indicando que as lâminas de areia estavam ocorrendo mesmo enquanto a imagem estava sendo tirada.    Surpresa Celestial: que imagem o APOD apareceu no seu aniversário? (Post 1995)"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2506/almosttrees_mro_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2506/almosttrees_mro_2560.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-06-28",
     "title": {
       "en": "Lunar Farside",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2505/Afterimageorizontalcrop.jpeg",
     "hdurl": "https://apod.nasa.gov/apod/image/2505/Afterimageorizontal.jpeg",
     "copyright": "Marcella Giulia Pace"
-  },
-  {
-    "date": "2025-05-30",
-    "title": {
-      "en": "Mars in the Loop",
-      "pt": "Marte no loop"
-    },
-    "explanation": {
-      "en": "This composite of images spaced a weather-permitting 5 to 9 days apart, from 2024 September 19 (top right) through 2025 May 18 (bottom left), faithfully traces ruddy-colored Mars as it makes a clockwise loop through the constellations Gemini and Cancer in planet Earth's night sky. You can connect the dots and dates with your cursor over the image, but be sure to check out this animation of the Red Planet's 2024/25 retrograde motion. Of course Mars didn't actually reverse the direction of its orbit. Instead, the apparent backwards motion with respect to the background stars is a reflection of the orbital motion of Earth itself. Retrograde motion can be seen each time Earth overtakes and laps planets orbiting farther from the Sun, the Earth moving more rapidly through its own relatively close-in orbit.  In this case Mars' apparent eastward motion began to reverse around December 8, when it seemed to linger near open star cluster M44 in Cancer. After wandering back to the west, under Gemini's bright stars Castor and Pollux, Mars returned to pose near M44 by early May. At its brightest near opposition on 2025 January 16, Mars was a mere 96 million kilometers away.",
-      "pt": "Esse composto de imagens espaçou um tempo que permitirá 5 a 9 dias de intervalo, de 2024 19 de setembro (canto superior direito) a 2025, 18 de maio (canto inferior esquerdo), traça fielmente Marte corado, pois faz um loop no sentido horário através das constelações Gêmeos e câncer no céu noturno da Terra do Planeta. Você pode conectar os pontos e data com o cursor sobre a imagem, mas não deixe de conferir esta animação do movimento retrógrado de 2024/25 do Planeta Vermelho. É claro que Marte realmente não reverteu a direção de sua órbita. Em vez disso, o aparente movimento para trás em relação às estrelas de fundo é um reflexo do movimento orbital da própria Terra. O movimento retrógrado pode ser visto cada vez que a Terra ultrapassa e as plantas que orbitam mais do sol, a Terra se movendo mais rapidamente por sua própria órbita relativamente próxima.  Nesse caso, o aparente movimento para o leste de Marte começou a reverter por volta de 8 de dezembro, quando parecia permanecer perto de Open Star Cluster M44 no câncer. Depois de voltar para o oeste, sob as estrelas de Gemini, Castor e Pollux, Marte voltou a se posar perto do M44 no início de maio. Em sua oposição mais brilhante, em 2025, em 16 de janeiro, Marte estava a apenas 96 milhões de quilômetros de distância."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2505/Ma2024-5_1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2505/Ma2025-5.jpg",
-    "copyright": "Tunc Tezel"
   }
 ]
