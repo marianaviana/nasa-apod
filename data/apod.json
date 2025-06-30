@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-06-30",
+    "title": {
+      "en": "NGC 4651: The Umbrella Galaxy",
+      "pt": "NGC 4651: The Umbrella Galaxy"
+    },
+    "explanation": {
+      "en": "It's raining stars.  What appears to be a giant cosmic umbrella is now known to be a tidal stream of stars stripped from a small satellite galaxy. The main galaxy, spiral galaxy NGC 4651, is about the size of our Milky Way, while its stellar parasol appears to extend some 100 thousand light-years above this galaxy's bright disk. A small galaxy was likely torn apart by repeated encounters as it swept back and forth on eccentric orbits through NGC 4651. The remaining stars will surely fall back and become part of a combined larger galaxy over the next few million years. The featured deep image was captured in long exposures from Saudi Arabia. The Umbrella Galaxy lies about 50 million light-years distant toward the well-groomed northern constellation of Berenice's Hair (Coma Berenices).   APOD in a Modern Format StellarSnap",
+      "pt": "Está chovendo estrelas.  O que parece ser um guarda -chuva cósmico gigante agora é conhecido por ser um fluxo de estrelas despojado de uma pequena galáxia de satélite. A Galaxia Principal, Galaxy Spiral NGC 4651, é do tamanho da Via Láctea, enquanto seu parasol estelar parece estender cerca de 100 mil anos-luz acima do disco brilhante desta galáxia. Uma pequena galáxia provavelmente foi destruída por encontros repetidos, enquanto varreu as órbitas excêntricas através do NGC 4651. As estrelas restantes certamente voltarão e se tornarão parte de uma galáxia maior combinada nos próximos milhões de anos. A imagem profunda em destaque foi capturada em longas exposições da Arábia Saudita. A galáxia guarda-chuva fica a cerca de 50 milhões de anos-luz, distantes em direção à constelação norte bem cuidada do cabelo de Berenice (Coma Berenices).   Apod em um formato moderno Stellarsnap"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2506/UmbrellaGal_Alkuwari_960.png",
+    "hdurl": "https://apod.nasa.gov/apod/image/2506/UmbrellaGal_Alkuwari_3843.png",
+    "copyright": null
+  },
+  {
     "date": "2025-06-29",
     "title": {
       "en": "Dark Sand Cascades on Mars",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2506/Arp273Main_HubblePestana_1080.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2506/Arp273Main_HubblePestana_3079.jpg",
     "copyright": ", Domingo Pestana,"
-  },
-  {
-    "date": "2025-05-31",
-    "title": {
-      "en": "Afterimage Sunset",
-      "pt": "Pós -estimativa do pôr do sol"
-    },
-    "explanation": {
-      "en": "On May 7, the Sun setting behind a church bell tower was captured in this filtered and manipulated digital skyscape from Ragusa, Sicily, planet Earth. In this version of the image the colors look bizarre. Still, an intriguing optical illusion known as an afterimage can help you experience the same scene with a more natural looking appearance. To try it, find the sunspots of active region AR4079 grouped near the bottom of the blue solar disk. Relax and stare at the dark sunspot group for about 30 seconds, then close your eyes or shift your gaze to a plain white surface. In a moment an afterimage of the sunset should faintly appear. But the afterimage sunset will have this image's complementary colors and a more normal yellow Sun against a familiar blue sky.",
-      "pt": "Em 7 de maio, o pôr do sol atrás de uma torre sineira da igreja foi capturado nesta paisagem digital filtrada e manipulada de Ragusa, Sicília, Planet Terra. Nesta versão da imagem, as cores parecem bizarras. Ainda assim, uma intrigante ilusão de ótica conhecida como Afterimage pode ajudá -lo a experimentar a mesma cena com uma aparência mais natural. Para experimentar, encontre as manchas solares da região ativa AR4079 agrupadas perto da parte inferior do disco solar azul. Relaxe e olhe para o grupo solar escuro por cerca de 30 segundos, depois feche os olhos ou mude o olhar para uma superfície branca lisa. Em um momento, uma pós -imagem do pôr do sol deve aparecer fracamente. Mas o pôr do sol pós -imagem terá as cores complementares desta imagem e um sol amarelo mais normal contra um céu azul familiar."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2505/Afterimageorizontalcrop.jpeg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2505/Afterimageorizontal.jpeg",
-    "copyright": "Marcella Giulia Pace"
   }
 ]
