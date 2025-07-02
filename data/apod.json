@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-07-02",
+    "title": {
+      "en": "Milky Way Through Otago Spires",
+      "pt": "Via Láctea através de Spiers Otago"
+    },
+    "explanation": {
+      "en": "Does the Milky Way always rise between these two rocks? No. Capturing this stunning alignment took careful planning: being in the right place at the right time. In the featured image taken in June 2024 from Otago, New Zealand, the bright central core of our Milky Way Galaxy, home to the many of our Galaxy's 400 billion stars, can be seen between two picturesque rocks spires.  For observers in Earth's Northern Hemisphere, the core is only visible throughout the summer. As Earth orbits the Sun, different parts of the Milky Way become visible at different angles at different times of the night. As Earth rotates, the orientation of the Milky Way in the sky also shifts -- sometimes standing vertically as seen in the featured image, and other times stretching parallel to the horizon, making it harder to see. In early June, observers can watch it emerge low on the horizon after sunset and gradually arc upward to reveal its full grandeur.",
+      "pt": "A Via Láctea sempre se eleva entre essas duas rochas? Não. A captura desse alinhamento impressionante levou um planejamento cuidadoso: estar no lugar certo na hora certa. Na imagem em destaque tirada em junho de 2024 de Otago, Nova Zelândia, o núcleo central brilhante de nossa Galáxia da Via Láctea, lar de muitas das 400 bilhões de estrelas da nossa galáxia, pode ser vista entre duas pitorescas pitores de rochas.  Para observadores no hemisfério norte da Terra, o núcleo só é visível durante o verão. Enquanto a Terra orbita o sol, diferentes partes da Via Láctea se tornam visíveis em diferentes ângulos em diferentes momentos da noite. À medida que a Terra gira, a orientação da Via Láctea no céu também muda - às vezes em pé verticalmente, como visto na imagem em destaque, e outras vezes se estendendo paralelamente ao horizonte, dificultando a ver. No início de junho, os observadores podem vê -lo emergir no horizonte após o pôr do sol e gradualmente subir para revelar toda a sua grandeza."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2507/MwSpires_Chay_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2507/MwSpires_Chay_1874.jpg",
+    "copyright": ", Kavan Chay; , Text: , Ogetay Kayali, (Michigan Tech U.),"
+  },
+  {
     "date": "2025-07-01",
     "title": {
       "en": "Eye Sky a Dragon",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2506/GravityWaves_Claro_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2506/GravityWaves_Claro_1486.jpg",
     "copyright": ", Miguel Claro, (TWAN);,  Rollover Annotation: , Judy Schmidt,"
-  },
-  {
-    "date": "2025-06-02",
-    "title": {
-      "en": "Veil Nebula: Wisps of an Ancient Supernova",
-      "pt": "Nebulosa do véu: mechas de uma supernova antiga"
-    },
-    "explanation": {
-      "en": "Wisps like this are all that remain visible of a Milky Way star.  About 7,000 years ago that star exploded in a supernova, leaving the Veil Nebula.  At the time, the expanding cloud was likely as bright as a crescent Moon, remaining visible for weeks to people living at the dawn of recorded history.  Today, the resulting supernova remnant, also known as the Cygnus Loop, has faded and is now visible only through a small telescope directed toward the constellation of the Swan (Cygnus).  The remaining Veil Nebula is physically huge, however, and even though it lies about 1,400 light-years distant, it covers over five times the size of the full Moon.  The featured picture was taken in Kuwait in mid-2024 and features light emitted by hydrogen in red and oxygen in blue.  In deep images of the complete Veil Nebula like this, even studious readers might not be able to identify the iconic filaments.   Piece it All Together: Astronomy Puzzle of the Day",
-      "pt": "Fisos como esse são tudo o que permanecem visíveis de uma estrela da Via Láctea.  Cerca de 7.000 anos atrás, a estrela explodiu em uma supernova, deixando a nebulosa do véu.  Na época, a nuvem em expansão provavelmente era tão brilhante quanto uma lua crescente, permanecendo visível por semanas para pessoas que vivem no início da história registrada.  Hoje, o remanescente de supernova resultante, também conhecido como Cygnus Loop, desapareceu e agora é visível apenas através de um pequeno telescópio direcionado para a constelação do cisne (Cygnus).  A nebulosa restante do véu é fisicamente enorme, no entanto, e mesmo que esteja cerca de 1.400 anos-luz de distância, cobre mais de cinco vezes o tamanho da lua cheia.  A foto em destaque foi tirada no Kuwait em meados de 2024 e apresenta luz emitida por hidrogênio em vermelho e oxigênio em azul.  Em imagens profundas da nebulosa completa do véu como essa, até os leitores estudiosos podem não ser capazes de identificar os filamentos icônicos.   Mecue tudo: o quebra -cabeça da astronomia do dia"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2506/VeilWide_Alharbi_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2506/VeilWide_Alharbi_5169.jpg",
-    "copyright": ", Abdullah Alharbi,"
   }
 ]
