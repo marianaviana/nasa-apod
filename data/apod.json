@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-07-04",
+    "title": {
+      "en": "NGC 6946 and NGC 6939",
+      "pt": "NGC 6946 e NGC 6939"
+    },
+    "explanation": {
+      "en": "Face-on spiral galaxy NGC 6946 and open star cluster NGC 6939 share this cosmic snapshot, composed with over 68 hours of image data captured with a small telescope on planet Earth. The field of view spans spans about 1 degree or 2 full moons on the sky toward the northern constellation Cepheus. Seen through faint interstellar dust couds near the plane of our Milky Way galaxy, the stars of open cluster NGC 6939 are 5,600 light-years in the distance, near bottom right in the frame. Face-on spiral galaxy NGC 6946 is at top left, but lies some 22 million light-years away. In the last 100 years, 10 supernovae have been discovered in NGC 6946, the latest one seen in 2017. By comparison, the average rate of supernovae in our Milky Way is about 1 every 100 years or so. Of course, NGC 6946 is also known as The Fireworks Galaxy.",
+      "pt": "O Galaxy Spiral NGC 6946 e o ​​cluster de estrelas abertas NGC 6939 da Open Star compartilham esse instantâneo cósmico, composto com mais de 68 horas de dados de imagem capturados com um pequeno telescópio no planeta Terra. O campo de visão abrange cerca de 1 grau ou 2 luas cheias no céu em direção ao Cepheus da Constelação do Norte. Visto através de pó interestelar fracas, perto do plano de nossa galáxia da Via Láctea, as estrelas do cluster aberto NGC 6939 são 5.600 anos-luz à distância, perto do fundo do canto da estrutura. O Face-on Spiral Galaxy NGC 6946 fica no canto superior esquerdo, mas fica a 22 milhões de anos-luz de distância. Nos últimos 100 anos, 10 supernovas foram descobertas no NGC 6946, o mais recente observado em 2017. Em comparação, a taxa média de supernovas em nossa Via Láctea é de cerca de 1 a cada 100 anos. Obviamente, o NGC 6946 também é conhecido como Galaxia de Fireitos de Fireitos."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2507/N6946N6939pisabarro1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2507/N6946N6939pisabarro.jpg",
+    "copyright": "Alberto Pisabarro"
+  },
+  {
     "date": "2025-07-03",
     "title": {
       "en": "Nova V462 Lupi Now Visible",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2506/SavudrijaSTARTRAILS_Nadj1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2506/SavudrijaSTARTRAILS_Nadj.jpg",
     "copyright": "Branko Nadj"
-  },
-  {
-    "date": "2025-06-04",
-    "title": {
-      "en": "A Milky Road to the Rubin Observatory",
-      "pt": "Um caminho leitosa para o Observatório Rubin"
-    },
-    "explanation": {
-      "en": "Is the sky the same every night? No -- the night sky changes every night in many ways. To better explore how the night sky changes, the USA's NSF and DOE commissioned the Vera C. Rubin Observatory in Cerro Pachón, Chile. In final testing before routine operations, Rubin will begin to explore these nightly changes -- slight differences that can tell us much about our amazing universe and its surprising zoo of objects. With a mirror over 8 meters across, Rubin will continually reimage the entire visible sky every few nights to discover new supernovas, potentially dangerous asteroids, faint comets, and variable stars -- as well as mapping out the visible universe's large-scale structure.  Pictured, the distant central band of our Milky Way Galaxy appears to flow out from the newly operational observatory. Taken last month, the featured picture is a composite of 21 images across the night sky, capturing airglow on the horizon and the Small Magellanic Cloud galaxy on the lower left.    APOD Turns 30!: Free Public Lecture in Anchorage on June 11",
-      "pt": "O céu é o mesmo todas as noites? Não - o céu noturno muda todas as noites de várias maneiras. Para explorar melhor como o céu noturno muda, a NSF e o DOE dos EUA encomendaram o Observatório Vera C. Rubin em Cerro Pachón, Chile. Nos testes finais antes das operações de rotina, Rubin começará a explorar essas mudanças noturnas - pequenas diferenças que podem nos dizer muito sobre o nosso incrível universo e seu surpreendente zoológico de objetos. Com um espelho com mais de 8 metros de diâmetro, Rubin reimageá continuamente todo o céu visível a cada poucas noites para descobrir novas supernovas, asteróides potencialmente perigosos, cometas fracas e estrelas variáveis-além de mapear a estrutura em larga escala do universo visível.  Na foto, a banda central distante da nossa galáxia da Via Láctea parece fluir do recém -operacional Observatório Operacional. Tirada no mês passado, a foto em destaque é um composto de 21 imagens no céu noturno, capturando o Airglow no horizonte e a pequena galáxia de nuvem de magelanic no canto inferior esquerdo.    APOD faz 30!: Palestra pública gratuita em Anchorage em 11 de junho"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2506/RubinMw_assuncao_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2506/RubinMw_assuncao_1460.jpg",
-    "copyright": null
   }
 ]
