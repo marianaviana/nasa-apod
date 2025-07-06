@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-07-06",
+    "title": {
+      "en": "The Spiral North Pole of Mars",
+      "pt": "O pólo norte em espiral de Marte"
+    },
+    "explanation": {
+      "en": "Why is there a spiral around the North Pole of Mars?  Each winter this pole develops a new outer layer about one meter thick composed of carbon dioxide frozen out of the thin Martian atmosphere.  This fresh layer is deposited on a water-ice layer that exists year round.  Strong winds blow down from above the cap's center and swirl due to the spin of the red planet -- contributing to Planum Boreum's spiral structure.  The featured image is a perspective mosaic generated in 2017 from numerous images taken by ESA's Mars Express and elevations extracted from the laser altimeter aboard NASA's Mars Global Surveyor mission.",
+      "pt": "Por que há uma espiral ao redor do Pólo Norte de Marte?  A cada inverno, este pólo desenvolve uma nova camada externa com cerca de um metro de espessura composta de dióxido de carbono congelado da atmosfera marciana fina.  Esta nova camada é depositada em uma camada de gelo de água que existe o ano todo.  Ventos fortes sopram de cima do centro da tampa e o giro devido à rotação do planeta vermelho - contribuindo para a estrutura espiral de Planum Boreum.  A imagem em destaque é um mosaico de perspectiva gerado em 2017 a partir de inúmeras imagens tiradas pelo Mars Express da ESA e elevações extraídas do altímetro a laser a bordo da missão de inspeção global de Mars da NASA."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2507/MarsNorthPole_MarsExpress_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2507/MarsNorthPole_MarsExpress_960.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-07-05",
     "title": {
       "en": "Ou4: The Giant Squid Nebula",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2506/PIA24542_fig2_1100c.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2506/PIA24542_fig2.jpg",
     "copyright": null
-  },
-  {
-    "date": "2025-06-06",
-    "title": {
-      "en": "NGC 6302: The Butterfly Nebula",
-      "pt": "NGC 6302: A nebulosa da borboleta"
-    },
-    "explanation": {
-      "en": "The bright clusters and nebulae of planet Earth's night sky are often given the names of flowers or insects, and its whopping 3 light-year wingspan, NGC 6302 is no exception. With an estimated surface temperature of about 250,000 degrees C, the central star of the planetary nebula is transforming into a white dwarf star, becoming exceptionally hot, and shining brightly in ultraviolet light. The central star is hidden from direct view by a torus of dust, but its energetic ultraviolet light ionizes atoms in the nebula. In this sharp, telescopic view composed with narrowband image data, the ionized hydrogen and doubly ionized oxygen atoms are shown in their characteristic red and blue-green hues to reveal a stunning complex of knots and filaments within the nebula's wing-like bipolar outflows. NGC 6302 lies about 4,000 light-years away in the arachnologically correct constellation of the Scorpion (Scorpius).",
-      "pt": "Os aglomerados brilhantes e as nebulosas do céu noturno do planeta Terra geralmente recebem os nomes de flores ou insetos, e sua envergadura impressionante de 3 a um ano-luz, o NGC 6302 não é exceção. Com uma temperatura da superfície estimada de cerca de 250.000 graus C, a estrela central da nebulosa planetária está se transformando em uma estrela anã branca, tornando -se excepcionalmente quente e brilhando intensamente na luz ultravioleta. A estrela central é oculta da vista direta por um toro de poeira, mas sua luz ultravioleta energética ioniza os átomos na nebulosa. Nesta visão telescópica nítida, composta com dados de imagem de banda estreita, o hidrogênio ionizado e os átomos de oxigênio duplamente ionizados são mostrados em seus tons de vermelho e azul-esverdeado para revelar um complexo impressionante de nós e filamentos nas saídas bipolares do tipo asa da nebulosa. O NGC 6302 fica a cerca de 4.000 anos-luz de distância na constelação aracnologicamente correta do escorpião (Scorpius)."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2506/NGC-6302-LRGB-Ha-OIII_1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2506/NGC-6302-LRGB-Ha-OIII.jpg",
-    "copyright": "Mike Selby"
   }
 ]
