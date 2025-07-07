@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-07-07",
+    "title": {
+      "en": "Interstellar Comet 3I/ATLAS",
+      "pt": "Comets Interestelares 3i/Atlas"
+    },
+    "explanation": {
+      "en": "It came from outer space.  An object from outside our Solar System is now passing through at high speed. Classified as a comet because of its gaseous coma, 3I/ATLAS is only the third identified macroscopic object as being so alien. The comet's trajectory is shown in white on the featured map, where the orbits of Jupiter, Mars, and Earth are shown in gold, red, and blue. Currently Comet 3I/ATLAS is about the distance of Jupiter from the Sun -- but closing, with its closest approach to our Sun expected to be within the orbit of Mars in late October. Expected to pass near both Mars and Jupiter, 3I/ATLAS is not expected to pass close to the Earth.  The origin of Comet 3I/ATLAS remains unknown. Although initial activity indicates a relatively normal comet, future observations about 3I/ATLAS' composition and nature will surely continue.   Piece it All Together: Astronomy Puzzle of the Day",
+      "pt": "Veio do espaço sideral.  Um objeto de fora do nosso sistema solar agora está passando em alta velocidade. Classificado como um cometa por causa de seu coma gasoso, 3i/atlas é apenas o terceiro objeto macroscópico identificado como sendo tão estranho. A trajetória do cometa é mostrada em branco no mapa em destaque, onde as órbitas de Júpiter, Marte e Terra são mostradas em ouro, vermelho e azul. Atualmente, o Comet 3i/Atlas é a distância de Júpiter do sol - mas fechando, com a abordagem mais próxima do nosso sol que se espera estar dentro da órbita de Marte no final de outubro. Espera -se que não se espere que Marte e Júpiter, 3i/Atlas, passem perto da Terra.  A origem do cometa 3i/atlas permanece desconhecida. Embora a atividade inicial indique um cometa relativamente normal, observações futuras sobre a composição e a natureza de 3i/atlas certamente continuarão.   Mecue tudo: o quebra -cabeça da astronomia do dia"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2507/Interstellar3I_nasa_1080.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2507/Interstellar3I_nasa_2913.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-07-06",
     "title": {
       "en": "The Spiral North Pole of Mars",
@@ -432,21 +447,6 @@
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2506/NGC3344_hst2048.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2506/NGC3344_hst1024.jpg",
-    "copyright": null
-  },
-  {
-    "date": "2025-06-07",
-    "title": {
-      "en": "Perseverance Selfie with Ingenuity",
-      "pt": "Perseverança selfie com ingenuidade"
-    },
-    "explanation": {
-      "en": "On the Mars rover's mission Sol 46 or Earth date April 6, 2021, Perseverance held out a robotic arm to take its first selfie on Mars. The WATSON camera at the end of the arm was designed to take close-ups of Martian rocks and surface details though, and not a quick snap shot of friends and smiling faces. In the end, teamwork and weeks of planning on Mars time was required to program a complex series of exposures and camera motions to include Perseverance and its surroundings. The resulting 62 frames were composed into a detailed mosaic, one of the most complicated Mars rover selfies ever taken. In this version of the selfie, the rover's Mastcam-Z and SuperCam instruments are looking toward WATSON and the end of the rover's outstretched arm. About 4 meters (13 feet) from Perseverance is a robotic companion, the Mars Ingenuity helicopter. Perseverance has now spent over 1,500 sols exploring the surface of the Red Planet. On Earth date January 18, 2024, Ingenuity made its 72nd and final flight through the thin Martian atmosphere.",
-      "pt": "Na missão de Marte Rover Sol 46 ou na Data da Terra em 6 de abril de 2021, a perseverança estendeu um braço robótico para tirar sua primeira selfie em Marte. A câmera Watson no final do braço foi projetada para levar close-ups de rochas marcianas e detalhes da superfície, e não uma rápida foto de amigos e rostos sorridentes. No final, o trabalho em equipe e as semanas de planejamento no tempo de Marte foram obrigados a programar uma série complexa de exposições e movimentos da câmera para incluir perseverança e seus arredores. Os 62 quadros resultantes foram compostos em um mosaico detalhado, uma das selfies mais complicadas de Mars Rover já tiradas. Nesta versão do The Selfie, os instrumentos mastcam-z e supercam do rover estão olhando para Watson e o fim do braço estendido do veículo espacial. Cerca de 4 metros (13 pés) da perseverança é um companheiro robótico, o helicóptero de ingenuidade de Marte. A perseverança gastou mais de 1.500 sols explorando a superfície do planeta vermelho. Na Data da Terra, 18 de janeiro de 2024, a ingenuidade fez seu 72º e último vôo pela fina atmosfera marciana."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2506/PIA24542_fig2_1100c.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2506/PIA24542_fig2.jpg",
     "copyright": null
   }
 ]
