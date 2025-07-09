@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-07-09",
+    "title": {
+      "en": "A Beautiful Trifid",
+      "pt": "Um lindo trifido"
+    },
+    "explanation": {
+      "en": "The beautiful Trifid Nebula is a cosmic study in contrasts. Also known as M20, it lies about 5,000 light-years away toward the nebula rich constellation Sagittarius. A star forming region in the plane of our galaxy, the Trifid does illustrate three different types of astronomical nebulae; red emission nebulae dominated by light from hydrogen atoms, blue reflection nebulae produced by dust reflecting starlight, and dark nebulae where dense dust clouds appear in silhouette. But, the red emission region roughly separated into three parts by obscuring dust lanes is what lends the Trifid its popular name. Pillars and jets sculpted by newborn stars, above and right of the emission nebula's center, appear in famous Hubble Space Telescope close-up images of the region. The Trifid Nebula is about 40 light-years across. Too faint to be seen by the unaided eye, in this deep telescopic view it almost covers the area of a full moon on planet Earth's sky.",
+      "pt": "A bela nebulosa trí isso é um estudo cósmico em contrastes. Também conhecido como M20, está a cerca de 5.000 anos-luz em direção à constelação de nebulosa Rich Constellation Sagitário. Uma região de formação de estrelas no plano de nossa galáxia, o trívio ilustra três tipos diferentes de nebulosas astronômicas; Nebulosas de emissão vermelha dominadas pela luz dos átomos de hidrogênio, nebulosas de reflexão azul produzidas pela poeira refletindo a luz das estrelas e nebulosas escuras onde nuvens densas de poeira aparecem em silhueta. Mas, a região de emissão vermelha separou -se aproximadamente em três partes, obscurecendo pistas de poeira é o que empresta ao trí isso seu nome popular. Pilares e jatos esculpidos por estrelas recém-nascidas, acima e à direita do centro da nebulosa da emissão, aparecem nas famosas imagens de close-up do Telescópio Espacial Hubble da região. A nebulosa trí isso tem cerca de 40 anos-luz de diâmetro. Muito fraco para ser visto pelos olhos sem ajuda, nesta profunda visão telescópica, quase cobre a área de uma lua cheia no céu do planeta Terra."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2507/Trifid1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2507/Trifid2048.jpg",
+    "copyright": "Alessandro Cipolat Bares"
+  },
+  {
     "date": "2025-07-08",
     "title": {
       "en": "The Pleiades in Red and Blue",
@@ -432,21 +447,6 @@
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2506/EnceladusTrue_Cassini_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2506/EnceladusTrue_Cassini_960.jpg",
-    "copyright": null
-  },
-  {
-    "date": "2025-06-09",
-    "title": {
-      "en": "Between Scylla and Charybdis: A Double Cosmic Discovery",
-      "pt": "Entre Scylla e Charybdis: uma descoberta cósmica dupla"
-    },
-    "explanation": {
-      "en": "Can you identify this celestial object?  Likely not — because this is a discovery image.  Massive stars forge heavy elements in their cores and, after a few million years, end their lives in powerful supernova explosions. These remnants cool relatively quickly and fade, making them difficult to detect.  To uncover such faint, previously unknown supernova remnants, a dedicated group of amateur astrophotographers searched through sky surveys for possible supernova remnant candidates.  The result: the first-ever image of supernova remnant G115.5+9.1 — named Scylla by its discoverers—glowing faintly in the constellation of the mythological King of Aethiopia: Cepheus.  Emission from hydrogen atoms in the remnant is shown in red, and faint emission from oxygen is shown in hues of blue.  Surprisingly, another discovery lurked to the upper right: a faint, previously unknown planetary nebula candidate. In keeping with mythological tradition, it was named Charybdis (Sai 2) — a nod to the ancient Greek expression \"caught between Scylla and Charybdis\" from Homer’s Odyssey.",
-      "pt": "Você pode identificar este objeto celestial?  Provavelmente não - porque esta é uma imagem de descoberta.  Estrelas maciças forgem elementos pesados ​​em seus núcleos e, depois de alguns milhões de anos, terminam suas vidas em poderosas explosões de supernova. Esses remanescentes esfriam relativamente rapidamente e desaparecem, dificultando a detecção.  Para descobrir remanescentes de supernova tão fracos e anteriormente desconhecidos, um grupo dedicado de astrofotógrafos amadores pesquisou através de pesquisas no céu por possíveis candidatos remanescentes de supernova.  O resultado: a primeira imagem de supernova remanescente G115.5+9.1-nomeado Scylla por seus descobridores-levando fracamente na constelação do rei mitológico da Aetiopia: Cefeus.  A emissão de átomos de hidrogênio no remanescente é mostrada em vermelho, e a emissão fraca do oxigênio é mostrada em tons de azul.  Surpreendentemente, outra descoberta espreitou ao candidato superior direito: um candidato fraco e previamente desconhecido de nebulosa planetária. De acordo com a tradição mitológica, foi nomeado Charybdis (Sai ​​2) - um aceno para a expressão grega antiga \"presa entre Scylla e Charybdis\" da Odyssey de Homer."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2506/ScyllaB_LerouxGere_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2506/ScyllaB_LerouxGere_2094.jpg",
     "copyright": null
   }
 ]
