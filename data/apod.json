@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-07-10",
+    "title": {
+      "en": "Lynds Dark Nebula 1251",
+      "pt": "Lynds nebula escura 1251"
+    },
+    "explanation": {
+      "en": "Stars are forming in Lynds Dark Nebula (LDN) 1251. About 1,000 light-years away and drifting above the plane of our Milky Way galaxy, LDN 1251 is also less appetizingly known as \"The Rotten Fish Nebula.\" The dusty molecular cloud is part of a complex of dark nebulae mapped toward the Cepheus flare region. Across the spectrum, astronomical explorations of the obscuring interstellar clouds reveal energetic shocks and outflows associated with newborn stars, including the telltale reddish glow from scattered Herbig-Haro objects hiding in the image. Distant background galaxies also lurk in the scene, almost buried behind the dusty expanse. This alluring telescopic frame spans almost three full moons on the sky. That corresponds to over 25 light-years at the estimated distance of LDN 1251.",
+      "pt": "As estrelas estão se formando em Lynds Negra Nebula (LDN) 1251. A cerca de 1.000 anos-luz de distância e flutuando acima do plano de nossa galáxia da Via Láctea, o LDN 1251 também é menos conhecido como \"The Rotten Fish Nebula\". A nuvem molecular empoeirada faz parte de um complexo de nebulosas escuras mapeadas em direção à região de Cepheus. Em todo o espectro, as explorações astronômicas das nuvens interestelares obscurecedoras revelam choques e saídas energéticas associadas a estrelas recém-nascidas, incluindo o brilho avermelhado avermelhado de objetos espalhados de Herbig-Haro escondidos na imagem. Galáxias de fundo distantes também se escondem na cena, quase enterradas atrás da expansão empoeirada. Essa estrutura telescópica sedutora abrange quase três luas cheias no céu. Isso corresponde a mais de 25 anos-luz na distância estimada do LDN 1251."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2507/LDN1251gualco1024.JPG",
+    "hdurl": "https://apod.nasa.gov/apod/image/2507/LDN1251gualco2048.JPG",
+    "copyright": "Cristiano Gualco"
+  },
+  {
     "date": "2025-07-09",
     "title": {
       "en": "A Beautiful Trifid",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2506/25BrightestStars_Jittasaiyapan_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2506/25BrightestStars_Jittasaiyapan_1500.jpg",
     "copyright": ", Tragoolchitr Jittasaiyapan,"
-  },
-  {
-    "date": "2025-06-10",
-    "title": {
-      "en": "Enceladus in True Color",
-      "pt": "Encélado na cor verdadeira"
-    },
-    "explanation": {
-      "en": "Do oceans under the ice of Saturn's moon Enceladus contain life?  A reason to think so involves  long features -- some dubbed tiger stripes -- that are known to be spewing ice from the moon's icy interior into space. These surface cracks create clouds of fine ice particles over the moon's South Pole and create  Saturn's mysterious E-ring.  Evidence for this has come from the robot Cassini spacecraft that orbited Saturn from 2004 to 2017.  Pictured here, a high resolution image of Enceladus is shown in true color from a close flyby.  The deep crevasses are partly shadowed.  Why Enceladus is active remains a mystery, as the neighboring moon Mimas, approximately the same size, appears quite dead. A analysis of ejected ice grains has yielded evidence that complex organic molecules. These large carbon-rich molecules bolster -- but do not prove -- that oceans under Enceladus' surface could contain life.   APOD Turns 30!: Free public lecture in Anchorage tomorrow (Wednesday) at 7 pm",
-      "pt": "Os oceanos sob o gelo da lua de Saturno, Encélado, contêm vida?  Uma razão para pensar que envolve características longas - algumas listras de tigre dubladas - que são conhecidas por vomitar gelo do interior gelado da lua no espaço. Essas rachaduras na superfície criam nuvens de partículas finas de gelo sobre o Pólo Sul da Lua e criam o misterioso e-ring de Saturno.  As evidências para isso vieram da espaçonave robô Cassini que orbitou Saturno de 2004 a 2017. Na foto aqui, uma imagem de alta resolução de Enceladus é mostrada na cor verdadeira de um voo próximo.  As fendas profundas são parcialmente sombreadas.  Por que Encélado é ativo continua sendo um mistério, pois a lua vizinha Mimas, aproximadamente do mesmo tamanho, parece bastante morta. Uma análise dos grãos de gelo ejetada produziu evidências de que moléculas orgânicas complexas. Essas grandes moléculas ricas em carbono reforçam-mas não provam-que os oceanos sob a superfície de Encélado podem conter a vida.   APOD faz 30!: Palestra pública gratuita em Anchorage amanhã (quarta -feira) às 19h"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2506/EnceladusTrue_Cassini_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2506/EnceladusTrue_Cassini_960.jpg",
-    "copyright": null
   }
 ]
