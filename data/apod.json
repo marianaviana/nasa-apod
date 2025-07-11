@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-07-11",
+    "title": {
+      "en": "The Veins of Heaven",
+      "pt": "As veias do céu"
+    },
+    "explanation": {
+      "en": "Transfusing sunlight as the sky grew darker, this exceptional display of noctilucent clouds was captured on July 10, reflected in the calm waters of Vallentuna Lake near Stockholm, Sweden. From the edge of space, about 80 kilometers above Earth's surface, the icy clouds themselves still reflect sunlight, even though the Sun is below the horizon as seen from the ground. Usually spotted at high latitudes in summer months, the night shining clouds have made a strong showing so far during the short northern summer nights. Also known as polar mesopheric clouds they are understood to form as water vapor driven into the cold upper atmosphere condenses on the fine dust particles supplied by disintegrating meteors or volcanic ash.",
+      "pt": "Transfundindo a luz solar à medida que o céu ficou mais escuro, essa exibição excepcional de nuvens noturnas foi capturada em 10 de julho, refletida nas águas calmas do lago Valentuna, perto de Estocolmo, na Suécia. Da beira do espaço, a cerca de 80 quilômetros acima da superfície da Terra, as nuvens geladas ainda refletem a luz do sol, mesmo que o sol esteja abaixo do horizonte, como visto no chão. Geralmente manchado em altas latitudes nos meses de verão, as nuvens brilhantes da noite fizeram uma forte exibição até agora durante as curtas noites de verão do norte. Também conhecidos como nuvens mesoféricas polares, eles são entendidos como se formarem como vapor de água conduzido na atmosfera superior fria condensa nas partículas de poeira fina fornecidas por meteoros desintegrama ou cinzas vulcânicas."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2507/NLCreflectionsHeden.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2507/NLCreflectionsHeden.jpg",
+    "copyright": "Clear Skies"
+  },
+  {
     "date": "2025-07-10",
     "title": {
       "en": "Lynds Dark Nebula 1251",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2506/TSE2023-Comp48-2a1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2506/TSE2023-Comp48-2a.jpg",
     "copyright": "Fred Espenak"
-  },
-  {
-    "date": "2025-06-11",
-    "title": {
-      "en": "25 Brightest Stars in the Night Sky",
-      "pt": "25 estrelas mais brilhantes do céu noturno"
-    },
-    "explanation": {
-      "en": "Do you know the names of some of the brightest stars? It's likely that you do, even though some bright stars have names so old they date back to near the beginning of written language. Many world cultures have their own names for the brightest stars, and it is culturally and historically important to remember them.  In the interest of clear global communication, however, the International Astronomical Union (IAU) has begun to designate standardized star names.  Featured here in true color are the 25 brightest stars in the night sky, currently as seen by humans, coupled with their IAU-recognized names. Some star names have interesting meanings, including Sirius (\"the scorcher\" in Latin), Vega (\"falling\" in Arabic), and Antares (\"rival to Mars\" in Greek). You are likely even familiar with the name of at least one star too dim to make this list: Polaris.    APOD Turns 30!: Free public lecture in Anchorage TONIGHT (Wednesday) at 7 pm",
-      "pt": "Você conhece os nomes de algumas das estrelas mais brilhantes? É provável que você faça, mesmo que algumas estrelas brilhantes tenham nomes tão antigos que datam de perto do início da linguagem escrita. Muitas culturas mundiais têm seus próprios nomes para as estrelas mais brilhantes, e é cultural e historicamente importante lembrar deles.  No interesse da clara comunicação global, no entanto, a União Astronômica Internacional (IAU) começou a designar nomes de estrelas padronizados.  Apresentados aqui em True Color estão as 25 estrelas mais brilhantes do céu noturno, atualmente como vistas por humanos, juntamente com seus nomes reconhecidos pela IAU. Alguns nomes de estrelas têm significados interessantes, incluindo Sirius (\"The Scorcher\" em latim), Vega (\"Falling\" em árabe) e Antares (\"rival de Marte\" em grego). Você provavelmente está familiarizado com o nome de pelo menos uma estrela demais para fazer esta lista: Polaris.    APOD faz 30!: Palestra pública gratuita em Anchorage hoje à noite (quarta -feira) às 19h"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2506/25BrightestStars_Jittasaiyapan_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2506/25BrightestStars_Jittasaiyapan_1500.jpg",
-    "copyright": ", Tragoolchitr Jittasaiyapan,"
   }
 ]
