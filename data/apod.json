@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-07-12",
+    "title": {
+      "en": "Clouds and the Golden Moon",
+      "pt": "Nuvens e a lua dourada"
+    },
+    "explanation": {
+      "en": "As the Sun set, a bright Full Moon rose on July 10. Its golden light illuminates clouds drifting through southern hemisphere skies in this well-composed telephoto image from Conceição do Coité, Bahia, Brazil. The brightest lunar phase is captured here with both a short and long exposure. The two exposures were combined to reveal details of the lunar surface in bright moonlight and a subtle iridescence along the dramatically backlit cloudscape. Of course, July's Full Moon is a winter moon in the southern hemisphere.  But in the north it's known to some as the Thunder Moon, likely a nod to the sounds of this northern summer month's typically stormy weather.",
+      "pt": "Enquanto o sol se pôs, uma lua cheia brilhante aumentou em 10 de julho. Sua luz dourada ilumina as nuvens flutuando pelos céus do hemisfério sul nesta imagem de telefoto bem composta da conceção do Coité, Bahia, Brasil. A fase lunar mais brilhante é capturada aqui com uma exposição curta e longa. As duas exposições foram combinadas para revelar detalhes da superfície lunar à luz da lua brilhante e uma sutil iridescência ao longo do dramaticamente iluminador de nuvens iluminado. Obviamente, a lua cheia de julho é uma lua de inverno no hemisfério sul.  Mas no norte é conhecido por alguns como o Thunder Moon, provavelmente um aceno aos sons do clima tipicamente tempestuoso do mês do norte do norte."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2507/LUA_JULHO_25_1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2507/LUA_JULHO_25_2048.jpg",
+    "copyright": "Alexsandro Mota"
+  },
+  {
     "date": "2025-07-11",
     "title": {
       "en": "The Veins of Heaven",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2506/RubinsGalaxy_hst1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2506/RubinsGalaxy_hst2000.jpg",
     "copyright": null
-  },
-  {
-    "date": "2025-06-12",
-    "title": {
-      "en": "Solar Eclipse",
-      "pt": "Eclipse solar"
-    },
-    "explanation": {
-      "en": "On April 20, 2023 the shadow of a New Moon raced across planet Earth's southern hemisphere. When viewed along a narrow path that mostly avoided landfall, the Moon in silhouette created a hybrid solar eclipse. Hybrid eclipses are rare and can be seen as a total eclipse or an annular \"ring of fire\" eclipse depending on the observer's position. Viewers of this much anticipated hybrid event were able to witness a total solar eclipse while anchored in the Indian Ocean near the centerline of the eclipse track off the coast of western Australia. This ship-borne image from renowned eclipse chaser Fred Espenak captured the active Sun's magnificent outer atmosphere, or solar corona, streaming into space. The composite of 11 exposures ranging from 1/2000 to 1/2 second, taken during the 62 seconds of totality, records an extended range of brightness to follow alluring details of the corona not quite visible to the eye.  Fred Espenak (1953-2025)",
-      "pt": "Em 20 de abril de 2023, a sombra de uma lua nova correu através do hemisfério sul do Planeta Terra. Quando visto ao longo de um caminho estreito que evitou a terra, a lua em silhueta criou um eclipse solar híbrido. Os eclipses híbridos são raros e podem ser vistos como um eclipse total ou um eclipse anular de \"anel de fogo\", dependendo da posição do observador. Os telespectadores desse evento híbrido muito esperado foram capazes de testemunhar um eclipse solar total enquanto ancorou no Oceano Índico, perto da linha central da pista do Eclipse, na costa da Austrália Ocidental. Esta imagem transmitida por navios do renomado caçador de eclipse Fred Espenak capturou a magnífica atmosfera externa do sol ativo, ou corona solar, entrando no espaço. O composto de 11 exposições que variam de 1/2000 a 1/2 segundo, tomadas durante os 62 segundos de totalidade, registra uma extensa gama de brilho para seguir detalhes atraentes da coroa não muito visíveis aos olhos.  Fred Espenak (1953-2025)"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2506/TSE2023-Comp48-2a1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2506/TSE2023-Comp48-2a.jpg",
-    "copyright": "Fred Espenak"
   }
 ]
