@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-07-13",
+    "title": {
+      "en": "Planetary Nebula Mz3: The Ant Nebula",
+      "pt": "Nebulosa planetária mz3: a nebulosa formiga"
+    },
+    "explanation": {
+      "en": "Why isn't this ant a big sphere?  Planetary nebula Mz3 is being cast off by a star similar to our Sun that is, surely, round.  Why then would the gas that is streaming away create an ant-shaped nebula that is distinctly not round?  Clues might include the high 1000-kilometer per second speed of the expelled gas, the light-year long length of the structure, and the magnetism of the star featured here at the nebula's center.  One possible answer is that Mz3 is hiding a second, dimmer star that orbits close in to the bright star.  A competing hypothesis holds that the central star's own spin and magnetic field are channeling the gas.  Since the central star appears to be so similar to our own Sun, astronomers hope that increased understanding of the history of this giant space ant can provide useful insight into the likely future of our own Sun and Earth.   Explore Your Universe: Random APOD Generator",
+      "pt": "Por que essa formiga não é uma grande esfera?  A Nebula Planetária MZ3 está sendo expulsa por uma estrela semelhante ao nosso sol que é, certamente, redondo.  Por que, então, o gás que está fluindo criando uma nebulosa em forma de formiga que não é distintamente redonda?  As pistas podem incluir o alto quilômetro de 1000 quilômetros por segundo do gás expulso, o comprimento de um longo ano da estrutura e o magnetismo da estrela apresentado aqui no centro da nebulosa.  Uma resposta possível é que o MZ3 está escondendo uma segunda estrela mais escura que orbita se aproximam da estrela brilhante.  Uma hipótese concorrente sustenta que o próprio giro e o campo magnético da estrela central estão canalizando o gás.  Como a estrela central parece ser tão semelhante ao nosso próprio sol, os astrônomos esperam que o aumento da compreensão da história dessa formiga espacial gigante possa fornecer informações úteis sobre o provável futuro de nosso próprio sol e terra.   Explore seu universo: gerador APOD aleatório"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2507/ant_hubble_1072.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2507/ant_hubble_1072.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-07-12",
     "title": {
       "en": "Clouds and the Golden Moon",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2506/MeteorSats_Moline_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2506/MeteorSats_Moline_6512.jpg",
     "copyright": "Martín Moliné"
-  },
-  {
-    "date": "2025-06-13",
-    "title": {
-      "en": "Rubin's Galaxy",
-      "pt": "Galáxia de Rubin"
-    },
-    "explanation": {
-      "en": "In this Hubble Space Telescope image the bright, spiky stars lie in the foreground toward the heroic northern constellation Perseus and well within our own Milky Way galaxy. In sharp focus beyond is UGC 2885, a giant spiral galaxy about 232 million light-years distant. Some 800,000 light-years across compared to the Milky Way's diameter of 100,000 light-years or so, it has around 1 trillion stars. That's about 10 times as many stars as the Milky Way. Part of an investigation to understand how galaxies can grow to such enormous sizes, UGC 2885 was also part of An Interesting Voyage and American astronomer Vera Rubin's pioneering study of the rotation of spiral galaxies. Her work was the first to convincingly demonstrate the dominating presence of dark matter in our universe. A new U.S. coin has been issured to honor Vera Rubin, while the Vera C. Rubin Observatory is scheduled to unveil images from its first look at the cosmos on June 23.",
-      "pt": "Nesta imagem do telescópio espacial Hubble, as estrelas brilhantes e pontiagudas estão em primeiro plano em direção à heróica constelação do norte, Perseus e bem dentro de nossa própria Galaxia da Via Láctea. Em Sharp Focus Beyond Is UGC 2885, uma galáxia espiral gigante cerca de 232 milhões de anos-luz distantes. Cerca de 800.000 anos-luz de diâmetro, em comparação com o diâmetro da Via Láctea de 100.000 anos-luz ou mais, ele tem cerca de 1 trilhão de estrelas. São cerca de 10 vezes mais estrelas do que a Via Láctea. Parte de uma investigação para entender como as galáxias podem crescer para tamanhos enormes, o UGC 2885 também fez parte de uma viagem interessante e do estudo pioneiro de astrônomo americano Vera Rubin sobre a rotação de galáxias espirais. Seu trabalho foi o primeiro a demonstrar de forma convincente a presença dominante de matéria escura em nosso universo. Uma nova moeda dos EUA foi emitida para homenagear Vera Rubin, enquanto o Observatório Vera C. Rubin está programado para revelar imagens de sua primeira olhada no Cosmos em 23 de junho."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2506/RubinsGalaxy_hst1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2506/RubinsGalaxy_hst2000.jpg",
-    "copyright": null
   }
 ]
