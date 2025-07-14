@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-07-14",
+    "title": {
+      "en": "NGC 2685: The Helix Galaxy",
+      "pt": "NGC 2685: The Helix Galaxy"
+    },
+    "explanation": {
+      "en": "What is going on with this galaxy? NGC 2685 is a confirmed polar ring galaxy - a rare type of galaxy with stars, gas and dust orbiting in rings perpendicular to the plane of a flat galactic disk. The bizarre configuration could be caused by the chance capture of material from another galaxy by a disk galaxy, with the captured debris strung out in a rotating ring. Still, observed properties of NGC 2685 suggest that the rotating helix structure is remarkably old and stable. In this sharp view of the peculiar system also known as Arp 336 or the Helix galaxy, the strange, perpendicular rings are easy to trace as they pass in front of the galactic disk, along with other disturbed outer structures. NGC 2685 is about 50,000 light-years across and 40 million light-years away in the constellation of the Great Bear (Ursa Major).   Piece it All Together: Astronomy Puzzle of the Day",
+      "pt": "O que está acontecendo com esta galáxia? NGC 2685 é uma galáxia de anel polar confirmado - um tipo raro de galáxia com estrelas, gás e poeira que orbita em anéis perpendiculares ao plano de um disco galáctico plano. A configuração bizarra pode ser causada pela captura acaso de material de outra galáxia por uma galáxia de disco, com os detritos capturados em um anel rotativo. Ainda assim, as propriedades observadas do NGC 2685 sugerem que a estrutura da hélice rotativa é notavelmente antiga e estável. Nesta visão nítida do sistema peculiar, também conhecido como ARP 336 ou a galáxia da helix, os anéis estranhos e perpendiculares são fáceis de rastrear à medida que passam em frente ao disco galáctico, juntamente com outras estruturas externas perturbadas. O NGC 2685 tem cerca de 50.000 anos-luz de diâmetro e 40 milhões de anos-luz de distância na constelação do Grande Urso (Ursa Major).   Mecue tudo: o quebra -cabeça da astronomia do dia"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2507/Ngc2685_Thrun_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2507/Ngc2685_Thrun_960.jpg",
+    "copyright": ", Stefan Thrun,"
+  },
+  {
     "date": "2025-07-13",
     "title": {
       "en": "Planetary Nebula Mz3: The Ant Nebula",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2506/TwoWorldsOneSun_Bouic_1080.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2506/TwoWorldsOneSun_Bouic_2683.jpg",
     "copyright": ", Damia Bouic; ,  Right Image Credit:  NASA,, JPL-Caltech,, MSSS;,  Digital processing: , Damia Bouic,"
-  },
-  {
-    "date": "2025-06-14",
-    "title": {
-      "en": "Meteors and Satellite Trails over the Limay River",
-      "pt": "Meteoros e trilhas de satélite sobre o rio Limay"
-    },
-    "explanation": {
-      "en": "What are all those streaks in the sky? A galaxy, many satellite trails, and a few meteors.  First, far in the distance, the majestic band of our Milky Way Galaxy runs down the left. Mirroring it on the right are several parallel trails of Earth-orbiting Starlink satellites. Many fainter satellite trails also crisscross the image. The two short and bright streaks are meteors — likely members of the annual Eta Aquariids meteor shower.  The planet Venus shines on the lower right.  Venus and the satellites shine by reflected sunlight. The featured picture is a composite of exposures all taken in a few hours on May 4 over the Limay River in Argentina.",
-      "pt": "Quais são todas essas riscas no céu? Uma galáxia, muitas trilhas satélites e alguns meteoros.  Primeiro, longe ao longe, a majestosa banda de nossa Galaxia da Via Láctea corre pela esquerda. Espelhando-o à direita estão várias trilhas paralelas de satélites Starlink que orbitam a terra. Muitas trilhas de satélite mais fracas também cruzam a imagem. As duas estrias curtas e brilhantes são meteoros - provavelmente membros do chuveiro anual de meteoros de aquariids ETA.  O planeta Vênus brilha no canto inferior direito.  Vênus e os satélites brilham pela luz solar refletida. A foto em destaque é um composto de exposições, todas tiradas em algumas horas em 4 de maio, sobre o rio Limay, na Argentina."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2506/MeteorSats_Moline_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2506/MeteorSats_Moline_6512.jpg",
-    "copyright": "Martín Moliné"
   }
 ]
