@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-07-15",
+    "title": {
+      "en": "Collapse in Hebes Chasma on Mars",
+      "pt": "Colapso no chasma de Hebes em Marte"
+    },
+    "explanation": {
+      "en": "What's happened in Hebes Chasma on Mars? Hebes Chasma is a depression just north of the enormous Valles Marineris canyon.  Since the depression is unconnected to other surface features, it is unclear where the internal material went. Inside Hebes Chasma is Hebes Mensa, a 5 kilometer high mesa that appears to have undergone an unusual partial collapse -- a collapse that might be providing clues. The featured image, taken by ESA's robotic Mars Express spacecraft currently orbiting Mars, shows great details of the chasm and the unusual horseshoe shaped indentation in the central mesa. Material from the mesa appears to have flowed onto the floor of the chasm, while a possible dark layer appears to have pooled like ink on a downslope landing.  One hypothesis holds that salty rock composes some lower layers in Hebes Chasma, with the salt dissolving in melted ice flows that drained through holes into an underground aquifer.",
+      "pt": "O que aconteceu em Hebes Chasma em Marte? O chasma de Hebes é uma depressão ao norte do enorme Canyon Valles Marineris.  Como a depressão não está conectada a outras características da superfície, não está claro para onde foi o material interno. Dentro de Hebes Chasma está Hebes Mensa, uma Mesa de 5 quilômetros de altura que parece ter sofrido um colapso parcial incomum - um colapso que pode estar fornecendo pistas. A imagem em destaque, tirada pela espaçonave robótica da ESA Mars Express atualmente orbitando Marte, mostra grandes detalhes do abismo e o indentamento incomum em forma de ferradura na Mesa Central. O material do Mesa parece ter fluído no chão do abismo, enquanto uma possível camada escura parece ter se acumulado como tinta em um pouso descendente.  Uma hipótese sustenta que a rocha salgada compõe algumas camadas mais baixas no chasma de Hebes, com o sal dissolvendo -se em fluxos de gelo derretido que drenavam os orifícios em um aqüífero subterrâneo."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2507/HebesChasma_esa_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2507/HebesChasma_esa_960.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-07-14",
     "title": {
       "en": "NGC 2685: The Helix Galaxy",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2506/APODStarryNight30thanniversary1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2506/APODStarryNight30thanniversary.jpg",
     "copyright": null
-  },
-  {
-    "date": "2025-06-15",
-    "title": {
-      "en": "Two Worlds, One Sun",
-      "pt": "Dois mundos, um sol"
-    },
-    "explanation": {
-      "en": "How different does sunset appear from Mars than from Earth? For comparison, two images of our common star were taken at sunset, one from Earth and one from Mars. These images were scaled to have the same angular width and are featured here side-by-side. A quick inspection will reveal that the Sun appears slightly smaller from Mars than from Earth. This makes sense since Mars is 50% further from the Sun than Earth. More striking, perhaps, is that the Martian sunset is noticeably bluer near the Sun than the typically orange colors near the setting Sun from Earth. The reason for the blue hues from Mars is not fully understood, but thought to be related to forward scattering properties of Martian dust. The terrestrial sunset was taken in 2012 March from Marseille, France, while the Martian sunset was captured in 2015 by NASA's robotic Curiosity rover from Gale crater on Mars.   APOD Turns 30!: Free Public Lecture in Cork, Ireland on June 24",
-      "pt": "Quão diferente o pôr do sol aparece de Marte do que da Terra? Para comparação, duas imagens de nossa estrela comum foram tiradas ao pôr do sol, uma da Terra e uma de Marte. Essas imagens foram escaladas para ter a mesma largura angular e são apresentadas aqui lado a lado. Uma rápida inspeção revelará que o sol parece um pouco menor de Marte do que da Terra. Isso faz sentido, já que Marte está 50% mais longe do sol do que da Terra. Mais impressionante, talvez, é que o pôr do sol marciano é visivelmente mais azul perto do sol do que as cores tipicamente laranja perto do sol poente da Terra. A razão para os tons azuis de Marte não é totalmente compreendida, mas acredita -se que esteja relacionada às propriedades de dispersão avançada do pó marciano. O pôr do sol terrestre foi tirado em março de 2012 a partir de Marselha, França, enquanto o pôr do sol marciano foi capturado em 2015 pelo rover robótico da Curiosidade da NASA da Gale Crater em Marte.   APOD faz 30!: Palestra pública gratuita em Cork, Irlanda em 24 de junho"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2506/TwoWorldsOneSun_Bouic_1080.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2506/TwoWorldsOneSun_Bouic_2683.jpg",
-    "copyright": ", Damia Bouic; ,  Right Image Credit:  NASA,, JPL-Caltech,, MSSS;,  Digital processing: , Damia Bouic,"
   }
 ]
