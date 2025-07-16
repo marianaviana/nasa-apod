@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-07-16",
+    "title": {
+      "en": "The Rosette Nebula from DECam",
+      "pt": "A nebulosa da Rosette da Decam"
+    },
+    "explanation": {
+      "en": "Would the Rosette Nebula by any other name look as sweet? The bland New General Catalog designation of NGC 2237 doesn't appear to diminish the appearance of this flowery emission nebula, as captured by the Dark Energy Camera (DECam) on the Blanco 4-meter telescope at the NSF's Cerro Tololo Inter-American Observatory in Chile.  Inside the nebula lies an open cluster of bright young stars designated NGC 2244. These stars formed about four million years ago from the nebular material and their stellar winds are clearing a hole in the nebula's center, insulated by a layer of dust and hot gas. Ultraviolet light from the hot cluster stars causes the surrounding nebula to glow. The Rosette Nebula spans about 100 light-years across, lies about 5000 light-years away, and can be seen with a small telescope towards the constellation of the Unicorn (Monoceros).   Open Science: Browse 3,700+ codes in the Astrophysics Source Code Library",
+      "pt": "A Rosette Nebula por algum outro nome seria tão doce? A nova designação geral do Catálogo Geral de NGC 2237 não parece diminuir a aparência dessa nebulosa de emissão florida, como capturado pela câmera de energia escura (Decam) no telescópio Blanco de 4 metros no Observatório Interamericano Cerro Tololo da NSF no Chile.  Dentro da nebulosa, está um conjunto aberto de estrelas jovens brilhantes designadas NGC 2244. Essas estrelas se formaram cerca de quatro milhões de anos atrás do material nebular e seus ventos estelares estão limpando um buraco no centro da nebulosa, isolada por uma camada de poeira e gás quente. A luz ultravioleta das estrelas do cluster quente faz com que a nebulosa circundante brilha. A nebulosa da roseta abrange cerca de 100 anos-luz de diâmetro, fica a cerca de 5000 anos-luz de distância e pode ser visto com um pequeno telescópio em direção à constelação do unicórnio (monoceros).   Ciência aberta: Procure mais de 3.700 códigos na Biblioteca de Código Fonte Astrofísica"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2507/Rosette_Decam_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2507/Rosette_Decam_4000.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-07-15",
     "title": {
       "en": "Collapse in Hebes Chasma on Mars",
@@ -432,21 +447,6 @@
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2506/RosettaDeepRed_Mendez_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2506/RosettaDeepRed_Mendez_3294.jpg",
-    "copyright": null
-  },
-  {
-    "date": "2025-06-16",
-    "title": {
-      "en": "APOD is 30 Years Old Today",
-      "pt": "Apod tem 30 anos hoje"
-    },
-    "explanation": {
-      "en": "APOD is 30 years old today. In celebration, today's picture uses past APODs as tiles arranged to create a single pixelated image that might remind you of one of the most well-known and evocative depictions of planet Earth's night sky. In fact, this Starry Night consists of 1,836 individual images contributed to APOD over the last 5 years in a mosaic of 32,232 tiles. Today, APOD would like to offer a sincere thank you to our contributors, volunteers, and readers. Over the last 30 years your continuing efforts have allowed us to enjoy, inspire, and share a discovery of the cosmos.",
-      "pt": "O APOD tem 30 anos hoje. Em comemoração, a imagem de hoje usa APODS do passado, enquanto os azulejos organizados para criar uma única imagem pixelizada que possa lembrá-lo de uma das representações mais conhecidas e evocativas do céu noturno do planeta Terra. De fato, esta noite estrelada consiste em 1.836 imagens individuais contribuíram para o APOD nos últimos 5 anos em um mosaico de 32.232 ladrilhos. Hoje, o APOD gostaria de oferecer um sincero agradecimento a nossos colaboradores, voluntários e leitores. Nos últimos 30 anos, seus esforços contínuos nos permitiram desfrutar, inspirar e compartilhar uma descoberta do Cosmos."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2506/APODStarryNight30thanniversary1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2506/APODStarryNight30thanniversary.jpg",
     "copyright": null
   }
 ]
