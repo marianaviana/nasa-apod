@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-07-17",
+    "title": {
+      "en": "3I/ATLAS",
+      "pt": "3i/atlas"
+    },
+    "explanation": {
+      "en": "Discovered on July 1 with the NASA-funded ATLAS (Asteroid Terrestrial-impact Last Alert, System) survey telescope in Rio Hurtado, Chile, 3I/ATLAS is so designated as the third known interstellar object to pass through our Solar System It follows 1I/ʻOumuamua in 2017 and the comet 2I/Borisov in 2019.  Also known as C/2025 N1, 3I/ATLAS is clearly a comet, its diffuse cometary coma, a cloud of gas and dust surrounding an icy nucleus, is easily seen in these images from the large Gemini North telescope on Maunakea, Hawai‘i. The left panel tracks the comet as it moves across the sky against fixed background stars in successive exposures. Three different filters were used, shown in red, green, and blue. In the right panel the multiple exposures are registered and combined to form a single image of the comet. The comet's interstellar origin is also clear from its orbit, determined to be an eccentric, highly hyperbolic orbit that does not loop back around the Sun and will return 3I/ATLAS to interstellar space. Not a threat to planet Earth, the inbound interstellar interloper is now within the Jupiter's orbital distance of the Sun, while its closest approach to the Sun will bring it just within the orbital distance of Mars.",
+      "pt": "Descoberto em 1º de julho com o telescópio de pesquisa do Atlas (System), financiado pela NASA (Asteróides de Impacto Terrestre), no Rio Hurtado, Chile, 3i/Atlas, é tão designado como o terceiro objeto interestelar conhecido. 3i/atlas é claramente um cometa, seu coma difuso, uma nuvem de gás e poeira em torno de um núcleo gelado, é facilmente visto nessas imagens do grande telescópio norte de Gemini em Maunakea, Havaí. O painel esquerdo rastreia o cometa enquanto se move pelo céu contra estrelas fixas de fundo em exposições sucessivas. Foram utilizados três filtros diferentes, mostrados em vermelho, verde e azul. No painel direito, as múltiplas exposições são registradas e combinadas para formar uma única imagem do cometa. A origem interestelar do cometa também é clara em sua órbita, determinada a ser uma órbita excêntrica e altamente hiperbólica que não volta ao redor do sol e retornará 3i/atlas ao espaço interestelar. Não é uma ameaça ao planeta Terra, o intruso Interestelar de entrada está agora dentro da distância orbital de Júpiter, enquanto sua abordagem mais próxima ao sol o trará a uma distância orbital de Marte."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2507/noirlab2522a_3i1056.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2507/noirlab2522a_3i.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-07-16",
     "title": {
       "en": "The Rosette Nebula from DECam",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2506/IssMoon_Holland_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2506/IssMoon_Holland_1063.jpg",
     "copyright": ", Eric Holland,"
-  },
-  {
-    "date": "2025-06-17",
-    "title": {
-      "en": "Rosette Nebula Deep Field",
-      "pt": "Rosette Nebula Deep Field"
-    },
-    "explanation": {
-      "en": "Can you find the Rosette Nebula? The red flowery-looking nebula just above the image center may seem a good choice, but that's not it.  The famous Rosette Nebula is really located on the lower right, here colored blue and white, and connected to the other nebulas by gold-colored filaments.  Because the featured image of Rosette's field is so wide, and because of its deep red exposure, it seems to contain other flowers.  Designated NGC 2237, the center of the Rosette Nebula is populated by the bright blue stars of open cluster NGC 2244, whose winds and energetic light are evacuating the nebula's center.  The Rosette Nebula is about 5,000 light years distant and, just by itself, spans about three times the diameter of a full moon. This flowery field can be found toward the constellation of the Unicorn  (Monoceros).   Explore Your Universe: Random APOD Generator",
-      "pt": "Você pode encontrar a nebulosa da roseta? A nebulosa vermelha de aparência florida logo acima do centro de imagem pode parecer uma boa escolha, mas não é isso.  A famosa nebulosa Rosette está realmente localizada no canto inferior direito, aqui azul e branco de cor e conectado às outras nebulas por filamentos de cor dourada.  Como a imagem em destaque do campo de Rosette é tão ampla e, devido à sua profunda exposição vermelha, parece conter outras flores.  Designado NGC 2237, o centro da nebulosa da roseta é preenchido pelas estrelas azuis brilhantes do cluster aberto NGC 2244, cujos ventos e luz energética estão evacuando o centro da nebulosa.  A nebulosa de Rosette fica a cerca de 5.000 anos -luz distantes e, por si só, abrange cerca de três vezes o diâmetro de uma lua cheia. Este campo florido pode ser encontrado para a constelação do unicórnio (monoceros).   Explore seu universo: gerador APOD aleatório"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2506/RosettaDeepRed_Mendez_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2506/RosettaDeepRed_Mendez_3294.jpg",
-    "copyright": null
   }
 ]
