@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-07-18",
+    "title": {
+      "en": "ISS Meets Saturn",
+      "pt": "ISS encontra Saturno"
+    },
+    "explanation": {
+      "en": "This month, bright planet Saturn rises in evening skies, its rings oriented nearly edge-on when viewed from planet Earth. And in the early morning hours on July 6, it posed very briefly with the International Space Station when viewed from a location in Federal Way, Washington, USA. This well-planned image, a stack of video frames, captures their momentary conjunction in the same telescopic field of view. With the ISS in low Earth orbit, space station and gas giant planet were separated by almost 1.4 billion kilometers. Their apparent sizes are comparable but the ISS was much brighter than Saturn and the ringed planet's brightness has been increased for visibility in the stacked image. Precise timing and an exact location were needed to capture the ISS/Saturn conjunction.",
+      "pt": "Neste mês, o planeta brilhante Saturno sobe no céu noturno, seus anéis orientados quase de ponta quando vistos do planeta Terra. E nas primeiras horas da manhã de 6 de julho, posou muito brevemente com a Estação Espacial Internacional quando vista de um local de Washington, EUA. Esta imagem bem planejada, uma pilha de quadros de vídeo, captura sua conjunção momentânea no mesmo campo de visão telescópico. Com a ISS na órbita baixa da terra, a estação espacial e o planeta gigante de gás foram separados por quase 1,4 bilhão de quilômetros. Seus tamanhos aparentes são comparáveis, mas a ISS era muito mais brilhante que Saturno e o brilho do planeta anel aumentou para visibilidade na imagem empilhada. Timing preciso e um local exato foram necessários para capturar a conjunção ISS/Saturno."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2507/ISSMeetsSaturn3_1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2507/ISSMeetsSaturn3.jpg",
+    "copyright": "A.J. Smadi"
+  },
+  {
     "date": "2025-07-17",
     "title": {
       "en": "3I/ATLAS",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2506/NGC3521-1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2506/NGC3521-2048.jpg",
     "copyright": "Vikas Chander"
-  },
-  {
-    "date": "2025-06-18",
-    "title": {
-      "en": "Space Station Silhouette on the Moon",
-      "pt": "Silhueta da estação espacial na lua"
-    },
-    "explanation": {
-      "en": "What's that unusual spot on the Moon? It's the International Space Station. Using precise timing, the Earth-orbiting space platform was photographed in front of a partially lit gibbous Moon in 2019. The featured image was taken from Palo Alto, California, USA with an exposure time of only 1/667 of a second. In contrast, the duration of the transit of the ISS across the entire Moon was about half a second.  A close inspection of this unusually crisp ISS silhouette will reveal the outlines of numerous solar panels and trusses.  The bright crater Tycho is visible on the lower left, as well as comparatively rough, light colored terrain known as highlands and relatively smooth, dark colored areas known as maria.  Downloadable  apps can tell you when the International Space Station will be visible from your area.   APOD Turns 30!: Free Public Lecture in Cork, Ireland on June 24",
-      "pt": "O que é esse ponto incomum na lua? É a estação espacial internacional. Usando o tempo preciso, a plataforma espacial que orbita com a terra foi fotografada em frente a uma lua gibbous parcialmente iluminada em 2019. A imagem em destaque foi tirada de Palo Alto, Califórnia, EUA, com um tempo de exposição de apenas 1/667 de segundo. Por outro lado, a duração do trânsito da ISS em toda a lua inteira foi de cerca de meio segundo.  Uma inspeção estreita desta silhueta ISS incomumente nítida revelará os contornos de vários painéis e treliças solares.  O Tycho da cratera brilhante é visível no canto inferior esquerdo, bem como um terreno de cor clara e comparativamente áspera, conhecida como terras altas e áreas relativamente lisas e de cor escura conhecidas como Maria.  Os aplicativos para download podem dizer quando a estação espacial internacional será visível da sua área.   APOD faz 30!: Palestra pública gratuita em Cork, Irlanda em 24 de junho"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2506/IssMoon_Holland_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2506/IssMoon_Holland_1063.jpg",
-    "copyright": ", Eric Holland,"
   }
 ]
