@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-07-20",
+    "title": {
+      "en": "Lunar Nearside",
+      "pt": "Lunar ao lado"
+    },
+    "explanation": {
+      "en": "About 1,300 images from the Lunar Reconnaissance Orbiter spacecraft's wide angle camera were used to compose this spectacular view of a familiar face - the lunar nearside. But why is there a lunar nearside? The Moon rotates on its axis and orbits the Earth at the same rate, about once every 28 days. Tidally locked in this configuration, the synchronous rotation always keeps one side, the nearside, facing Earth. As a result, featured in remarkable detail in the full resolution mosaic, the smooth, dark, lunar maria (actually lava-flooded impact basins), and rugged highlands, are well-known to earthbound skygazers. To find your favorite mare or large crater, just follow this link or slide your cursor over the picture. The LRO images used to construct the mosaic were recorded over a two week period in December 2010.",
+      "pt": "Cerca de 1.300 imagens da câmera ampla da espaçonave de reconhecimento de reconhecimento lunar foram usadas para compor essa visão espetacular de uma face familiar - o lunar próximo. Mas por que há um lunar perto? A lua gira em seu eixo e orbita a terra na mesma taxa, cerca de uma vez a cada 28 dias. Tidalmente trancada nessa configuração, a rotação síncrona sempre mantém um lado, o lado próximo, de frente para a Terra. Como resultado, destaque em detalhes notáveis em todo o mosaico de resolução, a Maria lunar, escura, escura e lunar (na verdade, as bacias de impacto com alavanca de lava) e as terras altas acidentadas são bem conhecidas para os Skygazers de Earthbound. Para encontrar sua égua favorita ou cratera grande, basta seguir este link ou deslizar seu cursor sobre a foto. As imagens LRO usadas para construir o mosaico foram registradas durante um período de duas semanas em dezembro de 2010."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2507/lroc_wac_nearside800.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/1103/lroc_wac_nearside.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-07-19",
     "title": {
       "en": "Messier 6",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2506/AnalemmaEarthMars1200.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2506/AnalemmaEarthMars.jpg",
     "copyright": "Tunc Tezel"
-  },
-  {
-    "date": "2025-06-20",
-    "title": {
-      "en": "Major Lunar Standstill 2024-2025",
-      "pt": "Principal Lunar Stawl 2024-2025"
-    },
-    "explanation": {
-      "en": "dmonton, Alberta, Canada, planet Earth lies on the horizon. in this stack of panoramic composite images. In a monthly time series arranged vertically top to bottom the ambitious photographic project follows the annual north-south swing of sunrise points, from June solstice to December solstice and back again. It also follows the corresponding, but definitely harder to track, Full Moon rise. Of course, the north-south swing of moonrise runs opposite sunrise along the horizon. But these rising Full Moons also span a wider range on the horizon than the sunrises. That's because the well-planned project (as shown in this video) covers the period June 2024 to June 2025, centered on a major lunar standstill. Major lunar standstills represent extremes in the north-south range of moonrise driven by the 18.6 year precession period of the lunar orbit.",
-      "pt": "Dmonton, Alberta, Canadá, Planeta Terra fica no horizonte. Nesta pilha de imagens compostas panorâmicas. Em uma série temporal mensal organizada verticalmente de cima para baixo, o ambicioso projeto fotográfico segue o balanço norte-sul anual de pontos do nascer do sol, do solstício de junho ao solstício de dezembro e de volta. Ele também segue o ascensão correspondente, mas definitivamente mais difícil de rastrear, a lua cheia. Obviamente, o balanço norte-sul do Moonrise corre em frente ao nascer do sol ao longo do horizonte. Mas essas luas cheias em ascensão também abrangem um alcance mais amplo no horizonte do que o nascer do sol. Isso ocorre porque o projeto bem planejado (como mostrado neste vídeo) abrange o período de junho de 2024 a junho de 2025, centrado em uma grande parada lunar. As principais paradas lunares representam extremos na gama norte-sul de riscos de luar, impulsionados pelo período de precessão de 18,6 anos da órbita lunar."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2506/MajorLunarStandstillAPOD_1200.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2506/MajorLunarStandstillAPOD.jpg",
-    "copyright": "Luca Vanzella"
   }
 ]
