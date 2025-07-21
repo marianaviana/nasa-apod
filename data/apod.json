@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-07-21",
+    "title": {
+      "en": "Cat's Paw Nebula from Webb Space Telescope",
+      "pt": "Nebulosa da pata de gato da Webb Space Telescope"
+    },
+    "explanation": {
+      "en": "Nebulas are perhaps as famous for being identified with familiar shapes as perhaps cats are for getting into trouble.  Still, no known cat could have created the vast Cat's Paw Nebula visible toward the constellation of the Scorpion  (Scorpius).  At 5,700 light years distant, Cat's Paw is an emission nebula within a larger molecular cloud.  Alternatively known as the Bear Claw Nebula and cataloged as NGC 6334, stars nearly ten times the mass of our Sun have been born there in only the past few million years. Pictured here is a recently released image of the Cat's Paw taken in infrared light by the James Webb Space Telescope.  This newly detailed view into the nebula helps provide insight for how turbulent molecular clouds turn gas into stars.    Explore Your Universe: Random APOD Generator",
+      "pt": "As nebulas são talvez tão famosas por serem identificadas com formas familiares, pois talvez os gatos sejam para ter problemas.  Ainda assim, nenhum gato conhecido poderia ter criado a nebulosa da vasta pata do gato visível para a constelação do escorpião (Scorpius).  Aos 5.700 anos -luz distantes, a pata de gato é uma nebulosa de emissão dentro de uma nuvem molecular maior.  Alternativamente conhecida como Nebulosa da Garra de Bear e catalogada como NGC 6334, estrela quase dez vezes a massa de nosso sol nasceu lá apenas nos últimos milhões de anos. Na foto, aqui está uma imagem recentemente lançada da pata do gato tomada em luz infravermelha pelo Telescópio espacial James Webb.  Essa visão recém -detalhada da nebulosa ajuda a fornecer informações sobre como as nuvens moleculares turbulentas transformam o gás em estrelas.    Explore seu universo: gerador APOD aleatório"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2507/CatsPaw_Webb_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2507/CatsPaw_Webb_1822.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-07-20",
     "title": {
       "en": "Lunar Nearside",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2506/berrybowl_opportunity_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2506/berrybowl_opportunity_960.jpg",
     "copyright": null
-  },
-  {
-    "date": "2025-06-21",
-    "title": {
-      "en": "Two Worlds, Two Analemmas",
-      "pt": "Dois mundos, dois analemmas"
-    },
-    "explanation": {
-      "en": "Sure, that figure-8 shaped curve you get when you mark the position of the Sun in Earth's sky at the same time each day over one year is called an analemma. On the left, Earth's figure-8 analemma was traced by combining wide-angle digital images recorded during the year from December 2011 through December 2012. But the shape of an analemma depends on the eccentricity of a planet's orbit and the tilt of its axis of rotation, so analemma curves can look different for different worlds. Take Mars for example. The Red Planet's axial tilt is similar to Earth's, but its orbit around the same sun is more eccentric (less circular) than Earth's orbit. As seen from the Martian surface, the analemma traced in the right hand panel is shaped more like a tear drop. The Mars rover Opportunity captured the images used over the Martian year corresponding to Earth dates July 2006 to June 2008. Of course, each world's solstice dates still lie at the top and bottom of their different analemma curves. The last Mars northern summer solstice was May 29, 2025. Our fair planet's 2025 northern summer solstice is at June 21, 2:42 UTC.",
-      "pt": "Claro, essa curva em forma de figura 8 que você recebe quando marca a posição do sol no céu da Terra ao mesmo tempo todos os dias em um ano é chamada de analema. À esquerda, o Análema da Figura 8 da Terra foi rastreado pela combinação de imagens digitais de grande ângulo gravadas durante o ano de dezembro de 2011 a dezembro de 2012. Mas a forma de um analema depende da excentricidade da órbita de um planeta e da inclinação de seu eixo de rotação, para que as curvas de Análema possam parecer diferentes para diferentes mundos. Veja Marte, por exemplo. A inclinação axial do planeta vermelho é semelhante à da Terra, mas sua órbita em torno do mesmo sol é mais excêntrica (menos circular) que a órbita da Terra. Como visto na superfície marciana, o analema rastreado no painel da mão direita tem a forma mais como uma queda de lágrima. A oportunidade de Marte Rover capturou as imagens usadas no ano marciano, correspondendo às datas da Terra em julho de 2006 a junho de 2008. É claro que as datas do solstício de cada mundo ainda estão no topo e na parte inferior de suas diferentes curvas de analêmma. O último solstício de Marte do Norte do Norte foi em 29 de maio de 2025. O solstício de verão de 2025 do Northern do nosso planeta justo é em 21 de junho, 2:42 UTC."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2506/AnalemmaEarthMars1200.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2506/AnalemmaEarthMars.jpg",
-    "copyright": "Tunc Tezel"
   }
 ]
