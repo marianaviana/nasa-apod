@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-07-22",
+    "title": {
+      "en": "A Double Detonation Supernova",
+      "pt": "Uma supernova de detonação dupla"
+    },
+    "explanation": {
+      "en": "Can some supernovas explode twice? Yes, when the first explosion acts like a detonator for the second. This is a leading hypothesis for the cause of supernova remnant (SNR) 0509-67.5.  In this two-star system, gravity causes the larger and fluffier star to give up mass to a smaller and denser white dwarf companion. Eventually the white dwarf's near-surface temperature goes so high that it explodes, creating a shock wave that goes both out and in -- and so triggers a full Type Ia supernova near the center. Recent images of the SNR 0509-67.5 system, like the featured image from the Very Large Telescope in Chile, show two shells with radii and compositions consistent with the double detonation hypothesis. This system, SNR 0509-67.5 is also famous for two standing mysteries: why its bright supernova wasn't noted 400 years ago, and why no visible companion star remains.",
+      "pt": "Algumas supernovas podem explodir duas vezes? Sim, quando a primeira explosão age como um detonador para o segundo. Esta é uma hipótese líder para a causa do remanescente da Supernova (SNR) 0509-67.5.  Neste sistema de duas estrelas, a gravidade faz com que a estrela maior e macia desista de uma massa a um companheiro anão branco menor e mais denso. Eventualmente, a temperatura próxima da superfície da anã branca fica tão alta que explode, criando uma onda de choque que sai e entra-e, portanto, desencadeia uma supernova completa do tipo IA perto do centro. Imagens recentes do sistema SNR 0509-67.5, como a imagem em destaque do telescópio muito grande no Chile, mostram duas conchas com raios e composições consistentes com a hipótese de detonação dupla. Esse sistema, SNR 0509-67.5, também é famoso por dois mistérios em pé: por que sua supernova brilhante não foi notada há 400 anos e por que nenhuma estrela de companheira visível permanece."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2507/DoubleSN_ESO_1080.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2507/DoubleSN_ESO_3000.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-07-21",
     "title": {
       "en": "Cat's Paw Nebula from Webb Space Telescope",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2506/ic1848_WISEantonucci_1080.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2506/ic1848_WISEantonucci_1824.jpg",
     "copyright": ":, Francesco Antonucci,"
-  },
-  {
-    "date": "2025-06-22",
-    "title": {
-      "en": "A Berry Bowl of Martian Spherules",
-      "pt": "Uma tigela de baga de esferas marcianas"
-    },
-    "explanation": {
-      "en": "How were these unusual Martian spherules created?  Thousands of unusual gray spherules made of iron and rock and dubbed blueberries were found embedded in and surrounding rocks near the landing site of the robot Opportunity rover on Mars in 2004.  To help investigate their origin, Opportunity found a surface dubbed the Berry Bowl with an indentation that was rich in the Martian orbs.  The Berry Bowl is pictured here, imaged during rover's 48th Martian day.  The average size of a Martian blueberry rock is only about 4 millimeters across.  By analyzing a circular patch in the rock surface to the left of the densest patch of spherules, Opportunity obtained data showing that the underlying rock has a much different composition than the hematite rich blueberries.  This information contributes to the growing consensus that these small, strange, gray orbs were slowly deposited from a bath of dirty water.   APOD Turns 30!: Free Public Lecture in Cork, Ireland on Tuesday, June 24 at 7 pm",
-      "pt": "Como foram criadas essas esferas marcianas incomuns?  Milhares de esferas cinza incomuns feitas de ferro e rochas e mirtilos apelidados foram encontrados incorporados e circundantes perto do local de pouso do robô Opportunity Rover em Marte em 2004. Para ajudar a investigar sua origem, a oportunidade encontrou uma superfície apelidada de Berry Bowl com um recuo rico nos marcianos.  O Berry Bowl é retratado aqui, fotografado durante o 48º dia marciano de Rover.  O tamanho médio de uma rocha marciana de mirtilo tem apenas 4 milímetros de diâmetro.  Ao analisar um adesivo circular na superfície da rocha à esquerda do maço mais denso de esferas, a oportunidade obteve dados mostrando que a rocha subjacente tem uma composição muito diferente dos mirtilos ricos em hematita.  Esta informação contribui para o crescente consenso de que esses pequenos, estranhos e cinza orbes foram depositados lentamente de um banho de água suja.   APOD faz 30!: Palestra pública gratuita em Cork, Irlanda na terça -feira, 24 de junho às 19h"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2506/berrybowl_opportunity_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2506/berrybowl_opportunity_960.jpg",
-    "copyright": null
   }
 ]
