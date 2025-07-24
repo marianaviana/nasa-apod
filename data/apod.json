@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-07-24",
+    "title": {
+      "en": "Titan Shadow Transit",
+      "pt": "Titan Shadow Transit"
+    },
+    "explanation": {
+      "en": "very 15 years or so, Saturn's rings are tilted edge-on to our line of sight. As the bright, beautiful ring system grows narrower and fainter it becomes increasingly difficult to see for denizens of planet Earth. But it does provide the opportunity to watch transits of Saturn's moons and their dark shadows across the ringed gas giant's still bright disk. Of course Saturn's largest moon Titan is the easiest to spot in transit. In this telescopic snapshot from July 18, Titan itself is at the upper left, casting a round dark shadow on Saturn's banded cloudtops above the narrow rings. In fact Titan's transit season is in full swing now with shadow transits every 16 days corresponding to the moon's orbital period. Its final shadow transit will be on October 6, though Titan's pale disk will continue to cross in front of Saturn as seen from telescopes on planet Earth every 16 days through January 25, 2026.",
+      "pt": "Mais de 15 anos, mais ou menos, os anéis de Saturno são inclinados de ponta à nossa linha de visão. À medida que o sistema de anéis brilhante e brilhante cresce mais estreito e mais fraco, fica cada vez mais difícil de ver para os habitantes do planeta Terra. Mas ele oferece a oportunidade de assistir a trânsitos das luas de Saturno e suas sombras escuras no disco ainda brilhante da gigante de gás anel. É claro que o maior titã da lua de Saturno é o mais fácil de identificar em trânsito. Neste instantâneo telescópico de 18 de julho, o próprio Titã fica no canto superior esquerdo, lançando uma sombra escura redonda nos nuvens com faixas de Saturno acima dos anéis estreitos. De fato, a temporada de trânsito de Titan está em pleno andamento agora, com trânsitos de sombra a cada 16 dias correspondentes ao período orbital da lua. Seu trânsito final de sombra será em 6 de outubro, embora o Pale Disk de Titan continue a atravessar em frente a Saturno, como visto dos telescópios no planeta Terra a cada 16 dias a 25 de janeiro de 2026."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2507/SaturnJuly18_2025TitanShadowTransit1024.png",
+    "hdurl": "https://apod.nasa.gov/apod/image/2507/SaturnJuly18_2025TitanShadowTransit1200.png",
+    "copyright": "Every 15 years or so"
+  },
+  {
     "date": "2025-07-23",
     "title": {
       "en": "Fireball over Cape San Blas",
@@ -432,21 +447,6 @@
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2506/SagittariusTrip_Rubin1100.png",
     "hdurl": "https://apod.nasa.gov/apod/image/2506/SagittariusTrip_Rubin.png",
-    "copyright": null
-  },
-  {
-    "date": "2025-06-24",
-    "title": {
-      "en": "In the Center of Spiral Galaxy M61",
-      "pt": "No centro da Galaxia Spiral M61"
-    },
-    "explanation": {
-      "en": "Is there a spiral galaxy in the center of this spiral galaxy? Sort of.  Image data from the Hubble Space Telescope, the European Southern Observatory, and smaller telescopes on planet Earth are combined in this detailed portrait of face-on spiral galaxy Messier 61 (M61) and its bright center. A mere 55 million light-years away in the Virgo Cluster of Galaxies, M61 is also known as NGC 4303.  It's considered to be an example of a barred spiral galaxy similar to our own Milky Way.  Like other spiral galaxies, M61 also features sweeping spiral arms, cosmic dust lanes, pinkish star forming regions, and young blue star clusters.  Its core houses an active supermassive black hole surrounded by a bright nuclear spiral -- infalling star-forming gas that itself looks like a separate spiral galaxy.    APOD Turns 30!: Free public lecture in Cork, Ireland TONIGHT (Tuesday) at 7 pm",
-      "pt": "Existe uma galáxia em espiral no centro dessa galáxia em espiral? Mais ou menos.  Os dados da imagem do Telescópio Espacial Hubble, do Observatório Europeu do Sul e dos telescópios menores no planeta Terra são combinados neste retrato detalhado do Galaxy Spiral Messier 61 (M61) e seu centro brilhante. A meros 55 milhões de anos-luz de distância no cluster de Galáxias de Virgem, o M61 também é conhecido como NGC 4303. É considerado um exemplo de uma galáxia espiral barrada semelhante à nossa própria Via Láctea.  Como outras galáxias em espiral, o M61 também apresenta braços espirais amplos, pistas de poeira cósmica, regiões de formação de estrelas rosadas e jovens aglomerados de estrelas azuis.  Seu núcleo abriga um buraco negro supermassivo ativo, cercado por uma espiral nuclear brilhante-um gás que se formava estrelas que se parece com uma galáxia espiral separada.    APOD faz 30!: Palestra pública gratuita em Cork, Irlanda hoje à noite (terça -feira) às 19h"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2506/M61_HubbleEsoGendler_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2506/M61_HubbleEsoGendler_2753.jpg",
     "copyright": null
   }
 ]
