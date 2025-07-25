@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-07-25",
+    "title": {
+      "en": "Twelve Years of Kappa Cygnids",
+      "pt": "Doze anos de Kappa Cygnids"
+    },
+    "explanation": {
+      "en": "Meteors from the Kappa Cygnid meteor shower are captured in this time-lapse composite skyscape. The minor meteor shower, with a radiant not far from its eponymous star Kappa Cygni, peaks in mid-August, almost at the same time as the much better-known and better-observed Perseid meteor shower. But, seen to have a peak rate of only about 3 meteors per hour, Kappa Cygnids are vastly outnumbered by the more popular, prolific Perseid shower's meteors that emanate from the heroic constellation Perseus. To capture dozens of Kappa Cygnids, this long term astro-imaging project compiled meteors in exposures selected from over 51 August nights during the years 2012 through 2024. Most of the exposures with identified Kappa Cygnid meteors were made in August 2021, a high point of the shower's known 7-year activity cycle. All twelve years worth of Kappa Cygnids are registered against a base sea and night skyscape of the Milky Way above Elafonisi Beach, Crete, Greece, also recorded in August of 2021.",
+      "pt": "Os meteoros do chuveiro de meteoros de Kappa cygnid são capturados nesta paisagem compósita de lapso de tempo. O chuveiro menor de meteoros, com uma radiante não muito longe de sua estrela homônima Kappa Cygni, atinge o pico em meados de agosto, quase ao mesmo tempo que o chuveiro de meteoros muito mais conhecido e mais bem observado. Mas, visto com uma taxa de pico de apenas cerca de 3 meteoros por hora, os cygnids de Kappa são muito em menor número pelos meteoros do chuveiro perseida mais populares e prolíficos que emanam da constelação heróica Perseus. Para capturar dezenas de cygnids de Kappa, este projeto astro-imagens de longo prazo compilou meteoros em exposições selecionadas de mais de 51 noites de agosto durante os anos de 2012 a 2024. A maioria das exposições com meteoros Kappa cygnid identificada foi feita em agosto de 2021, um alto ponto do ciclo de atividades de 7 anos do chuveiro. Todos os doze anos de Kappa Cygnids estão registrados contra um mar de Base e Night Skyscape da Via Láctea acima da praia de Elafonisi, Creta, Grécia, também registrada em agosto de 2021."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2507/KCG2021_08_11_Pano_Elafonisi_met_fin-CCMZ_1024px.png",
+    "hdurl": "https://apod.nasa.gov/apod/image/2507/KCG2021_08_11_Pano_Elafonisi_met_fin-CCMZ_1500px.png",
+    "copyright": "Petr Horálek"
+  },
+  {
     "date": "2025-07-24",
     "title": {
       "en": "Titan Shadow Transit",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2506/IC2177SeagullLRGB-APOD1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2506/IC2177SeagullLRGB-APOD2048.jpg",
     "copyright": "Timothy Martin"
-  },
-  {
-    "date": "2025-06-25",
-    "title": {
-      "en": "Rubin's First Look: A Sagittarius Skyscape",
-      "pt": "Primeiro visual de Rubin: um Sagitário Skyscape"
-    },
-    "explanation": {
-      "en": "This interstellar skyscape spans over 4 degrees across crowded starfields toward the constellation Sagittarius and the central Milky Way. A First Look image captured at the new NSF–DOE Vera C. Rubin Observatory, the bright nebulae and star clusters featured include famous stops on telescopic tours of the cosmos: Messier 8 and Messier 20. An expansive star-forming region over a hundred light-years across, Messier 8 is also known as the Lagoon Nebula. About 4,000 light-years away the Lagoon Nebula harbors a remarkable cluster of young, massive stars. Their intense radiation and stellar winds energize and agitate this cosmic lagoon's turbulent depths. Messier 20's popular moniker is the Trifid. Divided into three parts by dark interstellar dust lanes, the Trifid Nebula's glowing hydrogen gas creates its dominant red color. But contrasting blue hues in the colorful Trifid are due to dust reflected starlight. The Rubin Observatory visited the Trifid-Lagoon field to acquire all the image data during parts of four nights (May 1-4). At full resolution, Rubin's magnificent Sagittarius skyscape is 84,000 pixels wide and 51,500 pixels tall.",
-      "pt": "Este Skyscape interestelar se estende a mais de 4 graus em campos estrelados em direção à constelação de Sagitário e à Via Láctea Central. Uma imagem de primeiro visual capturada no novo Observatório NSF-DOE VERA C. RUBIN, as nebulosas brilhantes e os aglomerados de estrelas em destaque incluem paradas famosas em passeios telescópicos pelo Cosmos: Messier 8 e Messier 20. Uma região abrangente que se formava em centenas de anos-luz, Messier 8 também é conhecido como a nebulos de lagoaon. A cerca de 4.000 anos-luz de distância, a nebulosa da lagoa abriga um aglomerado notável de estrelas jovens e massivas. Sua intensa radiação e ventos estelares energizam e agitam as profundidades turbulentas dessa lagoa cósmica. O apelido popular de Messier 20 é o trífido. Dividido em três partes por pistas de poeira interestelar escura, o gás de hidrogênio brilhante do nebuloso trívio cria sua cor vermelha dominante. Mas os tons azuis contrastantes no trifídeo colorido são devidos ao pó refletido na luz das estrelas. O Observatório Rubin visitou o campo do trívio-lagoa para adquirir todos os dados da imagem durante partes de quatro noites (1 a 4 de maio). Em resolução total, a magnífica Sagitário Sagitário de Rubin tem 84.000 pixels de largura e 51.500 pixels de altura."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2506/SagittariusTrip_Rubin1100.png",
-    "hdurl": "https://apod.nasa.gov/apod/image/2506/SagittariusTrip_Rubin.png",
-    "copyright": null
   }
 ]
