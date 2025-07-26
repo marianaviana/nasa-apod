@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-07-26",
+    "title": {
+      "en": "Globular Cluster Omega Centauri",
+      "pt": "Cluster globular Omega Centauri"
+    },
+    "explanation": {
+      "en": "Globular star cluster Omega Centauri packs about 10 million stars much older than the Sun into a volume some 150 light-years in diameter. Also known as NGC 5139, at a distance of 15,000 light-years it's the largest and brightest of 200 or so known globular clusters that roam the halo of our Milky Way galaxy. Though most star clusters consist of stars with the same age and composition, the enigmatic Omega Cen exhibits the presence of different stellar populations with a spread of ages and chemical abundances. In fact, Omega Cen may be the remnant core of a small galaxy merging with the Milky Way. With a yellowish hue, Omega Centauri's red giant stars are easy to pick out in this sharp telescopic view.  A two-decade-long exploration of the dense star cluster with the Hubble Space Telescope has revealed evidence for a massive black hole near the center of Omega Centauri.",
+      "pt": "O Globular Star Cluster Omega Centauri possui cerca de 10 milhões de estrelas muito mais antigas que o sol em um volume de cerca de 150 anos-luz de diâmetro. Também conhecido como NGC 5139, a uma distância de 15.000 anos-luz, é o maior e mais brilhante dos 200 aglomerados globulares conhecidos que vagam pelo auréola de nossa galáxia da Via Láctea. Embora a maioria dos aglomerados de estrelas consista em estrelas com a mesma idade e composição, o enigmático Omega CEN exibe a presença de diferentes populações estelares com uma disseminação de idades e abundância química. De fato, o Omega Cen pode ser o núcleo remanescente de uma pequena galáxia se fundindo com a Via Láctea. Com um tom amarelado, as estrelas gigantes vermelhas de Omega Centauri são fáceis de escolher nesta visão telescópica afiada.  Uma exploração de duas décadas de um cluster denso de estrelas com o Telescópio Espacial Hubble revelou evidências de um enorme buraco negro perto do centro de Omega Centauri."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2507/oc_ls_2025_1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2507/oc_ls_2025.jpg",
+    "copyright": "Leo Shatz"
+  },
+  {
     "date": "2025-07-25",
     "title": {
       "en": "Twelve Years of Kappa Cygnids",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2506/M109_Robert_Eder1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2506/M109_Robert_Eder.jpg",
     "copyright": "Robert Eder"
-  },
-  {
-    "date": "2025-06-26",
-    "title": {
-      "en": "The Seagull Nebula",
-      "pt": "A nebulosa gaivota"
-    },
-    "explanation": {
-      "en": "An interstellar expanse of glowing gas and obscuring dust presents a bird-like visage to astronomers from planet Earth, suggesting its popular moniker, the Seagull Nebula. This broadband portrait of the cosmic bird covers a 3.5-degree wide swath across the plane of the Milky Way, in the direction of Sirius, alpha star of the constellation of the Big Dog (Canis Major). The bright head of the Seagull Nebula is cataloged as IC 2177, a compact, dusty emission and reflection nebula with embedded massive star HD 53367. The larger emission region, encompassing objects with other catalog designations, is Likely part of an extensive shell structure swept up by successive supernova explosions. The notable bluish arc below and right of center is a bow shock from runaway star FN Canis Majoris. Dominated by the reddish glow of atomic hydrogen, this complex of interstellar gas and dust clouds with other stars of the Canis Majoris OB1 association spans over 200 light-years at the Seagull Nebula's estimated 3,800 light-year distance.",
-      "pt": "Uma extensão interestelar de gás brilhante e poeira obscurecida apresenta um rosto semelhante a um pássaro para os astrônomos do planeta Terra, sugerindo seu apelido popular, a nebulosa gaivota. Este retrato de banda larga do pássaro cósmico cobre uma faixa de 3,5 graus em todo o plano da Via Láctea, na direção de Sirius, estrela alfa da constelação do cachorro grande (Canis Major). A cabeça brilhante da nebulosa gaivota é catalogada como IC 2177, uma nebulosa compacta e emissora empoeirada e reflexão com uma enorme estrela incorporada HD 53367. A região de emissão maior, abrangendo objetos com outras designações de catálogo, é provavelmente parte de uma extensa estrutura de conchas que é transmitida por sucessivo de designações de sucessivo. O notável arco azulado abaixo e o centro do centro é um choque de arco da estrela fugitiva FN Canis majoris. Dominado pelo brilho avermelhado do hidrogênio atômico, esse complexo de nuvens de gás e poeira interestelares com outras estrelas da Associação de Canis Majoris OB1 abrange mais de 200 anos-luz na distância de 3.800 anos de ano-luz do Seagull Nebula."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2506/IC2177SeagullLRGB-APOD1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2506/IC2177SeagullLRGB-APOD2048.jpg",
-    "copyright": "Timothy Martin"
   }
 ]
