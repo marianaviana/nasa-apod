@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-07-27",
+    "title": {
+      "en": "Lightning over the Volcano of Water",
+      "pt": "Relâmpago sobre o vulcão de água"
+    },
+    "explanation": {
+      "en": "Have you ever watched a lightning storm in awe?  You're not alone. Details of what causes lightning are still being researched, but it is known that inside some clouds, internal updrafts cause collisions between ice and snow that slowly separate charges between cloud tops and bottoms. The rapid electrical discharges that are lightning soon result.  Lightning usually takes a jagged course, rapidly heating a thin column of air to about three times the surface temperature of the Sun.  The resulting shock wave starts supersonically and decays into the loud sound known as thunder.  On average, around the world, about 6,000 lightning bolts occur between clouds and the Earth every minute. Pictured in July 2019 in a two-image composite, lightning stems from communication antennas near the top of Volcán de Agua (Volcano of Water) in Guatemala.  Sky Surprise: What picture did APOD feature on your birthday? (post 1995)",
+      "pt": "Você já assistiu a uma tempestade de raios com admiração?  Você não está sozinho. Detalhes do que causam raios ainda estão sendo pesquisados, mas sabe -se que, dentro de algumas nuvens, as atualizações internas causam colisões entre gelo e neve que separam lentamente as cobranças entre os tops e os fundos das nuvens. As descargas elétricas rápidas que são um raio em breve resultam.  Lightning geralmente faz um percurso irregular, aquecendo rapidamente uma fina coluna de ar para cerca de três vezes a temperatura da superfície do sol.  A onda de choque resultante começa supersonicamente e decai no som alto conhecido como Thunder.  Em média, em todo o mundo, cerca de 6.000 raios ocorrem entre nuvens e a Terra a cada minuto. Na foto em julho de 2019, em um composto de duas imagens, os raios derivam de antenas de comunicação perto do topo de Volcán de Agua (vulcão de água) na Guatemala.  SKY SURPRESSIONAÇÃO: Qual a foto que o APOD apareceu no seu aniversário? (Post 1995)"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2507/LightningVolcano_Montufar_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2507/LightningVolcano_Montufar_3000.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-07-26",
     "title": {
       "en": "Globular Cluster Omega Centauri",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2506/farside_lro800.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2506/farside_lro1600.jpg",
     "copyright": null
-  },
-  {
-    "date": "2025-06-27",
-    "title": {
-      "en": "Messier 109",
-      "pt": "Messier 109"
-    },
-    "explanation": {
-      "en": "Big beautiful barred spiral galaxy Messier 109 is the 109th entry in Charles Messier's famous catalog of bright Nebulae and Star Clusters. You can find it just below the Big Dipper's bowl in the northern constellation Ursa Major. In fact, bright dipper star Phecda, Gamma Ursa Majoris, produces the glare at the upper right corner of this telescopic frame. M109's prominent central bar gives the galaxy the appearance of the Greek letter \"theta\", θ, a common mathematical symbol representing an angle. M109 spans a very small angle in planet Earth's sky though, about 7 arcminutes or 0.12 degrees. But that small angle corresponds to an enormous 120,000 light-year diameter at the galaxy's estimated 60 million light-year distance. The brightest member of the now recognized Ursa Major galaxy cluster, M109 (aka NGC 3992) is joined by spiky foreground stars. Three small, fuzzy bluish galaxies also on the scene, identified (top to bottom) as UGC 6969, UGC 6940 and UGC 6923, are possibly satellite galaxies of the larger barred spiral galaxy Messier 109.",
-      "pt": "Big Beautiful Galaxy Messier 109 é a 109ª entrada no famoso catálogo de nebulosas brilhantes de Charles Messier e aglomerados de estrelas. Você pode encontrá -lo logo abaixo da tigela do Big Dipper na constelação do norte, Ursa Major. De fato, a estrela de dipper brilhante Phecda, Gamma Ursa majoris, produz o brilho no canto superior direito dessa estrutura telescópica. A proeminente barra central do M109 dá à galáxia a aparência da letra grega \"Theta\", θ, um símbolo matemático comum que representa um ângulo. O M109 abrange um ângulo muito pequeno no céu do planeta Terra, cerca de 7 arcminutes ou 0,12 graus. Mas esse pequeno ângulo corresponde a um enorme diâmetro de 120.000 anos-luz na distância estimada em 60 milhões de anos da galáxia. O membro mais brilhante do agora reconhecido URSA Major Galaxy Cluster, M109 (também conhecido como NGC 3992), é acompanhado por estrelas de primeiro plano pontiagudas. Três pequenas galáxias azuladas difusas também em cena, identificadas (de cima para baixo) como UGC 6969, UGC 6940 e UGC 6923, são galáxias de satélite da galáxia espiral mais barrada de Galaxy Messier 109."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2506/M109_Robert_Eder1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2506/M109_Robert_Eder.jpg",
-    "copyright": "Robert Eder"
   }
 ]
