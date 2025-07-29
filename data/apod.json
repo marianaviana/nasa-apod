@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-07-29",
+    "title": {
+      "en": "A Helix Nebula Deep Field",
+      "pt": "Um campo profundo da nebulosa helix"
+    },
+    "explanation": {
+      "en": "Is the Helix Nebula looking at you? No, not in any biological sense, but it does look quite like an eye. The Helix Nebula is so named because it also appears that you are looking down the axis of a helix. In actuality, it is now understood to have a surprisingly complex geometry, including radial filaments and extended outer loops.  The Helix Nebula (aka NGC 7293) is one of brightest and closest examples of a planetary nebula, a gas cloud created at the end of the life of a Sun-like star. The remnant central stellar core, destined to become a white dwarf star, glows in light so energetic it causes the previously expelled gas to fluoresce. The featured picture, taken in red, green, and blue but highlighted by light emitted primarily by hydrogen was created from 12 hours of exposure through a personal telescope located in Greece.  A close-up of the inner edge of the Helix Nebula shows complex gas knots the origin of which are  still being researched.    Portal Universe: Random APOD Generator",
+      "pt": "A nebulosa da helix está olhando para você? Não, não em nenhum sentido biológico, mas parece um olho. A nebulosa da helix é assim chamada porque também parece que você está olhando para o eixo de uma hélice. Na realidade, agora se entende ter uma geometria surpreendentemente complexa, incluindo filamentos radiais e loops externos estendidos.  A Nebula Helix (também conhecida como NGC 7293) é um dos exemplos mais brilhantes e próximos de uma nebulosa planetária, uma nuvem de gás criada no final da vida de uma estrela do sol. O núcleo estelar central remanescente, destinado a se tornar uma estrela anã branca, brilha na luz tão enérgica que causa o gás anteriormente expulso à fluoresce. A foto em destaque, tirada em vermelho, verde e azul, mas destacada pela luz emitida principalmente pelo hidrogênio, foi criada a partir de 12 horas de exposição através de um telescópio pessoal localizado na Grécia.  Um close da borda interna da nebulosa da hélice mostra um nó de gás complexo cuja origem ainda está sendo pesquisada.    Universo portal: gerador APOD aleatório"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2507/Helix_GC_1080.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2507/Helix_GC_2332.jpg",
+    "copyright": ", George Chatzifrantzis,"
+  },
+  {
     "date": "2025-07-28",
     "title": {
       "en": "Collision at Asteroid Dimorphos",
@@ -430,21 +445,6 @@
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2506/UmbrellaGal_Alkuwari_960.png",
     "hdurl": "https://apod.nasa.gov/apod/image/2506/UmbrellaGal_Alkuwari_3843.png",
-    "copyright": null
-  },
-  {
-    "date": "2025-06-29",
-    "title": {
-      "en": "Dark Sand Cascades on Mars",
-      "pt": "Cascatas de areia escura em Marte"
-    },
-    "explanation": {
-      "en": "Are these trees growing on Mars? No.  Groups of dark brown streaks have been photographed by the Mars Reconnaissance Orbiter on melting pinkish sand dunes covered with light frost. The featured image was taken in 2008 April near the North Pole of Mars. At that time, dark sand on the interior of Martian sand dunes became more and more visible as the spring Sun melted the lighter carbon dioxide ice.  When occurring near the top of a dune, dark sand may cascade down the dune leaving dark surface streaks -- streaks that might appear at first to be trees standing in front of the lighter regions but cast no shadows. Objects about 25 centimeters across are resolved on this image spanning about one kilometer. Close ups of some parts of this image show billowing plumes indicating that the sand slides were occurring even while the image was being taken.    Celestial Surprise: What picture did APOD feature on your birthday? (post 1995)",
-      "pt": "Essas árvores estão crescendo em Marte? Não. Grupos de faixas marrons escuras foram fotografadas pelo Orbitador de reconhecimento de Marte em derreter dunas de areia rosada cobertas de geada leve. A imagem em destaque foi tirada em 2008 em abril, perto do Pólo Norte de Marte. Naquela época, a areia escura no interior das dunas de areia marciana se tornou cada vez mais visível quando o sol da primavera derreteu o gelo de dióxido de carbono mais claro.  Ao ocorrer perto do topo de uma duna, a areia escura pode cair em cascata pela duna, deixando as faixas da superfície escura - estrias que podem parecer a princípio em pé em frente às regiões mais claras, mas não lançam sombras. Objetos de cerca de 25 centímetros de diâmetro são resolvidos nesta imagem que abrange cerca de um quilômetro. Close -ups de algumas partes desta imagem mostram que plumas ondulantes, indicando que as lâminas de areia estavam ocorrendo mesmo enquanto a imagem estava sendo tirada.    Surpresa Celestial: que imagem o APOD apareceu no seu aniversário? (Post 1995)"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2506/almosttrees_mro_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2506/almosttrees_mro_2560.jpg",
     "copyright": null
   }
 ]
