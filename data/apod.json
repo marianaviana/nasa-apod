@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-07-30",
+    "title": {
+      "en": "Coronal Loops on the Sun",
+      "pt": "Loops coronais no sol"
+    },
+    "explanation": {
+      "en": "Our Sun frequently erupts in loops.  Hot solar plasma jumps off the Sun's surface into prominences, with the most common type of prominence being a simple loop.  The loop shape originates from the Sun's magnetic field, which is traced by spiraling electrons and protons.  Many loops into the Sun's lower corona are large enough to envelop the Earth and are stable enough to last days.  They commonly occur near active regions that also include dark sunspots.  The featured panel shows four loops, each of which was captured near the Sun's edge during 2024 and 2025. The images were taken by a personal telescope in Mantova, Italy and in a very specific color of light emitted primarily by hydrogen. Some solar prominences suddenly break open and eject particles into the Solar System, setting up a space weather sequence that can affect the skies and wires of Earth.    Jigsaw Universe: Astronomy Puzzle of the Day",
+      "pt": "Nosso sol freqüentemente entra em erupção em loops.  O plasma solar quente pula da superfície do sol em proeminências, com o tipo de destaque mais comum sendo um loop simples.  A forma do loop se origina do campo magnético do sol, que é rastreado por elétrons e prótons em espiral.  Muitos loops na coroa inferior do sol são grandes o suficiente para envolver a terra e são estáveis o suficiente para durar dias.  Geralmente ocorrem regiões ativas que também incluem manchas solares escuras.  O painel em destaque mostra quatro loops, cada um dos quais foi capturado perto da borda do sol durante 2024 e 2025. As imagens foram tiradas por um telescópio pessoal em Mantova, Itália e em uma cor muito específica da luz emitida principalmente pelo hidrogênio. Algumas proeminências solares de repente se abrem e ejetam partículas no sistema solar, estabelecendo uma sequência climática espacial que pode afetar os céus e os fios da Terra.    Universo de Jigsaw: quebra -cabeça da astronomia do dia"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2507/SunLoops_Vanoni_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2507/SunLoops_Vanoni_1223.jpg",
+    "copyright": ", Andrea Vanoni,"
+  },
+  {
     "date": "2025-07-29",
     "title": {
       "en": "A Helix Nebula Deep Field",
@@ -431,20 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2507/EyeDragonSky_Komlev_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2507/EyeDragonSky_Komlev_2000.jpg",
     "copyright": ", Anton Komlev,"
-  },
-  {
-    "date": "2025-06-30",
-    "title": {
-      "en": "NGC 4651: The Umbrella Galaxy",
-      "pt": "NGC 4651: The Umbrella Galaxy"
-    },
-    "explanation": {
-      "en": "It's raining stars.  What appears to be a giant cosmic umbrella is now known to be a tidal stream of stars stripped from a small satellite galaxy. The main galaxy, spiral galaxy NGC 4651, is about the size of our Milky Way, while its stellar parasol appears to extend some 100 thousand light-years above this galaxy's bright disk. A small galaxy was likely torn apart by repeated encounters as it swept back and forth on eccentric orbits through NGC 4651. The remaining stars will surely fall back and become part of a combined larger galaxy over the next few million years. The featured deep image was captured in long exposures from Saudi Arabia. The Umbrella Galaxy lies about 50 million light-years distant toward the well-groomed northern constellation of Berenice's Hair (Coma Berenices).   APOD in a Modern Format StellarSnap",
-      "pt": "Está chovendo estrelas.  O que parece ser um guarda -chuva cósmico gigante agora é conhecido por ser um fluxo de estrelas despojado de uma pequena galáxia de satélite. A Galaxia Principal, Galaxy Spiral NGC 4651, é do tamanho da Via Láctea, enquanto seu parasol estelar parece estender cerca de 100 mil anos-luz acima do disco brilhante desta galáxia. Uma pequena galáxia provavelmente foi destruída por encontros repetidos, enquanto varreu as órbitas excêntricas através do NGC 4651. As estrelas restantes certamente voltarão e se tornarão parte de uma galáxia maior combinada nos próximos milhões de anos. A imagem profunda em destaque foi capturada em longas exposições da Arábia Saudita. A galáxia guarda-chuva fica a cerca de 50 milhões de anos-luz, distantes em direção à constelação norte bem cuidada do cabelo de Berenice (Coma Berenices).   Apod em um formato moderno Stellarsnap"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2506/UmbrellaGal_Alkuwari_960.png",
-    "hdurl": "https://apod.nasa.gov/apod/image/2506/UmbrellaGal_Alkuwari_3843.png",
-    "copyright": null
   }
 ]
