@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-07-31",
+    "title": {
+      "en": "Supernova 2025rbs in NGC 7331",
+      "pt": "Supernova 2025RBs no NGC 7331"
+    },
+    "explanation": {
+      "en": "A long time ago in a galaxy 50 million light-years away, a star exploded. Light from that supernova was first detected by telescopes on planet Earth on July 14th though, and the extragalactic transient is now known to astronomers as supernova 2025rbs. Presently the brightest supernova in planet Earth's sky, 2025rbs is a Type Ia supernova, likely caused by the thermonuclear detonation of a white dwarf star that accreted material from a companion in a binary star system.  Type Ia supernovae are used as standard candles to establish the distance scale of the universe. The host galaxy of 2025rbs is NGC 7331. Itself a bright spiral galaxy in the northern constellation Pegasus, NGC 7331 is often touted as an analog to our own Milky Way.",
+      "pt": "Há muito tempo, em uma galáxia a 50 milhões de anos-luz de distância, uma estrela explodiu. Porém, a luz daquela supernova foi detectada pela primeira vez por telescópios no planeta Terra em 14 de julho, e o transitório extragalático agora é conhecido pelos astrônomos como Supernova 2025RBs. Atualmente, a supernova mais brilhante do céu do planeta Terra, 2025RBs é uma supernova do tipo IA, provavelmente causada pela detonação termonuclear de uma estrela anã branca que acumulou material de um companheiro em um sistema estelar binário.  As supernovas do tipo IA são usadas como velas padrão para estabelecer a escala de distância do universo. A galáxia hospedeira de 2025RBs é NGC 7331. Em si, uma galáxia espiral brilhante no norte da constelação Pegasus, NGC 7331 é frequentemente apontada como um análogo à nossa própria Via Láctea."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2507/2025rbsAnnotated1024.png",
+    "hdurl": "https://apod.nasa.gov/apod/image/2507/2025rbsAnnotated1024.png",
+    "copyright": null
+  },
+  {
     "date": "2025-07-30",
     "title": {
       "en": "Coronal Loops on the Sun",
@@ -431,20 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2507/MwSpires_Chay_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2507/MwSpires_Chay_1874.jpg",
     "copyright": ", Kavan Chay; , Text: , Ogetay Kayali, (Michigan Tech U.),"
-  },
-  {
-    "date": "2025-07-01",
-    "title": {
-      "en": "Eye Sky a Dragon",
-      "pt": "Céu ocular um dragão"
-    },
-    "explanation": {
-      "en": "What do you see when you look into this sky? In the center, in the dark, do you see a night sky filled with stars? Do you see a sunset to the left? Clouds all around? Do you see the central band of our Milky Way Galaxy running down the middle? Do you see the ruins of an abandoned outpost on a hill? (The outpost is on Askold Island, Russia.)  Do you see a photographer with a headlamp contemplating surreal surroundings? (The featured image is a panorama of 38 images taken last month and compiled into a Little Planet projection.)  Do you see a rugged path lined with steps? Or do you see the eye of a dragon?",
-      "pt": "O que você vê quando olha para este céu? No centro, no escuro, você vê um céu noturno cheio de estrelas? Você vê um pôr do sol para a esquerda? Nuvens por toda parte? Você vê a banda central da nossa Galaxia da Via Láctea correndo pelo meio? Você vê as ruínas de um posto avançado abandonado em uma colina? (O posto avançado está em Askold Island, Rússia.) Você vê um fotógrafo com um farol contemplando um ambiente surreal? (A imagem em destaque é um panorama de 38 imagens tiradas no mês passado e compilado em uma pequena projeção do planeta.) Você vê um caminho robusto revestido com etapas? Ou você vê o olho de um dragão?"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2507/EyeDragonSky_Komlev_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2507/EyeDragonSky_Komlev_2000.jpg",
-    "copyright": ", Anton Komlev,"
   }
 ]
