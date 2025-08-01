@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-08-01",
+    "title": {
+      "en": "Small Dark Nebula",
+      "pt": "Pequena nebulosa escura"
+    },
+    "explanation": {
+      "en": "A small, dark, nebula looks isolated near the center of this telescopic close-up. The wedge-shaped cosmic cloudlet lies within a relatively crowded region of space though. About 7,000 light-years distant and filled with glowing gas and an embedded cluster of young stars, the region is known as M16 or the Eagle Nebula. Hubble's iconic images of the Eagle Nebula include the famous star-forming Pillars of Creation, towering structures of interstellar gas and dust 4 to 5 light-years long. But this small dark nebula, known to some as a Bok globule, is a fraction of a light-year across. The Bok globule stands out in silhouette against the expansive background of M16's diffuse glow. Found scattered within emission nebulae and star clusters, Bok globules are small interstellar clouds of cold molecular gas and obscuring dust that also form stars within their dense, collapsing cores.",
+      "pt": "Uma nebulosa pequena e escura parece isolada perto do centro deste close telescópico. O Cloudlet cósmico em forma de cunha fica dentro de uma região relativamente lotada do espaço. Cerca de 7.000 anos-luz distantes e cheios de gás brilhante e um aglomerado incorporado de estrelas jovens, a região é conhecida como M16 ou a nebulosa da águia. As imagens icônicas de Hubble da Nebula Eagle incluem os famosos pilares de criação em estrelas, estruturas imponentes de gás interestelar e poeira de 4 a 5 anos-luz. Mas essa pequena nebulosa escura, conhecida por alguns como um globule de Bok, é uma fração de um ano-luz. O Bok Globule se destaca em silhueta contra o amplo fundo do brilho difuso do M16. Encontrados espalhados nas nebulosas de emissão e aglomerados de estrelas, os glóbulos de BOK são pequenas nuvens interestelares de gás molecular frio e poeira obscurecida que também formam estrelas dentro de seus densos núcleos em colapso."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2508/BokGlobule_1_1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2508/BokGlobule_1.jpg",
+    "copyright": "Peter Bresseler"
+  },
+  {
     "date": "2025-07-31",
     "title": {
       "en": "Supernova 2025rbs in NGC 7331",
@@ -431,20 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2507/V462Lupi_Pon_960_annotated.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2507/V462Lupi_Pon_1689.jpg",
     "copyright": ", Matipon Tangmatitham , (NARIT),"
-  },
-  {
-    "date": "2025-07-02",
-    "title": {
-      "en": "Milky Way Through Otago Spires",
-      "pt": "Via Láctea através de Spiers Otago"
-    },
-    "explanation": {
-      "en": "Does the Milky Way always rise between these two rocks? No. Capturing this stunning alignment took careful planning: being in the right place at the right time. In the featured image taken in June 2024 from Otago, New Zealand, the bright central core of our Milky Way Galaxy, home to the many of our Galaxy's 400 billion stars, can be seen between two picturesque rocks spires.  For observers in Earth's Northern Hemisphere, the core is only visible throughout the summer. As Earth orbits the Sun, different parts of the Milky Way become visible at different angles at different times of the night. As Earth rotates, the orientation of the Milky Way in the sky also shifts -- sometimes standing vertically as seen in the featured image, and other times stretching parallel to the horizon, making it harder to see. In early June, observers can watch it emerge low on the horizon after sunset and gradually arc upward to reveal its full grandeur.",
-      "pt": "A Via Láctea sempre se eleva entre essas duas rochas? Não. A captura desse alinhamento impressionante levou um planejamento cuidadoso: estar no lugar certo na hora certa. Na imagem em destaque tirada em junho de 2024 de Otago, Nova Zelândia, o núcleo central brilhante de nossa Galáxia da Via Láctea, lar de muitas das 400 bilhões de estrelas da nossa galáxia, pode ser vista entre duas pitorescas pitores de rochas.  Para observadores no hemisfério norte da Terra, o núcleo só é visível durante o verão. Enquanto a Terra orbita o sol, diferentes partes da Via Láctea se tornam visíveis em diferentes ângulos em diferentes momentos da noite. À medida que a Terra gira, a orientação da Via Láctea no céu também muda - às vezes em pé verticalmente, como visto na imagem em destaque, e outras vezes se estendendo paralelamente ao horizonte, dificultando a ver. No início de junho, os observadores podem vê -lo emergir no horizonte após o pôr do sol e gradualmente subir para revelar toda a sua grandeza."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2507/MwSpires_Chay_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2507/MwSpires_Chay_1874.jpg",
-    "copyright": ", Kavan Chay; , Text: , Ogetay Kayali, (Michigan Tech U.),"
   }
 ]
