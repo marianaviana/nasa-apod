@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-08-03",
+    "title": {
+      "en": "Milky Way and Exploding Meteor",
+      "pt": "Via Láctea e Meteor explodindo"
+    },
+    "explanation": {
+      "en": "In about a week the Perseid Meteor Shower will reach its maximum.  Grains of icy rock will streak across the sky as they evaporate during entry into Earth's atmosphere.  These grains were shed from Comet Swift-Tuttle.  The Perseids result from the annual crossing of the Earth through Comet Swift-Tuttle's orbit, and are typically the most active meteor shower of the year.  Although it is hard to predict the level of activity in any meteor shower, in a clear dark sky an observer might see a meteor a minute.  This year's Perseids peak just a few days after  full moon, and so some faint meteors will be lost to the lunar skyglow.  Meteor showers in general are best seen from a relaxing position, away from lights.  Featured here is a meteor caught exploding during the 2015 Perseids above Austria next to the central band of our Milky Way Galaxy.",
+      "pt": "Em cerca de uma semana, o chuveiro de meteoros Perseid atingirá o máximo.  Os grãos de rocha gelada se destacam pelo céu enquanto evaporam durante a entrada na atmosfera da Terra.  Esses grãos foram derramados do cometa Swift-Tuttle.  As Perseids resultam da travessia anual da Terra através da órbita do Cometa Swift-Tuttle e são tipicamente a chuva de meteoros mais ativa do ano.  Embora seja difícil prever o nível de atividade em qualquer chuveiro de meteoros, em um céu escuro claro, um observador pode ver um meteoro por minuto.  Os Perseids deste ano atingem o pico apenas alguns dias após a lua cheia e, portanto, alguns meteoros fracos serão perdidos para o Lunar Skyglow.  Os chuveiros de meteoros em geral são melhor vistos de uma posição relaxante, longe das luzes.  Aqui está um meteoro que explode durante as Perseids de 2015 acima da Áustria, ao lado da banda central da nossa Galaxia da Via Láctea."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2508/MeteorBoom_vanderHoeven_750.gif",
+    "hdurl": "https://apod.nasa.gov/apod/image/2508/MeteorBoom_vanderHoeven_750.gif",
+    "copyright": ", Andre van der Hoeven,"
+  },
+  {
     "date": "2025-08-02",
     "title": {
       "en": "Fireflies, Meteors, and Milky Way",
@@ -431,20 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2507/Ou4_difusco1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2507/Ou4_difusco.jpg",
     "copyright": "Massimo Di Fusco"
-  },
-  {
-    "date": "2025-07-04",
-    "title": {
-      "en": "NGC 6946 and NGC 6939",
-      "pt": "NGC 6946 e NGC 6939"
-    },
-    "explanation": {
-      "en": "Face-on spiral galaxy NGC 6946 and open star cluster NGC 6939 share this cosmic snapshot, composed with over 68 hours of image data captured with a small telescope on planet Earth. The field of view spans spans about 1 degree or 2 full moons on the sky toward the northern constellation Cepheus. Seen through faint interstellar dust couds near the plane of our Milky Way galaxy, the stars of open cluster NGC 6939 are 5,600 light-years in the distance, near bottom right in the frame. Face-on spiral galaxy NGC 6946 is at top left, but lies some 22 million light-years away. In the last 100 years, 10 supernovae have been discovered in NGC 6946, the latest one seen in 2017. By comparison, the average rate of supernovae in our Milky Way is about 1 every 100 years or so. Of course, NGC 6946 is also known as The Fireworks Galaxy.",
-      "pt": "O Galaxy Spiral NGC 6946 e o ​​cluster de estrelas abertas NGC 6939 da Open Star compartilham esse instantâneo cósmico, composto com mais de 68 horas de dados de imagem capturados com um pequeno telescópio no planeta Terra. O campo de visão abrange cerca de 1 grau ou 2 luas cheias no céu em direção ao Cepheus da Constelação do Norte. Visto através de pó interestelar fracas, perto do plano de nossa galáxia da Via Láctea, as estrelas do cluster aberto NGC 6939 são 5.600 anos-luz à distância, perto do fundo do canto da estrutura. O Face-on Spiral Galaxy NGC 6946 fica no canto superior esquerdo, mas fica a 22 milhões de anos-luz de distância. Nos últimos 100 anos, 10 supernovas foram descobertas no NGC 6946, o mais recente observado em 2017. Em comparação, a taxa média de supernovas em nossa Via Láctea é de cerca de 1 a cada 100 anos. Obviamente, o NGC 6946 também é conhecido como Galaxia de Fireitos de Fireitos."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2507/N6946N6939pisabarro1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2507/N6946N6939pisabarro.jpg",
-    "copyright": "Alberto Pisabarro"
   }
 ]
