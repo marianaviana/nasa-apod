@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-08-04",
+    "title": {
+      "en": "Blue Arcs Toward Andromeda",
+      "pt": "Arcos azuis em direção a Andrômeda"
+    },
+    "explanation": {
+      "en": "What are these gigantic blue arcs near the Andromeda Galaxy (M31)?  Discovered in 2022 by amateur astronomers, the faint arcs -- dubbed SDSO 1 -- span nearly the same angular size as M31 itself.  At first, their origin was a mystery: are they actually near the Andromeda Galaxy, or alternatively near to our Sun?  Now, over 550 hours of combined exposure and a collaboration between amateur and professional astronomers has revealed strong evidence for their true nature: SDSO 1 is not intergalactic, but a new class of planetary nebula within our galaxy.  Dubbed a Ghost Planetary Nebula (GPN), SDSO 1 is the first recognized member of a new subclass of faded planetary nebulas, along with seven others also recently identified.  Shown in blue are extremely faint oxygen emission from the shock waves, while the surrounding red is a hydrogen-emitting trail that indicates the GPN's age.",
+      "pt": "Quais são esses arcos azuis gigantescos perto da galáxia de Andrômeda (M31)?  Descoberto em 2022 por astrônomos amadores, os arcos fracos - apelidados de SDSO 1 - abrangem quase o mesmo tamanho angular que o próprio M31.  A princípio, sua origem era um mistério: eles estão realmente perto da galáxia de Andrômeda, ou alternativamente perto do nosso sol?  Agora, mais de 550 horas de exposição combinada e uma colaboração entre astrônomos amadores e profissionais revelaram fortes evidências de sua verdadeira natureza: o SDSO 1 não é intergaláctico, mas uma nova classe de nebulosa planetária em nossa galáxia.  Apelidado de uma nebulosa planetária fantasma (GPN), o SDSO 1 é o primeiro membro reconhecido de uma nova subclasse de nebulas planetárias desbotadas, juntamente com outros sete outros também identificados recentemente.  Mostrados em azul, são extremamente fracas emissão de oxigênio das ondas de choque, enquanto o vermelho circundante é uma trilha emissora de hidrogênio que indica a idade do GPN."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2508/M31Oxy_Collab_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2508/M31Oxy_Collab_5415.jpg",
+    "copyright": ", Ogle et , al.,"
+  },
+  {
     "date": "2025-08-03",
     "title": {
       "en": "Milky Way and Exploding Meteor",
@@ -431,20 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2507/MarsNorthPole_MarsExpress_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2507/MarsNorthPole_MarsExpress_960.jpg",
     "copyright": null
-  },
-  {
-    "date": "2025-07-05",
-    "title": {
-      "en": "Ou4: The Giant Squid Nebula",
-      "pt": "Ou4: a nebulosa gigante de lula"
-    },
-    "explanation": {
-      "en": "Difficult to capture, this mysterious, squid-shaped interstellar cloud spans nearly three full moons in planet Earth's sky. Discovered in 2011 by French astro-imager Nicolas Outters, the Squid Nebula's bipolar shape is distinguished here by the telltale blue emission from doubly ionized oxygen atoms. Though apparently surrounded by the reddish hydrogen emission region Sh2-129, the true distance and nature of the Squid Nebula have been difficult to determine. Still, one investigation suggests Ou4 really does lie within Sh2-129 some 2,300 light-years away. Consistent with that scenario, the cosmic squid would represent a spectacular outflow of material driven by a triple system of hot, massive stars, cataloged as HR8119, seen near the center of the nebula. If so, this truly giant squid nebula would physically be over 50 light-years across.",
-      "pt": "Difícil de capturar, essa misteriosa nuvem interestelar em forma de lula abrange quase três luas cheias no céu do planeta Terra. Descoberto em 2011 por Nicolas Outters, a Astro-Imager Outters, a forma bipolar da nebulosa da lula é distinguida aqui pela emissão azul reveladora de átomos de oxigênio duplamente ionizados. Embora aparentemente cercado pela região avermelhada de emissão de hidrogênio SH2-129, a verdadeira distância e a natureza da nebulosa da lula têm sido difíceis de determinar. Ainda assim, uma investigação sugere que o OU4 realmente está dentro de Sh2-129 a cerca de 2.300 anos-luz de distância. Consistente com esse cenário, a lula cósmica representaria uma saída espetacular de material acionado por um sistema triplo de estrelas quentes e maciças, catalogadas como HR8119, vistas perto do centro da nebulosa. Nesse caso, essa nebulosa de lula verdadeiramente gigante teria mais de 50 anos-luz de diâmetro."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2507/Ou4_difusco1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2507/Ou4_difusco.jpg",
-    "copyright": "Massimo Di Fusco"
   }
 ]
