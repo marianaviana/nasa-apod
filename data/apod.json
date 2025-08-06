@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-08-06",
+    "title": {
+      "en": "Meteor before Galaxy",
+      "pt": "Meteoro antes da galáxia"
+    },
+    "explanation": {
+      "en": "What's that green streak in front of the Andromeda galaxy? A meteor. While photographing the Andromeda galaxy in 2016, near the peak of the Perseid Meteor Shower, a small pebble from deep space crossed right in front of our Milky Way Galaxy's far-distant companion. The small meteor took only a fraction of a second to pass through this 10-degree field.  The meteor flared several times while braking violently upon entering Earth's atmosphere.  The green color was created, at least in part, by the meteor's gas glowing as it vaporized. Although the exposure was timed to catch a Perseid meteor, the orientation of the imaged streak seems a better match to a meteor from the Southern Delta Aquariids, a meteor shower that peaked a few weeks earlier.  Not coincidentally, the Perseid Meteor Shower peaks next week, although this year the meteors will have to outshine a sky brightened by a nearly full moon.",
+      "pt": "O que é aquela faixa verde em frente à galáxia de Andrômeda? Um meteoro. Enquanto fotografa a galáxia de Andrômeda em 2016, perto do pico do chuveiro de meteoros Perseid, uma pequena pedra do espaço profundo cruzado bem em frente ao companheiro distante da Via Láctea. O pequeno meteoro levou apenas uma fração de segundo para passar por este campo de 10 graus.  O meteoro explodiu várias vezes enquanto estava travando violentamente ao entrar na atmosfera da Terra.  A cor verde foi criada, pelo menos em parte, pelo gás do meteoro brilhando à medida que vaporizava. Embora a exposição tenha sido cronometrada para capturar um meteoro Perseid, a orientação da sequência fotografada parece uma correspondência melhor para um meteoro dos aquariids do Delta do Sul, um chuveiro de meteoros que atingiu algumas semanas antes.  Não por acaso, o chuveiro de meteoros Perseid atinge a próxima semana, embora este ano os meteoros tenham que ofuscar um céu iluminado por uma lua quase cheia."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2508/MeteorM31_hemmerich_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2508/MeteorM31_hemmerich_1948.jpg",
+    "copyright": ", Fritz, Helmut Hemmerich,"
+  },
+  {
     "date": "2025-08-05",
     "title": {
       "en": "NGC 6072: A Complex Planetary Nebula from Webb",
@@ -431,20 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2507/Pleiades_Kayali_1080.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2507/Pleiades_Kayali_2560.jpg",
     "copyright": ", Ogetay Kayali, (Michigan Tech U.), Text: , Ogetay Kayali, (Michigan Tech U.),"
-  },
-  {
-    "date": "2025-07-07",
-    "title": {
-      "en": "Interstellar Comet 3I/ATLAS",
-      "pt": "Comets Interestelares 3i/Atlas"
-    },
-    "explanation": {
-      "en": "It came from outer space.  An object from outside our Solar System is now passing through at high speed. Classified as a comet because of its gaseous coma, 3I/ATLAS is only the third identified macroscopic object as being so alien. The comet's trajectory is shown in white on the featured map, where the orbits of Jupiter, Mars, and Earth are shown in gold, red, and blue. Currently Comet 3I/ATLAS is about the distance of Jupiter from the Sun -- but closing, with its closest approach to our Sun expected to be within the orbit of Mars in late October. Expected to pass near both Mars and Jupiter, 3I/ATLAS is not expected to pass close to the Earth.  The origin of Comet 3I/ATLAS remains unknown. Although initial activity indicates a relatively normal comet, future observations about 3I/ATLAS' composition and nature will surely continue.   Piece it All Together: Astronomy Puzzle of the Day",
-      "pt": "Veio do espaço sideral.  Um objeto de fora do nosso sistema solar agora está passando em alta velocidade. Classificado como um cometa por causa de seu coma gasoso, 3i/atlas é apenas o terceiro objeto macroscópico identificado como sendo tão estranho. A trajetória do cometa é mostrada em branco no mapa em destaque, onde as órbitas de Júpiter, Marte e Terra são mostradas em ouro, vermelho e azul. Atualmente, o Comet 3i/Atlas é a distância de Júpiter do sol - mas fechando, com a abordagem mais próxima do nosso sol que se espera estar dentro da órbita de Marte no final de outubro. Espera -se que não se espere que Marte e Júpiter, 3i/Atlas, passem perto da Terra.  A origem do cometa 3i/atlas permanece desconhecida. Embora a atividade inicial indique um cometa relativamente normal, observações futuras sobre a composição e a natureza de 3i/atlas certamente continuarão.   Mecue tudo: o quebra -cabeça da astronomia do dia"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2507/Interstellar3I_nasa_1080.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2507/Interstellar3I_nasa_2913.jpg",
-    "copyright": null
   }
 ]
