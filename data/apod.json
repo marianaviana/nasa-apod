@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-08-07",
+    "title": {
+      "en": "The Double Cluster in Perseus",
+      "pt": "O cluster duplo em Perseus"
+    },
+    "explanation": {
+      "en": "This stunning starfield spans about three full moons (1.5 degrees) across the heroic northern constellation of Perseus. It holds the famous pair of open star clusters, h and Chi Persei. Also cataloged as NGC 869 (right) and NGC 884, both clusters are about 7,000 light-years away and contain stars much younger and hotter than the Sun.  Separated by only a few hundred light-years, the clusters are both 13 million years young based on the ages of their individual stars, evidence that both clusters were likely a product of the same star-forming region. Always a rewarding sight in binoculars or small telescopes, the Double Cluster is even visible to the unaided eye from dark locations.",
+      "pt": "Este impressionante campo estrelado abrange cerca de três luas cheias (1,5 graus) através da heróica constelação do norte de Perseus. Ele mantém o famoso par de aglomerados de estrelas abertas, H e Chi Persei. Também catalogados como NGC 869 (à direita) e NGC 884, ambos os clusters estão a cerca de 7.000 anos-luz de distância e contêm estrelas muito mais jovens e mais quentes que o sol.  Separados por apenas algumas centenas de anos-luz, os aglomerados são de 13 milhões de anos jovens com base nos tempos de suas estrelas individuais, evidências de que ambos os grupos provavelmente eram um produto da mesma região de formação de estrelas. Sempre uma visão gratificante em binóculos ou pequenos telescópios, o cluster duplo é visível para o olho sem ajuda de locais escuros."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2508/DoubleClusterBrecher1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2508/DoubleClusterBrechersmall.jpg",
+    "copyright": "Ron Brecher"
+  },
+  {
     "date": "2025-08-06",
     "title": {
       "en": "Meteor before Galaxy",
@@ -431,20 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2507/Trifid1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2507/Trifid2048.jpg",
     "copyright": "Alessandro Cipolat Bares"
-  },
-  {
-    "date": "2025-07-08",
-    "title": {
-      "en": "The Pleiades in Red and Blue",
-      "pt": "As Plêiades em vermelho e azul"
-    },
-    "explanation": {
-      "en": "If you have looked at the sky and seen a group of stars about the size of the full Moon, that's the Pleiades (M45). Perhaps the most famous star cluster in the sky, its brightest stars can be seen even from the light-polluted cities. But your unaided eye can also see its nebulosity -- the gas and dust surrounding it -- under dark skies. However, telescopes can catch even more. The bright blue stars of the Pleiades, also known as the Seven Sisters, light up their surrounding dust, causing it to appear a diffuse blue that can only be seen under long exposures. But that's not all. The cosmic dust appears to stretch upward like ethereal arms. And the entire structure is surrounded by a reddish glow from the most abundant element in the universe: hydrogen. The featured image is composed of nearly 25 hours of exposure and was captured last year from Starfront Observatory, in Texas, USA  Explore Your Universe: Random APOD Generator",
-      "pt": "Se você olhou para o céu e viu um grupo de estrelas do tamanho da lua cheia, são as Plêiades (M45). Talvez o cluster de estrelas mais famoso do céu, suas estrelas mais brilhantes possam ser vistas mesmo das cidades poluídas à luz. Mas seu olho sem ajuda também pode ver sua nebulosidade - o gás e a poeira que o cercam - sob o céu escuro. No entanto, os telescópios podem capturar ainda mais. As estrelas azuis brilhantes das Plêiades, também conhecidas como as sete irmãs, iluminam a poeira circundante, fazendo com que pareça um azul difuso que só pode ser visto sob longas exposições. Mas isso não é tudo. O pó cósmico parece se esticar para cima como braços etéreos. E toda a estrutura é cercada por um brilho avermelhado do elemento mais abundante do universo: hidrogênio. A imagem em destaque é composta por quase 25 horas de exposição e foi capturada no ano passado pela Starfront Observatory, no Texas, EUA Explore Your Universe: Random ApOd Generator"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2507/Pleiades_Kayali_1080.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2507/Pleiades_Kayali_2560.jpg",
-    "copyright": ", Ogetay Kayali, (Michigan Tech U.), Text: , Ogetay Kayali, (Michigan Tech U.),"
   }
 ]
