@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-08-08",
+    "title": {
+      "en": "Dawn of the Crab",
+      "pt": "Dawn of the Crab"
+    },
+    "explanation": {
+      "en": "One of the all-time historic skyscapes occured in July 1054, when the Crab Supernova blazed into the dawn sky. Chinese court astrologers first saw the Guest Star on the morning of 4 July 1054 next to the star Tianguan (now cataloged as Zeta Tauri). The supernova peaked in late July 1054 a bit brighter than Venus, and was visible in the daytime for 23 days. The Guest Star was so bright that every culture around the world inevitably discovered the supernova independently, although only nine reports survive, including those from China, Japan, and Constantinople. This iPhone picture is from Signal Hill near Tucson on the morning of 26 July 2025, faithfully re-creates the year 1054 Dawn of the Crab, showing the sky as seen by Hohokam peoples. The planet Venus, as a stand-in for the supernova, is close to the position of what is now the Crab Nebula supernova remnant. Step outside on a summer dawn with bright Venus, and ask yourself \"What would you have thought in ancient times when suddenly seeing the Dawn of the Crab?\"",
+      "pt": "Uma das paisagens históricas de todos os tempos ocorreu em julho de 1054, quando a supernova do caranguejo entrou no céu do amanhecer. Os astrólogos da corte chinesa viram a estrela convidada na manhã de 4 de julho de 1054 ao lado da estrela Tianguan (agora catalogada como Zeta Tauri). A Supernova atingiu o pico no final de julho de 1054 um pouco mais brilhante que Vênus e foi visível durante o dia por 23 dias. A estrela convidada foi tão brilhante que toda cultura em todo o mundo descobriu inevitavelmente a Supernova de forma independente, embora apenas nove relatórios sobrevivam, incluindo os da China, Japão e Constantinopla. Esta imagem do iPhone é de Signal Hill, perto de Tucson, na manhã de 26 de julho de 2025, recria fielmente o Ano 1054 Amanhecer do caranguejo, mostrando o céu como visto pelos povos Hohokam. O planeta Vênus, como substituto para a Supernova, fica próximo da posição do que é agora o remanescente da Supernova da Nebula de caranguejo. Saia em um amanhecer de verão com Vênus brilhante e pergunte -se: \"O que você pensaria nos tempos antigos quando de repente vendo o amanhecer do caranguejo?\""
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2508/CrabRecreation_2_1054Sky1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2508/CrabRecreation_2_1054Sky1024.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-08-07",
     "title": {
       "en": "The Double Cluster in Perseus",
@@ -431,20 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2507/LDN1251gualco1024.JPG",
     "hdurl": "https://apod.nasa.gov/apod/image/2507/LDN1251gualco2048.JPG",
     "copyright": "Cristiano Gualco"
-  },
-  {
-    "date": "2025-07-09",
-    "title": {
-      "en": "A Beautiful Trifid",
-      "pt": "Um lindo trifido"
-    },
-    "explanation": {
-      "en": "The beautiful Trifid Nebula is a cosmic study in contrasts. Also known as M20, it lies about 5,000 light-years away toward the nebula rich constellation Sagittarius. A star forming region in the plane of our galaxy, the Trifid does illustrate three different types of astronomical nebulae; red emission nebulae dominated by light from hydrogen atoms, blue reflection nebulae produced by dust reflecting starlight, and dark nebulae where dense dust clouds appear in silhouette. But, the red emission region roughly separated into three parts by obscuring dust lanes is what lends the Trifid its popular name. Pillars and jets sculpted by newborn stars, above and right of the emission nebula's center, appear in famous Hubble Space Telescope close-up images of the region. The Trifid Nebula is about 40 light-years across. Too faint to be seen by the unaided eye, in this deep telescopic view it almost covers the area of a full moon on planet Earth's sky.",
-      "pt": "A bela nebulosa trí isso é um estudo cósmico em contrastes. Também conhecido como M20, está a cerca de 5.000 anos-luz em direção à constelação de nebulosa Rich Constellation Sagitário. Uma região de formação de estrelas no plano de nossa galáxia, o trívio ilustra três tipos diferentes de nebulosas astronômicas; Nebulosas de emissão vermelha dominadas pela luz dos átomos de hidrogênio, nebulosas de reflexão azul produzidas pela poeira refletindo a luz das estrelas e nebulosas escuras onde nuvens densas de poeira aparecem em silhueta. Mas, a região de emissão vermelha separou -se aproximadamente em três partes, obscurecendo pistas de poeira é o que empresta ao trí isso seu nome popular. Pilares e jatos esculpidos por estrelas recém-nascidas, acima e à direita do centro da nebulosa da emissão, aparecem nas famosas imagens de close-up do Telescópio Espacial Hubble da região. A nebulosa trí isso tem cerca de 40 anos-luz de diâmetro. Muito fraco para ser visto pelos olhos sem ajuda, nesta profunda visão telescópica, quase cobre a área de uma lua cheia no céu do planeta Terra."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2507/Trifid1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2507/Trifid2048.jpg",
-    "copyright": "Alessandro Cipolat Bares"
   }
 ]
