@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-08-10",
+    "title": {
+      "en": "Zodiacal Road",
+      "pt": "Estrada zodiacal"
+    },
+    "explanation": {
+      "en": "What's that strange light down the road? Dust orbiting the Sun. At certain times of the year, a band of sun-reflecting dust from the inner Solar System appears prominently just after sunset -- or just before sunrise -- and is called zodiacal light.  Although the origin of this dust is still being researched, a leading hypothesis holds that zodiacal dust originates mostly from faint Jupiter-family comets and slowly spirals into the Sun. Recent analysis of dust emitted by Comet 67P, visited by ESA's robotic Rosetta spacecraft, bolsters this hypothesis.  Pictured when climbing a road up to Teide National Park in the Canary Islands of Spain, a bright triangle of zodiacal light appeared in the distance soon after sunset. Captured on June 21, 2019, the scene includes bright Regulus, the alpha star of the constellation Leo, standing above center toward the left. The Beehive Star Cluster (M44) can be spotted below center, closer to the horizon and also immersed in the zodiacal glow.",
+      "pt": "Qual é a luz estranha no caminho? Poeira orbitando o sol. Em determinadas épocas do ano, um bando de poeira que reflete o sol do sistema solar interno parece destacado logo após o pôr do sol-ou pouco antes do nascer do sol-e é chamado de luz zodiacal.  Embora a origem dessa poeira ainda esteja sendo pesquisada, uma hipótese líder sustenta que a poeira zodiacal se origina principalmente de cometas fracas da família Júpiter e espiral lentamente no sol. Análise recente de poeira emitida pelo Comet 67p, visitada pela espaçonave robótica da Rosetta da ESA, reforça essa hipótese.  Na foto, ao subir uma estrada até o Parque Nacional de Teide, nas Ilhas Canárias da Espanha, um triângulo brilhante da luz zodiacal apareceu à distância logo após o pôr do sol. Capturado em 21 de junho de 2019, a cena inclui o Bright Regulus, a estrela alfa da constelação Leo, em pé acima do centro em direção à esquerda. O cluster de estrela da colméia (M44) pode ser visto abaixo do centro, mais próximo do horizonte e também imerso no brilho zodiacal."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2508/ZodiacalRoad_Merzlyakov_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2508/ZodiacalRoad_Merzlyakov_1080.jpg",
+    "copyright": ", Ruslan Merzlyakov  , (astrorms),"
+  },
+  {
     "date": "2025-08-09",
     "title": {
       "en": "Interstellar Interloper 3I/ATLAS from Hubble",
@@ -431,20 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2507/LUA_JULHO_25_1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2507/LUA_JULHO_25_2048.jpg",
     "copyright": "Alexsandro Mota"
-  },
-  {
-    "date": "2025-07-11",
-    "title": {
-      "en": "The Veins of Heaven",
-      "pt": "As veias do céu"
-    },
-    "explanation": {
-      "en": "Transfusing sunlight as the sky grew darker, this exceptional display of noctilucent clouds was captured on July 10, reflected in the calm waters of Vallentuna Lake near Stockholm, Sweden. From the edge of space, about 80 kilometers above Earth's surface, the icy clouds themselves still reflect sunlight, even though the Sun is below the horizon as seen from the ground. Usually spotted at high latitudes in summer months, the night shining clouds have made a strong showing so far during the short northern summer nights. Also known as polar mesopheric clouds they are understood to form as water vapor driven into the cold upper atmosphere condenses on the fine dust particles supplied by disintegrating meteors or volcanic ash.",
-      "pt": "Transfundindo a luz solar à medida que o céu ficou mais escuro, essa exibição excepcional de nuvens noturnas foi capturada em 10 de julho, refletida nas águas calmas do lago Valentuna, perto de Estocolmo, na Suécia. Da beira do espaço, a cerca de 80 quilômetros acima da superfície da Terra, as nuvens geladas ainda refletem a luz do sol, mesmo que o sol esteja abaixo do horizonte, como visto no chão. Geralmente manchado em altas latitudes nos meses de verão, as nuvens brilhantes da noite fizeram uma forte exibição até agora durante as curtas noites de verão do norte. Também conhecidos como nuvens mesoféricas polares, eles são entendidos como se formarem como vapor de água conduzido na atmosfera superior fria condensa nas partículas de poeira fina fornecidas por meteoros desintegrama ou cinzas vulcânicas."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2507/NLCreflectionsHeden.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2507/NLCreflectionsHeden.jpg",
-    "copyright": "Clear Skies"
   }
 ]
