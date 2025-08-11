@@ -1,5 +1,18 @@
 [
   {
+    "date": "2025-08-11",
+    "title": {
+      "en": "Closest Ever Images Near the Sun",
+      "pt": "Imagens mais próximas de todos os tempos perto do sol"
+    },
+    "explanation": {
+      "en": "verybody sees the Sun.  Nobody's been there.  Starting in 2018, though, NASA launched the robotic Parker Solar Probe (PSP) to investigate regions near to the Sun for the first time.  The featured time-lapse video shows the view looking sideways from behind PSP's Sun shield in December during the closest approach of any human-made spacecraft to the Sun, looping down to only about five solar diameters above the Sun's hot surface.  The PSP's Wide Field Imager for Solar Probe (WISPR) cameras took these images over seven hours, but they are digitally compressed here into about 5 seconds.  The solar corona, including colliding coronal mass ejections (CMEs), is visible here in unprecedented detail, with stars passing far in the background.  The Sun is not only Earth's dominant energy source, but its variable solar wind also compresses Earth's atmosphere, triggers auroras, affects power grids, and can even damage orbiting communication satellites.",
+      "pt": "muito corda vê o sol.  Ninguém esteve lá.  A partir de 2018, porém, a NASA lançou a Robotic Parker Solar Probe (PSP) para investigar regiões próximas ao sol pela primeira vez.  O vídeo com lapso de tempo em destaque mostra a vista parecendo de lado por trás do Sun Shield do PSP em dezembro, durante a abordagem mais próxima de qualquer espaçonave fabricada pelo homem ao sol, voltando a apenas cinco diâmetros solares acima da superfície quente do sol.  O amplo imager de campo do PSP para câmeras de sonda solar (WISPR) tirou essas imagens ao longo de sete horas, mas elas são comprimidas digitalmente aqui em cerca de 5 segundos.  A coroa solar, incluindo as ejeções de massa coronal em colisão (CMES), é visível aqui com detalhes sem precedentes, com estrelas passando longe no fundo.  O Sol não é apenas a fonte de energia dominante da Terra, mas seu vento solar variável também comprime a atmosfera da Terra, desencadeia auroras, afeta as grades de energia e pode até danificar os satélites de comunicação orbitadores."
+    },
+    "media_type": "other",
+    "copyright": null
+  },
+  {
     "date": "2025-08-10",
     "title": {
       "en": "Zodiacal Road",
@@ -431,20 +444,5 @@
     "url": "https://apod.nasa.gov/apod/image/2507/ant_hubble_1072.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2507/ant_hubble_1072.jpg",
     "copyright": null
-  },
-  {
-    "date": "2025-07-12",
-    "title": {
-      "en": "Clouds and the Golden Moon",
-      "pt": "Nuvens e a lua dourada"
-    },
-    "explanation": {
-      "en": "As the Sun set, a bright Full Moon rose on July 10. Its golden light illuminates clouds drifting through southern hemisphere skies in this well-composed telephoto image from Conceição do Coité, Bahia, Brazil. The brightest lunar phase is captured here with both a short and long exposure. The two exposures were combined to reveal details of the lunar surface in bright moonlight and a subtle iridescence along the dramatically backlit cloudscape. Of course, July's Full Moon is a winter moon in the southern hemisphere.  But in the north it's known to some as the Thunder Moon, likely a nod to the sounds of this northern summer month's typically stormy weather.",
-      "pt": "Enquanto o sol se pôs, uma lua cheia brilhante aumentou em 10 de julho. Sua luz dourada ilumina as nuvens flutuando pelos céus do hemisfério sul nesta imagem de telefoto bem composta da conceção do Coité, Bahia, Brasil. A fase lunar mais brilhante é capturada aqui com uma exposição curta e longa. As duas exposições foram combinadas para revelar detalhes da superfície lunar à luz da lua brilhante e uma sutil iridescência ao longo do dramaticamente iluminador de nuvens iluminado. Obviamente, a lua cheia de julho é uma lua de inverno no hemisfério sul.  Mas no norte é conhecido por alguns como o Thunder Moon, provavelmente um aceno aos sons do clima tipicamente tempestuoso do mês do norte do norte."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2507/LUA_JULHO_25_1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2507/LUA_JULHO_25_2048.jpg",
-    "copyright": "Alexsandro Mota"
   }
 ]
