@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-08-12",
+    "title": {
+      "en": "Perseids from Perseus",
+      "pt": "Perseidas de Perseu"
+    },
+    "explanation": {
+      "en": "Where are all of these meteors coming from?  In terms of direction on the sky, the pointed answer is the constellation of Perseus.  That is why the meteor shower that peaks tonight is known as the Perseids -- the meteors all appear to come from a radiant toward Perseus. In terms of parent body, though, the sand-sized debris that makes up the Perseids meteors come from Comet Swift-Tuttle. The comet follows a well-defined orbit around our Sun, and the part of the orbit that approaches Earth is superposed in front of Perseus. Therefore, when Earth crosses this orbit, the radiant point of falling debris appears in Perseus. Featured here, a composite image taken over six nights and containing over 100 meteors from 2024 August Perseids meteor shower shows many bright meteors that streaked over the Bieszczady Mountains in Poland. This year's Perseids, usually one of the best meteor showers of the year, will compete with a bright moon that will rise, for many locations, soon  after sunset.",
+      "pt": "De onde vêm todos esses meteoros?  Em termos de direção no céu, a resposta pontiaguda é a constelação de Perseu.  É por isso que o chuveiro de meteoros que atinge o pico hoje à noite é conhecido como The Perseids - todos os meteoros parecem vir de um radiante em relação a Perseu. Em termos de órgão-mãe, porém, os detritos do tamanho de areia que compõem os meteoros Perseids vêm do Cometa Swift-Tuttle. O cometa segue uma órbita bem definida ao redor do sol, e a parte da órbita que se aproxima da Terra é sobreposta em frente a Perseu. Portanto, quando a Terra atravessa essa órbita, o ponto radiante da queda de detritos aparece em Perseu. Em destaque aqui, uma imagem composta tirada em seis noites e contendo mais de 100 meteoros de 2024 de agosto Perseids Meteor Shower mostra muitos meteoros brilhantes que se espalharam pelas montanhas Bieszczady na Polônia. Perseids deste ano, geralmente um dos melhores chuveiros de meteoros do ano, competirá com uma lua brilhante que aumentará, para muitos locais, logo após o pôr do sol."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2508/PerseidsRadiant_Marcin_1080.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2508/PerseidsRadiant_Marcin_5500.jpg",
+    "copyright": ", Marcin Rosadziński,"
+  },
+  {
     "date": "2025-08-11",
     "title": {
       "en": "Closest Ever Images Near the Sun",
@@ -429,20 +444,5 @@
     "url": "https://apod.nasa.gov/apod/image/2507/Ngc2685_Thrun_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2507/Ngc2685_Thrun_960.jpg",
     "copyright": ", Stefan Thrun,"
-  },
-  {
-    "date": "2025-07-13",
-    "title": {
-      "en": "Planetary Nebula Mz3: The Ant Nebula",
-      "pt": "Nebulosa planetária mz3: a nebulosa formiga"
-    },
-    "explanation": {
-      "en": "Why isn't this ant a big sphere?  Planetary nebula Mz3 is being cast off by a star similar to our Sun that is, surely, round.  Why then would the gas that is streaming away create an ant-shaped nebula that is distinctly not round?  Clues might include the high 1000-kilometer per second speed of the expelled gas, the light-year long length of the structure, and the magnetism of the star featured here at the nebula's center.  One possible answer is that Mz3 is hiding a second, dimmer star that orbits close in to the bright star.  A competing hypothesis holds that the central star's own spin and magnetic field are channeling the gas.  Since the central star appears to be so similar to our own Sun, astronomers hope that increased understanding of the history of this giant space ant can provide useful insight into the likely future of our own Sun and Earth.   Explore Your Universe: Random APOD Generator",
-      "pt": "Por que essa formiga não é uma grande esfera?  A Nebula Planetária MZ3 está sendo expulsa por uma estrela semelhante ao nosso sol que é, certamente, redondo.  Por que, então, o gás que está fluindo criando uma nebulosa em forma de formiga que não é distintamente redonda?  As pistas podem incluir o alto quilômetro de 1000 quilômetros por segundo do gás expulso, o comprimento de um longo ano da estrutura e o magnetismo da estrela apresentado aqui no centro da nebulosa.  Uma resposta possível é que o MZ3 está escondendo uma segunda estrela mais escura que orbita se aproximam da estrela brilhante.  Uma hipótese concorrente sustenta que o próprio giro e o campo magnético da estrela central estão canalizando o gás.  Como a estrela central parece ser tão semelhante ao nosso próprio sol, os astrônomos esperam que o aumento da compreensão da história dessa formiga espacial gigante possa fornecer informações úteis sobre o provável futuro de nosso próprio sol e terra.   Explore seu universo: gerador APOD aleatório"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2507/ant_hubble_1072.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2507/ant_hubble_1072.jpg",
-    "copyright": null
   }
 ]
