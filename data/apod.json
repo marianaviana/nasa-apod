@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-08-13",
+    "title": {
+      "en": "Trapezium: In the Heart of Orion",
+      "pt": "Trapézio: no coração de Orion"
+    },
+    "explanation": {
+      "en": "What lies in the heart of Orion?  Trapezium: four bright stars, that can be found near the center of this sharp cosmic portrait. Gathered within a region about 1.5 light-years in radius, these stars dominate the core of the dense Orion Nebula Star Cluster. Ultraviolet ionizing radiation from the Trapezium stars, mostly from the brightest star Theta-1 Orionis C powers the complex star forming region's entire visible glow. About three million years old, the Orion Nebula Cluster was even more compact in its younger years and a dynamical study indicates that runaway stellar collisions at an earlier age may have formed a black hole with more than 100 times the mass of the Sun. The presence of a black hole within the cluster could explain the observed high velocities of the Trapezium stars. The Orion Nebula's distance of some 1,500 light-years make it one of the  closest candidate black holes to Earth.",
+      "pt": "O que está no coração de Orion?  Trapezium: quatro estrelas brilhantes, que podem ser encontradas perto do centro deste retrato cósmico afiado. Reunidos em uma região cerca de 1,5 anos-luz em raio, essas estrelas dominam o núcleo do denso cluster de estrelas de nebulosa de Orion. A radiação ionizante ultravioleta das estrelas do trapézio, principalmente da estrela mais brilhante teta-1 Orionis C, alimenta a estrela complexa, formando todo o brilho visível da região. Cerca de três milhões de anos, o cluster de nebulosa Orion foi ainda mais compacto em seus anos mais jovens e um estudo dinâmico indica que colisões estelares fugitivas em idade anterior podem ter formado um buraco negro com mais de 100 vezes a massa do sol. A presença de um buraco negro dentro do cluster poderia explicar as altas velocidades observadas das estrelas do trapézio. A distância do Orion Nebula de cerca de 1.500 anos-luz o torna um dos candidatos mais próximos de buracos negros da Terra."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2508/OrionTrapezium_HubbleGendler_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2508/OrionTrapezium_HubbleGendler_4000.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-08-12",
     "title": {
       "en": "Perseids from Perseus",
@@ -429,20 +444,5 @@
     "url": "https://apod.nasa.gov/apod/image/2507/HebesChasma_esa_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2507/HebesChasma_esa_960.jpg",
     "copyright": null
-  },
-  {
-    "date": "2025-07-14",
-    "title": {
-      "en": "NGC 2685: The Helix Galaxy",
-      "pt": "NGC 2685: The Helix Galaxy"
-    },
-    "explanation": {
-      "en": "What is going on with this galaxy? NGC 2685 is a confirmed polar ring galaxy - a rare type of galaxy with stars, gas and dust orbiting in rings perpendicular to the plane of a flat galactic disk. The bizarre configuration could be caused by the chance capture of material from another galaxy by a disk galaxy, with the captured debris strung out in a rotating ring. Still, observed properties of NGC 2685 suggest that the rotating helix structure is remarkably old and stable. In this sharp view of the peculiar system also known as Arp 336 or the Helix galaxy, the strange, perpendicular rings are easy to trace as they pass in front of the galactic disk, along with other disturbed outer structures. NGC 2685 is about 50,000 light-years across and 40 million light-years away in the constellation of the Great Bear (Ursa Major).   Piece it All Together: Astronomy Puzzle of the Day",
-      "pt": "O que está acontecendo com esta galáxia? NGC 2685 é uma galáxia de anel polar confirmado - um tipo raro de galáxia com estrelas, gás e poeira que orbita em anéis perpendiculares ao plano de um disco galáctico plano. A configuração bizarra pode ser causada pela captura acaso de material de outra galáxia por uma galáxia de disco, com os detritos capturados em um anel rotativo. Ainda assim, as propriedades observadas do NGC 2685 sugerem que a estrutura da hélice rotativa é notavelmente antiga e estável. Nesta visão nítida do sistema peculiar, também conhecido como ARP 336 ou a galáxia da helix, os anéis estranhos e perpendiculares são fáceis de rastrear à medida que passam em frente ao disco galáctico, juntamente com outras estruturas externas perturbadas. O NGC 2685 tem cerca de 50.000 anos-luz de diâmetro e 40 milhões de anos-luz de distância na constelação do Grande Urso (Ursa Major).   Mecue tudo: o quebra -cabeça da astronomia do dia"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2507/Ngc2685_Thrun_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2507/Ngc2685_Thrun_960.jpg",
-    "copyright": ", Stefan Thrun,"
   }
 ]
