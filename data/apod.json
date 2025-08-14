@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-08-14",
+    "title": {
+      "en": "M13: The Great Globular Cluster in Hercules",
+      "pt": "M13: O grande cluster globular em Hércules"
+    },
+    "explanation": {
+      "en": "In 1716, English astronomer Edmond Halley noted, \"This is but a little Patch, but it shews itself to the naked Eye, when the Sky is serene and the Moon absent.\" Of course, M13 is now less modestly recognized as the Great Globular Cluster in Hercules, one of the brightest globular star clusters in the northern sky. Sharp telescopic views like this one reveal the spectacular cluster's hundreds of thousands of stars. At a distance of 25,000 light-years, the cluster stars crowd into a region 150 light-years in diameter. Approaching the cluster core, upwards of 100 stars could be contained in a cube just 3 light-years on a side. For comparison with our neighborhood of the Milky Way, the closest star to the Sun is over 4 light-years away. Early telescopic observers of the great globular cluster also noted a curious convergence of three dark lanes with a spacing of about 120 degrees, seen here just below the cluster center.  Known as the propeller in M13, the shape is likely a chance optical effect of the distribution of stars viewed from our perspective against the dense cluster core.",
+      "pt": "Em 1716, o astrônomo inglês Edmond Halley observou: \"Isso é apenas um pequeno remendo, mas se mostra a olho nu, quando o céu é sereno e a lua ausente\". Obviamente, o M13 agora é menos modestamente reconhecido como o grande aglomerado globular em Hércules, um dos mais brilhantes aglomerados de estrelas globular no céu do norte. Vistas telescópicas afiadas como esta revelam centenas de milhares de estrelas do cluster espetacular. A uma distância de 25.000 anos-luz, o cluster estrela a aglomerada em uma região de 150 anos-luz de diâmetro. Aproximando-se do núcleo do cluster, mais de 100 estrelas podem estar contidas em um cubo apenas 3 anos-luz de um lado. Para comparação com o nosso bairro da Via Láctea, a estrela mais próxima do sol está a mais de 4 anos-luz de distância. Observadores telescópicos iniciais do grande cluster globular também observaram uma convergência curiosa de três pistas escuras com um espaçamento de cerca de 120 graus, visto aqui logo abaixo do centro de cluster.  Conhecida como a hélice no M13, a forma provavelmente é um efeito óptico acaso da distribuição de estrelas vistas da nossa perspectiva contra o núcleo denso do cluster."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2508/lrg_ngc6205_1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2508/lrg_ngc6205.jpg",
+    "copyright": "R. Jay Gabany"
+  },
+  {
     "date": "2025-08-13",
     "title": {
       "en": "Trapezium: In the Heart of Orion",
@@ -428,21 +443,6 @@
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2507/Rosette_Decam_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2507/Rosette_Decam_4000.jpg",
-    "copyright": null
-  },
-  {
-    "date": "2025-07-15",
-    "title": {
-      "en": "Collapse in Hebes Chasma on Mars",
-      "pt": "Colapso no chasma de Hebes em Marte"
-    },
-    "explanation": {
-      "en": "What's happened in Hebes Chasma on Mars? Hebes Chasma is a depression just north of the enormous Valles Marineris canyon.  Since the depression is unconnected to other surface features, it is unclear where the internal material went. Inside Hebes Chasma is Hebes Mensa, a 5 kilometer high mesa that appears to have undergone an unusual partial collapse -- a collapse that might be providing clues. The featured image, taken by ESA's robotic Mars Express spacecraft currently orbiting Mars, shows great details of the chasm and the unusual horseshoe shaped indentation in the central mesa. Material from the mesa appears to have flowed onto the floor of the chasm, while a possible dark layer appears to have pooled like ink on a downslope landing.  One hypothesis holds that salty rock composes some lower layers in Hebes Chasma, with the salt dissolving in melted ice flows that drained through holes into an underground aquifer.",
-      "pt": "O que aconteceu em Hebes Chasma em Marte? O chasma de Hebes é uma depressão ao norte do enorme Canyon Valles Marineris.  Como a depressão não está conectada a outras características da superfície, não está claro para onde foi o material interno. Dentro de Hebes Chasma está Hebes Mensa, uma Mesa de 5 quilômetros de altura que parece ter sofrido um colapso parcial incomum - um colapso que pode estar fornecendo pistas. A imagem em destaque, tirada pela espaçonave robótica da ESA Mars Express atualmente orbitando Marte, mostra grandes detalhes do abismo e o indentamento incomum em forma de ferradura na Mesa Central. O material do Mesa parece ter fluído no chão do abismo, enquanto uma possível camada escura parece ter se acumulado como tinta em um pouso descendente.  Uma hipótese sustenta que a rocha salgada compõe algumas camadas mais baixas no chasma de Hebes, com o sal dissolvendo -se em fluxos de gelo derretido que drenavam os orifícios em um aqüífero subterrâneo."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2507/HebesChasma_esa_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2507/HebesChasma_esa_960.jpg",
     "copyright": null
   }
 ]
