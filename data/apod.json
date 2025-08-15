@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-08-15",
+    "title": {
+      "en": "Moonlight, Planets, and Perseids",
+      "pt": "Luar, planetas e perseidas"
+    },
+    "explanation": {
+      "en": "In the predawn sky on August 13, two planets were close. And despite the glare of a waning gibbous Moon, bright Jupiter and even brighter Venus were hard to miss. Their brilliant close conjunction is posing above the eastern horizon in this early morning skyscape. The scene was captured in a single exposure from a site near Gansu, China, with light from both planets reflected in the still waters of a local pond. Also seen against the moonlight were flashes from the annual Perseid Meteor Shower, known for its bright, fast meteors. Near the much anticipated peak of activity, the shower meteors briefly combined with the two planets for a celestial spectacle even in moonlit skies.",
+      "pt": "No céu antes down em 13 de agosto, dois planetas estavam próximos. E apesar do brilho de uma lua gibos minguante, Júpiter brilhante e até Vênus mais brilhantes eram difíceis de perder. Sua brilhante conjunção próxima está posando acima do horizonte oriental neste skyscape de manhã cedo. A cena foi capturada em uma única exposição de um local perto de Gansu, China, com luz de ambos os planetas refletidos nas águas paradas de um lago local. Também foram vistos contra a luz da lua do chuveiro anual de meteoros Perseid, conhecido por seus meteoros brilhantes e rápidos. Perto do tão esperado pico de atividade, os meteoros do chuveiro se combinaram brevemente com os dois planetas para um espetáculo celestial, mesmo em céus iluminados pela lua."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2508/IMG_20250813_202125v1.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2508/IMG_20250813_202125_2048.jpg",
+    "copyright": "Jeff Dai"
+  },
+  {
     "date": "2025-08-14",
     "title": {
       "en": "M13: The Great Globular Cluster in Hercules",
@@ -428,21 +443,6 @@
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2507/noirlab2522a_3i1056.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2507/noirlab2522a_3i.jpg",
-    "copyright": null
-  },
-  {
-    "date": "2025-07-16",
-    "title": {
-      "en": "The Rosette Nebula from DECam",
-      "pt": "A nebulosa da Rosette da Decam"
-    },
-    "explanation": {
-      "en": "Would the Rosette Nebula by any other name look as sweet? The bland New General Catalog designation of NGC 2237 doesn't appear to diminish the appearance of this flowery emission nebula, as captured by the Dark Energy Camera (DECam) on the Blanco 4-meter telescope at the NSF's Cerro Tololo Inter-American Observatory in Chile.  Inside the nebula lies an open cluster of bright young stars designated NGC 2244. These stars formed about four million years ago from the nebular material and their stellar winds are clearing a hole in the nebula's center, insulated by a layer of dust and hot gas. Ultraviolet light from the hot cluster stars causes the surrounding nebula to glow. The Rosette Nebula spans about 100 light-years across, lies about 5000 light-years away, and can be seen with a small telescope towards the constellation of the Unicorn (Monoceros).   Open Science: Browse 3,700+ codes in the Astrophysics Source Code Library",
-      "pt": "A Rosette Nebula por algum outro nome seria tão doce? A nova designação geral do Catálogo Geral de NGC 2237 não parece diminuir a aparência dessa nebulosa de emissão florida, como capturado pela câmera de energia escura (Decam) no telescópio Blanco de 4 metros no Observatório Interamericano Cerro Tololo da NSF no Chile.  Dentro da nebulosa, está um conjunto aberto de estrelas jovens brilhantes designadas NGC 2244. Essas estrelas se formaram cerca de quatro milhões de anos atrás do material nebular e seus ventos estelares estão limpando um buraco no centro da nebulosa, isolada por uma camada de poeira e gás quente. A luz ultravioleta das estrelas do cluster quente faz com que a nebulosa circundante brilha. A nebulosa da roseta abrange cerca de 100 anos-luz de diâmetro, fica a cerca de 5000 anos-luz de distância e pode ser visto com um pequeno telescópio em direção à constelação do unicórnio (monoceros).   Ciência aberta: Procure mais de 3.700 códigos na Biblioteca de Código Fonte Astrofísica"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2507/Rosette_Decam_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2507/Rosette_Decam_4000.jpg",
     "copyright": null
   }
 ]
