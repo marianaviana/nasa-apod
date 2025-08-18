@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-08-18",
+    "title": {
+      "en": "NGC 1309: A Useful Spiral Galaxy",
+      "pt": "NGC 1309: uma galáxia espiral útil"
+    },
+    "explanation": {
+      "en": "This galaxy is not only pretty -- it's useful.  A gorgeous spiral some 100 million light-years distant, NGC 1309 lies on the banks of the constellation of the River (Eridanus). NGC 1309 spans about 30,000 light-years, making it about one third the size of our larger Milky Way galaxy. Bluish clusters of young stars and dust lanes are seen to trace out NGC 1309's spiral arms as they wind around an older yellowish star population at its core. Not just another pretty face-on spiral galaxy, observations of NGC 1309's two recent supernovas and multiple  Cepheid variable stars contribute to the calibration of the expansion of the Universe. Still, after you get over this beautiful galaxy's grand design, check out the array of more distant background galaxies also recorded in this sharp image from the  Hubble Space Telescope.",
+      "pt": "Esta galáxia não é apenas bonita - é útil.  Uma espiral deslumbrante cerca de 100 milhões de anos-luz distantes, o NGC 1309 fica nas margens da constelação do rio (Eridanus). O NGC 1309 abrange cerca de 30.000 anos-luz, tornando-o cerca de um terço do tamanho de nossa galáxia da Via Láctea. Clupoladores azulados de jovens estrelas e pistas de poeira são vistos como rastrear os braços espirais do NGC 1309 enquanto enrolam em torno de uma população de estrelas amareladas mais antiga em sua essência. Não é apenas mais uma galáxia espiral de face-on, observações das duas supernovas recentes do NGC 1309 e várias estrelas variáveis de cefeida contribuem para a calibração da expansão do universo. Ainda assim, depois de superar esse belo design do Galaxy, confira a variedade de galáxias de fundo mais distantes também gravadas nesta imagem nítida do telescópio espacial Hubble."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2508/Spiral1309_HubbleGalbany_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2508/Spiral1309_HubbleGalbany_4000.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-08-15",
     "title": {
       "en": "Moonlight, Planets, and Perseids",
@@ -429,20 +444,5 @@
     "url": "https://apod.nasa.gov/apod/image/2507/ISSMeetsSaturn3_1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2507/ISSMeetsSaturn3.jpg",
     "copyright": "A.J. Smadi"
-  },
-  {
-    "date": "2025-07-17",
-    "title": {
-      "en": "3I/ATLAS",
-      "pt": "3i/atlas"
-    },
-    "explanation": {
-      "en": "Discovered on July 1 with the NASA-funded ATLAS (Asteroid Terrestrial-impact Last Alert, System) survey telescope in Rio Hurtado, Chile, 3I/ATLAS is so designated as the third known interstellar object to pass through our Solar System It follows 1I/ʻOumuamua in 2017 and the comet 2I/Borisov in 2019.  Also known as C/2025 N1, 3I/ATLAS is clearly a comet, its diffuse cometary coma, a cloud of gas and dust surrounding an icy nucleus, is easily seen in these images from the large Gemini North telescope on Maunakea, Hawai‘i. The left panel tracks the comet as it moves across the sky against fixed background stars in successive exposures. Three different filters were used, shown in red, green, and blue. In the right panel the multiple exposures are registered and combined to form a single image of the comet. The comet's interstellar origin is also clear from its orbit, determined to be an eccentric, highly hyperbolic orbit that does not loop back around the Sun and will return 3I/ATLAS to interstellar space. Not a threat to planet Earth, the inbound interstellar interloper is now within the Jupiter's orbital distance of the Sun, while its closest approach to the Sun will bring it just within the orbital distance of Mars.",
-      "pt": "Descoberto em 1º de julho com o telescópio de pesquisa do Atlas (System), financiado pela NASA (Asteróides de Impacto Terrestre), no Rio Hurtado, Chile, 3i/Atlas, é tão designado como o terceiro objeto interestelar conhecido. 3i/atlas é claramente um cometa, seu coma difuso, uma nuvem de gás e poeira em torno de um núcleo gelado, é facilmente visto nessas imagens do grande telescópio norte de Gemini em Maunakea, Havaí. O painel esquerdo rastreia o cometa enquanto se move pelo céu contra estrelas fixas de fundo em exposições sucessivas. Foram utilizados três filtros diferentes, mostrados em vermelho, verde e azul. No painel direito, as múltiplas exposições são registradas e combinadas para formar uma única imagem do cometa. A origem interestelar do cometa também é clara em sua órbita, determinada a ser uma órbita excêntrica e altamente hiperbólica que não volta ao redor do sol e retornará 3i/atlas ao espaço interestelar. Não é uma ameaça ao planeta Terra, o intruso Interestelar de entrada está agora dentro da distância orbital de Júpiter, enquanto sua abordagem mais próxima ao sol o trará a uma distância orbital de Marte."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2507/noirlab2522a_3i1056.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2507/noirlab2522a_3i.jpg",
-    "copyright": null
   }
 ]
