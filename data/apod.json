@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-08-19",
+    "title": {
+      "en": "Giant Galaxies in Pavo",
+      "pt": "Galáxias gigantes em pavo"
+    },
+    "explanation": {
+      "en": "Over 500,000 light years across, NGC 6872 (bottom left) is a truly enormous barred spiral galaxy. At least 5 times the size of our own large Milky Way, NGC 6872 is the largest known spiral galaxy. About 200 million light-years distant toward the southern constellation Pavo, the Peacock, the appearance of this giant galaxy's stretched out spiral arms suggest the wings of a giant bird. So its popular moniker is the Condor galaxy. Lined with massive young, bluish star clusters and star-forming regions, the extended and distorted spiral arms are due to NGC 6872's past gravitational interactions with the nearby smaller galaxy IC 4970, visible here below the giant spiral galaxy's core. Other members of the southern Pavo galaxy group are scattered through this magnificent galaxy group portrait, with the dominant giant elliptical galaxy, NGC 6876, above and right of the soaring Condor galaxy.",
+      "pt": "Mais de 500.000 anos -luz, o NGC 6872 (canto inferior esquerdo) é uma galáxia espiral verdadeiramente enorme barrada. Pelo menos 5 vezes o tamanho de nossa grande Via Láctea, o NGC 6872 é a maior galáxia espiral conhecida. Cerca de 200 milhões de anos-luz distantes em direção ao pavo de constelação do sul, o pavão, a aparência da gigante dos braços espirais esticados dessa galáxia sugerem as asas de um pássaro gigante. Portanto, seu apelido popular é a galáxia Condor. Alinhados com aglomerados de estrelas jovens e azuis e regiões de formação de estrelas, os braços espirais estendidos e distorcidos são devidos às interações gravitacionais anteriores do NGC 6872 com o Galaxy IC 4970, mais próximo, visível abaixo do núcleo da Giant Galaxy. Outros membros do Grupo Galáxia do Pavo do Sul estão espalhados por esse magnífico retrato do Grupo Galáxia, com a gigante gigante dominante galáxia elíptica, NGC 6876, acima e à direita da subida galáxia de Condor."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2508/NGC6872_block1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2508/NGC6872_block.jpg",
+    "copyright": "Adam Block"
+  },
+  {
     "date": "2025-08-18",
     "title": {
       "en": "NGC 1309: A Useful Spiral Galaxy",
@@ -429,20 +444,5 @@
     "url": "https://apod.nasa.gov/apod/image/2507/M6_1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2507/M6.jpg",
     "copyright": "Xinran Li"
-  },
-  {
-    "date": "2025-07-18",
-    "title": {
-      "en": "ISS Meets Saturn",
-      "pt": "ISS encontra Saturno"
-    },
-    "explanation": {
-      "en": "This month, bright planet Saturn rises in evening skies, its rings oriented nearly edge-on when viewed from planet Earth. And in the early morning hours on July 6, it posed very briefly with the International Space Station when viewed from a location in Federal Way, Washington, USA. This well-planned image, a stack of video frames, captures their momentary conjunction in the same telescopic field of view. With the ISS in low Earth orbit, space station and gas giant planet were separated by almost 1.4 billion kilometers. Their apparent sizes are comparable but the ISS was much brighter than Saturn and the ringed planet's brightness has been increased for visibility in the stacked image. Precise timing and an exact location were needed to capture the ISS/Saturn conjunction.",
-      "pt": "Neste mês, o planeta brilhante Saturno sobe no céu noturno, seus anéis orientados quase de ponta quando vistos do planeta Terra. E nas primeiras horas da manhã de 6 de julho, posou muito brevemente com a Estação Espacial Internacional quando vista de um local de Washington, EUA. Esta imagem bem planejada, uma pilha de quadros de vídeo, captura sua conjunção momentânea no mesmo campo de visão telescópico. Com a ISS na órbita baixa da terra, a estação espacial e o planeta gigante de gás foram separados por quase 1,4 bilhão de quilômetros. Seus tamanhos aparentes são comparáveis, mas a ISS era muito mais brilhante que Saturno e o brilho do planeta anel aumentou para visibilidade na imagem empilhada. Timing preciso e um local exato foram necessários para capturar a conjunção ISS/Saturno."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2507/ISSMeetsSaturn3_1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2507/ISSMeetsSaturn3.jpg",
-    "copyright": "A.J. Smadi"
   }
 ]
