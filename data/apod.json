@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-08-20",
+    "title": {
+      "en": "Perseid Meteors from Durdle Door",
+      "pt": "Perseid Meteors da porta Durdle"
+    },
+    "explanation": {
+      "en": "What are those curved arcs in the sky? Meteors -- specifically, meteors from this year's Perseid meteor shower.  Over the past few weeks, after the sky darkened, many images of Perseid meteors were captured separately and merged into a single frame, taken earlier.  Although the meteors all traveled on straight paths, these paths appear slightly curved by the wide-angle lens of the capturing camera.  The meteor streaks can all be traced back to a single point on the sky called the radiant, here just off the top of the frame in the constellation of Perseus. The same camera took a deep image of the background sky that brought up the central band of our Milky Way galaxy running nearly vertically through the featured image's center. The limestone arch in the foreground in Dorset, England is known as Durdle Door, a name thought to survive from a thousand years ago.",
+      "pt": "O que são esses arcos curvos no céu? Meteoros - Especificamente, meteoros do chuveiro de meteoros Perseid deste ano.  Nas últimas semanas, depois que o céu escureceu, muitas imagens de meteoros Perseid foram capturadas separadamente e fundidas em uma única estrutura, tiradas mais cedo.  Embora todos os meteoros tenham percorrido caminhos retos, esses caminhos parecem ligeiramente curvados pela lente grande angular da câmera de captura.  As faixas de meteoros podem ser rastreadas até um único ponto no céu chamado Radiant, aqui da parte superior da estrutura na constelação de Perseu. A mesma câmera tirou uma imagem profunda do céu de fundo que trouxe à tona a banda central da nossa Via Láctea Galaxy correndo quase verticalmente através do centro da imagem em destaque. O arco de calcário em primeiro plano em Dorset, a Inglaterra, é conhecida como Durdle Door, um nome que se pensa em sobreviver há mil anos."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2508/PerseidsDurdleDoor_Dury_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2508/PerseidsDurdleDoor_Dury_3963.jpg",
+    "copyright": ", Josh Dury,"
+  },
+  {
     "date": "2025-08-19",
     "title": {
       "en": "Giant Galaxies in Pavo",
@@ -429,20 +444,5 @@
     "url": "https://apod.nasa.gov/apod/image/2507/lroc_wac_nearside800.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/1103/lroc_wac_nearside.jpg",
     "copyright": null
-  },
-  {
-    "date": "2025-07-19",
-    "title": {
-      "en": "Messier 6",
-      "pt": "Messier 6"
-    },
-    "explanation": {
-      "en": "The sixth object in Charles Messier's famous catalog of things which are not comets, Messier 6 is a galactic or open star cluster. A gathering of 100 stars or so, all around 100 million years young, M6 lies some 1,600 light-years away toward the central Milky Way in the constellation Scorpius. Also cataloged as NGC 6405, the pretty star cluster's outline suggests its popular moniker, the Butterfly Cluster. Surrounded by diffuse reddish emission from the region's hydrogen gas the cluster's mostly hot and therefore blue stars are near the center of this colorful cosmic snapshot. But the brightest cluster member is a cool K-type giant star. Designated BM Scorpii it shines with a yellow-orange hue, seen near the end of one of the butterfly's antennae. This telescopic field of view spans nearly 2 Full Moons on the sky. That's 25 light-years at the estimated distance of Messier 6.",
-      "pt": "O sexto objeto do famoso catálogo de coisas de Charles Messier que não são cometas, Messier 6 é um cluster de estrelas galácticas ou abertas. Uma reunião de 100 estrelas ou mais, cerca de 100 milhões de anos, M6 fica a cerca de 1.600 anos-luz de distância em direção à Via Láctea Central na constelação de Scorpius. Também catalogado como NGC 6405, o contorno do Pretty Star Cluster sugere seu apelido popular, o cluster de borboleta. Cercado por emissão difusa avermelhada do gás de hidrogênio da região, as estrelas principalmente quentes e, portanto, estão próximas ao centro deste instantâneo cósmico colorido. Mas o membro mais brilhante do cluster é uma estrela gigante legal do tipo K. BM Scorpii designado, ele brilha com uma tonalidade amarela-laranja, vista perto do final de uma das antenas da borboleta. Esse campo de visão telescópico abrange quase duas luas cheias no céu. São 25 anos-luz à distância estimada de Messier 6."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2507/M6_1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2507/M6.jpg",
-    "copyright": "Xinran Li"
   }
 ]
