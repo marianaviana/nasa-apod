@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-08-21",
+    "title": {
+      "en": "Mostly Perseids",
+      "pt": "Principalmente perteidas"
+    },
+    "explanation": {
+      "en": "In this predawn skyscape recorded during the early morning hours of August 13, mostly Perseid meteors are raining down on planet Earth. You can easily identify the Perseid meteor streaks. They're the ones with trails that seem to converge on the annual meteor shower's radiant, a spot in the heroic constellation Perseus, located off the top of the frame. That's the direction in Earth's sky that looks along the orbit of this meteor shower's parent, periodic Comet Swift-Tuttle. Of course the scene is a composite, a combination of about 500 digital exposures to capture meteors registered with a single base frame exposure. But all exposures were taken during a period of around 2.5 hours from a wind farm near Mönchhof, Burgenland, Austria. Red lights on the individual wind turbine towers dot the foreground. In their spectacular close conjunction, bright planets Jupiter and Venus are poised above the eastern horizon.",
+      "pt": "Neste Skyscape pré -aterro gravado durante as primeiras horas da manhã de 13 de agosto, a maioria dos meteoros Perseid está chovendo no planeta Terra. Você pode identificar facilmente as faixas de meteoros Perseid. Eles são aqueles com trilhas que parecem convergir para o Radiant Annual Meteor's Chuveiro, um ponto na constelação heróica Perseus, localizada no topo da moldura. Essa é a direção no céu da Terra que olha ao longo da órbita dos pais deste chuveiro de meteoros, o cometa periódico Swift-Tuttle. É claro que a cena é um composto, uma combinação de cerca de 500 exposições digitais para capturar meteoros registrados com uma única exposição ao quadro de base. Mas todas as exposições foram tomadas durante um período de cerca de 2,5 horas de um parque eólico perto de Mönchhof, Burgenland, Áustria. Luzes vermelhas nas torres de turbinas eólicas individuais pontilham o primeiro plano. Em sua espetacular conjunção próxima, os planetas brilhantes Júpiter e Vênus estão preparados acima do horizonte oriental."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2508/20250813_035050-TL4IMG_7698nebulb7331-7833ss_1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2508/20250813_035050-TL4IMG_7698nebulb7331-7833ss_2048.jpg",
+    "copyright": "Klaus Pillwatsch"
+  },
+  {
     "date": "2025-08-20",
     "title": {
       "en": "Perseid Meteors from Durdle Door",
@@ -428,21 +443,6 @@
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2507/CatsPaw_Webb_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2507/CatsPaw_Webb_1822.jpg",
-    "copyright": null
-  },
-  {
-    "date": "2025-07-20",
-    "title": {
-      "en": "Lunar Nearside",
-      "pt": "Lunar ao lado"
-    },
-    "explanation": {
-      "en": "About 1,300 images from the Lunar Reconnaissance Orbiter spacecraft's wide angle camera were used to compose this spectacular view of a familiar face - the lunar nearside. But why is there a lunar nearside? The Moon rotates on its axis and orbits the Earth at the same rate, about once every 28 days. Tidally locked in this configuration, the synchronous rotation always keeps one side, the nearside, facing Earth. As a result, featured in remarkable detail in the full resolution mosaic, the smooth, dark, lunar maria (actually lava-flooded impact basins), and rugged highlands, are well-known to earthbound skygazers. To find your favorite mare or large crater, just follow this link or slide your cursor over the picture. The LRO images used to construct the mosaic were recorded over a two week period in December 2010.",
-      "pt": "Cerca de 1.300 imagens da câmera ampla da espaçonave de reconhecimento de reconhecimento lunar foram usadas para compor essa visão espetacular de uma face familiar - o lunar próximo. Mas por que há um lunar perto? A lua gira em seu eixo e orbita a terra na mesma taxa, cerca de uma vez a cada 28 dias. Tidalmente trancada nessa configuração, a rotação síncrona sempre mantém um lado, o lado próximo, de frente para a Terra. Como resultado, destaque em detalhes notáveis em todo o mosaico de resolução, a Maria lunar, escura, escura e lunar (na verdade, as bacias de impacto com alavanca de lava) e as terras altas acidentadas são bem conhecidas para os Skygazers de Earthbound. Para encontrar sua égua favorita ou cratera grande, basta seguir este link ou deslizar seu cursor sobre a foto. As imagens LRO usadas para construir o mosaico foram registradas durante um período de duas semanas em dezembro de 2010."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2507/lroc_wac_nearside800.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/1103/lroc_wac_nearside.jpg",
     "copyright": null
   }
 ]
