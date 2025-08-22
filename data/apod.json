@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-08-22",
+    "title": {
+      "en": "A Tale of Two Nebulae",
+      "pt": "Uma história de duas nebulosas"
+    },
+    "explanation": {
+      "en": "This colorful telescopic view towards the musical northern constellation Lyra reveals the faint outer halos and brighter central ring-shaped region of M57, popularly known as the Ring Nebula. To modern astronomers M57 is a well-known planetary nebula. With a central ring about one light-year across, M57 is definitely not a planet though, but the gaseous shroud of one of the Milky Way's dying sun-like stars. Roughly the same apparent size as M57, the fainter and more often overlooked barred spiral galaxy at the left is IC 1296. In fact, over 100 years ago IC 1296 would have been known as a spiral nebula. By chance the pair are in the same field of view, and while they appear to have similar sizes they are actually very far apart. At a distance of a mere 2,000 light-years M57 is well within our own Milky Way galaxy. Extragalactic IC 1296 (aka PGC62532) is more like 200,000,000 light-years distant. That's about 100,000 times farther away than M57 but since they appear roughly similar in size, former spiral nebula IC 1296 must also be about 100,000 times larger than planetary nebula M57. Look closely at the sharp 21st century astroimage to spot even more distant background galaxies scattered through the frame.",
+      "pt": "Esta visão telescópica colorida em direção à constelação musical do norte, Lyra, revela os halos externos fracos e a região mais brilhante em forma de anel em M57, popularmente conhecida como nebulosa do anel. Para os astrônomos modernos, o M57 é uma nebulosa planetária bem conhecida. Com um anel central de um ano-luz, o M57 definitivamente não é um planeta, mas a cobertura gasosa de uma das estrelas moribunda do sol da Via Láctea. Aproximadamente o mesmo tamanho aparente que M57, a galáxia espiral barrada mais fraca e mais frequentemente esquecida à esquerda é IC 1296. Na verdade, mais de 100 anos atrás, o IC 1296 seria conhecido como uma nebulosa em espiral. Por acaso, os dois estão no mesmo campo de visão e, embora pareçam ter tamanhos semelhantes, eles estão realmente muito distantes. A uma distância de meros 2.000 anos-luz, o M57 está bem dentro de nossa própria Galaxia da Via Láctea. O IC 1296 extragalático (também conhecido como PGC62532) é mais como 200.000.000 anos-luz de distância. Isso é cerca de 100.000 vezes mais distante que o M57, mas como eles parecem um tamanho aproximadamente semelhante, o ex -nebuloso Spiral IC 1296 também deve ser cerca de 100.000 vezes maior que o nebuloso planetário M57. Olhe atentamente a astroimagem afiada do século XXI para identificar galáxias de fundo ainda mais distantes espalhadas pelo quadro."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2508/M57_LRGB_1K.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2508/M57_LRGB_2K.jpg",
+    "copyright": "Kent Biggs"
+  },
+  {
     "date": "2025-08-21",
     "title": {
       "en": "Mostly Perseids",
@@ -428,21 +443,6 @@
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2507/DoubleSN_ESO_1080.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2507/DoubleSN_ESO_3000.jpg",
-    "copyright": null
-  },
-  {
-    "date": "2025-07-21",
-    "title": {
-      "en": "Cat's Paw Nebula from Webb Space Telescope",
-      "pt": "Nebulosa da pata de gato da Webb Space Telescope"
-    },
-    "explanation": {
-      "en": "Nebulas are perhaps as famous for being identified with familiar shapes as perhaps cats are for getting into trouble.  Still, no known cat could have created the vast Cat's Paw Nebula visible toward the constellation of the Scorpion  (Scorpius).  At 5,700 light years distant, Cat's Paw is an emission nebula within a larger molecular cloud.  Alternatively known as the Bear Claw Nebula and cataloged as NGC 6334, stars nearly ten times the mass of our Sun have been born there in only the past few million years. Pictured here is a recently released image of the Cat's Paw taken in infrared light by the James Webb Space Telescope.  This newly detailed view into the nebula helps provide insight for how turbulent molecular clouds turn gas into stars.    Explore Your Universe: Random APOD Generator",
-      "pt": "As nebulas são talvez tão famosas por serem identificadas com formas familiares, pois talvez os gatos sejam para ter problemas.  Ainda assim, nenhum gato conhecido poderia ter criado a nebulosa da vasta pata do gato visível para a constelação do escorpião (Scorpius).  Aos 5.700 anos -luz distantes, a pata de gato é uma nebulosa de emissão dentro de uma nuvem molecular maior.  Alternativamente conhecida como Nebulosa da Garra de Bear e catalogada como NGC 6334, estrela quase dez vezes a massa de nosso sol nasceu lá apenas nos últimos milhões de anos. Na foto, aqui está uma imagem recentemente lançada da pata do gato tomada em luz infravermelha pelo Telescópio espacial James Webb.  Essa visão recém -detalhada da nebulosa ajuda a fornecer informações sobre como as nuvens moleculares turbulentas transformam o gás em estrelas.    Explore seu universo: gerador APOD aleatório"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2507/CatsPaw_Webb_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2507/CatsPaw_Webb_1822.jpg",
     "copyright": null
   }
 ]
