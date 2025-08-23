@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-08-23",
+    "title": {
+      "en": "Fishing for the Moon",
+      "pt": "Pesca para a Lua"
+    },
+    "explanation": {
+      "en": "How big is planet Earth's Moon? Compared to other moons of the Solar System, it's number 5 on the largest to smallest ranked list, following Jupiter's moon Ganymede, Saturn's moon Titan, and Jovian moons Callisto and Io. Continuing the list, the Moon comes before Jupiter's Europa and Neptune's Triton. It's also larger than dwarf planets Pluto and Eris. With a diameter of 3,475 kilometers the Moon is about 1/4 the size of Earth though, and that does make it the largest moon when compared to the size of its parent Solar System planet. Of course in this serene, twilight sea and skyscape, August's rising Full Moon still appears small enough to be caught in the nets of an ancient fishing rig. The telephoto snapshot was taken along the Italian Costa dei Trabocchi, on the Adriatic Sea.",
+      "pt": "Quão grande é a lua do Planet Earth? Comparado a outras luas do sistema solar, é o número 5 da maior a menor lista de classificação, após a lua de Júpiter, o lua de Júpiter, o titã da lua de Saturno e o Joviano Moons Callisto e Io. Continuando a lista, a Lua vem antes da Europa de Júpiter e Triton de Netuno. Também é maior que os planetas anões Plutão e Eris. Com um diâmetro de 3.475 quilômetros, a lua é de cerca de 1/4 do tamanho da Terra, e isso a torna a maior lua quando comparada ao tamanho do planeta do sistema solar pai. É claro que neste mar sereno e em Crepúsculo e Skyscape, a lua cheia de agosto ainda parece pequena o suficiente para ser capturada nas redes de uma antiga plataforma de pesca. O instantâneo telefoto foi tirado ao longo do italiano Costa Dei Trabocchi, no mar Adriático."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2508/1000212902_bellelli1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2508/1000212902_bellelli.jpg",
+    "copyright": "How big is planet Earth's Moon"
+  },
+  {
     "date": "2025-08-22",
     "title": {
       "en": "A Tale of Two Nebulae",
@@ -429,20 +444,5 @@
     "url": "https://apod.nasa.gov/apod/image/2507/MeteorMilkyWay_Rice_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2507/MeteorMilkyWay_Rice_2000.jpg",
     "copyright": ", Jason Rice,"
-  },
-  {
-    "date": "2025-07-22",
-    "title": {
-      "en": "A Double Detonation Supernova",
-      "pt": "Uma supernova de detonação dupla"
-    },
-    "explanation": {
-      "en": "Can some supernovas explode twice? Yes, when the first explosion acts like a detonator for the second. This is a leading hypothesis for the cause of supernova remnant (SNR) 0509-67.5.  In this two-star system, gravity causes the larger and fluffier star to give up mass to a smaller and denser white dwarf companion. Eventually the white dwarf's near-surface temperature goes so high that it explodes, creating a shock wave that goes both out and in -- and so triggers a full Type Ia supernova near the center. Recent images of the SNR 0509-67.5 system, like the featured image from the Very Large Telescope in Chile, show two shells with radii and compositions consistent with the double detonation hypothesis. This system, SNR 0509-67.5 is also famous for two standing mysteries: why its bright supernova wasn't noted 400 years ago, and why no visible companion star remains.",
-      "pt": "Algumas supernovas podem explodir duas vezes? Sim, quando a primeira explosão age como um detonador para o segundo. Esta é uma hipótese líder para a causa do remanescente da Supernova (SNR) 0509-67.5.  Neste sistema de duas estrelas, a gravidade faz com que a estrela maior e macia desista de uma massa a um companheiro anão branco menor e mais denso. Eventualmente, a temperatura próxima da superfície da anã branca fica tão alta que explode, criando uma onda de choque que sai e entra-e, portanto, desencadeia uma supernova completa do tipo IA perto do centro. Imagens recentes do sistema SNR 0509-67.5, como a imagem em destaque do telescópio muito grande no Chile, mostram duas conchas com raios e composições consistentes com a hipótese de detonação dupla. Esse sistema, SNR 0509-67.5, também é famoso por dois mistérios em pé: por que sua supernova brilhante não foi notada há 400 anos e por que nenhuma estrela de companheira visível permanece."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2507/DoubleSN_ESO_1080.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2507/DoubleSN_ESO_3000.jpg",
-    "copyright": null
   }
 ]
