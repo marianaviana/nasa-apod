@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-08-24",
+    "title": {
+      "en": "The Spinning Pulsar of the Crab Nebula",
+      "pt": "O pulsar giratório da nebulosa do caranguejo"
+    },
+    "explanation": {
+      "en": "At the core of the Crab Nebula lies a city-sized, magnetized neutron star spinning 30 times a second. Known as the Crab Pulsar, it is the bright spot in the center of the gaseous swirl at the nebula's core. About twelve light-years across, the spectacular picture frames the glowing gas, cavities and swirling filaments near the Crab Nebula's center.  The featured picture combines visible light from the Hubble Space Telescope in purple, X-ray light from the Chandra X-ray Observatory in blue, and infrared light from the Spitzer Space Telescope in red.  Like a cosmic dynamo, the Crab pulsar powers the emission from the nebula, driving a shock wave through surrounding material and accelerating the spiraling electrons. With more mass than the Sun and the density of an atomic nucleus,the spinning pulsar is the collapsed core of a massive star that exploded. The outer parts of the Crab Nebula are the expanding remnants of the star's component gases. The supernova explosion was witnessed on planet Earth in the year 1054.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)",
+      "pt": "No centro da nebulosa do caranguejo, encontra-se uma estrela de nêutrons magnetizada do tamanho da cidade, girando 30 vezes por segundo. Conhecido como o pulsar de caranguejo, é o ponto positivo no centro do goleoso redemoinho no núcleo da nebulosa. Cerca de doze anos-luz de diâmetro, a imagem espetacular enquadra o gás brilhante, as cáries e os filamentos em turbilhão perto do centro da nebulosa do caranguejo.  A imagem em destaque combina luz visível do telescópio espacial Hubble em roxo e luz de raio-x do Observatório de Raios X Chandra em azul e luz infravermelha do telescópio espacial Spitzer em vermelho.  Como um dínamo cósmico, o pulsar do caranguejo alimenta a emissão da nebulosa, dirigindo uma onda de choque pelo material circundante e acelerando os elétrons em espiral. Com mais massa do que o sol e a densidade de um núcleo atômico, o pulsar giratório é o núcleo colapso de uma estrela maciça que explodiu. As partes externas da nebulosa do caranguejo são os remanescentes em expansão dos gases componentes da estrela. A explosão da Supernova foi testemunhada no planeta Terra no ano 1054. Sky Surprise: Que imagem o Apod apareceu no seu aniversário? (depois de 1995)"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2508/Crab_HubbleChandraSpitzer_1080.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2508/Crab_HubbleChandraSpitzer_3600.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-08-23",
     "title": {
       "en": "Fishing for the Moon",
@@ -429,20 +444,5 @@
     "url": "https://apod.nasa.gov/apod/image/2507/SaturnJuly18_2025TitanShadowTransit1024.png",
     "hdurl": "https://apod.nasa.gov/apod/image/2507/SaturnJuly18_2025TitanShadowTransit1200.png",
     "copyright": "Every 15 years or so"
-  },
-  {
-    "date": "2025-07-23",
-    "title": {
-      "en": "Fireball over Cape San Blas",
-      "pt": "Bola de fogo sobre Cape San Blas"
-    },
-    "explanation": {
-      "en": "Have you ever seen a fireball?  In astronomy, a fireball is a very bright meteor -- one at least as bright as Venus and possibly brighter than even a full Moon. Fireballs are rare -- if you see one you are likely to remember it for your whole life.  Physically, a fireball is a small rock that originated from an asteroid or comet that typically leaves a fading smoke trail of gas and dust as it shoots through the Earth's atmosphere.  It is unlikely that any single large ground strike occurred -- much of the rock likely vaporized as it broke up into many small pieces. The featured picture was captured last week from a deadwood beach in Cape San Blas, Florida, USA.   Piece it Back Together: Astronomy Puzzle of the Day",
-      "pt": "Você já viu uma bola de fogo?  Na astronomia, uma bola de fogo é um meteoro muito brilhante - pelo menos tão brilhante quanto Vênus e possivelmente mais brilhante do que uma lua cheia. Bolas de fogo são raras - se você vir uma, provavelmente se lembrará por toda a sua vida.  Fisicamente, uma bola de fogo é uma pequena rocha que se originou de um asteróide ou cometa que normalmente deixa uma trilha de fumaça desbotada de gás e poeira enquanto atira na atmosfera da Terra.  É improvável que qualquer grande ataque terrestre tenha ocorrido - grande parte da rocha provavelmente vaporizada à medida que se abriu em muitos pedaços pequenos. A foto em destaque foi capturada na semana passada de uma praia de Deadwood em Cape San Blas, Flórida, EUA.   Coloque -o novamente: o quebra -cabeça da astronomia do dia"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2507/MeteorMilkyWay_Rice_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2507/MeteorMilkyWay_Rice_2000.jpg",
-    "copyright": ", Jason Rice,"
   }
 ]
