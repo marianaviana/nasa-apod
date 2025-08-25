@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-08-25",
+    "title": {
+      "en": "The Meteor and the Star Cluster",
+      "pt": "O meteoro e o cluster de estrelas"
+    },
+    "explanation": {
+      "en": "Sometimes even the sky surprises you.  To see more stars and faint nebulosity in the Pleiades star cluster (M45), long exposures are made.  Many times, less interesting items appear on the exposures that were not intended -- but later edited out. These include stuck pixels, cosmic ray hits, frames with bright clouds or Earth's Moon, airplane trails, lens flares, faint satellite trails, and even insect trails.  Sometimes, though, something really interesting is caught by chance. That was just the case a few weeks ago in al-Ula, Saudi Arabia when a bright meteor streaked across during an hour-long exposure of the Pleiades. Along with the famous bright blue stars, less famous and less bright blue stars, and blue-reflecting dust surrounding the star cluster, the fast rock fragment created a distinctive green glow, likely due to vaporized metals.    Jigsaw Universe: Astronomy Puzzle of the Day",
+      "pt": "Às vezes até o céu o surpreende.  Para ver mais estrelas e fracas nebulosidade no cluster de estrelas de Pleiades (M45), são feitas longas exposições.  Muitas vezes, itens menos interessantes aparecem nas exposições que não foram pretendidas - mas depois editadas. Isso inclui pixels presos, hits de raios cósmicos, molduras com nuvens brilhantes ou lua da Terra, trilhas de avião, flares de lentes, trilhas de satélite fracas e até trilhas de insetos.  Às vezes, porém, algo realmente interessante é capturado por acaso. Esse foi o caso há algumas semanas em Al-ALA, na Arábia Saudita, quando um meteoro brilhante se espalhou durante uma exposição de uma hora das Plêiades. Juntamente com as famosas estrelas azuis brilhantes, estrelas azuis menos famosas e menos brilhantes e poeira de reflexão azul ao redor do aglomerado de estrelas, o fragmento de rocha rápida criou um brilho verde distinto, provavelmente devido a metais vaporizados.    Universo de Jigsaw: quebra -cabeça da astronomia do dia"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2508/MeteorPleiades_Alqasimi_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2508/MeteorPleiades_Alqasimi_1677.jpg",
+    "copyright": ", Yousif Alqasimi &  , Essa Al Jasmi,"
+  },
+  {
     "date": "2025-08-24",
     "title": {
       "en": "The Spinning Pulsar of the Crab Nebula",
@@ -429,20 +444,5 @@
     "url": "https://apod.nasa.gov/apod/image/2507/KCG2021_08_11_Pano_Elafonisi_met_fin-CCMZ_1024px.png",
     "hdurl": "https://apod.nasa.gov/apod/image/2507/KCG2021_08_11_Pano_Elafonisi_met_fin-CCMZ_1500px.png",
     "copyright": "Petr Horálek"
-  },
-  {
-    "date": "2025-07-24",
-    "title": {
-      "en": "Titan Shadow Transit",
-      "pt": "Titan Shadow Transit"
-    },
-    "explanation": {
-      "en": "very 15 years or so, Saturn's rings are tilted edge-on to our line of sight. As the bright, beautiful ring system grows narrower and fainter it becomes increasingly difficult to see for denizens of planet Earth. But it does provide the opportunity to watch transits of Saturn's moons and their dark shadows across the ringed gas giant's still bright disk. Of course Saturn's largest moon Titan is the easiest to spot in transit. In this telescopic snapshot from July 18, Titan itself is at the upper left, casting a round dark shadow on Saturn's banded cloudtops above the narrow rings. In fact Titan's transit season is in full swing now with shadow transits every 16 days corresponding to the moon's orbital period. Its final shadow transit will be on October 6, though Titan's pale disk will continue to cross in front of Saturn as seen from telescopes on planet Earth every 16 days through January 25, 2026.",
-      "pt": "Mais de 15 anos, mais ou menos, os anéis de Saturno são inclinados de ponta à nossa linha de visão. À medida que o sistema de anéis brilhante e brilhante cresce mais estreito e mais fraco, fica cada vez mais difícil de ver para os habitantes do planeta Terra. Mas ele oferece a oportunidade de assistir a trânsitos das luas de Saturno e suas sombras escuras no disco ainda brilhante da gigante de gás anel. É claro que o maior titã da lua de Saturno é o mais fácil de identificar em trânsito. Neste instantâneo telescópico de 18 de julho, o próprio Titã fica no canto superior esquerdo, lançando uma sombra escura redonda nos nuvens com faixas de Saturno acima dos anéis estreitos. De fato, a temporada de trânsito de Titan está em pleno andamento agora, com trânsitos de sombra a cada 16 dias correspondentes ao período orbital da lua. Seu trânsito final de sombra será em 6 de outubro, embora o Pale Disk de Titan continue a atravessar em frente a Saturno, como visto dos telescópios no planeta Terra a cada 16 dias a 25 de janeiro de 2026."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2507/SaturnJuly18_2025TitanShadowTransit1024.png",
-    "hdurl": "https://apod.nasa.gov/apod/image/2507/SaturnJuly18_2025TitanShadowTransit1200.png",
-    "copyright": "Every 15 years or so"
   }
 ]
