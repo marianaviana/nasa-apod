@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-08-28",
+    "title": {
+      "en": "Galaxies, Stars, and Dust",
+      "pt": "Galáxias, estrelas e poeira"
+    },
+    "explanation": {
+      "en": "This well-composed telescopic field of view covers over a Full Moon on the sky toward the high-flying constellation Pegasus. Of course the brighter stars show diffraction spikes, the commonly seen effect of internal supports in reflecting telescopes, and lie well within our own Milky Way galaxy. The faint but pervasive clouds of interstellar dust ride above the galactic plane and dimly reflect the Milky Way's starlight. Known as galactic cirrus or integrated flux nebulae they are associated with the Milky Way's molecular clouds. In fact, the diffuse cloud cataloged as MBM 54, less than a thousand light-years distant, fills the scene. The galaxy seemingly tangled in the dusty cloud is the striking spiral galaxy NGC 7497. It's some 60 million light-years away, though. Seen almost edge-on near the center of the field, NGC 7497's own spiral arms and dust lanes echo the colors of stars and dust in our own Milky Way.",
+      "pt": "Este campo de vista telescópico bem composto cobre uma lua cheia no céu em direção ao PEGASUS DE CONSTELAÇÃO ALTA. É claro que as estrelas mais brilhantes mostram picos de difração, o efeito comum dos suportes internos na reflexão de telescópios e ficam bem dentro de nossa própria galáxia da Via Láctea. As nuvens fracas, mas difundidas, de pó interestelar, acima do plano galáctico e refletem pouco a luz das estrelas da Via Láctea. Conhecidos como cirros galácticos ou nebulosas de fluxo integrado, eles estão associados às nuvens moleculares da Via Láctea. De fato, a nuvem difusa catalogou como MBM 54, menos de mil anos-luz de distância, preenche a cena. A galáxia aparentemente emaranhada na nuvem empoeirada é a impressionante galáxia em espiral NGC 7497. No entanto, está a cerca de 60 milhões de anos-luz de distância. Visto quase de borda perto do centro do campo, as próprias faixas de armas em espiral e poeira do NGC 7497 ecoam as cores das estrelas e a poeira em nossa própria Via Láctea."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2508/NGC7497_Robert_Eder1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2508/NGC7497_Robert_Eder.jpg",
+    "copyright": "Robert Eder"
+  },
+  {
     "date": "2025-08-27",
     "title": {
       "en": "WISPIT 2b: Exoplanet Carves Gap in Birth Disk",
@@ -426,21 +441,6 @@
       "pt": "Por que essa colisão foi tão estranha? Em 2022, para desenvolver a tecnologia que salva a terra, a NASA bateu deliberadamente a espaçonave Dart no asteróide Moonlet Dimorphos. A esperança era que essa colisão alterasse a trajetória de Dimorphos em torno de seus didatos de asteróides parentais e, portanto, demonstre que colisões semelhantes poderiam, em teoria, salvar a Terra de ser atingido por (outros) asteróides perigosos.  Mas as análises de novos resultados mostram que os efeitos da colisão são diferentes do que o esperado - e estamos tentando entender o porquê.  Aqui está o vídeo do lapso de tempo gravado pela câmera Liciacube ejetada Luke mostrando cerca de 250 segundos do campo de detritos em expansão de Dimorphos após a colisão, com didimos não impactado passando em primeiro plano.  Em 2026, a missão Hera da Europa alcançará os asteróides e liberará três naves espaciais para estudar melhor o assunto."
     },
     "media_type": "other",
-    "copyright": null
-  },
-  {
-    "date": "2025-07-27",
-    "title": {
-      "en": "Lightning over the Volcano of Water",
-      "pt": "Relâmpago sobre o vulcão de água"
-    },
-    "explanation": {
-      "en": "Have you ever watched a lightning storm in awe?  You're not alone. Details of what causes lightning are still being researched, but it is known that inside some clouds, internal updrafts cause collisions between ice and snow that slowly separate charges between cloud tops and bottoms. The rapid electrical discharges that are lightning soon result.  Lightning usually takes a jagged course, rapidly heating a thin column of air to about three times the surface temperature of the Sun.  The resulting shock wave starts supersonically and decays into the loud sound known as thunder.  On average, around the world, about 6,000 lightning bolts occur between clouds and the Earth every minute. Pictured in July 2019 in a two-image composite, lightning stems from communication antennas near the top of Volcán de Agua (Volcano of Water) in Guatemala.  Sky Surprise: What picture did APOD feature on your birthday? (post 1995)",
-      "pt": "Você já assistiu a uma tempestade de raios com admiração?  Você não está sozinho. Detalhes do que causam raios ainda estão sendo pesquisados, mas sabe -se que, dentro de algumas nuvens, as atualizações internas causam colisões entre gelo e neve que separam lentamente as cobranças entre os tops e os fundos das nuvens. As descargas elétricas rápidas que são um raio em breve resultam.  Lightning geralmente faz um percurso irregular, aquecendo rapidamente uma fina coluna de ar para cerca de três vezes a temperatura da superfície do sol.  A onda de choque resultante começa supersonicamente e decai no som alto conhecido como Thunder.  Em média, em todo o mundo, cerca de 6.000 raios ocorrem entre nuvens e a Terra a cada minuto. Na foto em julho de 2019, em um composto de duas imagens, os raios derivam de antenas de comunicação perto do topo de Volcán de Agua (vulcão de água) na Guatemala.  SKY SURPRESSIONAÇÃO: Qual a foto que o APOD apareceu no seu aniversário? (Post 1995)"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2507/LightningVolcano_Montufar_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2507/LightningVolcano_Montufar_3000.jpg",
     "copyright": null
   }
 ]
