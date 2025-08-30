@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-08-30",
+    "title": {
+      "en": "A Two Percent Moon",
+      "pt": "Uma lua de dois por cento"
+    },
+    "explanation": {
+      "en": "A young crescent moon can be hard to see. That's because when the Moon shows it's crescent phase (young or old) it can never be far from the Sun in planet Earth's sky. And even though the sky is still bright, a slender sunlit lunar crescent is cleary visible in this early evening skyscape. The telephoto snapshot was captured on August 24, with the Moon very near the western horizon at sunset. Seen in a narrow crescent phase about 1.5 days old, the visible sunlit portion is a mere two percent of the surface of the Moon's familiar nearside. At the Canary Islands Space Centre, a steerable radio dish for communication with spacecraft is titled in the direction of the two percent Moon. The sunset sky's pastel pinkish coloring is partly due to fine sand and dust from the Sahara Desert blown by the prevailing winds.",
+      "pt": "Uma jovem lua crescente pode ser difícil de ver. Isso porque quando a lua mostra sua fase crescente (jovem ou idosa), nunca pode estar longe do sol no céu do planeta Terra. E mesmo que o céu ainda esteja brilhante, um crescente lunar esbelto e iluminado é claro visível nesta paisagem do Skyscape no início da noite. O instantâneo telefoto foi capturado em 24 de agosto, com a lua muito perto do horizonte ocidental ao pôr do sol. Visto em uma fase crescente estreita com cerca de 1,5 dia de idade, a porção visível iluminada é apenas dois por cento da superfície do familiar familiar da lua. No Centro Espacial das Ilhas Canárias, um prato de rádio direcionado para comunicação com a espaçonave é intitulado na direção da lua de dois por cento. A cor -rosada pastel do Sunset Sky é em parte devido à areia fina e à poeira do deserto do Saara soprado pelos ventos predominantes."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2508/IMG_4081_1024.jpeg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2508/IMG_4081.jpeg",
+    "copyright": "Marina Prol"
+  },
+  {
     "date": "2025-08-29",
     "title": {
       "en": "A Dark Veil in Ophiuchus",
@@ -429,20 +444,5 @@
     "url": "https://apod.nasa.gov/apod/image/2507/SunLoops_Vanoni_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2507/SunLoops_Vanoni_1223.jpg",
     "copyright": ", Andrea Vanoni,"
-  },
-  {
-    "date": "2025-07-29",
-    "title": {
-      "en": "A Helix Nebula Deep Field",
-      "pt": "Um campo profundo da nebulosa helix"
-    },
-    "explanation": {
-      "en": "Is the Helix Nebula looking at you? No, not in any biological sense, but it does look quite like an eye. The Helix Nebula is so named because it also appears that you are looking down the axis of a helix. In actuality, it is now understood to have a surprisingly complex geometry, including radial filaments and extended outer loops.  The Helix Nebula (aka NGC 7293) is one of brightest and closest examples of a planetary nebula, a gas cloud created at the end of the life of a Sun-like star. The remnant central stellar core, destined to become a white dwarf star, glows in light so energetic it causes the previously expelled gas to fluoresce. The featured picture, taken in red, green, and blue but highlighted by light emitted primarily by hydrogen was created from 12 hours of exposure through a personal telescope located in Greece.  A close-up of the inner edge of the Helix Nebula shows complex gas knots the origin of which are  still being researched.    Portal Universe: Random APOD Generator",
-      "pt": "A nebulosa da helix está olhando para você? Não, não em nenhum sentido biológico, mas parece um olho. A nebulosa da helix é assim chamada porque também parece que você está olhando para o eixo de uma hélice. Na realidade, agora se entende ter uma geometria surpreendentemente complexa, incluindo filamentos radiais e loops externos estendidos.  A Nebula Helix (também conhecida como NGC 7293) é um dos exemplos mais brilhantes e próximos de uma nebulosa planetária, uma nuvem de gás criada no final da vida de uma estrela do sol. O núcleo estelar central remanescente, destinado a se tornar uma estrela anã branca, brilha na luz tão enérgica que causa o gás anteriormente expulso à fluoresce. A foto em destaque, tirada em vermelho, verde e azul, mas destacada pela luz emitida principalmente pelo hidrogênio, foi criada a partir de 12 horas de exposição através de um telescópio pessoal localizado na Grécia.  Um close da borda interna da nebulosa da hélice mostra um nó de gás complexo cuja origem ainda está sendo pesquisada.    Universo portal: gerador APOD aleatório"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2507/Helix_GC_1080.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2507/Helix_GC_2332.jpg",
-    "copyright": ", George Chatzifrantzis,"
   }
 ]
