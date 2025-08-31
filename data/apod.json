@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-08-31",
+    "title": {
+      "en": "NGC 7027: The Pillow Planetary Nebula",
+      "pt": "NGC 7027: A nebulosa planetária de travesseiro"
+    },
+    "explanation": {
+      "en": "What created this unusual planetary nebula? Dubbed the Pillow Nebula and the Flying Carpet Nebula, NGC 7027 is one of the smallest, brightest, and most unusually shaped planetary nebulas known. Given its expansion rate, NGC 7027 first started expanding, as visible from Earth, about 600 years ago.  For much of its history, the planetary nebula has been expelling shells, as seen in blue in the featured image by the Hubble Space Telescope.  In modern times, though, for reasons unknown, it began ejecting gas and dust (seen in brown) in specific directions that created a new pattern that seems to have four corners. What lies at the nebula's center is unknown, with one hypothesis holding it to be a close binary star system where one star sheds gas onto an erratic disk orbiting the other star. NGC 7027, about 3,000 light years away, was first discovered in 1878 and can be seen with a standard backyard telescope toward the constellation of the Swan (Cygnus).",
+      "pt": "O que criou essa nebulosa planetária incomum? Apelidado de nebulosa de travesseiro e a nebulosa do tapete voador, o NGC 7027 é um dos menores, mais brilhantes e mais incomumente em formação de nebulas planetárias conhecidas. Dada a sua taxa de expansão, o NGC 7027 começou a se expandir, como visível da Terra, cerca de 600 anos atrás.  Durante grande parte de sua história, a nebulosa planetária tem expulso conchas, como visto em azul na imagem em destaque do telescópio espacial Hubble.  Nos tempos modernos, porém, por razões desconhecidas, começou a ejetar gás e poeira (vistos em marrom) em direções específicas que criaram um novo padrão que parece ter quatro cantos. O que está no centro da nebulosa é desconhecido, com uma hipótese mantendo -a como um sistema estrela binário próximo, onde uma estrela lança gás em um disco irregular que orbita a outra estrela. O NGC 7027, a cerca de 3.000 anos -luz de distância, foi descoberto pela primeira vez em 1878 e pode ser visto com um telescópio padrão do quintal em direção à constelação do cisne (Cygnus)."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2508/ngc7027_HubbleDtc_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2508/ngc7027_HubbleDtc_960.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-08-30",
     "title": {
       "en": "A Two Percent Moon",
@@ -429,20 +444,5 @@
     "url": "https://apod.nasa.gov/apod/image/2507/2025rbsAnnotated1024.png",
     "hdurl": "https://apod.nasa.gov/apod/image/2507/2025rbsAnnotated1024.png",
     "copyright": null
-  },
-  {
-    "date": "2025-07-30",
-    "title": {
-      "en": "Coronal Loops on the Sun",
-      "pt": "Loops coronais no sol"
-    },
-    "explanation": {
-      "en": "Our Sun frequently erupts in loops.  Hot solar plasma jumps off the Sun's surface into prominences, with the most common type of prominence being a simple loop.  The loop shape originates from the Sun's magnetic field, which is traced by spiraling electrons and protons.  Many loops into the Sun's lower corona are large enough to envelop the Earth and are stable enough to last days.  They commonly occur near active regions that also include dark sunspots.  The featured panel shows four loops, each of which was captured near the Sun's edge during 2024 and 2025. The images were taken by a personal telescope in Mantova, Italy and in a very specific color of light emitted primarily by hydrogen. Some solar prominences suddenly break open and eject particles into the Solar System, setting up a space weather sequence that can affect the skies and wires of Earth.    Jigsaw Universe: Astronomy Puzzle of the Day",
-      "pt": "Nosso sol freqüentemente entra em erupção em loops.  O plasma solar quente pula da superfície do sol em proeminências, com o tipo de destaque mais comum sendo um loop simples.  A forma do loop se origina do campo magnético do sol, que é rastreado por elétrons e prótons em espiral.  Muitos loops na coroa inferior do sol são grandes o suficiente para envolver a terra e são estáveis o suficiente para durar dias.  Geralmente ocorrem regiões ativas que também incluem manchas solares escuras.  O painel em destaque mostra quatro loops, cada um dos quais foi capturado perto da borda do sol durante 2024 e 2025. As imagens foram tiradas por um telescópio pessoal em Mantova, Itália e em uma cor muito específica da luz emitida principalmente pelo hidrogênio. Algumas proeminências solares de repente se abrem e ejetam partículas no sistema solar, estabelecendo uma sequência climática espacial que pode afetar os céus e os fios da Terra.    Universo de Jigsaw: quebra -cabeça da astronomia do dia"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2507/SunLoops_Vanoni_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2507/SunLoops_Vanoni_1223.jpg",
-    "copyright": ", Andrea Vanoni,"
   }
 ]
