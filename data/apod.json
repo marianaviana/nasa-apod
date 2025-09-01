@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-09-01",
+    "title": {
+      "en": "Callisto: Dirty Battered Iceball",
+      "pt": "Callisto: Iceball sujo de gelo"
+    },
+    "explanation": {
+      "en": "Its surface is the most densely cratered in the Solar System -- but what's inside?  Jupiter's moon Callisto is a battered ball of dirty ice that is larger than the planet Mercury. It was visited by NASA's Galileo spacecraft in the 1990s and 2000s, but the recently reprocessed featured image is from a flyby of NASA's Voyager 2 in 1979.  The moon would appear darker if it weren't for the tapestry of light-colored fractured surface ice created by eons of impacts. The interior of Callisto is potentially even more interesting because therein might lie an internal layer of liquid water. This potential underground sea is a candidate to harbor life -- similar with sister moons Europa and Ganymede.  Callisto is slightly larger than Luna, Earth's Moon, but because of its high ice content is slightly less massive. ESA's JUICE and NASA's Europa Clipper missions are now headed out to Jupiter to better investigate its largest moons.",
+      "pt": "Sua superfície é a mais densamente craterada no sistema solar - mas o que está dentro?  A Lua Callisto de Júpiter é uma bola de gelo sujo que é maior que o planeta Mercury. Foi visitado pela espaçonave Galileo da NASA nas décadas de 1990 e 2000, mas a imagem em destaque recentemente reprocessada é de um sépito do Voyager 2 da NASA em 1979. A lua pareceria mais escura se não fosse a tapeçaria de gelo de fraturado fraturado de cor clara criada por eon de impactos. O interior de Callisto é potencialmente ainda mais interessante, porque a aí pode estar uma camada interna de água líquida. Este potencial mar subterrâneo é um candidato a abrigar a vida - semelhante à irmã Moons Europa e Ganymede.  Callisto é um pouco maior que Luna, a Lua da Terra, mas por causa de seu alto teor de gelo é um pouco menos massivo. O suco da ESA e as missões Europa Clipper da NASA estão agora indo para Júpiter para investigar melhor suas maiores luas."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2509/Callisto_Voyager2Gill_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2509/Callisto_Voyager2Gill_1602.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-08-31",
     "title": {
       "en": "NGC 7027: The Pillow Planetary Nebula",
@@ -429,20 +444,5 @@
     "url": "https://apod.nasa.gov/apod/image/2508/BokGlobule_1_1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2508/BokGlobule_1.jpg",
     "copyright": "Peter Bresseler"
-  },
-  {
-    "date": "2025-07-31",
-    "title": {
-      "en": "Supernova 2025rbs in NGC 7331",
-      "pt": "Supernova 2025RBs no NGC 7331"
-    },
-    "explanation": {
-      "en": "A long time ago in a galaxy 50 million light-years away, a star exploded. Light from that supernova was first detected by telescopes on planet Earth on July 14th though, and the extragalactic transient is now known to astronomers as supernova 2025rbs. Presently the brightest supernova in planet Earth's sky, 2025rbs is a Type Ia supernova, likely caused by the thermonuclear detonation of a white dwarf star that accreted material from a companion in a binary star system.  Type Ia supernovae are used as standard candles to establish the distance scale of the universe. The host galaxy of 2025rbs is NGC 7331. Itself a bright spiral galaxy in the northern constellation Pegasus, NGC 7331 is often touted as an analog to our own Milky Way.",
-      "pt": "Há muito tempo, em uma galáxia a 50 milhões de anos-luz de distância, uma estrela explodiu. Porém, a luz daquela supernova foi detectada pela primeira vez por telescópios no planeta Terra em 14 de julho, e o transitório extragalático agora é conhecido pelos astrônomos como Supernova 2025RBs. Atualmente, a supernova mais brilhante do céu do planeta Terra, 2025RBs é uma supernova do tipo IA, provavelmente causada pela detonação termonuclear de uma estrela anã branca que acumulou material de um companheiro em um sistema estelar binário.  As supernovas do tipo IA são usadas como velas padrão para estabelecer a escala de distância do universo. A galáxia hospedeira de 2025RBs é NGC 7331. Em si, uma galáxia espiral brilhante no norte da constelação Pegasus, NGC 7331 é frequentemente apontada como um análogo à nossa própria Via Láctea."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2507/2025rbsAnnotated1024.png",
-    "hdurl": "https://apod.nasa.gov/apod/image/2507/2025rbsAnnotated1024.png",
-    "copyright": null
   }
 ]
