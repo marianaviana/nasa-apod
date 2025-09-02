@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-09-02",
+    "title": {
+      "en": "The Horsehead and Flame Nebulas",
+      "pt": "As nebulas de cavalo e chama"
+    },
+    "explanation": {
+      "en": "The Horsehead Nebula is one of the most famous nebulae on the sky.  It is visible as the dark indentation to the orange emission nebula at the far right of the featured picture.  The horse-head feature is dark because it is really an opaque dust cloud that lies in front of the bright emission nebula. Like clouds in Earth's atmosphere, this cosmic cloud has assumed a recognizable shape by chance.  After many thousands of years, the internal motions of the cloud will surely alter its appearance.  The emission nebula's orange color is caused by electrons recombining with protons to form hydrogen atoms.  Toward the lower left of the image is the Flame Nebula, an orange-tinged nebula that also contains intricate filaments of dark dust.",
+      "pt": "A nebulosa Horsehead é uma das nebulosas mais famosas do céu.  É visível como o recuo escuro da nebulosa de emissão de laranja à direita da foto em destaque.  O recurso de cabeça de cavalo está escuro porque é realmente uma nuvem opaca de poeira que fica em frente à nebulosa de emissão brilhante. Como nuvens na atmosfera da Terra, essa nuvem cósmica assumiu uma forma reconhecível por acaso.  Depois de muitos milhares de anos, os movimentos internos da nuvem certamente alterarão sua aparência.  A cor laranja da nebulosa emissão é causada por elétrons recombinando com prótons para formar átomos de hidrogênio.  Para o canto inferior esquerdo da imagem, está a nebulosa da chama, uma nebulosa de laranja que também contém filamentos complexos de poeira escura."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2509/OrionHorseHead_Stern_1080.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2509/OrionHorseHead_Stern_5842.jpg",
+    "copyright": ", Daniel Stern,"
+  },
+  {
     "date": "2025-09-01",
     "title": {
       "en": "Callisto: Dirty Battered Iceball",
@@ -429,20 +444,5 @@
     "url": "https://apod.nasa.gov/apod/image/2508/DeltaAqrFireflies1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2508/DeltaAqrFireflies.jpg",
     "copyright": "Daniel Korona"
-  },
-  {
-    "date": "2025-08-01",
-    "title": {
-      "en": "Small Dark Nebula",
-      "pt": "Pequena nebulosa escura"
-    },
-    "explanation": {
-      "en": "A small, dark, nebula looks isolated near the center of this telescopic close-up. The wedge-shaped cosmic cloudlet lies within a relatively crowded region of space though. About 7,000 light-years distant and filled with glowing gas and an embedded cluster of young stars, the region is known as M16 or the Eagle Nebula. Hubble's iconic images of the Eagle Nebula include the famous star-forming Pillars of Creation, towering structures of interstellar gas and dust 4 to 5 light-years long. But this small dark nebula, known to some as a Bok globule, is a fraction of a light-year across. The Bok globule stands out in silhouette against the expansive background of M16's diffuse glow. Found scattered within emission nebulae and star clusters, Bok globules are small interstellar clouds of cold molecular gas and obscuring dust that also form stars within their dense, collapsing cores.",
-      "pt": "Uma nebulosa pequena e escura parece isolada perto do centro deste close telescópico. O Cloudlet cósmico em forma de cunha fica dentro de uma região relativamente lotada do espaço. Cerca de 7.000 anos-luz distantes e cheios de gás brilhante e um aglomerado incorporado de estrelas jovens, a região é conhecida como M16 ou a nebulosa da águia. As imagens icônicas de Hubble da Nebula Eagle incluem os famosos pilares de criação em estrelas, estruturas imponentes de gás interestelar e poeira de 4 a 5 anos-luz. Mas essa pequena nebulosa escura, conhecida por alguns como um globule de Bok, é uma fração de um ano-luz. O Bok Globule se destaca em silhueta contra o amplo fundo do brilho difuso do M16. Encontrados espalhados nas nebulosas de emissão e aglomerados de estrelas, os glóbulos de BOK são pequenas nuvens interestelares de gás molecular frio e poeira obscurecida que também formam estrelas dentro de seus densos núcleos em colapso."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2508/BokGlobule_1_1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2508/BokGlobule_1.jpg",
-    "copyright": "Peter Bresseler"
   }
 ]
