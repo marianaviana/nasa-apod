@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-09-03",
+    "title": {
+      "en": "Cir X-1: Jets in the Africa Nebula",
+      "pt": "CIR X-1: Jatos na nebulosa da África"
+    },
+    "explanation": {
+      "en": "How soon do jets form when a supernova gives birth to a neutron star?  The Africa Nebula provides clues.  This supernova remnant surrounds Circinus X-1, an X-ray emitting neutron star and the companion star it orbits.  The image, from the ThunderKAT collaboration on the MeerKAT radio telescope situated in South Africa, shows the bright core-and-lobe structure of Cir X-1’s currently active jets inside the nebula.  A mere 4600 years old, Cir X-1 could be the \"Little Sister\" of microquasar SS 433*.  However, the newly discovered bubble exiting from a ring-like hole in the upper right of the nebula, along with a ring to the bottom left, demonstrate that other jets previously existed.  Computer simulations indicate those jets formed within 100 years of the explosion and lasted up to 1000 years.  Surprisingly, to create the observed bubble, the jets need to be more powerful than young neutron stars were previously thought to produce.   Open Science: Browse 3,700+ codes in the Astrophysics Source Code Library",
+      "pt": "Em quanto tempo os jatos se formam quando uma supernova dá à luz uma estrela de nêutrons?  A nebulosa da África fornece pistas.  Este remanescente de supernova envolve o Circinus X-1, uma estrela de nêutrons emissor de raios-X e a estrela do Companion It orbita.  A imagem, da colaboração Thunderkat no Radioselescópio Meerkat, situado na África do Sul, mostra a estrutura brilhante e lobo dos jatos atualmente ativos do CIR X-1 dentro da nebulosa.  Meros 4600 anos, o CIR X-1 poderia ser a \"irmãzinha\" do Microquasar SS 433*.  No entanto, a bolha recém-descoberta saindo de um orifício em forma de anel no canto superior direito da nebulosa, juntamente com um anel ao canto inferior esquerdo, demonstram que outros jatos existiam anteriormente.  Simulações de computador indicam os jatos formados dentro de 100 anos após a explosão e duraram até 1000 anos.  Surpreendentemente, para criar a bolha observada, os jatos precisam ser mais poderosos do que as jovens estrelas de nêutrons foram anteriormente que produziam.   Ciência aberta: Procure mais de 3.700 códigos na Biblioteca de Código Fonte Astrofísica"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2508/CirX1_English_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2508/CirX1_English_960.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-09-02",
     "title": {
       "en": "The Horsehead and Flame Nebulas",
@@ -429,20 +444,5 @@
     "url": "https://apod.nasa.gov/apod/image/2508/MeteorBoom_vanderHoeven_750.gif",
     "hdurl": "https://apod.nasa.gov/apod/image/2508/MeteorBoom_vanderHoeven_750.gif",
     "copyright": ", Andre van der Hoeven,"
-  },
-  {
-    "date": "2025-08-02",
-    "title": {
-      "en": "Fireflies, Meteors, and Milky Way",
-      "pt": "Fireflies, meteoros e Via Láctea"
-    },
-    "explanation": {
-      "en": "Taken on July 29 and July 30, a registered and stacked series of exposures creates this dreamlike view of a northern summer night. Multiple firefly flashes streak across the foreground as the luminous Milky Way arcs above the horizon in the Sierra de Órganos national park of central Mexico, The collection of bright streaks aligned across the sky toward the upper left in the timelapse image are Delta Aquariid meteors. Currently active, the annual Delta Aquarid meteor shower shares August nights though, overlapping with the better-known Perseid meteor shower. This year that makes post-midnight, mostly moonless skies in early August very popular with late night skygazers. How can you tell a Delta Aquariid from a Perseid meteor?  The streaks of Perseid meteors can be traced back to an apparent radiant in the constellation Perseus. Delta Aquariids appear to emerge from the more southerly constellation Aquarius, beyond the top left of this frame. Of course, the bioluminescent flashes of fireflies are common too on these northern summer nights. But how can you tell a firefly from a meteor? Just try to catch one.",
-      "pt": "Tomado em 29 de julho e 30 de julho, uma série de exposições registradas e empilhadas cria essa visão onírica de uma noite de verão do norte. O Firefly pisca múltiplo se destaca em primeiro plano, enquanto o luminoso Via Láctea está acima do horizonte no Parque Nacional Sierra de Órganos, no centro do México, a coleção de estrias brilhantes alinhadas no céu em direção ao canto superior esquerdo na imagem Timelapse são meteoros de Aquariid Delta. Atualmente ativo, no entanto, o chuveiro anual do Delta Aquarid Meteor compartilha noites de agosto, sobrepondo-se ao chuveiro de meteoros Perseid mais conhecido. Este ano, que faz o céu pós-meia-noite, principalmente o lua sem lua, no início de agosto, muito popular entre os skygazers noturnos. Como você pode contar a um Aquariid Delta de um meteoro Perseid?  As faixas de meteoros Perseid podem ser rastreadas até um aparente radiante na constelação Perseu. Os aquariids delta parecem emergir da constelação mais ao sul Aquarius, além do canto superior esquerdo desse quadro. Obviamente, os flashes bioluminescentes de vaga -lumes também são comuns nessas noites de verão do norte. Mas como você pode contar um vaga -lume de um meteoro? Apenas tente pegar um."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2508/DeltaAqrFireflies1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2508/DeltaAqrFireflies.jpg",
-    "copyright": "Daniel Korona"
   }
 ]
