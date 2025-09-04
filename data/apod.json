@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-09-04",
+    "title": {
+      "en": "NGC 4565: Galaxy on Edge",
+      "pt": "NGC 4565: Galaxy On Edge"
+    },
+    "explanation": {
+      "en": "Magnificent spiral galaxy NGC 4565 is viewed edge-on from planet Earth. Also known as the Needle Galaxy for its narrow profile, bright NGC 4565 is a stop on many telescopic tours of the northern sky, in the faint but well-groomed constellation Coma Berenices. This sharp, colorful image reveals the galaxy's boxy, bulging central core cut by obscuring dust lanes that lace NGC 4565's thin galactic plane. NGC 4565 lies around 40 million light-years distant while the spiral galaxy itself spans some 100,000 light-years.  That's about the size of our own Milky Way. Easily spotted with small telescopes, deep sky enthusiasts consider NGC 4565 to be a prominent celestial masterpiece Messier missed.",
+      "pt": "A magnífica Galaxy Spiral NGC 4565 é vista de borda do planeta Terra. Também conhecida como Galaxia de agulha por seu perfil estreito, o Bright NGC 4565 é uma parada em muitos passeios telescópicos do céu do norte, na constelação fraca, mas bem criada, coma brerenices. Esta imagem nítida e colorida revela o corte central central da galáxia e abaulada, obscurecendo as faixas de poeira que rendem o plano galáctico fino do NGC 4565. O NGC 4565 fica cerca de 40 milhões de anos-luz de distância, enquanto a própria galáxia em espiral abrange cerca de 100.000 anos-luz.  Isso é sobre o tamanho de nossa própria Via Láctea. Facilmente visto com pequenos telescópios, os entusiastas do céu profundo consideram o NGC 4565 como uma proeminente obra -prima celestial Messier perdeu."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2509/NGC4565_APOD_sRGB1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2509/NGC4565_APOD_sRGB.jpg",
+    "copyright": "José Rodrigues"
+  },
+  {
     "date": "2025-09-03",
     "title": {
       "en": "Cir X-1: Jets in the Africa Nebula",
@@ -429,20 +444,5 @@
     "url": "https://apod.nasa.gov/apod/image/2508/M31Oxy_Collab_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2508/M31Oxy_Collab_5415.jpg",
     "copyright": ", Ogle et , al.,"
-  },
-  {
-    "date": "2025-08-03",
-    "title": {
-      "en": "Milky Way and Exploding Meteor",
-      "pt": "Via Láctea e Meteor explodindo"
-    },
-    "explanation": {
-      "en": "In about a week the Perseid Meteor Shower will reach its maximum.  Grains of icy rock will streak across the sky as they evaporate during entry into Earth's atmosphere.  These grains were shed from Comet Swift-Tuttle.  The Perseids result from the annual crossing of the Earth through Comet Swift-Tuttle's orbit, and are typically the most active meteor shower of the year.  Although it is hard to predict the level of activity in any meteor shower, in a clear dark sky an observer might see a meteor a minute.  This year's Perseids peak just a few days after  full moon, and so some faint meteors will be lost to the lunar skyglow.  Meteor showers in general are best seen from a relaxing position, away from lights.  Featured here is a meteor caught exploding during the 2015 Perseids above Austria next to the central band of our Milky Way Galaxy.",
-      "pt": "Em cerca de uma semana, o chuveiro de meteoros Perseid atingirá o máximo.  Os grãos de rocha gelada se destacam pelo céu enquanto evaporam durante a entrada na atmosfera da Terra.  Esses grãos foram derramados do cometa Swift-Tuttle.  As Perseids resultam da travessia anual da Terra através da órbita do Cometa Swift-Tuttle e são tipicamente a chuva de meteoros mais ativa do ano.  Embora seja difícil prever o nível de atividade em qualquer chuveiro de meteoros, em um céu escuro claro, um observador pode ver um meteoro por minuto.  Os Perseids deste ano atingem o pico apenas alguns dias após a lua cheia e, portanto, alguns meteoros fracos serão perdidos para o Lunar Skyglow.  Os chuveiros de meteoros em geral são melhor vistos de uma posição relaxante, longe das luzes.  Aqui está um meteoro que explode durante as Perseids de 2015 acima da Áustria, ao lado da banda central da nossa Galaxia da Via Láctea."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2508/MeteorBoom_vanderHoeven_750.gif",
-    "hdurl": "https://apod.nasa.gov/apod/image/2508/MeteorBoom_vanderHoeven_750.gif",
-    "copyright": ", Andre van der Hoeven,"
   }
 ]
