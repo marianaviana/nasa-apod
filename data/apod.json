@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-09-05",
+    "title": {
+      "en": "47 Tucanae: Globular Star Cluster",
+      "pt": "47 Tucanae: cluster de estrelas globular"
+    },
+    "explanation": {
+      "en": "Also known as NGC 104, 47 Tucanae is a jewel of the southern sky. Not a star but a dense cluster of stars, it roams the halo of our Milky Way Galaxy along with some 200 other globular star clusters. The second brightest globular cluster (after Omega Centauri) as seen from planet Earth, 47 Tuc lies about 13,000 light-years away. It can be spotted with the naked eye close on the sky to the Small Magellanic Cloud in the constellation of the Toucan. The dense cluster is made up of hundreds of thousands of stars in a volume only about 120 light-years across. Red giant stars on the outskirts of the cluster are easy to pick out as yellowish stars in this sharp telescopic portrait. Tightly packed globular star cluster 47 Tuc is also home to a star with the closest known orbit around a black hole.",
+      "pt": "Também conhecido como NGC 104, 47 Tucanae é uma jóia do céu sul. Não é uma estrela, mas um denso conjunto de estrelas, ele percorre a auréola de nossa galáxia da Via Láctea, juntamente com cerca de 200 outros aglomerados de estrelas globulares. O segundo cluster globular mais brilhante (depois de Omega Centauri), como visto no planeta Terra, 47 TUC fica a cerca de 13.000 anos-luz de distância. Pode ser visto com o olho nu próximo no céu até a pequena nuvem de magellanic na constelação do tucano. O denso cluster é composto de centenas de milhares de estrelas em um volume de apenas 120 anos-luz de diâmetro. Estrelas gigantes vermelhas nos arredores do cluster são fáceis de escolher como estrelas amareladas neste retrato telescópico afiado. O cluster de estrelas globular bem compactado 47 TUC também abriga uma estrela com a órbita mais próxima conhecida em torno de um buraco negro."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2509/crtastro_0352_1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2509/crtastro_0352.jpg",
+    "copyright": "Carlos Taylor"
+  },
+  {
     "date": "2025-09-04",
     "title": {
       "en": "NGC 4565: Galaxy on Edge",
@@ -429,20 +444,5 @@
     "url": "https://apod.nasa.gov/apod/image/2508/Ngc6072_webb_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2508/Ngc6072_webb_3755.jpg",
     "copyright": null
-  },
-  {
-    "date": "2025-08-04",
-    "title": {
-      "en": "Blue Arcs Toward Andromeda",
-      "pt": "Arcos azuis em direção a Andrômeda"
-    },
-    "explanation": {
-      "en": "What are these gigantic blue arcs near the Andromeda Galaxy (M31)?  Discovered in 2022 by amateur astronomers, the faint arcs -- dubbed SDSO 1 -- span nearly the same angular size as M31 itself.  At first, their origin was a mystery: are they actually near the Andromeda Galaxy, or alternatively near to our Sun?  Now, over 550 hours of combined exposure and a collaboration between amateur and professional astronomers has revealed strong evidence for their true nature: SDSO 1 is not intergalactic, but a new class of planetary nebula within our galaxy.  Dubbed a Ghost Planetary Nebula (GPN), SDSO 1 is the first recognized member of a new subclass of faded planetary nebulas, along with seven others also recently identified.  Shown in blue are extremely faint oxygen emission from the shock waves, while the surrounding red is a hydrogen-emitting trail that indicates the GPN's age.",
-      "pt": "Quais são esses arcos azuis gigantescos perto da galáxia de Andrômeda (M31)?  Descoberto em 2022 por astrônomos amadores, os arcos fracos - apelidados de SDSO 1 - abrangem quase o mesmo tamanho angular que o próprio M31.  A princípio, sua origem era um mistério: eles estão realmente perto da galáxia de Andrômeda, ou alternativamente perto do nosso sol?  Agora, mais de 550 horas de exposição combinada e uma colaboração entre astrônomos amadores e profissionais revelaram fortes evidências de sua verdadeira natureza: o SDSO 1 não é intergaláctico, mas uma nova classe de nebulosa planetária em nossa galáxia.  Apelidado de uma nebulosa planetária fantasma (GPN), o SDSO 1 é o primeiro membro reconhecido de uma nova subclasse de nebulas planetárias desbotadas, juntamente com outros sete outros também identificados recentemente.  Mostrados em azul, são extremamente fracas emissão de oxigênio das ondas de choque, enquanto o vermelho circundante é uma trilha emissora de hidrogênio que indica a idade do GPN."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2508/M31Oxy_Collab_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2508/M31Oxy_Collab_5415.jpg",
-    "copyright": ", Ogle et , al.,"
   }
 ]
