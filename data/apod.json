@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-09-07",
+    "title": {
+      "en": "All the Water on Planet Earth",
+      "pt": "Toda a água no planeta Terra"
+    },
+    "explanation": {
+      "en": "How much of planet Earth is made of water? Very little, actually. Although oceans of water cover about 70 percent of Earth's surface, these oceans are shallow compared to the Earth's radius. The featured illustration shows what would happen if all of the water on or near the surface of the Earth were bunched up into a ball. The radius of this ball would be only about 700 kilometers, less than half the radius of the Earth's Moon, but slightly larger than Saturn's moon Rhea which, like many moons in our outer Solar System, is mostly water ice. The next smallest ball depicts all of Earth's liquid fresh water, while the tiniest ball shows the volume of all of Earth's fresh-water lakes and rivers. How any of this water came to be on the Earth and whether any significant amount is trapped far beneath Earth's surface remain topics of research.",
+      "pt": "Quanto do planeta Terra é feito de água? Muito pouco, na verdade. Embora os oceanos de água tenham cerca de 70 % da superfície da Terra, esses oceanos são rasos em comparação com o raio da Terra. A ilustração em destaque mostra o que aconteceria se toda a água na superfície ou perto da terra fosse agitada em uma bola. O raio dessa bola seria de apenas cerca de 700 quilômetros, menos da metade do raio da lua da Terra, mas um pouco maior que a lua de Saturno, que, como muitas luas em nosso sistema solar externo, é principalmente gelo aquático. A próxima bola menor mostra toda a água fresca líquida da Terra, enquanto a menor bola mostra o volume de todos os lagos e rios de água doce da Terra. Como alguma dessas água chegou a estar na Terra e se alguma quantidade significativa está presa bem sob a superfície da Terra continuam sendo tópicos de pesquisa."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2509/WaterlessEarth2_woodshole_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2509/WaterlessEarth2_woodshole_2520.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-09-06",
     "title": {
       "en": "Sardinia Sunset",
@@ -429,20 +444,5 @@
     "url": "https://apod.nasa.gov/apod/image/2508/DoubleClusterBrecher1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2508/DoubleClusterBrechersmall.jpg",
     "copyright": "Ron Brecher"
-  },
-  {
-    "date": "2025-08-06",
-    "title": {
-      "en": "Meteor before Galaxy",
-      "pt": "Meteoro antes da galáxia"
-    },
-    "explanation": {
-      "en": "What's that green streak in front of the Andromeda galaxy? A meteor. While photographing the Andromeda galaxy in 2016, near the peak of the Perseid Meteor Shower, a small pebble from deep space crossed right in front of our Milky Way Galaxy's far-distant companion. The small meteor took only a fraction of a second to pass through this 10-degree field.  The meteor flared several times while braking violently upon entering Earth's atmosphere.  The green color was created, at least in part, by the meteor's gas glowing as it vaporized. Although the exposure was timed to catch a Perseid meteor, the orientation of the imaged streak seems a better match to a meteor from the Southern Delta Aquariids, a meteor shower that peaked a few weeks earlier.  Not coincidentally, the Perseid Meteor Shower peaks next week, although this year the meteors will have to outshine a sky brightened by a nearly full moon.",
-      "pt": "O que é aquela faixa verde em frente à galáxia de Andrômeda? Um meteoro. Enquanto fotografa a galáxia de Andrômeda em 2016, perto do pico do chuveiro de meteoros Perseid, uma pequena pedra do espaço profundo cruzado bem em frente ao companheiro distante da Via Láctea. O pequeno meteoro levou apenas uma fração de segundo para passar por este campo de 10 graus.  O meteoro explodiu várias vezes enquanto estava travando violentamente ao entrar na atmosfera da Terra.  A cor verde foi criada, pelo menos em parte, pelo gás do meteoro brilhando à medida que vaporizava. Embora a exposição tenha sido cronometrada para capturar um meteoro Perseid, a orientação da sequência fotografada parece uma correspondência melhor para um meteoro dos aquariids do Delta do Sul, um chuveiro de meteoros que atingiu algumas semanas antes.  Não por acaso, o chuveiro de meteoros Perseid atinge a próxima semana, embora este ano os meteoros tenham que ofuscar um céu iluminado por uma lua quase cheia."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2508/MeteorM31_hemmerich_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2508/MeteorM31_hemmerich_1948.jpg",
-    "copyright": ", Fritz, Helmut Hemmerich,"
   }
 ]
