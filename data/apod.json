@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-09-09",
+    "title": {
+      "en": "Up from the Earth: Gigantic Jet Lightning",
+      "pt": "Da terra: gigantesca Lightning"
+    },
+    "explanation": {
+      "en": "What's that rising up from the Earth? When circling the Earth on the International Space Station early in July, astronaut Nicole Ayers saw an unusual type of lightning rising up from the Earth: a gigantic jet. The powerful jet appears near the center of the featured image in red, white, and blue. Giant jet lightning has only been known about for the past 25 years. The atmospheric jets are associated with thunderstorms and extend upwards towards Earth's ionosphere.  The lower part of the frame shows the Earth at night, with Earth's thin atmosphere tinted green from airglow. City lights are visible, sometimes resolved, but usually creating diffuse white glows in intervening clouds.  The top of the frame reveals distant stars in the dark night sky. The nature of gigantic jets and their possible association with other types of Transient Luminous Events (TLEs) such as blue jets and red sprites remain active topics of research.",
+      "pt": "O que está se levantando da terra? Ao circular a terra na estação espacial internacional no início de julho, a astronauta Nicole Ayers viu um tipo incomum de raios subindo da terra: um jato gigantesco. O poderoso jato aparece perto do centro da imagem em destaque em vermelho, branco e azul. O gigante Jet Lightning é conhecido apenas nos últimos 25 anos. Os jatos atmosféricos estão associados a tempestades e se estendem para cima em direção à ionosfera da Terra.  A parte inferior do quadro mostra a terra à noite, com a atmosfera fina da Terra verde colorido do Airglow. As luzes da cidade são visíveis, às vezes resolvidas, mas geralmente criando brilhos brancos difusos em nuvens intervenientes.  O topo da moldura revela estrelas distantes no céu noturno escuro. A natureza dos jatos gigantescos e sua possível associação com outros tipos de eventos luminosos transitórios (TLEs), como jatos azuis e sprites vermelhos, continuam sendo tópicos ativos de pesquisa."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2509/JetIss_nasa_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2509/JetIss_nasa_6604.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-09-08",
     "title": {
       "en": "IRAS 04302: Butterfly Disk Planet Formation",
@@ -428,21 +443,6 @@
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2508/3I_Hubble1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2508/3I_Hubble.jpg",
-    "copyright": null
-  },
-  {
-    "date": "2025-08-08",
-    "title": {
-      "en": "Dawn of the Crab",
-      "pt": "Dawn of the Crab"
-    },
-    "explanation": {
-      "en": "One of the all-time historic skyscapes occured in July 1054, when the Crab Supernova blazed into the dawn sky. Chinese court astrologers first saw the Guest Star on the morning of 4 July 1054 next to the star Tianguan (now cataloged as Zeta Tauri). The supernova peaked in late July 1054 a bit brighter than Venus, and was visible in the daytime for 23 days. The Guest Star was so bright that every culture around the world inevitably discovered the supernova independently, although only nine reports survive, including those from China, Japan, and Constantinople. This iPhone picture is from Signal Hill near Tucson on the morning of 26 July 2025, faithfully re-creates the year 1054 Dawn of the Crab, showing the sky as seen by Hohokam peoples. The planet Venus, as a stand-in for the supernova, is close to the position of what is now the Crab Nebula supernova remnant. Step outside on a summer dawn with bright Venus, and ask yourself \"What would you have thought in ancient times when suddenly seeing the Dawn of the Crab?\"",
-      "pt": "Uma das paisagens históricas de todos os tempos ocorreu em julho de 1054, quando a supernova do caranguejo entrou no céu do amanhecer. Os astrólogos da corte chinesa viram a estrela convidada na manhã de 4 de julho de 1054 ao lado da estrela Tianguan (agora catalogada como Zeta Tauri). A Supernova atingiu o pico no final de julho de 1054 um pouco mais brilhante que Vênus e foi visível durante o dia por 23 dias. A estrela convidada foi tão brilhante que toda cultura em todo o mundo descobriu inevitavelmente a Supernova de forma independente, embora apenas nove relatórios sobrevivam, incluindo os da China, Japão e Constantinopla. Esta imagem do iPhone é de Signal Hill, perto de Tucson, na manhã de 26 de julho de 2025, recria fielmente o Ano 1054 Amanhecer do caranguejo, mostrando o céu como visto pelos povos Hohokam. O planeta Vênus, como substituto para a Supernova, fica próximo da posição do que é agora o remanescente da Supernova da Nebula de caranguejo. Saia em um amanhecer de verão com Vênus brilhante e pergunte -se: \"O que você pensaria nos tempos antigos quando de repente vendo o amanhecer do caranguejo?\""
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2508/CrabRecreation_2_1054Sky1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2508/CrabRecreation_2_1054Sky1024.jpg",
     "copyright": null
   }
 ]
