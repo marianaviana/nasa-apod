@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-09-11",
+    "title": {
+      "en": "The Umbra of Earth",
+      "pt": "A Umbra da Terra"
+    },
+    "explanation": {
+      "en": "The dark, inner shadow of planet Earth is called the umbra. Shaped like a cone extending into space, it has a circular cross section most easily seen during a lunar eclipse. And on the night of September 7/8 the Full Moon passed near the center of Earth's umbral cone, entertaining eclipse watchers around much of our fair planet, including parts of Antarctica, Australia, Asia, Europe, and Africa. Recorded from Zhangjiakou City, China, this timelapse composite image uses successive pictures from the total lunar eclipse, progressing left to right, to reveal the curved cross-section of the umbral shadow sliding across the Moon. Sunlight scattered by the atmosphere into Earth's umbra causes the lunar surface to appear reddened during totality. But close to the umbra's edge, the limb of the eclipsed Moon shows a distinct blue hue. The blue eclipsed moonlight originates as rays of sunlight pass through layers high in the upper stratosphere, colored by ozone that scatters red light and transmits blue. In the total phase of this leisurely lunar eclipse, the Moon was completely within the Earth's umbra for about 83 minutes.",
+      "pt": "A sombra escura e interior do planeta Terra é chamada de Umbra. Em forma de um cone que se estende ao espaço, ele tem uma seção transversal circular mais facilmente vista durante um eclipse lunar. E na noite de 7/8 de setembro, a lua cheia passou perto do centro do cone da Terra, divertindo os observadores eclipse em grande parte do nosso planeta justo, incluindo partes da Antártica, Austrália, Ásia, Europa e África. Gravado na cidade de Zhangjiakou, China, esta imagem composta de timelapse usa imagens sucessivas do eclipse lunar total, progredindo da esquerda para a direita, para revelar a seção transversal curva da sombra umbral deslizando pela lua. A luz solar espalhada pela atmosfera na Umbra da Terra faz com que a superfície lunar pareça avermelhada durante a totalidade. Mas perto da borda da Umbra, o membro da lua eclipsada mostra um tom azul distinto. O luar eclipsado azul se origina quando os raios da luz solar passam por camadas altas na estratosfera superior, colorida por ozônio que espalha a luz vermelha e transmite azul. Na fase total deste eclipse lazer lazer, a lua estava completamente dentro da Umbra da Terra por cerca de 83 minutos."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2509/UmbraEarth1050.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2509/UmbraEarth.jpg",
+    "copyright": "Wang Letian"
+  },
+  {
     "date": "2025-09-10",
     "title": {
       "en": "The Great Lacerta Nebula",
@@ -429,20 +444,5 @@
     },
     "media_type": "other",
     "copyright": null
-  },
-  {
-    "date": "2025-08-10",
-    "title": {
-      "en": "Zodiacal Road",
-      "pt": "Estrada zodiacal"
-    },
-    "explanation": {
-      "en": "What's that strange light down the road? Dust orbiting the Sun. At certain times of the year, a band of sun-reflecting dust from the inner Solar System appears prominently just after sunset -- or just before sunrise -- and is called zodiacal light.  Although the origin of this dust is still being researched, a leading hypothesis holds that zodiacal dust originates mostly from faint Jupiter-family comets and slowly spirals into the Sun. Recent analysis of dust emitted by Comet 67P, visited by ESA's robotic Rosetta spacecraft, bolsters this hypothesis.  Pictured when climbing a road up to Teide National Park in the Canary Islands of Spain, a bright triangle of zodiacal light appeared in the distance soon after sunset. Captured on June 21, 2019, the scene includes bright Regulus, the alpha star of the constellation Leo, standing above center toward the left. The Beehive Star Cluster (M44) can be spotted below center, closer to the horizon and also immersed in the zodiacal glow.",
-      "pt": "Qual é a luz estranha no caminho? Poeira orbitando o sol. Em determinadas épocas do ano, um bando de poeira que reflete o sol do sistema solar interno parece destacado logo após o pôr do sol-ou pouco antes do nascer do sol-e é chamado de luz zodiacal.  Embora a origem dessa poeira ainda esteja sendo pesquisada, uma hipótese líder sustenta que a poeira zodiacal se origina principalmente de cometas fracas da família Júpiter e espiral lentamente no sol. Análise recente de poeira emitida pelo Comet 67p, visitada pela espaçonave robótica da Rosetta da ESA, reforça essa hipótese.  Na foto, ao subir uma estrada até o Parque Nacional de Teide, nas Ilhas Canárias da Espanha, um triângulo brilhante da luz zodiacal apareceu à distância logo após o pôr do sol. Capturado em 21 de junho de 2019, a cena inclui o Bright Regulus, a estrela alfa da constelação Leo, em pé acima do centro em direção à esquerda. O cluster de estrela da colméia (M44) pode ser visto abaixo do centro, mais próximo do horizonte e também imerso no brilho zodiacal."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2508/ZodiacalRoad_Merzlyakov_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2508/ZodiacalRoad_Merzlyakov_1080.jpg",
-    "copyright": ", Ruslan Merzlyakov  , (astrorms),"
   }
 ]
