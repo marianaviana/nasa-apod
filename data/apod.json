@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-09-12",
+    "title": {
+      "en": "Lunar Eclipse in Two Hemispheres",
+      "pt": "Eclipse lunar em dois hemisférios"
+    },
+    "explanation": {
+      "en": "September's total lunar eclipse is tracked across night skies from both the northern and southern hemispheres of planet Earth in these two dramatic timelapse series. In the northern hemisphere sequence (top panel) the Moon’s trail arcs from the upper left to the lower right. It passes below bright planet Saturn, seen under mostly clear skies from the international campus of Zhejiang University in China at about 30 degrees north latitude. In contrast, the southern hemisphere view from Lake Griffin, Canberra, Australia at 35 degrees south latitude, records the Moon’s trail from the upper right to the lower left. Multiple lightning flashes from thunderstorms near the horizon appear reflected in the lake. Both sequences were photographed with 16mm wide-angle lenses and both cover the entire eclipse, with the darkened red Moon totally immersed in Earth's umbral shadow near center. But the different orientations of the Moon’s path across the sky reveal the perspective shifts caused by the views from northern vs. southern latitudes.",
+      "pt": "O Eclipse Lunar Total de setembro é rastreado no céu noturno dos hemisférios norte e sul do planeta Terra nessas duas dramáticas séries de timelapse. Na sequência do hemisfério norte (painel superior), os arcos da trilha da lua do canto superior esquerdo para o canto inferior direito. Passa abaixo do planeta brilhante Saturno, visto em céus principalmente do campus internacional da Universidade de Zhejiang, na China, a cerca de 30 graus de latitude norte. Por outro lado, a vista para o hemisfério sul do lago Griffin, Canberra, na Austrália, a 35 graus de latitude sul, registra a trilha da lua do canto superior direito ao canto inferior esquerdo. Vários relâmpagos flashes de trovoadas perto do horizonte aparecem refletidos no lago. Ambas as sequências foram fotografadas com lentes de ângulo larga de 16 mm e ambas cobrem todo o eclipse, com a lua vermelha escurecida totalmente imersa na sombra da Terra perto do centro. Mas as diferentes orientações do caminho da lua no céu revelam as mudanças de perspectiva causadas pelas vistas das latitudes norte x do sul."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2509/APODtwo_hemisphere_combined_no_text1065.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2509/APODtwo_hemisphere_combined_no_text.jpg",
+    "copyright": "Zhouyue Zhu"
+  },
+  {
     "date": "2025-09-11",
     "title": {
       "en": "The Umbra of Earth",
@@ -431,18 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2508/PerseidsRadiant_Marcin_1080.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2508/PerseidsRadiant_Marcin_5500.jpg",
     "copyright": ", Marcin Rosadziński,"
-  },
-  {
-    "date": "2025-08-11",
-    "title": {
-      "en": "Closest Ever Images Near the Sun",
-      "pt": "Imagens mais próximas de todos os tempos perto do sol"
-    },
-    "explanation": {
-      "en": "verybody sees the Sun.  Nobody's been there.  Starting in 2018, though, NASA launched the robotic Parker Solar Probe (PSP) to investigate regions near to the Sun for the first time.  The featured time-lapse video shows the view looking sideways from behind PSP's Sun shield in December during the closest approach of any human-made spacecraft to the Sun, looping down to only about five solar diameters above the Sun's hot surface.  The PSP's Wide Field Imager for Solar Probe (WISPR) cameras took these images over seven hours, but they are digitally compressed here into about 5 seconds.  The solar corona, including colliding coronal mass ejections (CMEs), is visible here in unprecedented detail, with stars passing far in the background.  The Sun is not only Earth's dominant energy source, but its variable solar wind also compresses Earth's atmosphere, triggers auroras, affects power grids, and can even damage orbiting communication satellites.",
-      "pt": "muito corda vê o sol.  Ninguém esteve lá.  A partir de 2018, porém, a NASA lançou a Robotic Parker Solar Probe (PSP) para investigar regiões próximas ao sol pela primeira vez.  O vídeo com lapso de tempo em destaque mostra a vista parecendo de lado por trás do Sun Shield do PSP em dezembro, durante a abordagem mais próxima de qualquer espaçonave fabricada pelo homem ao sol, voltando a apenas cinco diâmetros solares acima da superfície quente do sol.  O amplo imager de campo do PSP para câmeras de sonda solar (WISPR) tirou essas imagens ao longo de sete horas, mas elas são comprimidas digitalmente aqui em cerca de 5 segundos.  A coroa solar, incluindo as ejeções de massa coronal em colisão (CMES), é visível aqui com detalhes sem precedentes, com estrelas passando longe no fundo.  O Sol não é apenas a fonte de energia dominante da Terra, mas seu vento solar variável também comprime a atmosfera da Terra, desencadeia auroras, afeta as grades de energia e pode até danificar os satélites de comunicação orbitadores."
-    },
-    "media_type": "other",
-    "copyright": null
   }
 ]
