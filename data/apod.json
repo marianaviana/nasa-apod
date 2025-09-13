@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-09-13",
+    "title": {
+      "en": "Star Trails over One-Mile Radio Telescope",
+      "pt": "STAR trilhas acima do radiotelescópio de uma milha"
+    },
+    "explanation": {
+      "en": "The steerable 60 foot diameter dish antenna of the One-Mile Telescope at Mullard Radio Astronomy Observatory, Cambridge, UK, is pointing skyward in this evocative night-skyscape. To capture the dramatic scene, consecutive 30 second exposures were recorded over a period of 90 minutes. Combined, the exposures reveal a background of gracefully arcing star trails that reflect planet Earth's daily rotation on its axis. The North Celestial Pole, the extension of Earth's axis of rotation into space, points near Polaris, the North Star. That's the bright star that creates the short trail near the center of the concentric arcs. But the historic One-Mile Telescope array also relied on planet Earth's rotation to operate. Exploring the universe at radio wavelengths, it was the first radio telescope to use Earth-rotation aperture synthesis. That technique uses the rotation of the Earth to change the relative orientation of the telescope array and celestial radio sources to create radio maps of the sky at a resolution better than that of the human eye.",
+      "pt": "A antena orientável de 60 pés de diâmetro do telescópio de uma milha no Mullard Radio Astronomy Observatory, Cambridge, Reino Unido, está apontando para o céu nesse evocativo skyscape noturno. Para capturar a cena dramática, as exposições consecutivas de 30 segundos foram registradas por um período de 90 minutos. Combinados, as exposições revelam um fundo de trilhas de estrela de arco graciosas que refletem a rotação diária do Planeta Terra em seu eixo. O pólo celestial norte, a extensão do eixo de rotação da Terra no espaço, pontos perto de Polaris, a estrela do norte. Essa é a estrela brilhante que cria a trilha curta perto do centro dos arcos concêntricos. Mas a histórica Array do Telescópio de uma milha também se baseou na rotação do planeta Terra para operar. Explorando o universo em comprimentos de onda de rádio, foi o primeiro radiotelescópio a usar a síntese de abertura de rotação da terra. Essa técnica usa a rotação da Terra para alterar a orientação relativa da matriz do telescópio e fontes de rádio celestes para criar mapas de rádio do céu em uma resolução melhor do que a do olho humano."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2509/StarTrailsOne-MileRadioTelescope1050.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2509/StarTrailsOne-MileRadioTelescope2100.jpg",
+    "copyright": "Joao Yordanov Serralheiro"
+  },
+  {
     "date": "2025-09-12",
     "title": {
       "en": "Lunar Eclipse in Two Hemispheres",
@@ -431,20 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2508/OrionTrapezium_HubbleGendler_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2508/OrionTrapezium_HubbleGendler_4000.jpg",
     "copyright": null
-  },
-  {
-    "date": "2025-08-12",
-    "title": {
-      "en": "Perseids from Perseus",
-      "pt": "Perseidas de Perseu"
-    },
-    "explanation": {
-      "en": "Where are all of these meteors coming from?  In terms of direction on the sky, the pointed answer is the constellation of Perseus.  That is why the meteor shower that peaks tonight is known as the Perseids -- the meteors all appear to come from a radiant toward Perseus. In terms of parent body, though, the sand-sized debris that makes up the Perseids meteors come from Comet Swift-Tuttle. The comet follows a well-defined orbit around our Sun, and the part of the orbit that approaches Earth is superposed in front of Perseus. Therefore, when Earth crosses this orbit, the radiant point of falling debris appears in Perseus. Featured here, a composite image taken over six nights and containing over 100 meteors from 2024 August Perseids meteor shower shows many bright meteors that streaked over the Bieszczady Mountains in Poland. This year's Perseids, usually one of the best meteor showers of the year, will compete with a bright moon that will rise, for many locations, soon  after sunset.",
-      "pt": "De onde vêm todos esses meteoros?  Em termos de direção no céu, a resposta pontiaguda é a constelação de Perseu.  É por isso que o chuveiro de meteoros que atinge o pico hoje à noite é conhecido como The Perseids - todos os meteoros parecem vir de um radiante em relação a Perseu. Em termos de órgão-mãe, porém, os detritos do tamanho de areia que compõem os meteoros Perseids vêm do Cometa Swift-Tuttle. O cometa segue uma órbita bem definida ao redor do sol, e a parte da órbita que se aproxima da Terra é sobreposta em frente a Perseu. Portanto, quando a Terra atravessa essa órbita, o ponto radiante da queda de detritos aparece em Perseu. Em destaque aqui, uma imagem composta tirada em seis noites e contendo mais de 100 meteoros de 2024 de agosto Perseids Meteor Shower mostra muitos meteoros brilhantes que se espalharam pelas montanhas Bieszczady na Polônia. Perseids deste ano, geralmente um dos melhores chuveiros de meteoros do ano, competirá com uma lua brilhante que aumentará, para muitos locais, logo após o pôr do sol."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2508/PerseidsRadiant_Marcin_1080.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2508/PerseidsRadiant_Marcin_5500.jpg",
-    "copyright": ", Marcin Rosadziński,"
   }
 ]
