@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-09-14",
+    "title": {
+      "en": "Planets of the Solar System: Tilts and Spins",
+      "pt": "Planetas do sistema solar: inclinar e girar"
+    },
+    "explanation": {
+      "en": "How does your favorite planet spin? Does it spin rapidly around a nearly vertical axis, or horizontally, or backwards?  The featured video animates NASA images of all eight planets in our Solar System to show them spinning side-by-side for an easy comparison. In the time-lapse video, a day on Earth -- one Earth rotation -- takes just a few seconds.  Jupiter rotates the fastest, while Venus spins not only the slowest (can you see it?), but backwards.  The inner rocky planets across the top underwent dramatic spin-altering collisions during the early days of the Solar System.  Why planets spin and tilt as they do remains a topic of research with much insight gained from modern computer modeling and the recent discovery and analysis of hundreds of exoplanets: planets orbiting other stars.",
+      "pt": "Como o seu planeta favorito gira? Ele gira rapidamente em torno de um eixo quase vertical, ou horizontalmente, ou para trás?  O vídeo em destaque anima imagens da NASA de todos os oito planetas em nosso sistema solar para mostrar que girando lado a lado para uma comparação fácil. No vídeo de lapso de tempo, um dia na Terra-uma rotação da Terra-leva apenas alguns segundos.  Júpiter gira mais rápido, enquanto Vênus gira não apenas o mais lento (você pode vê -lo?), Mas para trás.  Os planetas rochosos internos do outro lado foram submetidos a colisões dramáticas que alteram a spin durante os primeiros dias do sistema solar.  Por que os planetas giram e inclinam como fazem continua sendo um tópico de pesquisa com muita percepção obtida com a modelagem moderna de computadores e a recente descoberta e análise de centenas de exoplanetas: planetas que orbitam outras estrelas."
+    },
+    "media_type": "video",
+    "url": "https://www.youtube.com/embed/my1euFQHH-o?rel=0",
+    "hdurl": "https://www.youtube.com/embed/my1euFQHH-o?rel=0",
+    "copyright": null
+  },
+  {
     "date": "2025-09-13",
     "title": {
       "en": "Star Trails over One-Mile Radio Telescope",
@@ -431,20 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2508/lrg_ngc6205_1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2508/lrg_ngc6205.jpg",
     "copyright": "R. Jay Gabany"
-  },
-  {
-    "date": "2025-08-13",
-    "title": {
-      "en": "Trapezium: In the Heart of Orion",
-      "pt": "Trapézio: no coração de Orion"
-    },
-    "explanation": {
-      "en": "What lies in the heart of Orion?  Trapezium: four bright stars, that can be found near the center of this sharp cosmic portrait. Gathered within a region about 1.5 light-years in radius, these stars dominate the core of the dense Orion Nebula Star Cluster. Ultraviolet ionizing radiation from the Trapezium stars, mostly from the brightest star Theta-1 Orionis C powers the complex star forming region's entire visible glow. About three million years old, the Orion Nebula Cluster was even more compact in its younger years and a dynamical study indicates that runaway stellar collisions at an earlier age may have formed a black hole with more than 100 times the mass of the Sun. The presence of a black hole within the cluster could explain the observed high velocities of the Trapezium stars. The Orion Nebula's distance of some 1,500 light-years make it one of the  closest candidate black holes to Earth.",
-      "pt": "O que está no coração de Orion?  Trapezium: quatro estrelas brilhantes, que podem ser encontradas perto do centro deste retrato cósmico afiado. Reunidos em uma região cerca de 1,5 anos-luz em raio, essas estrelas dominam o núcleo do denso cluster de estrelas de nebulosa de Orion. A radiação ionizante ultravioleta das estrelas do trapézio, principalmente da estrela mais brilhante teta-1 Orionis C, alimenta a estrela complexa, formando todo o brilho visível da região. Cerca de três milhões de anos, o cluster de nebulosa Orion foi ainda mais compacto em seus anos mais jovens e um estudo dinâmico indica que colisões estelares fugitivas em idade anterior podem ter formado um buraco negro com mais de 100 vezes a massa do sol. A presença de um buraco negro dentro do cluster poderia explicar as altas velocidades observadas das estrelas do trapézio. A distância do Orion Nebula de cerca de 1.500 anos-luz o torna um dos candidatos mais próximos de buracos negros da Terra."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2508/OrionTrapezium_HubbleGendler_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2508/OrionTrapezium_HubbleGendler_4000.jpg",
-    "copyright": null
   }
 ]
