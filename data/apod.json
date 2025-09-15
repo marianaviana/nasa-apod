@@ -1,5 +1,18 @@
 [
   {
+    "date": "2025-09-15",
+    "title": {
+      "en": "Earth During a Powerful Solar Storm",
+      "pt": "Terra durante uma poderosa tempestade solar"
+    },
+    "explanation": {
+      "en": "Can our Sun become dangerous? Yes, sometimes. Every few years our Sun ejects a scary-large bubble of hot gas into the Solar System.  Every hundred years or so, when the timing, location, and magnetic field connections are just right, such a Coronal Mass Ejection (CME) will hit the Earth. When this happens, the Earth not only experiences dramatic auroras, but its magnetic field gets quickly pushed back and compressed, which causes electric grids to surge. Some of these surges could be dangerous, affecting satellites and knocking out power grids -- which can take months to fix.  Just such a storm -- called the Carrington Event -- occurred in 1859 and caused telegraph wires to spark. A similar CME passed near the Earth in 2012, and the featured animated video shows a computer model of what might have happened if it had been a direct hit.  In this model, the Earth's magnetopause becomes so compressed that it went inside the orbit of  geosynchronous communication satellites.",
+      "pt": "Nosso sol pode se tornar perigoso? Sim, às vezes. A cada poucos anos, nosso sol ejeta uma bolha assustadora de gás quente no sistema solar.  A cada cem anos ou mais, quando as conexões de campo, localização e campo magnético estão certas, uma ejeção de massa coronal (CME) atinge a terra. Quando isso acontece, a Terra não apenas experimenta auroras dramáticas, mas seu campo magnético é rapidamente empurrado para trás e comprimido, o que faz com que as grades elétricas surjam. Alguns desses surtos podem ser perigosos, afetando satélites e derrubando grades de energia - que podem levar meses para corrigir.  Assim como essa tempestade - chamada de Evento de Carrington - ocorreu em 1859 e fez com que os fios do telégrafo faíssem. Um CME semelhante passou perto da Terra em 2012, e o vídeo animado em destaque mostra um modelo de computador do que poderia ter acontecido se tivesse sido um sucesso direto.  Nesse modelo, a magnetopausa da Terra fica tão compactada que entrou na órbita dos satélites de comunicação geossíncrona."
+    },
+    "media_type": "other",
+    "copyright": null
+  },
+  {
     "date": "2025-09-14",
     "title": {
       "en": "Planets of the Solar System: Tilts and Spins",
@@ -431,20 +444,5 @@
     "url": "https://apod.nasa.gov/apod/image/2508/IMG_20250813_202125v1.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2508/IMG_20250813_202125_2048.jpg",
     "copyright": "Jeff Dai"
-  },
-  {
-    "date": "2025-08-14",
-    "title": {
-      "en": "M13: The Great Globular Cluster in Hercules",
-      "pt": "M13: O grande cluster globular em Hércules"
-    },
-    "explanation": {
-      "en": "In 1716, English astronomer Edmond Halley noted, \"This is but a little Patch, but it shews itself to the naked Eye, when the Sky is serene and the Moon absent.\" Of course, M13 is now less modestly recognized as the Great Globular Cluster in Hercules, one of the brightest globular star clusters in the northern sky. Sharp telescopic views like this one reveal the spectacular cluster's hundreds of thousands of stars. At a distance of 25,000 light-years, the cluster stars crowd into a region 150 light-years in diameter. Approaching the cluster core, upwards of 100 stars could be contained in a cube just 3 light-years on a side. For comparison with our neighborhood of the Milky Way, the closest star to the Sun is over 4 light-years away. Early telescopic observers of the great globular cluster also noted a curious convergence of three dark lanes with a spacing of about 120 degrees, seen here just below the cluster center.  Known as the propeller in M13, the shape is likely a chance optical effect of the distribution of stars viewed from our perspective against the dense cluster core.",
-      "pt": "Em 1716, o astrônomo inglês Edmond Halley observou: \"Isso é apenas um pequeno remendo, mas se mostra a olho nu, quando o céu é sereno e a lua ausente\". Obviamente, o M13 agora é menos modestamente reconhecido como o grande aglomerado globular em Hércules, um dos mais brilhantes aglomerados de estrelas globular no céu do norte. Vistas telescópicas afiadas como esta revelam centenas de milhares de estrelas do cluster espetacular. A uma distância de 25.000 anos-luz, o cluster estrela a aglomerada em uma região de 150 anos-luz de diâmetro. Aproximando-se do núcleo do cluster, mais de 100 estrelas podem estar contidas em um cubo apenas 3 anos-luz de um lado. Para comparação com o nosso bairro da Via Láctea, a estrela mais próxima do sol está a mais de 4 anos-luz de distância. Observadores telescópicos iniciais do grande cluster globular também observaram uma convergência curiosa de três pistas escuras com um espaçamento de cerca de 120 graus, visto aqui logo abaixo do centro de cluster.  Conhecida como a hélice no M13, a forma provavelmente é um efeito óptico acaso da distribuição de estrelas vistas da nossa perspectiva contra o núcleo denso do cluster."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2508/lrg_ngc6205_1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2508/lrg_ngc6205.jpg",
-    "copyright": "R. Jay Gabany"
   }
 ]
