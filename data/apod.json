@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-09-16",
+    "title": {
+      "en": "New Comet SWAN25B over Mexico",
+      "pt": "Novo Comet Swan25b sobre o México"
+    },
+    "explanation": {
+      "en": "A newly discovered comet is already visible with binoculars. The comet, C/2025 R2 (SWAN) and nicknamed SWAN25B, is brightening significantly as it emerges from the Sun's direction and might soon become visible on your smartphone -- if not your eyes. Although the brightnesses of comets are notoriously hard to predict, many comets appear brighter as they approach the Earth, with SWAN25B reaching only a quarter of the Earth-Sun distance near October 19.  Nighttime skygazers will also be watching for a SWAN25B-spawned meteor shower around October 5 when our Earth passes through the plane of the comet's orbit. The unexpectedly bright comet was discovered by an amateur astronomer in images of the SWAN instrument on NASA's SOHO satellite.  The comet is currently best observed in southern skies but is slowly moving north.  The featured image was captured at sunset three days ago just above the western horizon in Zacatecas, Mexico.",
+      "pt": "Um cometa recém -descoberto já está visível com binóculos. O cometa, C/2025 R2 (cisne) e apelidado de Swan25b, está iluminando significativamente à medida que emerge da direção do sol e em breve pode se tornar visível no seu smartphone - se não nos seus olhos. Embora os brilho dos cometas sejam notoriamente difíceis de prever, muitos cometas parecem mais brilhantes à medida que se aproximam da Terra, com Swan25b atingindo apenas um quarto da distância da terra-sol perto de 19 de outubro. O Skygazer noturno também estará observando o chuveiro de meteoros Swan25b. O cometa inesperadamente brilhante foi descoberto por um astrônomo amador em imagens do instrumento de cisne no Soho Satellite da NASA.  Atualmente, o cometa é melhor observado no céu do sul, mas está lentamente se movendo para o norte.  A imagem em destaque foi capturada ao pôr do sol há três dias, logo acima do horizonte ocidental em Zacatecas, no México."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2509/Swan25B_Korona_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2509/Swan25B_Korona_1267.jpg",
+    "copyright": ", Daniel Korona,"
+  },
+  {
     "date": "2025-09-15",
     "title": {
       "en": "Earth During a Powerful Solar Storm",
@@ -429,20 +444,5 @@
     "url": "https://apod.nasa.gov/apod/image/2508/Spiral1309_HubbleGalbany_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2508/Spiral1309_HubbleGalbany_4000.jpg",
     "copyright": null
-  },
-  {
-    "date": "2025-08-15",
-    "title": {
-      "en": "Moonlight, Planets, and Perseids",
-      "pt": "Luar, planetas e perseidas"
-    },
-    "explanation": {
-      "en": "In the predawn sky on August 13, two planets were close. And despite the glare of a waning gibbous Moon, bright Jupiter and even brighter Venus were hard to miss. Their brilliant close conjunction is posing above the eastern horizon in this early morning skyscape. The scene was captured in a single exposure from a site near Gansu, China, with light from both planets reflected in the still waters of a local pond. Also seen against the moonlight were flashes from the annual Perseid Meteor Shower, known for its bright, fast meteors. Near the much anticipated peak of activity, the shower meteors briefly combined with the two planets for a celestial spectacle even in moonlit skies.",
-      "pt": "No céu antes down em 13 de agosto, dois planetas estavam próximos. E apesar do brilho de uma lua gibos minguante, Júpiter brilhante e até Vênus mais brilhantes eram difíceis de perder. Sua brilhante conjunção próxima está posando acima do horizonte oriental neste skyscape de manhã cedo. A cena foi capturada em uma única exposição de um local perto de Gansu, China, com luz de ambos os planetas refletidos nas águas paradas de um lago local. Também foram vistos contra a luz da lua do chuveiro anual de meteoros Perseid, conhecido por seus meteoros brilhantes e rápidos. Perto do tão esperado pico de atividade, os meteoros do chuveiro se combinaram brevemente com os dois planetas para um espetáculo celestial, mesmo em céus iluminados pela lua."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2508/IMG_20250813_202125v1.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2508/IMG_20250813_202125_2048.jpg",
-    "copyright": "Jeff Dai"
   }
 ]
