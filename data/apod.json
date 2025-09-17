@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-09-17",
+    "title": {
+      "en": "Nebulas and Clusters in Sagittarius",
+      "pt": "Nebulas e grupos em Sagitário"
+    },
+    "explanation": {
+      "en": "Can you spot famous celestial objects in this image?  18th-century astronomer Charles Messier cataloged only two of them: the bright Lagoon Nebula (M8) at the bottom, and the colorful Trifid Nebula (M20) at the upper right.  The one on the left that resembles a cat's paw is NGC 6559, and it is much fainter than the other two.  Even harder to spot are the thin blue filaments on the left, from supernova remnant (SNR G007.5-01.7).  Their glow comes from small amounts of glowing oxygen atoms that are so faint that it took over 17 hours of exposure with just one blue color to bring up. Framing this scene of stellar birth and death are two star clusters: the open cluster M21 just above Trifid, and the globular cluster NGC 6544 at lower left.",
+      "pt": "Você pode identificar objetos celestes famosos nesta imagem?  O astrônomo do século XVIII, Charles Messier, catalogou apenas dois deles: a nebulosa da lagoa brilhante (M8) na parte inferior e a colorida nebulosa trifida (M20) no canto superior direito.  O da esquerda que se assemelha à pata de um gato é o NGC 6559, e é muito mais fraco que os outros dois.  Ainda mais difíceis de identificar são os finos filamentos azuis à esquerda, do Remanescente da Supernova (SNR G007.5-01.7).  O brilho deles vem de pequenas quantidades de átomos de oxigênio brilhantes que são tão fracos que levaram mais de 17 horas de exposição com apenas uma cor azul para se levantar. Enquadrando esta cena de nascimento estelar e morte são dois aglomerados de estrelas: o cluster aberto M21 logo acima do trí isso e o cluster globular NGC 6544 no canto inferior esquerdo."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2509/SagNebs_DeWinter_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2509/SagNebs_DeWinter_4550.jpg",
+    "copyright": ", J. De Winter,, C. Humbert, C. Robert & , V. Sabet;, Text: Ogetay Kayali , (MTU) ,"
+  },
+  {
     "date": "2025-09-16",
     "title": {
       "en": "New Comet SWAN25B over Mexico",
@@ -429,20 +444,5 @@
     "url": "https://apod.nasa.gov/apod/image/2508/NGC6872_block1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2508/NGC6872_block.jpg",
     "copyright": "Adam Block"
-  },
-  {
-    "date": "2025-08-18",
-    "title": {
-      "en": "NGC 1309: A Useful Spiral Galaxy",
-      "pt": "NGC 1309: uma galáxia espiral útil"
-    },
-    "explanation": {
-      "en": "This galaxy is not only pretty -- it's useful.  A gorgeous spiral some 100 million light-years distant, NGC 1309 lies on the banks of the constellation of the River (Eridanus). NGC 1309 spans about 30,000 light-years, making it about one third the size of our larger Milky Way galaxy. Bluish clusters of young stars and dust lanes are seen to trace out NGC 1309's spiral arms as they wind around an older yellowish star population at its core. Not just another pretty face-on spiral galaxy, observations of NGC 1309's two recent supernovas and multiple  Cepheid variable stars contribute to the calibration of the expansion of the Universe. Still, after you get over this beautiful galaxy's grand design, check out the array of more distant background galaxies also recorded in this sharp image from the  Hubble Space Telescope.",
-      "pt": "Esta galáxia não é apenas bonita - é útil.  Uma espiral deslumbrante cerca de 100 milhões de anos-luz distantes, o NGC 1309 fica nas margens da constelação do rio (Eridanus). O NGC 1309 abrange cerca de 30.000 anos-luz, tornando-o cerca de um terço do tamanho de nossa galáxia da Via Láctea. Clupoladores azulados de jovens estrelas e pistas de poeira são vistos como rastrear os braços espirais do NGC 1309 enquanto enrolam em torno de uma população de estrelas amareladas mais antiga em sua essência. Não é apenas mais uma galáxia espiral de face-on, observações das duas supernovas recentes do NGC 1309 e várias estrelas variáveis de cefeida contribuem para a calibração da expansão do universo. Ainda assim, depois de superar esse belo design do Galaxy, confira a variedade de galáxias de fundo mais distantes também gravadas nesta imagem nítida do telescópio espacial Hubble."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2508/Spiral1309_HubbleGalbany_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2508/Spiral1309_HubbleGalbany_4000.jpg",
-    "copyright": null
   }
 ]
