@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-09-18",
+    "title": {
+      "en": "Comet C/2025 R2 (SWAN)",
+      "pt": "Cometa C/2025 R2 (cisne)"
+    },
+    "explanation": {
+      "en": "A new visitor from the outer Solar System, comet C/2025 R2 (SWAN) also known as SWAN25B was only discovered late last week, on September 11. That's just day before the comet reached perihelion, its closest approach to the Sun. First spotted by Vladimir Bezugly in images from the SWAN instrument on the sun-staring SOHO spacecraft, the comet was surprisingly bright but understandably difficult to see against the Sun's glare. Still close to the Sun on the sky, the greenish coma and tail of C/2025 R2 (SWAN) are captured in this telescopic snapshot from September 17. Spica, alpha star of the constellation Virgo, shines just beyond the upper left edge of the frame while the comet is about 6.5 light-minutes from planet Earth. Near the western horizon after sunset and slightly easier to see in binoculars from the southern hemisphere, this comet SWAN will pass near Zubenelgenubi, alpha star of Libra, on October 2.  C/2025 R2 (SWAN) is scheduled to make its closest approach to our fair planet around October 20.",
+      "pt": "Um novo visitante do sistema solar externo, o Cometa C/2025 R2 (SWAN), também conhecido como Swan25b, foi descoberto apenas no final da semana passada, em 11 de setembro. Isso é um dia antes do cometa chegar ao periélio, sua abordagem mais próxima ao sol. Primeiro avistado por Vladimir, bezugly em imagens do instrumento de cisne na espaçonave Soho, o cometa, foi surpreendentemente brilhante, mas compreensivelmente difícil de ver contra o brilho do sol. Ainda perto do sol no céu, o coma e a cauda esverdeados do C/2025 R2 (cisne) são capturados neste instantâneo telescópico a partir de 17 de setembro. Spica, estrela alfa do constelação Virgem, brilha logo além da borda superior esquerda do quadro, enquanto o cometa é de cerca de 6,5 minutos leves do Planet Earth. Perto do horizonte ocidental, após o pôr do sol e um pouco mais fácil de ver em binóculos do hemisfério sul, esse cisne do cometa passará perto de Zubenelgenubi, estrela alfa de Libra, em 2 de outubro."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2509/C2025R2_1066.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2509/C2025R2_2000.jpg",
+    "copyright": "Team Ciel Austral"
+  },
+  {
     "date": "2025-09-17",
     "title": {
       "en": "Nebulas and Clusters in Sagittarius",
@@ -429,20 +444,5 @@
     "url": "https://apod.nasa.gov/apod/image/2508/PerseidsDurdleDoor_Dury_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2508/PerseidsDurdleDoor_Dury_3963.jpg",
     "copyright": ", Josh Dury,"
-  },
-  {
-    "date": "2025-08-19",
-    "title": {
-      "en": "Giant Galaxies in Pavo",
-      "pt": "Galáxias gigantes em pavo"
-    },
-    "explanation": {
-      "en": "Over 500,000 light years across, NGC 6872 (bottom left) is a truly enormous barred spiral galaxy. At least 5 times the size of our own large Milky Way, NGC 6872 is the largest known spiral galaxy. About 200 million light-years distant toward the southern constellation Pavo, the Peacock, the appearance of this giant galaxy's stretched out spiral arms suggest the wings of a giant bird. So its popular moniker is the Condor galaxy. Lined with massive young, bluish star clusters and star-forming regions, the extended and distorted spiral arms are due to NGC 6872's past gravitational interactions with the nearby smaller galaxy IC 4970, visible here below the giant spiral galaxy's core. Other members of the southern Pavo galaxy group are scattered through this magnificent galaxy group portrait, with the dominant giant elliptical galaxy, NGC 6876, above and right of the soaring Condor galaxy.",
-      "pt": "Mais de 500.000 anos -luz, o NGC 6872 (canto inferior esquerdo) é uma galáxia espiral verdadeiramente enorme barrada. Pelo menos 5 vezes o tamanho de nossa grande Via Láctea, o NGC 6872 é a maior galáxia espiral conhecida. Cerca de 200 milhões de anos-luz distantes em direção ao pavo de constelação do sul, o pavão, a aparência da gigante dos braços espirais esticados dessa galáxia sugerem as asas de um pássaro gigante. Portanto, seu apelido popular é a galáxia Condor. Alinhados com aglomerados de estrelas jovens e azuis e regiões de formação de estrelas, os braços espirais estendidos e distorcidos são devidos às interações gravitacionais anteriores do NGC 6872 com o Galaxy IC 4970, mais próximo, visível abaixo do núcleo da Giant Galaxy. Outros membros do Grupo Galáxia do Pavo do Sul estão espalhados por esse magnífico retrato do Grupo Galáxia, com a gigante gigante dominante galáxia elíptica, NGC 6876, acima e à direita da subida galáxia de Condor."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2508/NGC6872_block1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2508/NGC6872_block.jpg",
-    "copyright": "Adam Block"
   }
 ]
