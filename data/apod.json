@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-09-19",
+    "title": {
+      "en": "The NGC 6914 Complex",
+      "pt": "O complexo NGC 6914"
+    },
+    "explanation": {
+      "en": "A study in contrasts, this colorful cosmic skyscape features stars, dust, and glowing gas in the vicinity of NGC 6914. The interstellar complex of nebulae lies some 6,000 light-years away, toward the high-flying northern constellation Cygnus and the plane of our Milky Way Galaxy. Obscuring interstellar dust clouds appear in silhouette while reddish hydrogen emission nebulae, along with the dusty blue reflection nebulae, fill the cosmic canvas. Ultraviolet radiation from the massive, hot, young stars of the extensive Cygnus OB2 association ionize the region's atomic hydrogen gas, producing the characteristic red glow as protons and electrons recombine. Embedded Cygnus OB2 stars also provide the blue starlight strongly reflected by the dust clouds. The over one degree wide telescopic field of view spans about 100 light-years at the estimated distance of NGC 6914.",
+      "pt": "Um estudo em contraste, este colorido cósmico cósico apresenta estrelas, poeira e gás brilhante nas proximidades do NGC 6914. O complexo interestelar de nebulosas fica a cerca de 6.000 anos-luz de distância, em direção à constelação do norte de alta e ao plano da nossa galáxia de Way Milky. O obscurecimento das nuvens de poeira interestelar aparecem em silhueta enquanto as nebulosas da emissão de hidrogênio avermelhadas, juntamente com a nebulosidade de reflexão azul empoeirada, enche a tela cósmica. A radiação ultravioleta das estrelas jovens enormes, quentes da extensa associação de Cygnus OB2 ioniza o gás atômico de hidrogênio da região, produzindo o brilho vermelho característico como protons e elétrons recombinando. As estrelas incorporadas de Cygnus OB2 também fornecem a luz das estrelas azuis fortemente refletida pelas nuvens de poeira. O campo de visão telescópico de mais de um grau amplo abrange cerca de 100 anos-luz à distância estimada do NGC 6914."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2509/NGC6914_1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2509/NGC6914_2048.jpg",
+    "copyright": "Tommy Lease"
+  },
+  {
     "date": "2025-09-18",
     "title": {
       "en": "Comet C/2025 R2 (SWAN)",
@@ -429,20 +444,5 @@
     "url": "https://apod.nasa.gov/apod/image/2508/20250813_035050-TL4IMG_7698nebulb7331-7833ss_1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2508/20250813_035050-TL4IMG_7698nebulb7331-7833ss_2048.jpg",
     "copyright": "Klaus Pillwatsch"
-  },
-  {
-    "date": "2025-08-20",
-    "title": {
-      "en": "Perseid Meteors from Durdle Door",
-      "pt": "Perseid Meteors da porta Durdle"
-    },
-    "explanation": {
-      "en": "What are those curved arcs in the sky? Meteors -- specifically, meteors from this year's Perseid meteor shower.  Over the past few weeks, after the sky darkened, many images of Perseid meteors were captured separately and merged into a single frame, taken earlier.  Although the meteors all traveled on straight paths, these paths appear slightly curved by the wide-angle lens of the capturing camera.  The meteor streaks can all be traced back to a single point on the sky called the radiant, here just off the top of the frame in the constellation of Perseus. The same camera took a deep image of the background sky that brought up the central band of our Milky Way galaxy running nearly vertically through the featured image's center. The limestone arch in the foreground in Dorset, England is known as Durdle Door, a name thought to survive from a thousand years ago.",
-      "pt": "O que são esses arcos curvos no céu? Meteoros - Especificamente, meteoros do chuveiro de meteoros Perseid deste ano.  Nas últimas semanas, depois que o céu escureceu, muitas imagens de meteoros Perseid foram capturadas separadamente e fundidas em uma única estrutura, tiradas mais cedo.  Embora todos os meteoros tenham percorrido caminhos retos, esses caminhos parecem ligeiramente curvados pela lente grande angular da câmera de captura.  As faixas de meteoros podem ser rastreadas até um único ponto no céu chamado Radiant, aqui da parte superior da estrutura na constelação de Perseu. A mesma câmera tirou uma imagem profunda do céu de fundo que trouxe à tona a banda central da nossa Via Láctea Galaxy correndo quase verticalmente através do centro da imagem em destaque. O arco de calcário em primeiro plano em Dorset, a Inglaterra, é conhecida como Durdle Door, um nome que se pensa em sobreviver há mil anos."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2508/PerseidsDurdleDoor_Dury_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2508/PerseidsDurdleDoor_Dury_3963.jpg",
-    "copyright": ", Josh Dury,"
   }
 ]
