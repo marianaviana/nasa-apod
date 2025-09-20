@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-09-20",
+    "title": {
+      "en": "Gibbous vs Crescent",
+      "pt": "Gibbous vs Crescent"
+    },
+    "explanation": {
+      "en": "rly risers around planet Earth have enjoyed a shining crescent Moon near brilliant Venus, close to the eastern horizon in recent morning twilight skies. And yesterday, on September 19, skygazers watching from some locations in Earth's northern hemisphere were also able to witness Venus, in the inner planet's waxing gibbous phase, pass behind the Moon's waning crescent. In fact, this telescopic snapshot was taken moments before that occultation of gibbous Venus by the crescent Moon began. The close-up view of the beautiful celestial alignment records Venus approaching part of the Moon's sunlit edge in clear daytime skies from the Swiss Alps. Tomorrow, the Sun will pass behind a New Moon. But to witness that partial solar eclipse on September 21, skygazers will need to watch from locations in planet Earth's southern hemisphere.",
+      "pt": "Rly Risers em torno do planeta Terra desfrutaram de uma lua crescente brilhante perto de Brilliant Vênus, perto do horizonte oriental no recente céu da manhã de Twilight. E ontem, em 19 de setembro, os Skygazers assistindo de alguns locais no Hemisfério Norte da Terra também foram capazes de testemunhar Vênus, na fase gibos de encerar do planeta interno, passar atrás do crescente minguante da lua. De fato, esse instantâneo telescópico foi tirado momentos antes da ocultação de Vênus Gibbous pela lua crescente. A visão em close dos belos registros de alinhamento celestial Vênus se aproximando de parte da borda iluminada pelo sol da lua em céus diurnos claros dos Alpes suíços. Amanhã, o sol passará atrás de uma lua nova. Mas, para testemunhar esse eclipse solar parcial em 21 de setembro, os Skygazers precisarão assistir a partir de locais no hemisfério sul do Planeta Terra."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2509/20250919_Moon_Venus_logoC1052.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2509/20250919_Moon_Venus_logo.jpg",
+    "copyright": "Luca Bartek"
+  },
+  {
     "date": "2025-09-19",
     "title": {
       "en": "The NGC 6914 Complex",
@@ -429,20 +444,5 @@
     "url": "https://apod.nasa.gov/apod/image/2508/M57_LRGB_1K.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2508/M57_LRGB_2K.jpg",
     "copyright": "Kent Biggs"
-  },
-  {
-    "date": "2025-08-21",
-    "title": {
-      "en": "Mostly Perseids",
-      "pt": "Principalmente perteidas"
-    },
-    "explanation": {
-      "en": "In this predawn skyscape recorded during the early morning hours of August 13, mostly Perseid meteors are raining down on planet Earth. You can easily identify the Perseid meteor streaks. They're the ones with trails that seem to converge on the annual meteor shower's radiant, a spot in the heroic constellation Perseus, located off the top of the frame. That's the direction in Earth's sky that looks along the orbit of this meteor shower's parent, periodic Comet Swift-Tuttle. Of course the scene is a composite, a combination of about 500 digital exposures to capture meteors registered with a single base frame exposure. But all exposures were taken during a period of around 2.5 hours from a wind farm near Mönchhof, Burgenland, Austria. Red lights on the individual wind turbine towers dot the foreground. In their spectacular close conjunction, bright planets Jupiter and Venus are poised above the eastern horizon.",
-      "pt": "Neste Skyscape pré -aterro gravado durante as primeiras horas da manhã de 13 de agosto, a maioria dos meteoros Perseid está chovendo no planeta Terra. Você pode identificar facilmente as faixas de meteoros Perseid. Eles são aqueles com trilhas que parecem convergir para o Radiant Annual Meteor's Chuveiro, um ponto na constelação heróica Perseus, localizada no topo da moldura. Essa é a direção no céu da Terra que olha ao longo da órbita dos pais deste chuveiro de meteoros, o cometa periódico Swift-Tuttle. É claro que a cena é um composto, uma combinação de cerca de 500 exposições digitais para capturar meteoros registrados com uma única exposição ao quadro de base. Mas todas as exposições foram tomadas durante um período de cerca de 2,5 horas de um parque eólico perto de Mönchhof, Burgenland, Áustria. Luzes vermelhas nas torres de turbinas eólicas individuais pontilham o primeiro plano. Em sua espetacular conjunção próxima, os planetas brilhantes Júpiter e Vênus estão preparados acima do horizonte oriental."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2508/20250813_035050-TL4IMG_7698nebulb7331-7833ss_1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2508/20250813_035050-TL4IMG_7698nebulb7331-7833ss_2048.jpg",
-    "copyright": "Klaus Pillwatsch"
   }
 ]
