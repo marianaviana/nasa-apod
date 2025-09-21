@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-09-21",
+    "title": {
+      "en": "Equinox Sunset",
+      "pt": "Sunset equinócio"
+    },
+    "explanation": {
+      "en": "Does the Sun set in the same direction every day? No, the direction of sunset depends on the time of the year. Although the Sun always sets approximately toward the west, on an equinox like today the Sun sets directly toward the west. After tomorrow's September equinox, the Sun will set increasingly toward the southwest, reaching its maximum displacement at the December solstice.  Before today's September equinox, the Sun had set toward the northwest, reaching its maximum displacement at the June solstice. The featured time-lapse image shows seven bands of the Sun setting one day each month from 2019 December through 2020 June.  These image sequences were taken from Alberta, Canada -- well north of the Earth's equator -- and feature the city of Edmonton in the foreground.  The middle band shows the Sun setting during the last equinox -- in March.  From this location, the Sun will set along this same equinox band again tomorrow.",
+      "pt": "O sol se põe na mesma direção todos os dias? Não, a direção do pôr do sol depende da época do ano. Embora o sol sempre se ponha aproximadamente em direção ao oeste, em um equinócio como hoje, o sol se põe diretamente em direção ao oeste. Após o Equinox de setembro de amanhã, o sol se estabelecerá cada vez mais em direção ao sudoeste, atingindo seu deslocamento máximo no solstício de dezembro.  Antes do Equinox de setembro de hoje, o sol havia se estabelecido em direção ao noroeste, atingindo seu deslocamento máximo no solstício de junho. A imagem de lapso de tempo em destaque mostra sete bandas do cenário do sol um dia por mês, de dezembro de 2019 a 2020 em junho.  Essas seqüências de imagens foram retiradas de Alberta, Canadá - bem ao norte do equador da Terra - e apresentam a cidade de Edmonton em primeiro plano.  A banda do meio mostra o cenário do sol durante o último Equinox - em março.  A partir deste local, o sol se estabelecerá nessa mesma banda Equinox novamente amanhã."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2509/SunsetMonths_Vanzella_1080.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2509/SunsetMonths_Vanzella_2400.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-09-20",
     "title": {
       "en": "Gibbous vs Crescent",
@@ -429,20 +444,5 @@
     "url": "https://apod.nasa.gov/apod/image/2508/1000212902_bellelli1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2508/1000212902_bellelli.jpg",
     "copyright": "How big is planet Earth's Moon"
-  },
-  {
-    "date": "2025-08-22",
-    "title": {
-      "en": "A Tale of Two Nebulae",
-      "pt": "Uma história de duas nebulosas"
-    },
-    "explanation": {
-      "en": "This colorful telescopic view towards the musical northern constellation Lyra reveals the faint outer halos and brighter central ring-shaped region of M57, popularly known as the Ring Nebula. To modern astronomers M57 is a well-known planetary nebula. With a central ring about one light-year across, M57 is definitely not a planet though, but the gaseous shroud of one of the Milky Way's dying sun-like stars. Roughly the same apparent size as M57, the fainter and more often overlooked barred spiral galaxy at the left is IC 1296. In fact, over 100 years ago IC 1296 would have been known as a spiral nebula. By chance the pair are in the same field of view, and while they appear to have similar sizes they are actually very far apart. At a distance of a mere 2,000 light-years M57 is well within our own Milky Way galaxy. Extragalactic IC 1296 (aka PGC62532) is more like 200,000,000 light-years distant. That's about 100,000 times farther away than M57 but since they appear roughly similar in size, former spiral nebula IC 1296 must also be about 100,000 times larger than planetary nebula M57. Look closely at the sharp 21st century astroimage to spot even more distant background galaxies scattered through the frame.",
-      "pt": "Esta visão telescópica colorida em direção à constelação musical do norte, Lyra, revela os halos externos fracos e a região mais brilhante em forma de anel em M57, popularmente conhecida como nebulosa do anel. Para os astrônomos modernos, o M57 é uma nebulosa planetária bem conhecida. Com um anel central de um ano-luz, o M57 definitivamente não é um planeta, mas a cobertura gasosa de uma das estrelas moribunda do sol da Via Láctea. Aproximadamente o mesmo tamanho aparente que M57, a galáxia espiral barrada mais fraca e mais frequentemente esquecida à esquerda é IC 1296. Na verdade, mais de 100 anos atrás, o IC 1296 seria conhecido como uma nebulosa em espiral. Por acaso, os dois estão no mesmo campo de visão e, embora pareçam ter tamanhos semelhantes, eles estão realmente muito distantes. A uma distância de meros 2.000 anos-luz, o M57 está bem dentro de nossa própria Galaxia da Via Láctea. O IC 1296 extragalático (também conhecido como PGC62532) é mais como 200.000.000 anos-luz de distância. Isso é cerca de 100.000 vezes mais distante que o M57, mas como eles parecem um tamanho aproximadamente semelhante, o ex -nebuloso Spiral IC 1296 também deve ser cerca de 100.000 vezes maior que o nebuloso planetário M57. Olhe atentamente a astroimagem afiada do século XXI para identificar galáxias de fundo ainda mais distantes espalhadas pelo quadro."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2508/M57_LRGB_1K.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2508/M57_LRGB_2K.jpg",
-    "copyright": "Kent Biggs"
   }
 ]
