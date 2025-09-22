@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-09-22",
+    "title": {
+      "en": "Equinox at Saturn",
+      "pt": "Equinox em Saturno"
+    },
+    "explanation": {
+      "en": "On Saturn, the rings tell you the season.  On Earth, today marks an equinox, the time when the Earth's equator tilts directly toward the Sun.  Since Saturn's grand rings orbit along the planet's equator, these rings appear most prominent -- from the direction of the Sun -- when the spin axis of Saturn points toward the Sun.  Conversely, when Saturn's spin axis points to the side, an equinox occurs, and the edge-on rings are hard to see from not only the Sun -- but Earth.  In the featured montage, images of Saturn between the years of 2020 and 2025 have been superposed to show the giant planet passing, with this year's equinox, from summer in the north to summer in the south.  Yesterday, Saturn was coincidently about as close as it gets to planet Earth, and so this month the ringed giant's orb is relatively bright and visible throughout the night.",
+      "pt": "Em Saturno, os anéis dizem a temporada.  Na Terra, hoje marca um equinócio, o tempo em que o equador da Terra se inclina diretamente em direção ao sol.  Como os grandes anéis de Saturno orbitam ao longo do equador do planeta, esses anéis parecem mais proeminentes - a partir da direção do sol - quando o eixo de rotação de Saturno aponta para o sol.  Por outro lado, quando o eixo de rotação de Saturno aponta para o lado, ocorre um equinócio e os anéis de borda são difíceis de ver não apenas do sol-mas da terra.  Na montagem em destaque, as imagens de Saturno entre os anos de 2020 e 2025 foram sobrepostas para mostrar a passagem do planeta gigante, com o Equinox deste ano, do verão no norte a verão no sul.  Ontem, Saturno foi coincidido o mais próximo possível do planeta Terra, e este mês a esfera do gigante anel é relativamente brilhante e visível durante a noite."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2509/Saturn6Years_Sultan_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2509/Saturn6Years_Sultan_960.jpg",
+    "copyright": ", Imran Sultan,"
+  },
+  {
     "date": "2025-09-21",
     "title": {
       "en": "Equinox Sunset",
@@ -429,20 +444,5 @@
     "url": "https://apod.nasa.gov/apod/image/2508/Crab_HubbleChandraSpitzer_1080.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2508/Crab_HubbleChandraSpitzer_3600.jpg",
     "copyright": null
-  },
-  {
-    "date": "2025-08-23",
-    "title": {
-      "en": "Fishing for the Moon",
-      "pt": "Pesca para a Lua"
-    },
-    "explanation": {
-      "en": "How big is planet Earth's Moon? Compared to other moons of the Solar System, it's number 5 on the largest to smallest ranked list, following Jupiter's moon Ganymede, Saturn's moon Titan, and Jovian moons Callisto and Io. Continuing the list, the Moon comes before Jupiter's Europa and Neptune's Triton. It's also larger than dwarf planets Pluto and Eris. With a diameter of 3,475 kilometers the Moon is about 1/4 the size of Earth though, and that does make it the largest moon when compared to the size of its parent Solar System planet. Of course in this serene, twilight sea and skyscape, August's rising Full Moon still appears small enough to be caught in the nets of an ancient fishing rig. The telephoto snapshot was taken along the Italian Costa dei Trabocchi, on the Adriatic Sea.",
-      "pt": "Quão grande é a lua do Planet Earth? Comparado a outras luas do sistema solar, é o número 5 da maior a menor lista de classificação, após a lua de Júpiter, o lua de Júpiter, o titã da lua de Saturno e o Joviano Moons Callisto e Io. Continuando a lista, a Lua vem antes da Europa de Júpiter e Triton de Netuno. Também é maior que os planetas anões Plutão e Eris. Com um diâmetro de 3.475 quilômetros, a lua é de cerca de 1/4 do tamanho da Terra, e isso a torna a maior lua quando comparada ao tamanho do planeta do sistema solar pai. É claro que neste mar sereno e em Crepúsculo e Skyscape, a lua cheia de agosto ainda parece pequena o suficiente para ser capturada nas redes de uma antiga plataforma de pesca. O instantâneo telefoto foi tirado ao longo do italiano Costa Dei Trabocchi, no mar Adriático."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2508/1000212902_bellelli1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2508/1000212902_bellelli.jpg",
-    "copyright": "How big is planet Earth's Moon"
   }
 ]
