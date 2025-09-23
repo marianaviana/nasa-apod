@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-09-23",
+    "title": {
+      "en": "Astronomy Picture of the Day",
+      "pt": "Imagem de astronomia do dia"
+    },
+    "explanation": {
+      "en": "How massive can a normal star be?  Estimates made from distance, brightness and standard solar models had given one star in the open cluster Pismis 24 over  200 times the mass of our Sun, making it one of the most massive stars known.  This star is the brightest object located in the central cavity near the bottom center of the featured image taken with the Webb Space Telescope in infrared light.  For comparison, a rollover image from the Hubble Space Telescope  is also featured in visible light. Close inspection of the images,  however, has shown that Pismis 24-1 derives its brilliant luminosity not from a single star but from three at least.  Component stars would still remain near 100 solar masses, making them among the more massive stars currently on record.  Toward the bottom of the image, stars are still forming in the associated emission nebula NGC 6357. Appearing perhaps like",
+      "pt": "Quão enorme pode ser uma estrela normal?  As estimativas feitas de distância, brilho e modelos solares padrão deram uma estrela no cluster aberto pismis 24 mais de 200 vezes a massa do nosso sol, tornando -o uma das estrelas mais massivas conhecidas.  Esta estrela é o objeto mais brilhante localizado na cavidade central, perto do centro inferior da imagem em destaque tirada com o telescópio espacial Webb em luz infravermelha.  Para comparação, uma imagem de rolagem do Telescópio Espacial Hubble também é apresentada sob luz visível. A inspeção estreita das imagens, no entanto, mostrou que o PISMIS 24-1 deriva sua brilhante luminosidade, não de uma única estrela, mas de três pelo menos três.  As estrelas componentes ainda permaneceriam perto de 100 massas solares, tornando -as entre as estrelas mais massivas atualmente registradas.  No fundo da imagem, as estrelas ainda estão se formando na emissão associada Nebulosa NGC 6357. Parecendo talvez como"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2509/Ngc6357_Webb_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2509/Ngc6357_Webb_6357.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-09-22",
     "title": {
       "en": "Equinox at Saturn",
@@ -429,20 +444,5 @@
     "url": "https://apod.nasa.gov/apod/image/2508/MeteorPleiades_Alqasimi_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2508/MeteorPleiades_Alqasimi_1677.jpg",
     "copyright": ", Yousif Alqasimi &  , Essa Al Jasmi,"
-  },
-  {
-    "date": "2025-08-24",
-    "title": {
-      "en": "The Spinning Pulsar of the Crab Nebula",
-      "pt": "O pulsar giratório da nebulosa do caranguejo"
-    },
-    "explanation": {
-      "en": "At the core of the Crab Nebula lies a city-sized, magnetized neutron star spinning 30 times a second. Known as the Crab Pulsar, it is the bright spot in the center of the gaseous swirl at the nebula's core. About twelve light-years across, the spectacular picture frames the glowing gas, cavities and swirling filaments near the Crab Nebula's center.  The featured picture combines visible light from the Hubble Space Telescope in purple, X-ray light from the Chandra X-ray Observatory in blue, and infrared light from the Spitzer Space Telescope in red.  Like a cosmic dynamo, the Crab pulsar powers the emission from the nebula, driving a shock wave through surrounding material and accelerating the spiraling electrons. With more mass than the Sun and the density of an atomic nucleus,the spinning pulsar is the collapsed core of a massive star that exploded. The outer parts of the Crab Nebula are the expanding remnants of the star's component gases. The supernova explosion was witnessed on planet Earth in the year 1054.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)",
-      "pt": "No centro da nebulosa do caranguejo, encontra-se uma estrela de nêutrons magnetizada do tamanho da cidade, girando 30 vezes por segundo. Conhecido como o pulsar de caranguejo, é o ponto positivo no centro do goleoso redemoinho no núcleo da nebulosa. Cerca de doze anos-luz de diâmetro, a imagem espetacular enquadra o gás brilhante, as cáries e os filamentos em turbilhão perto do centro da nebulosa do caranguejo.  A imagem em destaque combina luz visível do telescópio espacial Hubble em roxo e luz de raio-x do Observatório de Raios X Chandra em azul e luz infravermelha do telescópio espacial Spitzer em vermelho.  Como um dínamo cósmico, o pulsar do caranguejo alimenta a emissão da nebulosa, dirigindo uma onda de choque pelo material circundante e acelerando os elétrons em espiral. Com mais massa do que o sol e a densidade de um núcleo atômico, o pulsar giratório é o núcleo colapso de uma estrela maciça que explodiu. As partes externas da nebulosa do caranguejo são os remanescentes em expansão dos gases componentes da estrela. A explosão da Supernova foi testemunhada no planeta Terra no ano 1054. Sky Surprise: Que imagem o Apod apareceu no seu aniversário? (depois de 1995)"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2508/Crab_HubbleChandraSpitzer_1080.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2508/Crab_HubbleChandraSpitzer_3600.jpg",
-    "copyright": null
   }
 ]
