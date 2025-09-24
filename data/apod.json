@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-09-24",
+    "title": {
+      "en": "GW250114: Rotating Black Holes Collide",
+      "pt": "GW250114: os buracos negros rotativos colidem"
+    },
+    "explanation": {
+      "en": "It was the strongest gravitational wave signal yet measured -- what did it show?  GW250114 was detected by both arms of the Laser Interferometer Gravitational-wave Observatory (LIGO) in Washington and Louisiana USA earlier this year.  Analysis showed that the event was created when two black holes, each of mass around 33 times the mass of the Sun, coalesced into one larger black hole with a mass of around 63 solar masses.  Even though the event happened about a billion light years away, the signal was so strong that the spin of all black holes, as well as initial ringing of the final black hole, was deduced with exceptional accuracy. Furthermore, it was confirmed better than before, as previously predicted, that the total event horizon area of the combined black hole was greater than those of the merging black holes. Featured, an artist's illustration depicts an imaginative and conceptual view from near one of the black holes before collision.",
+      "pt": "Foi o sinal de onda gravitacional mais forte já medido - o que mostrou?  O GW250114 foi detectado por ambos os braços do Observatório de Ondas Gravitacionais do Interferômetro a Laser (LIGO) em Washington e Louisiana EUA no início deste ano.  A análise mostrou que o evento foi criado quando dois buracos negros, cada uma com massa cerca de 33 vezes a massa do sol, se uniram em um buraco negro maior com uma massa de cerca de 63 massas solares.  Embora o evento tenha acontecido a cerca de um bilhão de anos -luz de distância, o sinal foi tão forte que a rotação de todos os buracos negros, bem como o toque inicial do buraco negro final, foi deduzido com precisão excepcional. Além disso, foi confirmado melhor do que antes, como previsto anteriormente, que a área total do horizonte de eventos do buraco negro combinado era maior do que o da fusão de orifícios negros. Em destaque, a ilustração de um artista mostra uma visão imaginativa e conceitual de perto de um dos buracos negros antes da colisão."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2509/ArtGw250114_Simonnet_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2509/ArtGw250114_Simonnet_2400.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-09-23",
     "title": {
       "en": "Astronomy Picture of the Day",
@@ -429,20 +444,5 @@
     },
     "media_type": "other",
     "copyright": ", Andrea Girones,"
-  },
-  {
-    "date": "2025-08-25",
-    "title": {
-      "en": "The Meteor and the Star Cluster",
-      "pt": "O meteoro e o cluster de estrelas"
-    },
-    "explanation": {
-      "en": "Sometimes even the sky surprises you.  To see more stars and faint nebulosity in the Pleiades star cluster (M45), long exposures are made.  Many times, less interesting items appear on the exposures that were not intended -- but later edited out. These include stuck pixels, cosmic ray hits, frames with bright clouds or Earth's Moon, airplane trails, lens flares, faint satellite trails, and even insect trails.  Sometimes, though, something really interesting is caught by chance. That was just the case a few weeks ago in al-Ula, Saudi Arabia when a bright meteor streaked across during an hour-long exposure of the Pleiades. Along with the famous bright blue stars, less famous and less bright blue stars, and blue-reflecting dust surrounding the star cluster, the fast rock fragment created a distinctive green glow, likely due to vaporized metals.    Jigsaw Universe: Astronomy Puzzle of the Day",
-      "pt": "Às vezes até o céu o surpreende.  Para ver mais estrelas e fracas nebulosidade no cluster de estrelas de Pleiades (M45), são feitas longas exposições.  Muitas vezes, itens menos interessantes aparecem nas exposições que não foram pretendidas - mas depois editadas. Isso inclui pixels presos, hits de raios cósmicos, molduras com nuvens brilhantes ou lua da Terra, trilhas de avião, flares de lentes, trilhas de satélite fracas e até trilhas de insetos.  Às vezes, porém, algo realmente interessante é capturado por acaso. Esse foi o caso há algumas semanas em Al-ALA, na Arábia Saudita, quando um meteoro brilhante se espalhou durante uma exposição de uma hora das Plêiades. Juntamente com as famosas estrelas azuis brilhantes, estrelas azuis menos famosas e menos brilhantes e poeira de reflexão azul ao redor do aglomerado de estrelas, o fragmento de rocha rápida criou um brilho verde distinto, provavelmente devido a metais vaporizados.    Universo de Jigsaw: quebra -cabeça da astronomia do dia"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2508/MeteorPleiades_Alqasimi_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2508/MeteorPleiades_Alqasimi_1677.jpg",
-    "copyright": ", Yousif Alqasimi &  , Essa Al Jasmi,"
   }
 ]
