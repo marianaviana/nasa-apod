@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-09-25",
+    "title": {
+      "en": "Saturn Opposite the Sun",
+      "pt": "Saturno em frente ao sol"
+    },
+    "explanation": {
+      "en": "This year Saturn was at opposition on September 21, opposite the Sun in planet Earth's sky. At its closest to Earth, Saturn was also at its brightest of the year, rising as the Sun set and shining above the horizon all night long among the fainter stars of the constellation Pisces. In this snapshot from the Qinghai Lenghu Observatory, Tibetan Plateau, southwestern China, the outer planet is immersed in a faint, diffuse oval of light known as the gegenschein or counter glow. The diffuse gegenschein is produced by sunlight backscattered by interplanetary dust along the Solar System's ecliptic plane, opposite the Sun in planet Earth's sky. Like a giant eye, on this dark night Saturn and gegenschein seem to stare down on the observatory's telescope domes seen against a colorful background of airglow along the horizon.",
+      "pt": "Este ano, Saturno estava em oposição em 21 de setembro, em frente ao Sol no céu do planeta Terra. No seu mais próximo da Terra, Saturno também estava no seu ano mais brilhante, subindo quando o sol se pôs e brilhando acima do horizonte a noite toda, longa -se as estrelas mais fracas dos peixes de constelação. Neste instantâneo do Observatório de Qinghai Lenghu, Platô Tibetano, sudoeste da China, o planeta externo está imerso em um oval fraco e difuso da luz conhecida como Gegenschein ou contador. A gegenschein difusa é produzida pela luz solar retrocessada por poeira interplanetária ao longo do plano eclíptico do sistema solar, em frente ao sol no céu do planeta Terra. Como um olho gigante, nesta noite escura Saturno e Geegenschein parecem olhar para as cúpulas do telescópio do observatório vistas contra um fundo colorido de bullow ao longo do horizonte."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2509/DSC05293-mark700.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2509/DSC05293.jpg",
+    "copyright": "Jin Wang"
+  },
+  {
     "date": "2025-09-24",
     "title": {
       "en": "GW250114: Rotating Black Holes Collide",
@@ -431,18 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2508/Wispit4b_eso_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2508/Wispit4b_eso_960.jpg",
     "copyright": null
-  },
-  {
-    "date": "2025-08-26",
-    "title": {
-      "en": "A Leaky Solar Prominence",
-      "pt": "Uma proeminência solar com vazamento"
-    },
-    "explanation": {
-      "en": "What's hovering above the Sun?  A solar prominence. A prominence is a crest of hot gas expelled from the Sun's surface that is held aloft by the Sun's magnetic field.  Prominences can last for days, can suddenly explode into space, or just fall back to the Sun.  What decides a prominence's fate is how the Sun's complex magnetic field changes -- the field's direction can act like an offramp for trapped solar particles. The 3-second (repeating) time-lapse featured video was captured earlier this month from Ottawa, Ontario, Canada. It shows the development of a larger-than-Earth prominence as it appears to leak solar plasma back to the Sun, over the course of an hour. What is unusual is that the prominence appears to hover -- more simple and typical prominences form magnetic loops that connect back to the surface.  Many hours after this video ended, the hovering prominence disintegrated back into the Sun.    Explore the Universe: Random APOD Generator",
-      "pt": "O que está pairando acima do sol?  Uma proeminência solar. Um destaque é uma crista de gás quente expulso da superfície do sol que é mantida no ar pelo campo magnético do sol.  Os proeminências podem durar dias, de repente podem explodir no espaço ou simplesmente voltar ao sol.  O que decide o destino de um destaque é como o complexo campo magnético do sol muda - a direção do campo pode agir como um offramm para partículas solares presas. O vídeo em lapso de tempo de 3 segundos (repetindo) foi capturado no início deste mês de Ottawa, Ontário, Canadá. Ele mostra o desenvolvimento de um destaque maior do que a terra, pois parece vazar o plasma solar de volta ao sol, ao longo de uma hora. O que é incomum é que o destaque parece pairar - as proeminências mais simples e típicas formam loops magnéticos que se conectam de volta à superfície.  Muitas horas após o término deste vídeo, o mirante de destaque se desintegrou de volta ao sol.    Explore o universo: gerador APOD aleatório"
-    },
-    "media_type": "other",
-    "copyright": ", Andrea Girones,"
   }
 ]
