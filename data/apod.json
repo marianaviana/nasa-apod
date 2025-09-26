@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-09-26",
+    "title": {
+      "en": "A SWAN, an ATLAS, and Mars",
+      "pt": "Um cisne, um atlas e Marte"
+    },
+    "explanation": {
+      "en": "A new visitor to the inner Solar System, comet C/2025 R2 (SWAN) sports a long ion tail extending diagonally across this almost 7 degree wide telescopic field of view recorded on September 21. A fainter fellow comet also making its inner Solar System debut, C/2025 K1 (ATLAS), can be spotted above and left of SWAN's greenish coma, just visible against the background sea of stars in the constellation Virgo. Both new comets were only discovered in 2025 and are joined in this celestial frame by ruddy planet Mars (bottom), a more familiar wanderer in planet Earth's night skies. The comets may appear to be in a race, nearly neck and neck in their voyage through the inner Solar System and around the Sun. But this comet SWAN has already reached its perihelion or closest approach to the Sun on September 12 and is now outbound along its orbit. This comet ATLAS is still inbound though, and will make its perihelion passage on October 8.",
+      "pt": "A new visitor to the inner Solar System, comet C/2025 R2 (SWAN) sports a long ion tail extending diagonally across this almost 7 degree wide telescopic field of view recorded on September 21. A fainter fellow comet also making its inner Solar System debut, C/2025 K1 (ATLAS), can be spotted above and left of SWAN's greenish coma, just visible against the background sea of ​​stars in the constellation Virgem. Ambos os novos cometas foram descobertos apenas em 2025 e são unidos nesta estrutura celestial por Ruddy Planet Mars (em baixo), um andarilho mais familiar no céu noturno do planeta Earth. Os cometas podem parecer estar em uma corrida, quase pescoço e pescoço em sua viagem através do sistema solar interno e ao redor do sol. Mas esse cisne do cometa já atingiu sua abordagem periélio ou mais próxima do sol em 12 de setembro e agora está de saída ao longo de sua órbita. Este Atlas cometa ainda está de entrada e fará sua passagem de periélio em 8 de outubro."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2509/C2025_R2_Swan_20250921s1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2509/C2025_R2_Swan_20250921s.jpg",
+    "copyright": "Adam Block"
+  },
+  {
     "date": "2025-09-25",
     "title": {
       "en": "Saturn Opposite the Sun",
@@ -431,20 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2508/NGC7497_Robert_Eder1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2508/NGC7497_Robert_Eder.jpg",
     "copyright": "Robert Eder"
-  },
-  {
-    "date": "2025-08-27",
-    "title": {
-      "en": "WISPIT 2b: Exoplanet Carves Gap in Birth Disk",
-      "pt": "Wispit 2b: lacuna de esculturas exoplanetas no disco de nascimento"
-    },
-    "explanation": {
-      "en": "That yellow spot -- what is it? It's a young planet outside our Solar System. The featured image from the Very Large Telescope in Chile surprisingly captures a distant scene much like our own Solar System's birth, some 4.5 billion years ago.  Although we can't look into the past and see Earth's formation directly, telescopes let us watch similar processes unfolding around distant stars.  At the center of this frame lies a young Sun-like star, hidden behind a coronagraph that blocks its bright glare.  Surrounding the star is a bright, dusty protoplanetary disk -- the raw material of planets.  Gaps and concentric rings mark where a newborn world is gathering gas and dust under its gravity, clearing the way as it orbits the star.  Although astronomers have imaged disk-embedded planets before, this is the first-ever observation of an exoplanet actively carving a gap within a disk -- the earliest direct glimpse of planetary sculpting in action.",
-      "pt": "Esse ponto amarelo - o que é? É um jovem planeta fora do nosso sistema solar. A imagem em destaque do grande telescópio no Chile surpreendentemente captura uma cena distante, bem como o nascimento do nosso próprio sistema solar, cerca de 4,5 bilhões de anos atrás.  Embora não possamos olhar para o passado e ver a formação da Terra diretamente, os telescópios vamos assistir a processos semelhantes se desenrolando em torno de estrelas distantes.  No centro dessa estrutura, fica uma jovem estrela do sol, escondida atrás de um coronagraph que bloqueia seu brilho brilhante.  Ao redor da estrela, há um disco protoplanetário brilhante e empoeirado - a matéria -prima dos planetas.  Lacunas e anéis concêntricos marcam onde um mundo recém -nascido está reunindo gás e poeira sob sua gravidade, limpando o caminho enquanto orbita a estrela.  Embora os astrônomos tenham fotografado planetas embebidos em disco antes, esta é a primeira observação de uma exoplanet esculpindo ativamente uma lacuna dentro de um disco-o primeiro vislumbre direto da escultura planetária em ação."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2508/Wispit4b_eso_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2508/Wispit4b_eso_960.jpg",
-    "copyright": null
   }
 ]
