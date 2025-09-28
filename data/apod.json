@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-09-28",
+    "title": {
+      "en": "Leopard Spots on Martian Rocks",
+      "pt": "Manchas de leopardo em rochas marcianas"
+    },
+    "explanation": {
+      "en": "What is creating these unusual spots? Light-colored spots on Martian rocks, each surrounded by a dark border, were discovered last year by NASA's Perseverance Rover currently exploring Mars.  Dubbed leopard spots because of their seemingly similarity to markings on famous Earth-bound predators, these curious patterns are being studied with the possibility they were created by ancient Martian life.  The pictured spots measure only millimeters across and were discovered on a larger rock named Cheyava Falls.  The exciting but unproven speculation is that long ago, microbes generated energy with chemical reactions that turned rock from red to white while leaving a dark biosignature ring, like some similarly appearing spots on Earth rocks. Although other non-biological explanations have not been ruled out,  speculation focusing on this potential biological origin is causing much intrigue.",
+      "pt": "O que está criando esses pontos incomuns? Pontos de cor clara nas rochas marcianas, cada uma cercada por uma fronteira escura, foram descobertas no ano passado pela perseverança da NASA Rover explorando Marte.  Apelidados de manchas de leopardo por causa de sua aparentemente semelhança com as marcas em predadores famosos à terra, esses padrões curiosos estão sendo estudados com a possibilidade de que foram criados pela vida marciana antiga.  Os pontos na foto medem apenas milímetros e foram descobertos em uma rocha maior chamada Cheyava Falls.  A especulação emocionante, mas não comprovada, é que, há muito tempo, os micróbios geraram energia com reações químicas que transformaram a rocha do vermelho para o branco, deixando um anel de biossignatura escuro, como alguns pontos de aparência semelhante nas rochas da terra. Embora outras explicações não biológicas não tenham sido descartadas, a especulação focada nessa origem biológica potencial está causando muita intriga."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2509/LeopardSpots_Perseverance_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2509/LeopardSpots_Perseverance_1648.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-09-27",
     "title": {
       "en": "A Rocket in the Sun",
@@ -431,20 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2508/IMG_4081_1024.jpeg",
     "hdurl": "https://apod.nasa.gov/apod/image/2508/IMG_4081.jpeg",
     "copyright": "Marina Prol"
-  },
-  {
-    "date": "2025-08-29",
-    "title": {
-      "en": "A Dark Veil in Ophiuchus",
-      "pt": "Um véu escuro em Ophiuchus"
-    },
-    "explanation": {
-      "en": "The diffuse hydrogen-alpha glow of emission region Sh2-27 fills this cosmic scene. The field of view spans nearly 3 degrees across the nebula-rich constellation Ophiuchus toward the central Milky Way. A Dark Veil of wispy interstellar dust clouds draped across the foreground is chiefly identified as LDN 234 and LDN 204 from the 1962 Catalog of Dark Nebulae by American astronomer Beverly Lynds. Sh2-27 itself is the large but faint HII region surrounding runaway O-type star Zeta Ophiuchi. Along with the Zeta Oph HII region, LDN 234 and LDN 204 are likely 500 or so light-years away. At that distance, this telescopic frame would be about 25 light-years wide.",
-      "pt": "O brilho difuso de hidrogênio-alfa da região de emissão SH2-27 preenche essa cena cósmica. O campo de visão abrange quase 3 graus através da constelação rica em nebulosa Ophiuchus em direção à Via Láctea Central. Um véu escuro de nuvens de poeira interestelar malvadas envoltas em primeiro plano é identificado principalmente como LDN 234 e LDN 204 do catálogo de 1962 de nebulosidade escura pelo astrônomo americano Beverly Lynds. O Sh2-27 em si é a região grande, mas fraca, em torno da estrela do tipo O-Itreno, Zeta Ophiuchi. Juntamente com a região de Zeta Oph Hii, LDN 234 e LDN 204 provavelmente estão a 500 anos-luz de distância. Nessa distância, esse quadro telescópico seria de cerca de 25 anos-luz de largura."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2508/DarkVeil_v2p1024.jpeg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2508/DarkVeil_v2p2048.jpeg",
-    "copyright": "Katelyn Beecroft"
   }
 ]
