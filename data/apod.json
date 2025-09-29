@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-09-29",
+    "title": {
+      "en": "Two Camera Comets in One Sky",
+      "pt": "Dois cometas de câmera em um céu"
+    },
+    "explanation": {
+      "en": "It may look like these comets are racing, but they are not. Comets C/2025 K1 ATLAS (left) and C/2025 R2 SWAN (right) appeared near each other by chance last week in the featured image taken from France's Reunion Island in the southern Indian Ocean.  Fainter Comet ATLAS is approaching our Sun and will reach its closest approach in early October when it is also expected to be its brightest -- although still only likely visible with long exposures on a camera.  The brighter comet, nicknamed SWAN25B, is now headed away from our Sun, although its closest approach to Earth is expected in mid-October, when optimistic estimates have it becoming bright enough to see with the unaided eye.  Each comet has a greenish coma of expelled gas and an ion tail pointing away from the Sun.    Growing Gallery: Comet SWAN25B",
+      "pt": "Pode parecer que esses cometas estão correndo, mas não estão. Cometas C/2025 K1 Atlas (à esquerda) e C/2025 R2 Swan (à direita) apareceram perto um do outro por acaso na semana passada, na imagem em destaque retirada da ilha da reunião da França, no sul do Oceano Índico.  Atlas cometas mais fracas está se aproximando do nosso Sol e chegará à sua abordagem mais próxima no início de outubro, quando se espera que seja o mais brilhante - embora ainda provavelmente visível apenas com longas exposições em uma câmera.  O cometa mais brilhante, apelidado de Swan25b, agora está se afastado do nosso sol, embora sua abordagem mais próxima da Terra seja esperada em meados de outubro, quando estimativas otimistas se tornam brilhantes o suficiente para ver com o olho sem ajuda.  Cada cometa tem um coma esverdeado de gás expelido e uma cauda de íons apontando para longe do sol.    Galeria Growing: Comet Swan25b"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2509/TwoComets_Perrot_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2509/TwoComets_Perrot_960.jpg",
+    "copyright": ", Luc Perrot, (TWAN),"
+  },
+  {
     "date": "2025-09-28",
     "title": {
       "en": "Leopard Spots on Martian Rocks",
@@ -431,20 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2508/ngc7027_HubbleDtc_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2508/ngc7027_HubbleDtc_960.jpg",
     "copyright": null
-  },
-  {
-    "date": "2025-08-30",
-    "title": {
-      "en": "A Two Percent Moon",
-      "pt": "Uma lua de dois por cento"
-    },
-    "explanation": {
-      "en": "A young crescent moon can be hard to see. That's because when the Moon shows it's crescent phase (young or old) it can never be far from the Sun in planet Earth's sky. And even though the sky is still bright, a slender sunlit lunar crescent is cleary visible in this early evening skyscape. The telephoto snapshot was captured on August 24, with the Moon very near the western horizon at sunset. Seen in a narrow crescent phase about 1.5 days old, the visible sunlit portion is a mere two percent of the surface of the Moon's familiar nearside. At the Canary Islands Space Centre, a steerable radio dish for communication with spacecraft is titled in the direction of the two percent Moon. The sunset sky's pastel pinkish coloring is partly due to fine sand and dust from the Sahara Desert blown by the prevailing winds.",
-      "pt": "Uma jovem lua crescente pode ser difícil de ver. Isso porque quando a lua mostra sua fase crescente (jovem ou idosa), nunca pode estar longe do sol no céu do planeta Terra. E mesmo que o céu ainda esteja brilhante, um crescente lunar esbelto e iluminado é claro visível nesta paisagem do Skyscape no início da noite. O instantâneo telefoto foi capturado em 24 de agosto, com a lua muito perto do horizonte ocidental ao pôr do sol. Visto em uma fase crescente estreita com cerca de 1,5 dia de idade, a porção visível iluminada é apenas dois por cento da superfície do familiar familiar da lua. No Centro Espacial das Ilhas Canárias, um prato de rádio direcionado para comunicação com a espaçonave é intitulado na direção da lua de dois por cento. A cor -rosada pastel do Sunset Sky é em parte devido à areia fina e à poeira do deserto do Saara soprado pelos ventos predominantes."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2508/IMG_4081_1024.jpeg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2508/IMG_4081.jpeg",
-    "copyright": "Marina Prol"
   }
 ]
