@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-09-30",
+    "title": {
+      "en": "Comet Lemmon Brightens",
+      "pt": "O cometa Lemmon ilumina"
+    },
+    "explanation": {
+      "en": "Comet Lemmon is brightening and moving into morning northern skies. Besides Comet SWAN25B and Comet ATLAS, Comet C/2025 A6 (Lemmon) is now the third comet currently visible with binoculars and on long camera exposures.  Comet Lemmon was discovered early this year and is still headed into the inner Solar System. The comet will round the Sun on November 8, but first it will pass its nearest to the Earth -- at about half the Earth-Sun distance -- on October 21.  Although the brightnesses of comets are notoriously hard to predict, optimistic estimates have Comet Lemmon then becoming visible to the unaided eye. The comet should be best seen in predawn skies until mid-October, when it also becomes visible in evening skies.  The featured image showing the comet's split and rapidly changing ion tail was taken in Texas, USA late last week.    Growing Gallery: Comet Lemmon in 2025",
+      "pt": "O cometa Lemmon está iluminando e se movendo para o céu do norte da manhã. Além do cometa Swan25b e Comet Atlas, o Comet C/2025 A6 (Lemmon) agora é o terceiro cometa atualmente visível com binóculos e exposições de câmera longas.  O cometa Lemmon foi descoberto no início deste ano e ainda está indo para o sistema solar interno. O cometa vai de volta ao sol em 8 de novembro, mas primeiro passará o mais próximo da terra-a cerca da metade da distância da terra-em 21 de outubro. Embora os brilho dos cometas sejam notoriamente difíceis de prever, estimativas otimistas têm o cometa que os lemon se tornam visíveis ao olho sem ajuda. O cometa deve ser melhor visto nos céus pré-ator até meados de outubro, quando também se torna visível no céu noturno.  A imagem em destaque mostrando a divisão do cometa e a cauda de íons em rápida mudança foi tirada no Texas, EUA, no final da semana passada.    Galeria Growing: Comet Lemmon em 2025"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2509/CometLemmon_DeWinter_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2509/CometLemmon_DeWinter_3549.jpg",
+    "copyright": ", Victor Sabet & , Julien De Winter,"
+  },
+  {
     "date": "2025-09-29",
     "title": {
       "en": "Two Camera Comets in One Sky",
@@ -430,21 +445,6 @@
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2509/Callisto_Voyager2Gill_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2509/Callisto_Voyager2Gill_1602.jpg",
-    "copyright": null
-  },
-  {
-    "date": "2025-08-31",
-    "title": {
-      "en": "NGC 7027: The Pillow Planetary Nebula",
-      "pt": "NGC 7027: A nebulosa planetária de travesseiro"
-    },
-    "explanation": {
-      "en": "What created this unusual planetary nebula? Dubbed the Pillow Nebula and the Flying Carpet Nebula, NGC 7027 is one of the smallest, brightest, and most unusually shaped planetary nebulas known. Given its expansion rate, NGC 7027 first started expanding, as visible from Earth, about 600 years ago.  For much of its history, the planetary nebula has been expelling shells, as seen in blue in the featured image by the Hubble Space Telescope.  In modern times, though, for reasons unknown, it began ejecting gas and dust (seen in brown) in specific directions that created a new pattern that seems to have four corners. What lies at the nebula's center is unknown, with one hypothesis holding it to be a close binary star system where one star sheds gas onto an erratic disk orbiting the other star. NGC 7027, about 3,000 light years away, was first discovered in 1878 and can be seen with a standard backyard telescope toward the constellation of the Swan (Cygnus).",
-      "pt": "O que criou essa nebulosa planetária incomum? Apelidado de nebulosa de travesseiro e a nebulosa do tapete voador, o NGC 7027 é um dos menores, mais brilhantes e mais incomumente em formação de nebulas planetárias conhecidas. Dada a sua taxa de expansão, o NGC 7027 começou a se expandir, como visível da Terra, cerca de 600 anos atrás.  Durante grande parte de sua história, a nebulosa planetária tem expulso conchas, como visto em azul na imagem em destaque do telescópio espacial Hubble.  Nos tempos modernos, porém, por razões desconhecidas, começou a ejetar gás e poeira (vistos em marrom) em direções específicas que criaram um novo padrão que parece ter quatro cantos. O que está no centro da nebulosa é desconhecido, com uma hipótese mantendo -a como um sistema estrela binário próximo, onde uma estrela lança gás em um disco irregular que orbita a outra estrela. O NGC 7027, a cerca de 3.000 anos -luz de distância, foi descoberto pela primeira vez em 1878 e pode ser visto com um telescópio padrão do quintal em direção à constelação do cisne (Cygnus)."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2508/ngc7027_HubbleDtc_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2508/ngc7027_HubbleDtc_960.jpg",
     "copyright": null
   }
 ]
