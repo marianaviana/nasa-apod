@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-10-01",
+    "title": {
+      "en": "NGC 6960: The Witch's Broom Nebula",
+      "pt": "NGC 6960: A nebulosa de vassoura de bruxa"
+    },
+    "explanation": {
+      "en": "Ten thousand years ago, before the dawn of recorded human history, a new light would suddenly have appeared in the night sky and faded after a few weeks.  Today we know this light was from a supernova, or exploding star, and record the expanding debris cloud as the Veil Nebula, a supernova remnant.  This sharp telescopic view is centered on a western segment of the Veil Nebula cataloged as NGC 6960 but less formally known as the Witch's Broom Nebula.  Blasted out in the cataclysmic explosion, an interstellar shock wave plows through space sweeping up and exciting interstellar material. Imaged with narrow band filters, the glowing filaments are like long ripples in a sheet seen almost edge on, remarkably well separated into atomic hydrogen (red) and oxygen (blue-green) gas. The complete supernova remnant lies about 1400 light-years away towards the constellation Cygnus. This Witch's Broom actually spans about 35 light-years. The bright star in the frame is 52 Cygni, visible with the unaided eye from a dark location but unrelated to the ancient supernova remnant.",
+      "pt": "Dez mil anos atrás, antes do amanhecer da história humana registrada, uma nova luz teria de repente apareceu no céu noturno e desapareceu depois de algumas semanas.  Hoje sabemos que essa luz era de uma supernova, ou estrela explosiva, e registra a nuvem de detritos em expansão como a nebulosa do véu, um remanescente de supernova.  Esta visão telescópica aguda é centrada em um segmento ocidental do Nebulosa do Véu catalogado como NGC 6960, mas menos formalmente conhecido como Nebulosa da Vigeira da Bruxa.  Explosão na explosão cataclísmica, uma onda de choque interestelar passa pelo espaço que varre e o emocionante material interestelar. Imaginados com filtros de banda estreitos, os filamentos brilhantes são como ondulações longas em uma folha vista quase na borda, notavelmente bem separada em hidrogênio atômico (vermelho) e gás de oxigênio (azul-verde). O remanescente completo da Supernova fica a cerca de 1400 anos-luz de distância em direção ao Cygnus de constelação. Na verdade, a vassoura desta bruxa abrange cerca de 35 anos-luz. A estrela brilhante no quadro é 52 Cygni, visível com o olho sem ajuda de um local escuro, mas não relacionado ao antigo remanescente da Supernova."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_6043.jpg",
+    "copyright": ", Brian Meyers,"
+  },
+  {
     "date": "2025-09-30",
     "title": {
       "en": "Comet Lemmon Brightens",
@@ -431,20 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2509/OrionHorseHead_Stern_1080.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2509/OrionHorseHead_Stern_5842.jpg",
     "copyright": ", Daniel Stern,"
-  },
-  {
-    "date": "2025-09-01",
-    "title": {
-      "en": "Callisto: Dirty Battered Iceball",
-      "pt": "Callisto: Iceball sujo de gelo"
-    },
-    "explanation": {
-      "en": "Its surface is the most densely cratered in the Solar System -- but what's inside?  Jupiter's moon Callisto is a battered ball of dirty ice that is larger than the planet Mercury. It was visited by NASA's Galileo spacecraft in the 1990s and 2000s, but the recently reprocessed featured image is from a flyby of NASA's Voyager 2 in 1979.  The moon would appear darker if it weren't for the tapestry of light-colored fractured surface ice created by eons of impacts. The interior of Callisto is potentially even more interesting because therein might lie an internal layer of liquid water. This potential underground sea is a candidate to harbor life -- similar with sister moons Europa and Ganymede.  Callisto is slightly larger than Luna, Earth's Moon, but because of its high ice content is slightly less massive. ESA's JUICE and NASA's Europa Clipper missions are now headed out to Jupiter to better investigate its largest moons.",
-      "pt": "Sua superfície é a mais densamente craterada no sistema solar - mas o que está dentro?  A Lua Callisto de Júpiter é uma bola de gelo sujo que é maior que o planeta Mercury. Foi visitado pela espaçonave Galileo da NASA nas décadas de 1990 e 2000, mas a imagem em destaque recentemente reprocessada é de um sépito do Voyager 2 da NASA em 1979. A lua pareceria mais escura se não fosse a tapeçaria de gelo de fraturado fraturado de cor clara criada por eon de impactos. O interior de Callisto é potencialmente ainda mais interessante, porque a aí pode estar uma camada interna de água líquida. Este potencial mar subterrâneo é um candidato a abrigar a vida - semelhante à irmã Moons Europa e Ganymede.  Callisto é um pouco maior que Luna, a Lua da Terra, mas por causa de seu alto teor de gelo é um pouco menos massivo. O suco da ESA e as missões Europa Clipper da NASA estão agora indo para Júpiter para investigar melhor suas maiores luas."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2509/Callisto_Voyager2Gill_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2509/Callisto_Voyager2Gill_1602.jpg",
-    "copyright": null
   }
 ]
