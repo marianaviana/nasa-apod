@@ -17,6 +17,21 @@
   {
     "date": "2025-10-01",
     "title": {
+      "en": "Astronomy Picture of the Day",
+      "pt": "Imagem de astronomia do dia"
+    },
+    "explanation": {
+      "en": "Ten thousand years ago, before the dawn of recorded human history, a new light would suddenly have appeared in the night sky and faded after a few weeks.  Today we know this light was from a supernova, or exploding star, and record the expanding debris cloud as the Veil Nebula, a supernova remnant.  This sharp telescopic view is centered on a western segment of the Veil Nebula cataloged as NGC 6960 but less formally known as the Witch's Broom Nebula.  Blasted out in the cataclysmic explosion, an interstellar shock wave plows through space sweeping up and exciting interstellar material. Imaged with narrow band filters, the glowing filaments are like long ripples in a sheet seen almost edge on, remarkably well separated into atomic hydrogen (red) and oxygen (blue-green) gas. The complete supernova remnant lies about 1400 light-years away towards the constellation Cygnus. This Witch's Broom actually spans about 35 light-years. The bright star in the frame is 52 Cygni, visible with the unaided eye from a dark location but unrelated to the ancient supernova remnant.",
+      "pt": "Dez mil anos atrás, antes do amanhecer da história humana registrada, uma nova luz teria de repente apareceu no céu noturno e desapareceu depois de algumas semanas.  Hoje sabemos que essa luz era de uma supernova, ou estrela explosiva, e registra a nuvem de detritos em expansão como a nebulosa do véu, um remanescente de supernova.  Esta visão telescópica aguda é centrada em um segmento ocidental do Nebulosa do Véu catalogado como NGC 6960, mas menos formalmente conhecido como Nebulosa da Vigeira da Bruxa.  Explosão na explosão cataclísmica, uma onda de choque interestelar passa pelo espaço que varre e o emocionante material interestelar. Imaginados com filtros de banda estreitos, os filamentos brilhantes são como ondulações longas em uma folha vista quase na borda, notavelmente bem separada em hidrogênio atômico (vermelho) e gás de oxigênio (azul-verde). O remanescente completo da Supernova fica a cerca de 1400 anos-luz de distância em direção ao Cygnus de constelação. Na verdade, a vassoura desta bruxa abrange cerca de 35 anos-luz. A estrela brilhante no quadro é 52 Cygni, visível com o olho sem ajuda de um local escuro, mas não relacionado ao antigo remanescente da Supernova."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_6043.jpg",
+    "copyright": ", Brian Meyers,"
+  },
+  {
+    "date": "2025-10-01",
+    "title": {
       "en": "NGC 6960: The Witch's Broom Nebula",
       "pt": "NGC 6960: A nebulosa de vassoura de bruxa"
     },
@@ -431,20 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2509/NGC4565_APOD_sRGB1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2509/NGC4565_APOD_sRGB.jpg",
     "copyright": "José Rodrigues"
-  },
-  {
-    "date": "2025-09-03",
-    "title": {
-      "en": "Cir X-1: Jets in the Africa Nebula",
-      "pt": "CIR X-1: Jatos na nebulosa da África"
-    },
-    "explanation": {
-      "en": "How soon do jets form when a supernova gives birth to a neutron star?  The Africa Nebula provides clues.  This supernova remnant surrounds Circinus X-1, an X-ray emitting neutron star and the companion star it orbits.  The image, from the ThunderKAT collaboration on the MeerKAT radio telescope situated in South Africa, shows the bright core-and-lobe structure of Cir X-1’s currently active jets inside the nebula.  A mere 4600 years old, Cir X-1 could be the \"Little Sister\" of microquasar SS 433*.  However, the newly discovered bubble exiting from a ring-like hole in the upper right of the nebula, along with a ring to the bottom left, demonstrate that other jets previously existed.  Computer simulations indicate those jets formed within 100 years of the explosion and lasted up to 1000 years.  Surprisingly, to create the observed bubble, the jets need to be more powerful than young neutron stars were previously thought to produce.   Open Science: Browse 3,700+ codes in the Astrophysics Source Code Library",
-      "pt": "Em quanto tempo os jatos se formam quando uma supernova dá à luz uma estrela de nêutrons?  A nebulosa da África fornece pistas.  Este remanescente de supernova envolve o Circinus X-1, uma estrela de nêutrons emissor de raios-X e a estrela do Companion It orbita.  A imagem, da colaboração Thunderkat no Radioselescópio Meerkat, situado na África do Sul, mostra a estrutura brilhante e lobo dos jatos atualmente ativos do CIR X-1 dentro da nebulosa.  Meros 4600 anos, o CIR X-1 poderia ser a \"irmãzinha\" do Microquasar SS 433*.  No entanto, a bolha recém-descoberta saindo de um orifício em forma de anel no canto superior direito da nebulosa, juntamente com um anel ao canto inferior esquerdo, demonstram que outros jatos existiam anteriormente.  Simulações de computador indicam os jatos formados dentro de 100 anos após a explosão e duraram até 1000 anos.  Surpreendentemente, para criar a bolha observada, os jatos precisam ser mais poderosos do que as jovens estrelas de nêutrons foram anteriormente que produziam.   Ciência aberta: Procure mais de 3.700 códigos na Biblioteca de Código Fonte Astrofísica"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2508/CirX1_English_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2508/CirX1_English_960.jpg",
-    "copyright": null
   }
 ]
