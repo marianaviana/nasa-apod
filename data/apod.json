@@ -32,6 +32,21 @@
   {
     "date": "2025-10-01",
     "title": {
+      "en": "Astronomy Picture of the Day",
+      "pt": "Imagem de astronomia do dia"
+    },
+    "explanation": {
+      "en": "Ten thousand years ago, before the dawn of recorded human history, a new light would suddenly have appeared in the night sky and faded after a few weeks.  Today we know this light was from a supernova, or exploding star, and record the expanding debris cloud as the Veil Nebula, a supernova remnant.  This sharp telescopic view is centered on a western segment of the Veil Nebula cataloged as NGC 6960 but less formally known as the Witch's Broom Nebula.  Blasted out in the cataclysmic explosion, an interstellar shock wave plows through space sweeping up and exciting interstellar material. Imaged with narrow band filters, the glowing filaments are like long ripples in a sheet seen almost edge on, remarkably well separated into atomic hydrogen (red) and oxygen (blue-green) gas. The complete supernova remnant lies about 1400 light-years away towards the constellation Cygnus. This Witch's Broom actually spans about 35 light-years. The bright star in the frame is 52 Cygni, visible with the unaided eye from a dark location but unrelated to the ancient supernova remnant.",
+      "pt": "Dez mil anos atrás, antes do amanhecer da história humana registrada, uma nova luz teria de repente apareceu no céu noturno e desapareceu depois de algumas semanas.  Hoje sabemos que essa luz era de uma supernova, ou estrela explosiva, e registra a nuvem de detritos em expansão como a nebulosa do véu, um remanescente de supernova.  Esta visão telescópica aguda é centrada em um segmento ocidental do Nebulosa do Véu catalogado como NGC 6960, mas menos formalmente conhecido como Nebulosa da Vigeira da Bruxa.  Explosão na explosão cataclísmica, uma onda de choque interestelar passa pelo espaço que varre e o emocionante material interestelar. Imaginados com filtros de banda estreitos, os filamentos brilhantes são como ondulações longas em uma folha vista quase na borda, notavelmente bem separada em hidrogênio atômico (vermelho) e gás de oxigênio (azul-verde). O remanescente completo da Supernova fica a cerca de 1400 anos-luz de distância em direção ao Cygnus de constelação. Na verdade, a vassoura desta bruxa abrange cerca de 35 anos-luz. A estrela brilhante no quadro é 52 Cygni, visível com o olho sem ajuda de um local escuro, mas não relacionado ao antigo remanescente da Supernova."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_6043.jpg",
+    "copyright": ", Brian Meyers,"
+  },
+  {
+    "date": "2025-10-01",
+    "title": {
       "en": "NGC 6960: The Witch's Broom Nebula",
       "pt": "NGC 6960: A nebulosa de vassoura de bruxa"
     },
@@ -431,20 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2509/crtastro_0352_1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2509/crtastro_0352.jpg",
     "copyright": "Carlos Taylor"
-  },
-  {
-    "date": "2025-09-04",
-    "title": {
-      "en": "NGC 4565: Galaxy on Edge",
-      "pt": "NGC 4565: Galaxy On Edge"
-    },
-    "explanation": {
-      "en": "Magnificent spiral galaxy NGC 4565 is viewed edge-on from planet Earth. Also known as the Needle Galaxy for its narrow profile, bright NGC 4565 is a stop on many telescopic tours of the northern sky, in the faint but well-groomed constellation Coma Berenices. This sharp, colorful image reveals the galaxy's boxy, bulging central core cut by obscuring dust lanes that lace NGC 4565's thin galactic plane. NGC 4565 lies around 40 million light-years distant while the spiral galaxy itself spans some 100,000 light-years.  That's about the size of our own Milky Way. Easily spotted with small telescopes, deep sky enthusiasts consider NGC 4565 to be a prominent celestial masterpiece Messier missed.",
-      "pt": "A magnífica Galaxy Spiral NGC 4565 é vista de borda do planeta Terra. Também conhecida como Galaxia de agulha por seu perfil estreito, o Bright NGC 4565 é uma parada em muitos passeios telescópicos do céu do norte, na constelação fraca, mas bem criada, coma brerenices. Esta imagem nítida e colorida revela o corte central central da galáxia e abaulada, obscurecendo as faixas de poeira que rendem o plano galáctico fino do NGC 4565. O NGC 4565 fica cerca de 40 milhões de anos-luz de distância, enquanto a própria galáxia em espiral abrange cerca de 100.000 anos-luz.  Isso é sobre o tamanho de nossa própria Via Láctea. Facilmente visto com pequenos telescópios, os entusiastas do céu profundo consideram o NGC 4565 como uma proeminente obra -prima celestial Messier perdeu."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2509/NGC4565_APOD_sRGB1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2509/NGC4565_APOD_sRGB.jpg",
-    "copyright": "José Rodrigues"
   }
 ]
