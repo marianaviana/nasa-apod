@@ -47,6 +47,21 @@
   {
     "date": "2025-10-01",
     "title": {
+      "en": "Astronomy Picture of the Day",
+      "pt": "Imagem de astronomia do dia"
+    },
+    "explanation": {
+      "en": "Ten thousand years ago, before the dawn of recorded human history, a new light would suddenly have appeared in the night sky and faded after a few weeks.  Today we know this light was from a supernova, or exploding star, and record the expanding debris cloud as the Veil Nebula, a supernova remnant.  This sharp telescopic view is centered on a western segment of the Veil Nebula cataloged as NGC 6960 but less formally known as the Witch's Broom Nebula.  Blasted out in the cataclysmic explosion, an interstellar shock wave plows through space sweeping up and exciting interstellar material. Imaged with narrow band filters, the glowing filaments are like long ripples in a sheet seen almost edge on, remarkably well separated into atomic hydrogen (red) and oxygen (blue-green) gas. The complete supernova remnant lies about 1400 light-years away towards the constellation Cygnus. This Witch's Broom actually spans about 35 light-years. The bright star in the frame is 52 Cygni, visible with the unaided eye from a dark location but unrelated to the ancient supernova remnant.",
+      "pt": "Dez mil anos atrás, antes do amanhecer da história humana registrada, uma nova luz teria de repente apareceu no céu noturno e desapareceu depois de algumas semanas.  Hoje sabemos que essa luz era de uma supernova, ou estrela explosiva, e registra a nuvem de detritos em expansão como a nebulosa do véu, um remanescente de supernova.  Esta visão telescópica aguda é centrada em um segmento ocidental do Nebulosa do Véu catalogado como NGC 6960, mas menos formalmente conhecido como Nebulosa da Vigeira da Bruxa.  Explosão na explosão cataclísmica, uma onda de choque interestelar passa pelo espaço que varre e o emocionante material interestelar. Imaginados com filtros de banda estreitos, os filamentos brilhantes são como ondulações longas em uma folha vista quase na borda, notavelmente bem separada em hidrogênio atômico (vermelho) e gás de oxigênio (azul-verde). O remanescente completo da Supernova fica a cerca de 1400 anos-luz de distância em direção ao Cygnus de constelação. Na verdade, a vassoura desta bruxa abrange cerca de 35 anos-luz. A estrela brilhante no quadro é 52 Cygni, visível com o olho sem ajuda de um local escuro, mas não relacionado ao antigo remanescente da Supernova."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_6043.jpg",
+    "copyright": ", Brian Meyers,"
+  },
+  {
+    "date": "2025-10-01",
+    "title": {
       "en": "NGC 6960: The Witch's Broom Nebula",
       "pt": "NGC 6960: A nebulosa de vassoura de bruxa"
     },
@@ -431,20 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2509/MangiabarcheTramonto1060.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2509/MangiabarcheTramonto.jpg",
     "copyright": "When the sun sets on September 7"
-  },
-  {
-    "date": "2025-09-05",
-    "title": {
-      "en": "47 Tucanae: Globular Star Cluster",
-      "pt": "47 Tucanae: cluster de estrelas globular"
-    },
-    "explanation": {
-      "en": "Also known as NGC 104, 47 Tucanae is a jewel of the southern sky. Not a star but a dense cluster of stars, it roams the halo of our Milky Way Galaxy along with some 200 other globular star clusters. The second brightest globular cluster (after Omega Centauri) as seen from planet Earth, 47 Tuc lies about 13,000 light-years away. It can be spotted with the naked eye close on the sky to the Small Magellanic Cloud in the constellation of the Toucan. The dense cluster is made up of hundreds of thousands of stars in a volume only about 120 light-years across. Red giant stars on the outskirts of the cluster are easy to pick out as yellowish stars in this sharp telescopic portrait. Tightly packed globular star cluster 47 Tuc is also home to a star with the closest known orbit around a black hole.",
-      "pt": "Também conhecido como NGC 104, 47 Tucanae é uma jóia do céu sul. Não é uma estrela, mas um denso conjunto de estrelas, ele percorre a auréola de nossa galáxia da Via Láctea, juntamente com cerca de 200 outros aglomerados de estrelas globulares. O segundo cluster globular mais brilhante (depois de Omega Centauri), como visto no planeta Terra, 47 TUC fica a cerca de 13.000 anos-luz de distância. Pode ser visto com o olho nu próximo no céu até a pequena nuvem de magellanic na constelação do tucano. O denso cluster é composto de centenas de milhares de estrelas em um volume de apenas 120 anos-luz de diâmetro. Estrelas gigantes vermelhas nos arredores do cluster são fáceis de escolher como estrelas amareladas neste retrato telescópico afiado. O cluster de estrelas globular bem compactado 47 TUC também abriga uma estrela com a órbita mais próxima conhecida em torno de um buraco negro."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2509/crtastro_0352_1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2509/crtastro_0352.jpg",
-    "copyright": "Carlos Taylor"
   }
 ]
