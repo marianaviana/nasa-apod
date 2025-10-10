@@ -18,6 +18,21 @@
     "date": "2025-10-01",
     "title": {
       "en": "Astronomy Picture of the Day",
+      "pt": "Foto Astronômica do Dia"
+    },
+    "explanation": {
+      "en": "Ten thousand years ago, before the dawn of recorded human history, a new light would suddenly have appeared in the night sky and faded after a few weeks.  Today we know this light was from a supernova, or exploding star, and record the expanding debris cloud as the Veil Nebula, a supernova remnant.  This sharp telescopic view is centered on a western segment of the Veil Nebula cataloged as NGC 6960 but less formally known as the Witch's Broom Nebula.  Blasted out in the cataclysmic explosion, an interstellar shock wave plows through space sweeping up and exciting interstellar material. Imaged with narrow band filters, the glowing filaments are like long ripples in a sheet seen almost edge on, remarkably well separated into atomic hydrogen (red) and oxygen (blue-green) gas. The complete supernova remnant lies about 1400 light-years away towards the constellation Cygnus. This Witch's Broom actually spans about 35 light-years. The bright star in the frame is 52 Cygni, visible with the unaided eye from a dark location but unrelated to the ancient supernova remnant.",
+      "pt": "Dez mil anos atrás, antes do início da história humana registrada, uma nova luz teria aparecido repentinamente no céu noturno e desaparecido após algumas semanas.  Hoje sabemos que esta luz veio de uma supernova, ou estrela em explosão, e registamos a nuvem de detritos em expansão como a Nebulosa do Véu, um remanescente de supernova.  Esta visão telescópica nítida está centrada num segmento ocidental da Nebulosa do Véu, catalogada como NGC 6960, mas menos formalmente conhecida como Nebulosa da Vassoura de Bruxa.  Explodida na explosão cataclísmica, uma onda de choque interestelar atravessa o espaço, varrendo e excitando material interestelar. Observados com filtros de banda estreita, os filamentos brilhantes são como longas ondulações em uma folha vista quase de lado, notavelmente bem separados em gás atômico hidrogênio (vermelho) e oxigênio (azul esverdeado). O remanescente completo da supernova fica a cerca de 1.400 anos-luz de distância, na direção da constelação de Cygnus. Na verdade, esta Vassoura de Bruxa se estende por cerca de 35 anos-luz. A estrela brilhante na imagem é 52 Cygni, visível a olho nu a partir de um local escuro, mas sem relação com o antigo remanescente de supernova."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_6043.jpg",
+    "copyright": ", Brian Meyers,"
+  },
+  {
+    "date": "2025-10-01",
+    "title": {
+      "en": "Astronomy Picture of the Day",
       "pt": "Imagem de astronomia do dia"
     },
     "explanation": {
@@ -431,20 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2509/UmbraEarth1050.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2509/UmbraEarth.jpg",
     "copyright": "Wang Letian"
-  },
-  {
-    "date": "2025-09-10",
-    "title": {
-      "en": "The Great Lacerta Nebula",
-      "pt": "A grande nebulosa de Lacerta"
-    },
-    "explanation": {
-      "en": "It is one of the largest nebulas on the sky -- why isn't it better known? Roughly the same angular size as the Andromeda Galaxy, the Great Lacerta Nebula can be found toward the constellation of the Lizard (Lacerta). The emission nebula is difficult to see with wide-field binoculars because it is so faint, but also usually difficult to see with a large telescope because it is so great in angle -- spanning about three degrees. The depth, breadth, waves, and beauty of the nebula -- cataloged as Sharpless 126 (Sh2-126) -- can best be seen and appreciated with a long duration camera exposure. The featured image is one such combined exposure -- in this case taken over three nights in August through dark skies in Moses Lake, Washington, USA. The hydrogen gas in the Great Lacerta Nebula glows red because it is excited by light from the bright star 10 Lacertae, one of the bright blue stars just to the left of the red-glowing nebula's center.  Most of the stars and nebula are about 1,200 light years distant.    Jigsaw Universe: Astronomy Puzzle of the Day",
-      "pt": "É uma das maiores nebulas do céu - por que não é mais conhecido? Aproximadamente o mesmo tamanho angular que a galáxia de Andrômeda, a grande nebulosa de Lacerta pode ser encontrada na constelação do lagarto (Lacerta). A nebulosa de emissão é difícil de ver com binóculos de campo largo, porque é muito fraco, mas também geralmente difícil de ver com um grande telescópio porque é muito bom em ângulo-abrange cerca de três graus. A profundidade, amplitude, ondas e beleza da nebulosa-catalogadas como Sharpless 126 (SH2-126)-podem ser melhor vistas e apreciadas com uma exposição à câmera de longa duração. A imagem em destaque é uma dessas exposições combinadas - neste caso, levada ao longo de três noites em agosto através do Dark Skies em Moses Lake, Washington, EUA. O gás de hidrogênio na grande nebulosa Lacerta brilha vermelho porque é excitada pela luz da estrela brilhante 10 Lacertae, uma das estrelas azuis brilhantes, à esquerda do centro da nebulosa de eliminação vermelha.  A maioria das estrelas e nebulosa são cerca de 1.200 anos -luz de distância.    Universo de Jigsaw: quebra -cabeça da astronomia do dia"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2509/GrLacerta_Moehring_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2509/GrLacerta_Moehring_5509.jpg",
-    "copyright": ", Ian Moehring & Kevin Roylance ,"
   }
 ]
