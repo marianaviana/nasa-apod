@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-11-14",
+    "title": {
+      "en": "Florida Northern Lights",
+      "pt": "Aurora Boreal da Flórida"
+    },
+    "explanation": {
+      "en": "Northern lights have come to Florida skies. In fact, the brilliant streak of a Northern Taurid meteor flashes through the starry night sky above the beach in this sea and skyscape, captured from Shired Island, Florida on November 11. Meteors from the annual Northern Taurid meteor shower are expected this time of year. But the digital camera exposure also records the shimmering glow of aurora, a phenomenon more often seen from our fair planet's higher geographical latitudes. Also known as aurora borealis, these northern lights are part of recent, wide spread auroral activity caused by strong geomagnetic storms. In the last few days, stormy spaceweather has been triggered by multiple Earth impacting coronal mass ejections and intense solar activity.",
+      "pt": "A aurora boreal chegou aos céus da Flórida. Na verdade, a faixa brilhante de um meteoro Taurid do Norte brilha no céu noturno estrelado acima da praia nesta paisagem marítima e celeste, capturada na Ilha Shired, Flórida, em 11 de novembro. Meteoros da chuva anual de meteoros Taurid do Norte são esperados nesta época do ano. Mas a exposição da câmara digital também regista o brilho cintilante da aurora, um fenómeno observado com mais frequência nas latitudes geográficas mais elevadas do nosso belo planeta. Também conhecidas como aurora boreal, essas luzes do norte fazem parte de uma atividade auroral recente e ampla, causada por fortes tempestades geomagnéticas. Nos últimos dias, o clima espacial tempestuoso foi desencadeado por múltiplas ejeções de massa coronal com impacto na Terra e intensa atividade solar."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2511/DSC07080-Edit1024.jpeg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2511/DSC07080-Edit.jpeg",
+    "copyright": "Samil Cabrera"
+  },
+  {
     "date": "2025-10-01",
     "title": {
       "en": "Astronomy Picture of the Day",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2509/DSC05293-mark700.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2509/DSC05293.jpg",
     "copyright": "Jin Wang"
-  },
-  {
-    "date": "2025-09-24",
-    "title": {
-      "en": "GW250114: Rotating Black Holes Collide",
-      "pt": "GW250114: os buracos negros rotativos colidem"
-    },
-    "explanation": {
-      "en": "It was the strongest gravitational wave signal yet measured -- what did it show?  GW250114 was detected by both arms of the Laser Interferometer Gravitational-wave Observatory (LIGO) in Washington and Louisiana USA earlier this year.  Analysis showed that the event was created when two black holes, each of mass around 33 times the mass of the Sun, coalesced into one larger black hole with a mass of around 63 solar masses.  Even though the event happened about a billion light years away, the signal was so strong that the spin of all black holes, as well as initial ringing of the final black hole, was deduced with exceptional accuracy. Furthermore, it was confirmed better than before, as previously predicted, that the total event horizon area of the combined black hole was greater than those of the merging black holes. Featured, an artist's illustration depicts an imaginative and conceptual view from near one of the black holes before collision.",
-      "pt": "Foi o sinal de onda gravitacional mais forte já medido - o que mostrou?  O GW250114 foi detectado por ambos os braços do Observatório de Ondas Gravitacionais do Interferômetro a Laser (LIGO) em Washington e Louisiana EUA no início deste ano.  A análise mostrou que o evento foi criado quando dois buracos negros, cada uma com massa cerca de 33 vezes a massa do sol, se uniram em um buraco negro maior com uma massa de cerca de 63 massas solares.  Embora o evento tenha acontecido a cerca de um bilhão de anos -luz de distância, o sinal foi tão forte que a rotação de todos os buracos negros, bem como o toque inicial do buraco negro final, foi deduzido com precisão excepcional. Além disso, foi confirmado melhor do que antes, como previsto anteriormente, que a área total do horizonte de eventos do buraco negro combinado era maior do que o da fusão de orifícios negros. Em destaque, a ilustração de um artista mostra uma visão imaginativa e conceitual de perto de um dos buracos negros antes da colisão."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2509/ArtGw250114_Simonnet_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2509/ArtGw250114_Simonnet_2400.jpg",
-    "copyright": null
   }
 ]
