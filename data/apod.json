@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-11-15",
+    "title": {
+      "en": "Andromeda and Friends",
+      "pt": "Andrômeda e amigos"
+    },
+    "explanation": {
+      "en": "This magnificent extragalactic skyscape looks toward the Andromeda Galaxy, the closest large spiral galaxy to the Milky Way. It also accomplishes a Messier catalog trifecta by including Andromeda, cataloged as Messier 31 (M31), along with Messier 32 (M32), and Messier 110 (M110) in the same telescopic field of view.  In this frame, M32 is just left of the Andromeda Galaxy's bright core with M110 below and to the right. M32 and M110 are both elliptical galaxies themselves and satellites of the larger spiral Andromeda. By combining 60 hours of broadband and narrowband image data, the deep telescopic view also reveals tantalizing details of dust lanes, young star clusters, and star-forming regions along Andromeda's spiral arms, and faint, foreground clouds of glowing hydrogen gas. For now, Andromeda and friends are some 2.5 million light-years from our own large spiral Milky Way.",
+      "pt": "Esta magnífica paisagem extragaláctica aponta para a Galáxia de Andrômeda, a grande galáxia espiral mais próxima da Via Láctea. Ele também realiza uma trifeta do catálogo Messier ao incluir Andromeda, catalogado como Messier 31 (M31), junto com Messier 32 (M32) e Messier 110 (M110) no mesmo campo de visão telescópico.  Neste quadro, M32 está logo à esquerda do núcleo brilhante da Galáxia de Andrômeda com M110 abaixo e à direita. M32 e M110 são galáxias elípticas e satélites da espiral maior de Andrômeda. Ao combinar 60 horas de dados de imagens de banda larga e banda estreita, a visão telescópica profunda também revela detalhes tentadores de faixas de poeira, aglomerados de estrelas jovens e regiões de formação de estrelas ao longo dos braços espirais de Andrômeda, além de nuvens tênues de gás hidrogênio brilhante em primeiro plano. Por enquanto, Andrômeda e seus amigos estão a cerca de 2,5 milhões de anos-luz de nossa grande espiral, a Via Láctea."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2511/M31AB_1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2511/M31AB.jpg",
+    "copyright": "Piotr Czerski"
+  },
+  {
     "date": "2025-11-14",
     "title": {
       "en": "Florida Northern Lights",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2509/C2025_R2_Swan_20250921s1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2509/C2025_R2_Swan_20250921s.jpg",
     "copyright": "Adam Block"
-  },
-  {
-    "date": "2025-09-25",
-    "title": {
-      "en": "Saturn Opposite the Sun",
-      "pt": "Saturno em frente ao sol"
-    },
-    "explanation": {
-      "en": "This year Saturn was at opposition on September 21, opposite the Sun in planet Earth's sky. At its closest to Earth, Saturn was also at its brightest of the year, rising as the Sun set and shining above the horizon all night long among the fainter stars of the constellation Pisces. In this snapshot from the Qinghai Lenghu Observatory, Tibetan Plateau, southwestern China, the outer planet is immersed in a faint, diffuse oval of light known as the gegenschein or counter glow. The diffuse gegenschein is produced by sunlight backscattered by interplanetary dust along the Solar System's ecliptic plane, opposite the Sun in planet Earth's sky. Like a giant eye, on this dark night Saturn and gegenschein seem to stare down on the observatory's telescope domes seen against a colorful background of airglow along the horizon.",
-      "pt": "Este ano, Saturno estava em oposição em 21 de setembro, em frente ao Sol no céu do planeta Terra. No seu mais próximo da Terra, Saturno também estava no seu ano mais brilhante, subindo quando o sol se pôs e brilhando acima do horizonte a noite toda, longa -se as estrelas mais fracas dos peixes de constelação. Neste instantâneo do Observatório de Qinghai Lenghu, Platô Tibetano, sudoeste da China, o planeta externo está imerso em um oval fraco e difuso da luz conhecida como Gegenschein ou contador. A gegenschein difusa é produzida pela luz solar retrocessada por poeira interplanetária ao longo do plano eclíptico do sistema solar, em frente ao sol no céu do planeta Terra. Como um olho gigante, nesta noite escura Saturno e Geegenschein parecem olhar para as cúpulas do telescópio do observatório vistas contra um fundo colorido de bullow ao longo do horizonte."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2509/DSC05293-mark700.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2509/DSC05293.jpg",
-    "copyright": "Jin Wang"
   }
 ]
