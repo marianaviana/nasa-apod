@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-11-16",
+    "title": {
+      "en": "Crossing Saturn's Ring Plane",
+      "pt": "Cruzando o Plano Anular de Saturno"
+    },
+    "explanation": {
+      "en": "If this is Saturn, where are the rings?  When Saturn's \"appendages\" disappeared in 1612, Galileo did not understand why.   Later that century, it became understood that Saturn's unusual protrusions were rings and that when the Earth crosses the ring plane, the edge-on rings will appear to disappear.  This is because Saturn's rings are confined to a plane many times thinner, in proportion, than a razor blade.  In modern times, the robotic Cassini spacecraft that orbited Saturn frequently crossed Saturn's ring plane during its mission to Saturn, from 2004 to 2017.  A series of plane crossing images from 2005 February was dug out of the vast online Cassini raw image archive by interested Spanish amateur Fernando Garcia Navarro.  Pictured here, digitally cropped and set in representative colors, is the striking result.  Saturn's thin ring plane appears in blue, bands and clouds in Saturn's upper atmosphere appear in gold. Details of Saturn's rings can be seen in high dark shadows.  The moons Dione and Enceladus appear as bumps in the rings.",
+      "pt": "Se este é Saturno, onde estão os anéis?  Quando os \"apêndices\" de Saturno desapareceram em 1612, Galileu não entendeu por quê.   Mais tarde naquele século, entendeu-se que as saliências incomuns de Saturno eram anéis e que quando a Terra cruza o plano dos anéis, os anéis laterais parecerão desaparecer.  Isto ocorre porque os anéis de Saturno estão confinados a um plano muitas vezes mais fino, em proporção, do que uma lâmina de barbear.  Nos tempos modernos, a espaçonave robótica Cassini que orbitava Saturno frequentemente cruzava o plano do anel de Saturno durante sua missão a Saturno, de 2004 a 2017. Uma série de imagens de cruzamento de planos de fevereiro de 2005 foi extraída do vasto arquivo online de imagens brutas da Cassini pelo interessado amador espanhol Fernando Garcia Navarro.  Retratado aqui, recortado digitalmente e definido em cores representativas, está o resultado impressionante.  O fino plano do anel de Saturno aparece em azul, faixas e nuvens na atmosfera superior de Saturno aparecem em ouro. Detalhes dos anéis de Saturno podem ser vistos em sombras altas e escuras.  As luas Dione e Encélado aparecem como saliências nos anéis."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2511/saturnplane_cassini_1004.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2511/saturnplane_cassini_1004.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-11-15",
     "title": {
       "en": "Andromeda and Friends",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2509/IMAP-IG2-001_1024.JPG",
     "hdurl": "https://apod.nasa.gov/apod/image/2509/IMAP-IG2-001.JPG",
     "copyright": "Pascal Fouquet"
-  },
-  {
-    "date": "2025-09-26",
-    "title": {
-      "en": "A SWAN, an ATLAS, and Mars",
-      "pt": "Um cisne, um atlas e Marte"
-    },
-    "explanation": {
-      "en": "A new visitor to the inner Solar System, comet C/2025 R2 (SWAN) sports a long ion tail extending diagonally across this almost 7 degree wide telescopic field of view recorded on September 21. A fainter fellow comet also making its inner Solar System debut, C/2025 K1 (ATLAS), can be spotted above and left of SWAN's greenish coma, just visible against the background sea of stars in the constellation Virgo. Both new comets were only discovered in 2025 and are joined in this celestial frame by ruddy planet Mars (bottom), a more familiar wanderer in planet Earth's night skies. The comets may appear to be in a race, nearly neck and neck in their voyage through the inner Solar System and around the Sun. But this comet SWAN has already reached its perihelion or closest approach to the Sun on September 12 and is now outbound along its orbit. This comet ATLAS is still inbound though, and will make its perihelion passage on October 8.",
-      "pt": "A new visitor to the inner Solar System, comet C/2025 R2 (SWAN) sports a long ion tail extending diagonally across this almost 7 degree wide telescopic field of view recorded on September 21. A fainter fellow comet also making its inner Solar System debut, C/2025 K1 (ATLAS), can be spotted above and left of SWAN's greenish coma, just visible against the background sea of ​​stars in the constellation Virgem. Ambos os novos cometas foram descobertos apenas em 2025 e são unidos nesta estrutura celestial por Ruddy Planet Mars (em baixo), um andarilho mais familiar no céu noturno do planeta Earth. Os cometas podem parecer estar em uma corrida, quase pescoço e pescoço em sua viagem através do sistema solar interno e ao redor do sol. Mas esse cisne do cometa já atingiu sua abordagem periélio ou mais próxima do sol em 12 de setembro e agora está de saída ao longo de sua órbita. Este Atlas cometa ainda está de entrada e fará sua passagem de periélio em 8 de outubro."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2509/C2025_R2_Swan_20250921s1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2509/C2025_R2_Swan_20250921s.jpg",
-    "copyright": "Adam Block"
   }
 ]
