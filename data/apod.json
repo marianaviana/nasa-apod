@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-11-17",
+    "title": {
+      "en": "Comet Lemmon's Wandering Tail",
+      "pt": "Cauda Errante do Cometa Lemmon"
+    },
+    "explanation": {
+      "en": "What has happened to Comet Lemmon's tail? The answer is blowing in the wind — the wind from the Sun in this case. This continuous outflow of charged particles from the Sun has been quite variable of late, as the Sun emits bursts of energy, CMEs, that push out and deflect charged particles emitted by the comet itself. The result is a blue hued ion tail for Comet C/2025 A6 (Lemmon) that is not only impressively intricate but takes some unusual turns. This long-duration composite image taken from Alfacar, Spain last month captured this inner Solar System ionic tumult. Comet Lemmon is now fading as it heads out away from the Earth and Sun and back into the outer Solar System.",
+      "pt": "O que aconteceu com a cauda do cometa Lemmon? A resposta está soprando no vento – o vento do Sol, neste caso. Este fluxo contínuo de partículas carregadas do Sol tem sido bastante variável ultimamente, à medida que o Sol emite rajadas de energia, CMEs, que empurram e desviam as partículas carregadas emitidas pelo próprio cometa. O resultado é uma cauda de íons em tom azul para o Cometa C/2025 A6 (Lemmon) que não é apenas impressionantemente complexa, mas também dá algumas voltas incomuns. Esta imagem composta de longa duração tirada de Alfacar, na Espanha, no mês passado, capturou este tumulto iônico interno do Sistema Solar. O cometa Lemmon está agora desaparecendo à medida que se afasta da Terra e do Sol e volta para o Sistema Solar exterior."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2511/LemmonTail_Fernandez_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2511/LemmonTail_Fernandez_3728.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-11-16",
     "title": {
       "en": "Crossing Saturn's Ring Plane",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2509/LeopardSpots_Perseverance_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2509/LeopardSpots_Perseverance_1648.jpg",
     "copyright": null
-  },
-  {
-    "date": "2025-09-27",
-    "title": {
-      "en": "A Rocket in the Sun",
-      "pt": "Um foguete ao sol"
-    },
-    "explanation": {
-      "en": "On the morning of September 24 a rocket crosses the bright solar disk in this long range telescopic snapshot captured from Orlando, Florida. That's about 50 miles north of its Kennedy Space Center launch site. This rocket carried three new space weather missions to space. Signals have now been successfully acquired from all three - NASA's Interstellar Mapping and Acceleration Probe, NASA’s Carruthers Geocorona Observatory, and the National Oceanic and Atmospheric Administration (NOAA) Space Weather Follow-On Lagrange 1 (SWFO-L1) - as they begin their journey to L1, an Earth-Sun lagrange point. L1 is about 1.5 million kilometers in the sunward direction from planet Earth. Appropriately, major space weather influencers, aka dark sunspots in active regions across the Sun, are posing with the transiting rocket. In fact, large active region AR4225 is just right of the rocket's nose.",
-      "pt": "Na manhã de 24 de setembro, um foguete cruza o disco solar brilhante neste instantâneo telescópico de longo alcance capturado em Orlando, Flórida. São cerca de 80 quilômetros ao norte do site de lançamento do Kennedy Space Center. Este foguete carregava três novas missões climáticas espaciais para o espaço. Agora, os sinais foram adquiridos com sucesso de todos os três-o mapeamento interestelar da NASA e a sonda de aceleração, o Observatório de Geocorona da Carruthers da NASA e a Administração Nacional Oceânica e da Administração Atmosférica (NOAA) segui-las no clima de Lagrange 1 (SWFO-L1)-quando começam a jornada para 1, um Lagrange de Lagrange. L1 fica a cerca de 1,5 milhão de quilômetros na direção do sol do planeta Terra. Apropriadamente, os principais influenciadores do clima espacial, também conhecido como manchas solares escuras em regiões ativas do outro lado do sol, estão posando com o foguete em trânsito. De fato, a grande região ativa AR4225 está exatamente do nariz do foguete."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2509/IMAP-IG2-001_1024.JPG",
-    "hdurl": "https://apod.nasa.gov/apod/image/2509/IMAP-IG2-001.JPG",
-    "copyright": "Pascal Fouquet"
   }
 ]
