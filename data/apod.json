@@ -1,5 +1,18 @@
 [
   {
+    "date": "2025-11-18",
+    "title": {
+      "en": "The Galactic Plane: Radio Versus Visible",
+      "pt": "O Plano Galáctico: Rádio Versus Visível"
+    },
+    "explanation": {
+      "en": "What does the Milky Way look like in radio waves? To better find out, GLEAM surveyed the central band of our galaxy in high resolution radio light as imaged by the Murchison Widefield Array in Australia.  As the featured video slowly scrolls, radio light (71 - 231 MHz) is seen on the left and visible light -- from the same field -- on the right. Differences are so great because most objects glow differently in radio and visible light, and because visible light is stopped by nearby interstellar dust. These differences are particularly apparent in the direction toward the center of our galaxy, seen about a third of the way through.  Among the many features that appear in the radio, bright red patches are usually supernova remnants of exploded stars, while areas colored blue are stellar nurseries filled with bright young stars.    Did you know: APOD is available from numerous sites, including social media?",
+      "pt": "Qual é a aparência da Via Láctea nas ondas de rádio? Para descobrir melhor, o GLEAM pesquisou a banda central da nossa galáxia em luz de rádio de alta resolução, conforme visualizado pelo Murchison Widefield Array na Austrália.  À medida que o vídeo em destaque rola lentamente, a luz do rádio (71 - 231 MHz) é vista à esquerda e a luz visível - do mesmo campo - à direita. As diferenças são tão grandes porque a maioria dos objetos brilha de forma diferente no rádio e na luz visível, e porque a luz visível é interrompida pela poeira interestelar próxima. Estas diferenças são particularmente aparentes na direção do centro da nossa galáxia, vista a cerca de um terço do caminho.  Entre as muitas características que aparecem no rádio, as manchas vermelhas brilhantes são geralmente restos de supernovas de estrelas que explodiram, enquanto as áreas coloridas em azul são berçários estelares cheios de estrelas jovens brilhantes.    Você sabia: o APOD está disponível em vários sites, incluindo mídias sociais?"
+    },
+    "media_type": "other",
+    "copyright": null
+  },
+  {
     "date": "2025-11-17",
     "title": {
       "en": "Comet Lemmon's Wandering Tail",
@@ -433,20 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2509/TwoComets_Perrot_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2509/TwoComets_Perrot_960.jpg",
     "copyright": ", Luc Perrot, (TWAN),"
-  },
-  {
-    "date": "2025-09-28",
-    "title": {
-      "en": "Leopard Spots on Martian Rocks",
-      "pt": "Manchas de leopardo em rochas marcianas"
-    },
-    "explanation": {
-      "en": "What is creating these unusual spots? Light-colored spots on Martian rocks, each surrounded by a dark border, were discovered last year by NASA's Perseverance Rover currently exploring Mars.  Dubbed leopard spots because of their seemingly similarity to markings on famous Earth-bound predators, these curious patterns are being studied with the possibility they were created by ancient Martian life.  The pictured spots measure only millimeters across and were discovered on a larger rock named Cheyava Falls.  The exciting but unproven speculation is that long ago, microbes generated energy with chemical reactions that turned rock from red to white while leaving a dark biosignature ring, like some similarly appearing spots on Earth rocks. Although other non-biological explanations have not been ruled out,  speculation focusing on this potential biological origin is causing much intrigue.",
-      "pt": "O que está criando esses pontos incomuns? Pontos de cor clara nas rochas marcianas, cada uma cercada por uma fronteira escura, foram descobertas no ano passado pela perseverança da NASA Rover explorando Marte.  Apelidados de manchas de leopardo por causa de sua aparentemente semelhança com as marcas em predadores famosos à terra, esses padrões curiosos estão sendo estudados com a possibilidade de que foram criados pela vida marciana antiga.  Os pontos na foto medem apenas milímetros e foram descobertos em uma rocha maior chamada Cheyava Falls.  A especulação emocionante, mas não comprovada, é que, há muito tempo, os micróbios geraram energia com reações químicas que transformaram a rocha do vermelho para o branco, deixando um anel de biossignatura escuro, como alguns pontos de aparência semelhante nas rochas da terra. Embora outras explicações não biológicas não tenham sido descartadas, a especulação focada nessa origem biológica potencial está causando muita intriga."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2509/LeopardSpots_Perseverance_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2509/LeopardSpots_Perseverance_1648.jpg",
-    "copyright": null
   }
 ]
