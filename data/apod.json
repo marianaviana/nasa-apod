@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-11-19",
+    "title": {
+      "en": "Chamaeleon Dark Nebulas",
+      "pt": "Nebulosas Negras Camaleão"
+    },
+    "explanation": {
+      "en": "Sometimes the dark dust of interstellar space has an angular elegance.  Such is the case toward the far-south constellation of Chamaeleon. Normally too faint to see, dark dust is best known for blocking visible light from stars and galaxies behind it. In this 11.4-hour exposure, however, the dust is seen mostly in light of its own, with its strong red and near-infrared colors creating a brown hue. Contrastingly blue, a bright star Beta Chamaeleontis is visible on the upper right of the V, with the dust that surrounds it preferentially reflecting blue light from its primarily blue-white color.  All of the pictured stars and dust occur in our own Milky Way Galaxy with one notable exception: a white spot just below Beta Chamaeleontis is the galaxy IC 3104, which lies far in the distance.  Interstellar dust is mostly created in the cool atmospheres of giant stars and dispersed into space by stellar light, stellar winds, and stellar explosions such as supernovas.",
+      "pt": "Às vezes, a poeira escura do espaço interestelar tem uma elegância angular.  Esse é o caso da constelação do Camaleão, no extremo sul. Normalmente muito fraca para ser vista, a poeira escura é mais conhecida por bloquear a luz visível das estrelas e galáxias atrás dela. Nesta exposição de 11,4 horas, no entanto, a poeira é vista principalmente sob luz própria, com as suas fortes cores vermelhas e infravermelhas próximas criando uma tonalidade castanha. Contrastando com o azul, uma estrela brilhante Beta Chamaeleontis é visível no canto superior direito do V, com a poeira que a rodeia refletindo preferencialmente a luz azul de sua cor principalmente branco-azulada.  Todas as estrelas e poeira retratadas ocorrem na nossa galáxia, a Via Láctea, com uma exceção notável: uma mancha branca logo abaixo de Beta Chamaeleontis é a galáxia IC 3104, que fica muito distante.  A poeira interestelar é criada principalmente nas atmosferas frias de estrelas gigantes e dispersa no espaço pela luz estelar, ventos estelares e explosões estelares, como supernovas."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2511/Chamaeleon_Houbo_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2511/Chamaeleon_Houbo_3691.jpg",
+    "copyright": ", Xinran Li & , Houbo Zhao,"
+  },
+  {
     "date": "2025-11-18",
     "title": {
       "en": "The Galactic Plane: Radio Versus Visible",
@@ -431,20 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2509/CometLemmon_DeWinter_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2509/CometLemmon_DeWinter_3549.jpg",
     "copyright": ", Victor Sabet & , Julien De Winter,"
-  },
-  {
-    "date": "2025-09-29",
-    "title": {
-      "en": "Two Camera Comets in One Sky",
-      "pt": "Dois cometas de câmera em um céu"
-    },
-    "explanation": {
-      "en": "It may look like these comets are racing, but they are not. Comets C/2025 K1 ATLAS (left) and C/2025 R2 SWAN (right) appeared near each other by chance last week in the featured image taken from France's Reunion Island in the southern Indian Ocean.  Fainter Comet ATLAS is approaching our Sun and will reach its closest approach in early October when it is also expected to be its brightest -- although still only likely visible with long exposures on a camera.  The brighter comet, nicknamed SWAN25B, is now headed away from our Sun, although its closest approach to Earth is expected in mid-October, when optimistic estimates have it becoming bright enough to see with the unaided eye.  Each comet has a greenish coma of expelled gas and an ion tail pointing away from the Sun.    Growing Gallery: Comet SWAN25B",
-      "pt": "Pode parecer que esses cometas estão correndo, mas não estão. Cometas C/2025 K1 Atlas (à esquerda) e C/2025 R2 Swan (à direita) apareceram perto um do outro por acaso na semana passada, na imagem em destaque retirada da ilha da reunião da França, no sul do Oceano Índico.  Atlas cometas mais fracas está se aproximando do nosso Sol e chegará à sua abordagem mais próxima no início de outubro, quando se espera que seja o mais brilhante - embora ainda provavelmente visível apenas com longas exposições em uma câmera.  O cometa mais brilhante, apelidado de Swan25b, agora está se afastado do nosso sol, embora sua abordagem mais próxima da Terra seja esperada em meados de outubro, quando estimativas otimistas se tornam brilhantes o suficiente para ver com o olho sem ajuda.  Cada cometa tem um coma esverdeado de gás expelido e uma cauda de íons apontando para longe do sol.    Galeria Growing: Comet Swan25b"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2509/TwoComets_Perrot_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2509/TwoComets_Perrot_960.jpg",
-    "copyright": ", Luc Perrot, (TWAN),"
   }
 ]
