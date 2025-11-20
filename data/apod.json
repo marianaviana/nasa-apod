@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-11-20",
+    "title": {
+      "en": "Alnitak, Alnilam, Mintaka",
+      "pt": "Alnitak, Alnilam, Mintaka"
+    },
+    "explanation": {
+      "en": "Alnitak, Alnilam, and Mintaka are the bright bluish stars from east to west (upper right to lower left) along the diagonal in this cosmic vista. Otherwise known as the Belt of Orion, these three blue supergiant stars are hotter and much more massive than the Sun. They lie from 700 to 2,000 light-years away, born of Orion's well-studied interstellar clouds. In fact, clouds of gas and dust adrift in this region have some surprisingly familiar shapes, including the dark Horsehead Nebula and Flame Nebula near Alnitak at the upper right. The famous Orion Nebula itself is off the right edge of this colorful starfield. The telescopic frame spans almost 4 degrees on the sky.",
+      "pt": "Alnitak, Alnilam e Mintaka são as estrelas azuis brilhantes de leste a oeste (canto superior direito para canto inferior esquerdo) ao longo da diagonal nesta vista cósmica. Também conhecidas como Cinturão de Órion, essas três estrelas supergigantes azuis são mais quentes e muito mais massivas que o Sol. Eles ficam entre 700 e 2.000 anos-luz de distância, nascidos das bem estudadas nuvens interestelares de Órion. Na verdade, as nuvens de gás e poeira à deriva nesta região têm algumas formas surpreendentemente familiares, incluindo a escura Nebulosa Cabeça de Cavalo e a Nebulosa da Chama, perto de Alnitak, no canto superior direito. A famosa Nebulosa de Órion fica na borda direita deste campo estelar colorido. A estrutura telescópica se estende por quase 4 graus no céu."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2511/NebularSymphonyOrionsBelt1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2511/NebularSymphonyOrionsBelt2048.jpg",
+    "copyright": "Aygen Erkaslan"
+  },
+  {
     "date": "2025-11-19",
     "title": {
       "en": "Chamaeleon Dark Nebulas",
@@ -431,20 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_6043.jpg",
     "copyright": ", Brian Meyers,"
-  },
-  {
-    "date": "2025-09-30",
-    "title": {
-      "en": "Comet Lemmon Brightens",
-      "pt": "O cometa Lemmon ilumina"
-    },
-    "explanation": {
-      "en": "Comet Lemmon is brightening and moving into morning northern skies. Besides Comet SWAN25B and Comet ATLAS, Comet C/2025 A6 (Lemmon) is now the third comet currently visible with binoculars and on long camera exposures.  Comet Lemmon was discovered early this year and is still headed into the inner Solar System. The comet will round the Sun on November 8, but first it will pass its nearest to the Earth -- at about half the Earth-Sun distance -- on October 21.  Although the brightnesses of comets are notoriously hard to predict, optimistic estimates have Comet Lemmon then becoming visible to the unaided eye. The comet should be best seen in predawn skies until mid-October, when it also becomes visible in evening skies.  The featured image showing the comet's split and rapidly changing ion tail was taken in Texas, USA late last week.    Growing Gallery: Comet Lemmon in 2025",
-      "pt": "O cometa Lemmon está iluminando e se movendo para o céu do norte da manhã. Além do cometa Swan25b e Comet Atlas, o Comet C/2025 A6 (Lemmon) agora é o terceiro cometa atualmente visível com binóculos e exposições de câmera longas.  O cometa Lemmon foi descoberto no início deste ano e ainda está indo para o sistema solar interno. O cometa vai de volta ao sol em 8 de novembro, mas primeiro passará o mais próximo da terra-a cerca da metade da distância da terra-em 21 de outubro. Embora os brilho dos cometas sejam notoriamente difíceis de prever, estimativas otimistas têm o cometa que os lemon se tornam visíveis ao olho sem ajuda. O cometa deve ser melhor visto nos céus pré-ator até meados de outubro, quando também se torna visível no céu noturno.  A imagem em destaque mostrando a divisão do cometa e a cauda de íons em rápida mudança foi tirada no Texas, EUA, no final da semana passada.    Galeria Growing: Comet Lemmon em 2025"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2509/CometLemmon_DeWinter_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2509/CometLemmon_DeWinter_3549.jpg",
-    "copyright": ", Victor Sabet & , Julien De Winter,"
   }
 ]
