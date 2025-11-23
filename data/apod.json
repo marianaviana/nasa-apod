@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-11-23",
+    "title": {
+      "en": "The Observable Universe",
+      "pt": "O Universo Observável"
+    },
+    "explanation": {
+      "en": "How far can you see? Everything you can see, and everything you could possibly see, right now, assuming your eyes could detect all types of radiations around you -- is the observable universe.  In light, the farthest we can see comes from the cosmic microwave background, a time 13.8 billion years ago when the universe was opaque like thick fog. Some neutrinos and gravitational waves that surround us come from even farther out, but humanity does not yet have the technology to detect them. The featured image illustrates the observable universe on an increasingly compact scale, with the Earth and Sun at the center surrounded by our Solar System, nearby stars, nearby galaxies, distant galaxies, filaments of early matter, and the cosmic microwave background. Cosmologists typically assume that our observable universe is just the nearby part of a greater entity known as \"the universe\" where the same physics applies.  However, there are several lines of popular but speculative reasoning that assert that even our universe is part of a greater multiverse where either different physical constants occur, different physical laws apply, higher dimensions operate, or slightly different-by-chance versions of our standard universe exist.   Explore the Observable Universe: Random APOD Generator",
+      "pt": "Quão longe você consegue ver? Tudo o que você pode ver, e tudo o que você poderia ver, neste momento, supondo que seus olhos pudessem detectar todos os tipos de radiações ao seu redor – é o universo observável.  Na luz, o mais longe que podemos ver vem da radiação cósmica de fundo em micro-ondas, uma época há 13,8 mil milhões de anos, quando o Universo era opaco como um nevoeiro espesso. Alguns neutrinos e ondas gravitacionais que nos rodeiam vêm de lugares ainda mais distantes, mas a humanidade ainda não possui tecnologia para detectá-los. A imagem apresentada ilustra o universo observável numa escala cada vez mais compacta, com a Terra e o Sol no centro rodeados pelo nosso Sistema Solar, estrelas próximas, galáxias próximas, galáxias distantes, filamentos de matéria primitiva e a radiação cósmica de fundo em micro-ondas. Os cosmólogos normalmente assumem que o nosso universo observável é apenas a parte próxima de uma entidade maior conhecida como “o universo”, onde a mesma física se aplica.  No entanto, existem várias linhas de raciocínio popular, mas especulativo, que afirmam que mesmo o nosso universo faz parte de um multiverso maior, onde ocorrem constantes físicas diferentes, se aplicam leis físicas diferentes, operam dimensões superiores ou existem versões ligeiramente diferentes por acaso do nosso universo padrão.   Explore o Universo Observável: Gerador APOD Aleatório"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2511/ObsUni_WikipediaPablo_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2511/ObsUni_WikipediaPablo_2100.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-11-22",
     "title": {
       "en": "Dione and Rhea Ring Transit",
@@ -366,21 +381,6 @@
     "explanation": {
       "en": "Ten thousand years ago, before the dawn of recorded human history, a new light would suddenly have appeared in the night sky and faded after a few weeks.  Today we know this light was from a supernova, or exploding star, and record the expanding debris cloud as the Veil Nebula, a supernova remnant.  This sharp telescopic view is centered on a western segment of the Veil Nebula cataloged as NGC 6960 but less formally known as the Witch's Broom Nebula.  Blasted out in the cataclysmic explosion, an interstellar shock wave plows through space sweeping up and exciting interstellar material. Imaged with narrow band filters, the glowing filaments are like long ripples in a sheet seen almost edge on, remarkably well separated into atomic hydrogen (red) and oxygen (blue-green) gas. The complete supernova remnant lies about 1400 light-years away towards the constellation Cygnus. This Witch's Broom actually spans about 35 light-years. The bright star in the frame is 52 Cygni, visible with the unaided eye from a dark location but unrelated to the ancient supernova remnant.",
       "pt": "Dez mil anos atrás, antes do início da história humana registrada, uma nova luz teria aparecido repentinamente no céu noturno e desaparecido após algumas semanas.  Hoje sabemos que esta luz veio de uma supernova, ou estrela em explosão, e registamos a nuvem de detritos em expansão como a Nebulosa do Véu, um remanescente de supernova.  Esta visão telescópica nítida está centrada num segmento ocidental da Nebulosa do Véu, catalogada como NGC 6960, mas menos formalmente conhecida como Nebulosa da Vassoura de Bruxa.  Explodida na explosão cataclísmica, uma onda de choque interestelar atravessa o espaço, varrendo e excitando material interestelar. Observados com filtros de banda estreita, os filamentos brilhantes são como longas ondulações em uma folha vista quase de lado, notavelmente bem separados em gás atômico hidrogênio (vermelho) e oxigênio (azul esverdeado). O remanescente completo da supernova fica a cerca de 1.400 anos-luz de distância, na direção da constelação de Cygnus. Na verdade, esta Vassoura de Bruxa se estende por cerca de 35 anos-luz. A estrela brilhante na imagem é 52 Cygni, visível a olho nu a partir de um local escuro, mas sem relação com o antigo remanescente de supernova."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_6043.jpg",
-    "copyright": ", Brian Meyers,"
-  },
-  {
-    "date": "2025-10-01",
-    "title": {
-      "en": "Astronomy Picture of the Day",
-      "pt": "Imagem de astronomia do dia"
-    },
-    "explanation": {
-      "en": "Ten thousand years ago, before the dawn of recorded human history, a new light would suddenly have appeared in the night sky and faded after a few weeks.  Today we know this light was from a supernova, or exploding star, and record the expanding debris cloud as the Veil Nebula, a supernova remnant.  This sharp telescopic view is centered on a western segment of the Veil Nebula cataloged as NGC 6960 but less formally known as the Witch's Broom Nebula.  Blasted out in the cataclysmic explosion, an interstellar shock wave plows through space sweeping up and exciting interstellar material. Imaged with narrow band filters, the glowing filaments are like long ripples in a sheet seen almost edge on, remarkably well separated into atomic hydrogen (red) and oxygen (blue-green) gas. The complete supernova remnant lies about 1400 light-years away towards the constellation Cygnus. This Witch's Broom actually spans about 35 light-years. The bright star in the frame is 52 Cygni, visible with the unaided eye from a dark location but unrelated to the ancient supernova remnant.",
-      "pt": "Dez mil anos atrás, antes do amanhecer da história humana registrada, uma nova luz teria de repente apareceu no céu noturno e desapareceu depois de algumas semanas.  Hoje sabemos que essa luz era de uma supernova, ou estrela explosiva, e registra a nuvem de detritos em expansão como a nebulosa do véu, um remanescente de supernova.  Esta visão telescópica aguda é centrada em um segmento ocidental do Nebulosa do Véu catalogado como NGC 6960, mas menos formalmente conhecido como Nebulosa da Vigeira da Bruxa.  Explosão na explosão cataclísmica, uma onda de choque interestelar passa pelo espaço que varre e o emocionante material interestelar. Imaginados com filtros de banda estreitos, os filamentos brilhantes são como ondulações longas em uma folha vista quase na borda, notavelmente bem separada em hidrogênio atômico (vermelho) e gás de oxigênio (azul-verde). O remanescente completo da Supernova fica a cerca de 1400 anos-luz de distância em direção ao Cygnus de constelação. Na verdade, a vassoura desta bruxa abrange cerca de 35 anos-luz. A estrela brilhante no quadro é 52 Cygni, visível com o olho sem ajuda de um local escuro, mas não relacionado ao antigo remanescente da Supernova."
     },
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg",
