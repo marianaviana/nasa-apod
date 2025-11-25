@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-11-25",
+    "title": {
+      "en": "Comet Lemmon and the Milky Way",
+      "pt": "Cometa Lemmon e a Via Láctea"
+    },
+    "explanation": {
+      "en": "What did Comet Lemmon look like when it was at its best? One example is pictured here, featuring three celestial spectacles all at different distances. The closest spectacle is the snowcapped Meili Mountains, part of the Himalayas in China.  The middle marvel is Comet Lemmon near its picturesque best early this month, showing not only a white dust tail trailing off to the right but its blue solar wind-distorted ion tail trailing off to the left.  Far in the distance on the left is the magnificent central plane of our Milky Way Galaxy, featuring dark dust, red nebula, and including billions of Sun-like stars. Comet C/2025 A6 (Lemmon) is already fading as it heads back into the outer Solar System, while the Himalayan mountains will gradually erode over the next billion years. The Milky Way Galaxy, though, will live on -- forming new mountains and comets -- for many billions of years into the future.",
+      "pt": "Como era o cometa Lemmon quando estava no seu melhor? Um exemplo é mostrado aqui, apresentando três espetáculos celestes, todos a distâncias diferentes. O espetáculo mais próximo são as montanhas Meili, cobertas de neve, parte do Himalaia, na China.  A maravilha do meio é o cometa Lemmon, próximo de seu melhor pitoresco no início deste mês, mostrando não apenas uma cauda de poeira branca se arrastando para a direita, mas sua cauda de íon azul distorcida pelo vento solar se arrastando para a esquerda.  Ao longe, à esquerda, está o magnífico plano central da nossa Galáxia, a Via Láctea, com poeira escura, nebulosa vermelha e incluindo bilhões de estrelas semelhantes ao Sol. O cometa C/2025 A6 (Lemmon) já está desaparecendo ao retornar para o Sistema Solar exterior, enquanto as montanhas do Himalaia sofrerão erosão gradual ao longo dos próximos bilhões de anos. A Via Láctea, no entanto, continuará viva - formando novas montanhas e cometas - durante muitos milhares de milhões de anos no futuro."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2511/MilkyLemmon_Zixuan_1080.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2511/MilkyLemmon_Zixuan_5008.jpg",
+    "copyright": ", Lin Zixuan , (Tsinghua U.),"
+  },
+  {
     "date": "2025-11-24",
     "title": {
       "en": "Apep: Unusual Dust Shells from Webb",
@@ -396,21 +411,6 @@
     "explanation": {
       "en": "Ten thousand years ago, before the dawn of recorded human history, a new light would suddenly have appeared in the night sky and faded after a few weeks.  Today we know this light was from a supernova, or exploding star, and record the expanding debris cloud as the Veil Nebula, a supernova remnant.  This sharp telescopic view is centered on a western segment of the Veil Nebula cataloged as NGC 6960 but less formally known as the Witch's Broom Nebula.  Blasted out in the cataclysmic explosion, an interstellar shock wave plows through space sweeping up and exciting interstellar material. Imaged with narrow band filters, the glowing filaments are like long ripples in a sheet seen almost edge on, remarkably well separated into atomic hydrogen (red) and oxygen (blue-green) gas. The complete supernova remnant lies about 1400 light-years away towards the constellation Cygnus. This Witch's Broom actually spans about 35 light-years. The bright star in the frame is 52 Cygni, visible with the unaided eye from a dark location but unrelated to the ancient supernova remnant.",
       "pt": "Dez mil anos atrás, antes do início da história humana registrada, uma nova luz teria aparecido repentinamente no céu noturno e desaparecido após algumas semanas.  Hoje sabemos que esta luz veio de uma supernova, ou estrela em explosão, e registamos a nuvem de detritos em expansão como a Nebulosa do Véu, um remanescente de supernova.  Esta visão telescópica nítida está centrada num segmento ocidental da Nebulosa do Véu, catalogada como NGC 6960, mas menos formalmente conhecida como Nebulosa da Vassoura de Bruxa.  Explodida na explosão cataclísmica, uma onda de choque interestelar atravessa o espaço, varrendo e excitando material interestelar. Observados com filtros de banda estreita, os filamentos brilhantes são como longas ondulações em uma folha vista quase de lado, notavelmente bem separados em gás atômico hidrogênio (vermelho) e oxigênio (azul esverdeado). O remanescente completo da supernova fica a cerca de 1.400 anos-luz de distância, na direção da constelação de Cygnus. Na verdade, esta Vassoura de Bruxa se estende por cerca de 35 anos-luz. A estrela brilhante na imagem é 52 Cygni, visível a olho nu a partir de um local escuro, mas sem relação com o antigo remanescente de supernova."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_6043.jpg",
-    "copyright": ", Brian Meyers,"
-  },
-  {
-    "date": "2025-10-01",
-    "title": {
-      "en": "Astronomy Picture of the Day",
-      "pt": "Imagem de astronomia do dia"
-    },
-    "explanation": {
-      "en": "Ten thousand years ago, before the dawn of recorded human history, a new light would suddenly have appeared in the night sky and faded after a few weeks.  Today we know this light was from a supernova, or exploding star, and record the expanding debris cloud as the Veil Nebula, a supernova remnant.  This sharp telescopic view is centered on a western segment of the Veil Nebula cataloged as NGC 6960 but less formally known as the Witch's Broom Nebula.  Blasted out in the cataclysmic explosion, an interstellar shock wave plows through space sweeping up and exciting interstellar material. Imaged with narrow band filters, the glowing filaments are like long ripples in a sheet seen almost edge on, remarkably well separated into atomic hydrogen (red) and oxygen (blue-green) gas. The complete supernova remnant lies about 1400 light-years away towards the constellation Cygnus. This Witch's Broom actually spans about 35 light-years. The bright star in the frame is 52 Cygni, visible with the unaided eye from a dark location but unrelated to the ancient supernova remnant.",
-      "pt": "Dez mil anos atrás, antes do amanhecer da história humana registrada, uma nova luz teria de repente apareceu no céu noturno e desapareceu depois de algumas semanas.  Hoje sabemos que essa luz era de uma supernova, ou estrela explosiva, e registra a nuvem de detritos em expansão como a nebulosa do véu, um remanescente de supernova.  Esta visão telescópica aguda é centrada em um segmento ocidental do Nebulosa do Véu catalogado como NGC 6960, mas menos formalmente conhecido como Nebulosa da Vigeira da Bruxa.  Explosão na explosão cataclísmica, uma onda de choque interestelar passa pelo espaço que varre e o emocionante material interestelar. Imaginados com filtros de banda estreitos, os filamentos brilhantes são como ondulações longas em uma folha vista quase na borda, notavelmente bem separada em hidrogênio atômico (vermelho) e gás de oxigênio (azul-verde). O remanescente completo da Supernova fica a cerca de 1400 anos-luz de distância em direção ao Cygnus de constelação. Na verdade, a vassoura desta bruxa abrange cerca de 35 anos-luz. A estrela brilhante no quadro é 52 Cygni, visível com o olho sem ajuda de um local escuro, mas não relacionado ao antigo remanescente da Supernova."
     },
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg",
