@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-11-28",
+    "title": {
+      "en": "NGC 6888: The Crescent Nebula",
+      "pt": "NGC 6888: A Nebulosa Crescente"
+    },
+    "explanation": {
+      "en": "NGC 6888, also known as the Crescent Nebula, is a about 25 light-years across, a cosmic bubble blown by winds from its central, massive star. This deep telescopic image includes narrowband image data, to isolate light from hydrogen and oxygen atoms. The oxygen atoms produce the blue-green hue that seems to enshroud the nebula's detailed folds and filaments. Visible within the nebula, NGC 6888's central star is classified as a Wolf-Rayet star (WR 136). The star is shedding its outer envelope in a strong stellar wind, ejecting the equivalent of the Sun's mass every 10,000 years.  In fact, the Crescent Nebula's complex structures are likely the result of this strong wind interacting with material ejected in an earlier phase. Burning fuel at a prodigious rate and near the end of its stellar life, this star should ultimately go out with a bang in a spectacular supernova explosion. Found in the nebula rich constellation Cygnus, NGC 6888 is about 5,000 light-years away.",
+      "pt": "NGC 6888, também conhecida como Nebulosa Crescente, tem cerca de 25 anos-luz de diâmetro, uma bolha cósmica soprada pelos ventos de sua estrela central massiva. Esta imagem telescópica profunda inclui dados de imagem de banda estreita, para isolar a luz dos átomos de hidrogênio e oxigênio. Os átomos de oxigênio produzem a tonalidade azul esverdeada que parece envolver as dobras e filamentos detalhados da nebulosa. Visível dentro da nebulosa, a estrela central de NGC 6888 é classificada como uma estrela Wolf-Rayet (WR 136). A estrela está a libertar-se do seu invólucro exterior num forte vento estelar, ejetando o equivalente à massa do Sol a cada 10.000 anos.  Na verdade, as estruturas complexas da Nebulosa Crescente são provavelmente o resultado da interação deste vento forte com material ejetado numa fase anterior. Queimando combustível a um ritmo prodigioso e perto do fim da sua vida estelar, esta estrela deverá finalmente extinguir-se com um estrondo numa espectacular explosão de supernova. Encontrada na constelação de Cygnus, rica em nebulosas, NGC 6888 está a cerca de 5.000 anos-luz de distância."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2511/NGC6888_40_300s_F2_1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2511/NGC6888_40_300s_2048.jpg",
+    "copyright": "Greg Bass"
+  },
+  {
     "date": "2025-11-27",
     "title": {
       "en": "Portrait of NGC 1055",
@@ -422,21 +437,6 @@
     "title": {
       "en": "Astronomy Picture of the Day",
       "pt": "Foto Astronômica do Dia"
-    },
-    "explanation": {
-      "en": "Ten thousand years ago, before the dawn of recorded human history, a new light would suddenly have appeared in the night sky and faded after a few weeks.  Today we know this light was from a supernova, or exploding star, and record the expanding debris cloud as the Veil Nebula, a supernova remnant.  This sharp telescopic view is centered on a western segment of the Veil Nebula cataloged as NGC 6960 but less formally known as the Witch's Broom Nebula.  Blasted out in the cataclysmic explosion, an interstellar shock wave plows through space sweeping up and exciting interstellar material. Imaged with narrow band filters, the glowing filaments are like long ripples in a sheet seen almost edge on, remarkably well separated into atomic hydrogen (red) and oxygen (blue-green) gas. The complete supernova remnant lies about 1400 light-years away towards the constellation Cygnus. This Witch's Broom actually spans about 35 light-years. The bright star in the frame is 52 Cygni, visible with the unaided eye from a dark location but unrelated to the ancient supernova remnant.",
-      "pt": "Dez mil anos atrás, antes do início da história humana registrada, uma nova luz teria aparecido repentinamente no céu noturno e desaparecido após algumas semanas.  Hoje sabemos que esta luz veio de uma supernova, ou estrela em explosão, e registamos a nuvem de detritos em expansão como a Nebulosa do Véu, um remanescente de supernova.  Esta visão telescópica nítida está centrada num segmento ocidental da Nebulosa do Véu, catalogada como NGC 6960, mas menos formalmente conhecida como Nebulosa da Vassoura de Bruxa.  Explodida na explosão cataclísmica, uma onda de choque interestelar atravessa o espaço, varrendo e excitando material interestelar. Observados com filtros de banda estreita, os filamentos brilhantes são como longas ondulações em uma folha vista quase de lado, notavelmente bem separados em gás atômico hidrogênio (vermelho) e oxigênio (azul esverdeado). O remanescente completo da supernova fica a cerca de 1.400 anos-luz de distância, na direção da constelação de Cygnus. Na verdade, esta Vassoura de Bruxa se estende por cerca de 35 anos-luz. A estrela brilhante na imagem é 52 Cygni, visível a olho nu a partir de um local escuro, mas sem relação com o antigo remanescente de supernova."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_6043.jpg",
-    "copyright": ", Brian Meyers,"
-  },
-  {
-    "date": "2025-10-01",
-    "title": {
-      "en": "Astronomy Picture of the Day",
-      "pt": "Imagem de astronomia do dia"
     },
     "explanation": {
       "en": "Ten thousand years ago, before the dawn of recorded human history, a new light would suddenly have appeared in the night sky and faded after a few weeks.  Today we know this light was from a supernova, or exploding star, and record the expanding debris cloud as the Veil Nebula, a supernova remnant.  This sharp telescopic view is centered on a western segment of the Veil Nebula cataloged as NGC 6960 but less formally known as the Witch's Broom Nebula.  Blasted out in the cataclysmic explosion, an interstellar shock wave plows through space sweeping up and exciting interstellar material. Imaged with narrow band filters, the glowing filaments are like long ripples in a sheet seen almost edge on, remarkably well separated into atomic hydrogen (red) and oxygen (blue-green) gas. The complete supernova remnant lies about 1400 light-years away towards the constellation Cygnus. This Witch's Broom actually spans about 35 light-years. The bright star in the frame is 52 Cygni, visible with the unaided eye from a dark location but unrelated to the ancient supernova remnant.",
