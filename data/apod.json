@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-11-30",
+    "title": {
+      "en": "The Surface of Titan from Huygens",
+      "pt": "A Superfície de Titã de Huygens"
+    },
+    "explanation": {
+      "en": "If you could stand on Titan -- what would you see? The featured color view from Titan gazes across an unfamiliar and distant landscape on Saturn's largest moon.  The scene was recorded by ESA's Huygens probe in 2005 after a 2.5-hour descent through a thick atmosphere of nitrogen laced with methane.  Bathed in an eerie orange light at ground level, rocks strewn about the scene could well be composed of water and hydrocarbons frozen solid at an inhospitable temperature of negative 179 degrees C.  The large light-toned rock below and left of center is only about 15 centimeters across and lies 85 centimeters away.  The saucer-shaped spacecraft is believed to have penetrated about 15 centimeters into a place on Titan's surface that had the consistency of wet sand or clay.  Huygen's batteries enabled the probe to take and transmit data for more than 90 minutes after landing.  Titan's bizarre chemical environment may bear similarities to planet Earth's before life evolved.",
+      "pt": "Se você pudesse subir em Titã – o que você veria? A vista colorida apresentada de Titã contempla uma paisagem desconhecida e distante da maior lua de Saturno.  A cena foi registada pela sonda Huygens da ESA em 2005, após uma descida de 2,5 horas através de uma espessa atmosfera de azoto misturada com metano.  Banhadas por uma estranha luz laranja ao nível do solo, as rochas espalhadas pela cena poderiam muito bem ser compostas de água e hidrocarbonetos congelados a uma temperatura inóspita de 179 graus C negativos. A grande rocha de tom claro abaixo e à esquerda do centro tem apenas cerca de 15 centímetros de diâmetro e fica a 85 centímetros de distância.  Acredita-se que a espaçonave em forma de disco tenha penetrado cerca de 15 centímetros em um local da superfície de Titã que tinha consistência de areia úmida ou argila.  As baterias da Huygen permitiram que a sonda captasse e transmitisse dados por mais de 90 minutos após o pouso.  O bizarro ambiente químico de Titã pode ter semelhanças com o do planeta Terra antes da evolução da vida."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2511/Titan_Huygens_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2511/Titan_Huygens_960.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-11-29",
     "title": {
       "en": "Moon Games",
@@ -381,21 +396,6 @@
     "explanation": {
       "en": "Ten thousand years ago, before the dawn of recorded human history, a new light would suddenly have appeared in the night sky and faded after a few weeks.  Today we know this light was from a supernova, or exploding star, and record the expanding debris cloud as the Veil Nebula, a supernova remnant.  This sharp telescopic view is centered on a western segment of the Veil Nebula cataloged as NGC 6960 but less formally known as the Witch's Broom Nebula.  Blasted out in the cataclysmic explosion, an interstellar shock wave plows through space sweeping up and exciting interstellar material. Imaged with narrow band filters, the glowing filaments are like long ripples in a sheet seen almost edge on, remarkably well separated into atomic hydrogen (red) and oxygen (blue-green) gas. The complete supernova remnant lies about 1400 light-years away towards the constellation Cygnus. This Witch's Broom actually spans about 35 light-years. The bright star in the frame is 52 Cygni, visible with the unaided eye from a dark location but unrelated to the ancient supernova remnant.",
       "pt": "Dez mil anos atrás, antes do início da história humana registrada, uma nova luz teria aparecido repentinamente no céu noturno e desaparecido após algumas semanas.  Hoje sabemos que esta luz veio de uma supernova, ou estrela em explosão, e registamos a nuvem de detritos em expansão como a Nebulosa do Véu, um remanescente de supernova.  Esta visão telescópica nítida está centrada num segmento ocidental da Nebulosa do Véu, catalogada como NGC 6960, mas menos formalmente conhecida como Nebulosa da Vassoura de Bruxa.  Explodida na explosão cataclísmica, uma onda de choque interestelar atravessa o espaço, varrendo e excitando material interestelar. Observados com filtros de banda estreita, os filamentos brilhantes são como longas ondulações em uma folha vista quase de lado, notavelmente bem separados em gás atômico hidrogênio (vermelho) e oxigênio (azul esverdeado). O remanescente completo da supernova fica a cerca de 1.400 anos-luz de distância, na direção da constelação de Cygnus. Na verdade, esta vassoura de bruxa se estende por cerca de 35 anos-luz. A estrela brilhante na imagem é 52 Cygni, visível a olho nu a partir de um local escuro, mas sem relação com o remanescente da antiga supernova."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_6043.jpg",
-    "copyright": ", Brian Meyers,"
-  },
-  {
-    "date": "2025-10-01",
-    "title": {
-      "en": "Astronomy Picture of the Day",
-      "pt": "Foto Astronômica do Dia"
-    },
-    "explanation": {
-      "en": "Ten thousand years ago, before the dawn of recorded human history, a new light would suddenly have appeared in the night sky and faded after a few weeks.  Today we know this light was from a supernova, or exploding star, and record the expanding debris cloud as the Veil Nebula, a supernova remnant.  This sharp telescopic view is centered on a western segment of the Veil Nebula cataloged as NGC 6960 but less formally known as the Witch's Broom Nebula.  Blasted out in the cataclysmic explosion, an interstellar shock wave plows through space sweeping up and exciting interstellar material. Imaged with narrow band filters, the glowing filaments are like long ripples in a sheet seen almost edge on, remarkably well separated into atomic hydrogen (red) and oxygen (blue-green) gas. The complete supernova remnant lies about 1400 light-years away towards the constellation Cygnus. This Witch's Broom actually spans about 35 light-years. The bright star in the frame is 52 Cygni, visible with the unaided eye from a dark location but unrelated to the ancient supernova remnant.",
-      "pt": "Dez mil anos atrás, antes do início da história humana registrada, uma nova luz teria aparecido repentinamente no céu noturno e desaparecido após algumas semanas.  Hoje sabemos que esta luz veio de uma supernova, ou estrela em explosão, e registamos a nuvem de detritos em expansão como a Nebulosa do Véu, um remanescente de supernova.  Esta visão telescópica nítida está centrada num segmento ocidental da Nebulosa do Véu, catalogada como NGC 6960, mas menos formalmente conhecida como Nebulosa da Vassoura de Bruxa.  Explodida na explosão cataclísmica, uma onda de choque interestelar atravessa o espaço, varrendo e excitando material interestelar. Observados com filtros de banda estreita, os filamentos brilhantes são como longas ondulações em uma folha vista quase de lado, notavelmente bem separados em gás atômico hidrogênio (vermelho) e oxigênio (azul esverdeado). O remanescente completo da supernova fica a cerca de 1.400 anos-luz de distância, na direção da constelação de Cygnus. Na verdade, esta Vassoura de Bruxa se estende por cerca de 35 anos-luz. A estrela brilhante na imagem é 52 Cygni, visível a olho nu a partir de um local escuro, mas sem relação com o antigo remanescente de supernova."
     },
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg",
