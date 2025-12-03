@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-12-03",
+    "title": {
+      "en": "Visualization: Near a Black Hole and Disk",
+      "pt": "Visualização: perto de um buraco negro e disco"
+    },
+    "explanation": {
+      "en": "What would it look like to plunge into a monster black hole?  This image from a supercomputer visualization shows the entire sky as seen from a simulated camera plunging toward a 4-million-solar-mass black hole, similar to the one at the center of our galaxy.  The camera lies about 16 million kilometers from the black hole’s event horizon and is moving inward at 62% the speed of light.  Thanks to gravity’s funhouse effects, the starry band of the Milky Way appears both as a compact loop at the top of this view and as a secondary image stretching across the bottom.  Move the cursor over the image for additional explanations.  Visualizations like this allow astronomers to explore black holes in ways not otherwise possible.",
+      "pt": "Como seria mergulhar em um buraco negro monstruoso?  Esta imagem de uma visualização de supercomputador mostra todo o céu visto por uma câmera simulada mergulhando em direção a um buraco negro de 4 milhões de massa solar, semelhante ao que está no centro da nossa galáxia.  A câmara situa-se a cerca de 16 milhões de quilómetros do horizonte de eventos do buraco negro e move-se para dentro a 62% da velocidade da luz.  Graças aos efeitos de parque de diversões da gravidade, a faixa estrelada da Via Láctea aparece como um loop compacto na parte superior desta imagem e como uma imagem secundária que se estende na parte inferior.  Mova o cursor sobre a imagem para obter explicações adicionais.  Visualizações como esta permitem aos astrónomos explorar buracos negros de formas que de outra forma não seriam possíveis."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2512/BlackHoleViz_Schnittman_1080.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2512/BlackHoleViz_Schnittman_8192.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-12-02",
     "title": {
       "en": "M77: Spiral Galaxy with an Active Center",
@@ -426,21 +441,6 @@
     "explanation": {
       "en": "Ten thousand years ago, before the dawn of recorded human history, a new light would suddenly have appeared in the night sky and faded after a few weeks.  Today we know this light was from a supernova, or exploding star, and record the expanding debris cloud as the Veil Nebula, a supernova remnant.  This sharp telescopic view is centered on a western segment of the Veil Nebula cataloged as NGC 6960 but less formally known as the Witch's Broom Nebula.  Blasted out in the cataclysmic explosion, an interstellar shock wave plows through space sweeping up and exciting interstellar material. Imaged with narrow band filters, the glowing filaments are like long ripples in a sheet seen almost edge on, remarkably well separated into atomic hydrogen (red) and oxygen (blue-green) gas. The complete supernova remnant lies about 1400 light-years away towards the constellation Cygnus. This Witch's Broom actually spans about 35 light-years. The bright star in the frame is 52 Cygni, visible with the unaided eye from a dark location but unrelated to the ancient supernova remnant.",
       "pt": "Dez mil anos atrás, antes do início da história humana registrada, uma nova luz teria aparecido repentinamente no céu noturno e desaparecido após algumas semanas.  Hoje sabemos que esta luz veio de uma supernova, ou estrela em explosão, e registamos a nuvem de detritos em expansão como a Nebulosa do Véu, um remanescente de supernova.  Esta visão telescópica nítida está centrada num segmento ocidental da Nebulosa do Véu, catalogada como NGC 6960, mas menos formalmente conhecida como Nebulosa da Vassoura de Bruxa.  Explodida na explosão cataclísmica, uma onda de choque interestelar atravessa o espaço, varrendo e excitando material interestelar. Observados com filtros de banda estreita, os filamentos brilhantes são como longas ondulações em uma folha vista quase de lado, notavelmente bem separados em gás atômico hidrogênio (vermelho) e oxigênio (azul esverdeado). O remanescente completo da supernova fica a cerca de 1.400 anos-luz de distância, na direção da constelação de Cygnus. Na verdade, esta vassoura de bruxa se estende por cerca de 35 anos-luz. A estrela brilhante na imagem é 52 Cygni, visível a olho nu a partir de um local escuro, mas sem relação com o remanescente da antiga supernova."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_6043.jpg",
-    "copyright": ", Brian Meyers,"
-  },
-  {
-    "date": "2025-10-01",
-    "title": {
-      "en": "Astronomy Picture of the Day",
-      "pt": "Foto Astronômica do Dia"
-    },
-    "explanation": {
-      "en": "Ten thousand years ago, before the dawn of recorded human history, a new light would suddenly have appeared in the night sky and faded after a few weeks.  Today we know this light was from a supernova, or exploding star, and record the expanding debris cloud as the Veil Nebula, a supernova remnant.  This sharp telescopic view is centered on a western segment of the Veil Nebula cataloged as NGC 6960 but less formally known as the Witch's Broom Nebula.  Blasted out in the cataclysmic explosion, an interstellar shock wave plows through space sweeping up and exciting interstellar material. Imaged with narrow band filters, the glowing filaments are like long ripples in a sheet seen almost edge on, remarkably well separated into atomic hydrogen (red) and oxygen (blue-green) gas. The complete supernova remnant lies about 1400 light-years away towards the constellation Cygnus. This Witch's Broom actually spans about 35 light-years. The bright star in the frame is 52 Cygni, visible with the unaided eye from a dark location but unrelated to the ancient supernova remnant.",
-      "pt": "Dez mil anos atrás, antes do início da história humana registrada, uma nova luz teria aparecido repentinamente no céu noturno e desaparecido após algumas semanas.  Hoje sabemos que esta luz veio de uma supernova, ou estrela em explosão, e registamos a nuvem de detritos em expansão como a Nebulosa do Véu, um remanescente de supernova.  Esta visão telescópica nítida está centrada num segmento ocidental da Nebulosa do Véu, catalogada como NGC 6960, mas menos formalmente conhecida como Nebulosa da Vassoura de Bruxa.  Explodida na explosão cataclísmica, uma onda de choque interestelar atravessa o espaço, varrendo e excitando material interestelar. Observados com filtros de banda estreita, os filamentos brilhantes são como longas ondulações em uma folha vista quase de lado, notavelmente bem separados em gás atômico hidrogênio (vermelho) e oxigênio (azul esverdeado). O remanescente completo da supernova fica a cerca de 1.400 anos-luz de distância, na direção da constelação de Cygnus. Na verdade, esta Vassoura de Bruxa se estende por cerca de 35 anos-luz. A estrela brilhante na imagem é 52 Cygni, visível a olho nu a partir de um local escuro, mas sem relação com o antigo remanescente de supernova."
     },
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg",
