@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-12-06",
+    "title": {
+      "en": "Apollo 17 at Shorty Crater",
+      "pt": "Apollo 17 na cratera Shorty"
+    },
+    "explanation": {
+      "en": "Fifty three years ago, in December of 1972, Apollo 17 astronauts Eugene Cernan and Harrison Schmitt spent about 75 hours on the Moon exploring the Taurus-Littrow valley, while colleague Ronald Evans orbited overhead. This snapshot from another world was taken by Cernan as he and Schmitt roamed the lunar valley's floor. The image shows Schmitt next to the lunar rover parked at the southeast rim of Shorty Crater.  That location is near the spot where geologist Schmitt discovered orange lunar soil. The Apollo 17 crew returned with 110 kilograms of rock and soil samples, more than was returned from any of the other lunar landing sites. And for now, Cernan and Schmitt are the last to walk on the Moon.",
+      "pt": "Há cinquenta e três anos, em dezembro de 1972, os astronautas da Apollo 17, Eugene Cernan e Harrison Schmitt, passaram cerca de 75 horas na Lua explorando o vale Taurus-Littrow, enquanto o colega Ronald Evans orbitava por cima. Esta foto de outro mundo foi tirada por Cernan enquanto ele e Schmitt vagavam pelo fundo do vale lunar. A imagem mostra Schmitt próximo ao veículo lunar estacionado na borda sudeste da cratera Shorty.  Esse local fica próximo ao local onde o geólogo Schmitt descobriu solo lunar laranja. A tripulação da Apollo 17 regressou com 110 quilogramas de amostras de rocha e solo, mais do que o que foi devolvido de qualquer outro local de aterragem lunar. E por enquanto, Cernan e Schmitt são os últimos a caminhar na Lua."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2512/moonshorty_apollo17_1080.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2512/moonshorty_apollo17_1498.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-12-05",
     "title": {
       "en": "The Bipolar Jets of KX Andromedae",
@@ -326,21 +341,6 @@
     "url": "https://apod.nasa.gov/apod/image/2511/DSC07080-Edit1024.jpeg",
     "hdurl": "https://apod.nasa.gov/apod/image/2511/DSC07080-Edit.jpeg",
     "copyright": "Samil Cabrera"
-  },
-  {
-    "date": "2025-10-01",
-    "title": {
-      "en": "Astronomy Picture of the Day",
-      "pt": "Foto Astronômica do Dia"
-    },
-    "explanation": {
-      "en": "Ten thousand years ago, before the dawn of recorded human history, a new light would suddenly have appeared in the night sky and faded after a few weeks.  Today we know this light was from a supernova, or exploding star, and record the expanding debris cloud as the Veil Nebula, a supernova remnant.  This sharp telescopic view is centered on a western segment of the Veil Nebula cataloged as NGC 6960 but less formally known as the Witch's Broom Nebula.  Blasted out in the cataclysmic explosion, an interstellar shock wave plows through space sweeping up and exciting interstellar material. Imaged with narrow band filters, the glowing filaments are like long ripples in a sheet seen almost edge on, remarkably well separated into atomic hydrogen (red) and oxygen (blue-green) gas. The complete supernova remnant lies about 1400 light-years away towards the constellation Cygnus. This Witch's Broom actually spans about 35 light-years. The bright star in the frame is 52 Cygni, visible with the unaided eye from a dark location but unrelated to the ancient supernova remnant.",
-      "pt": "Dez mil anos atrás, antes do início da história humana registrada, uma nova luz teria aparecido repentinamente no céu noturno e desaparecido após algumas semanas.  Hoje sabemos que esta luz veio de uma supernova, ou estrela em explosão, e registamos a nuvem de detritos em expansão como a Nebulosa do Véu, um remanescente de supernova.  Esta visão telescópica nítida está centrada num segmento ocidental da Nebulosa do Véu, catalogada como NGC 6960, mas menos formalmente conhecida como Nebulosa da Vassoura de Bruxa.  Explodida na explosão cataclísmica, uma onda de choque interestelar atravessa o espaço, varrendo e excitando material interestelar. Observados com filtros de banda estreita, os filamentos brilhantes são como longas ondulações em uma folha vista quase de lado, notavelmente bem separados em gás atômico hidrogênio (vermelho) e oxigênio (azul esverdeado). O remanescente completo da supernova fica a cerca de 1.400 anos-luz de distância, na direção da constelação de Cygnus. Na verdade, esta Vassoura de Bruxa se estende por cerca de 35 anos-luz. A estrela brilhante na imagem é 52 Cygni, visível a olho nu a partir de um local escuro, mas sem relação com o antigo remanescente de supernova."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_6043.jpg",
-    "copyright": ", Brian Meyers,"
   },
   {
     "date": "2025-10-01",
