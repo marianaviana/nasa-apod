@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-12-07",
+    "title": {
+      "en": "The Sun and Its Missing Colors",
+      "pt": "O Sol e as cores que faltam"
+    },
+    "explanation": {
+      "en": "It is still not known why the Sun's light is missing some colors.  Here are all the visible colors of the Sun, produced by passing the Sun's light through a prism-like device.  The spectrum was created at the McMath-Pierce Solar Observatory and shows, first off, that although our white-appearing Sun emits light of nearly every color, it appears brightest in yellow-green light.  The dark patches in the featured spectrum arise from gas at or above the Sun's surface absorbing sunlight emitted below.  Since different types of gas absorb different colors of light, it is possible to determine what gasses compose the Sun.  Helium, for example, was first discovered in 1868 on a solar spectrum and only later found here on Earth.  Today, the majority of spectral absorption lines have been identified - but not all.   Free APOD Lecture in Phoenix: Wednesday, December 10 at 7 pm",
+      "pt": "Ainda não se sabe por que faltam algumas cores na luz do Sol.  Aqui estão todas as cores visíveis do Sol, produzidas pela passagem da luz do Sol através de um dispositivo semelhante a um prisma.  O espectro foi criado no Observatório Solar McMath-Pierce e mostra, em primeiro lugar, que embora o nosso Sol, de aparência branca, emita luz de quase todas as cores, parece mais brilhante na luz verde-amarelada.  As manchas escuras no espectro apresentado surgem do gás na superfície do Sol ou acima dela, absorvendo a luz solar emitida abaixo.  Como diferentes tipos de gases absorvem diferentes cores de luz, é possível determinar quais gases compõem o Sol.  O hélio, por exemplo, foi descoberto pela primeira vez em 1868 no espectro solar e só mais tarde encontrado aqui na Terra.  Hoje, a maioria das linhas de absorção espectral foram identificadas – mas não todas.   Palestra APOD gratuita em Phoenix: quarta-feira, 10 de dezembro às 19h"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2512/sunspectrum_mpso_1080.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2512/sunspectrum_mpso_3071.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-12-06",
     "title": {
       "en": "Apollo 17 at Shorty Crater",
@@ -341,21 +356,6 @@
     "url": "https://apod.nasa.gov/apod/image/2511/DSC07080-Edit1024.jpeg",
     "hdurl": "https://apod.nasa.gov/apod/image/2511/DSC07080-Edit.jpeg",
     "copyright": "Samil Cabrera"
-  },
-  {
-    "date": "2025-10-01",
-    "title": {
-      "en": "Astronomy Picture of the Day",
-      "pt": "Foto Astronômica do Dia"
-    },
-    "explanation": {
-      "en": "Ten thousand years ago, before the dawn of recorded human history, a new light would suddenly have appeared in the night sky and faded after a few weeks.  Today we know this light was from a supernova, or exploding star, and record the expanding debris cloud as the Veil Nebula, a supernova remnant.  This sharp telescopic view is centered on a western segment of the Veil Nebula cataloged as NGC 6960 but less formally known as the Witch's Broom Nebula.  Blasted out in the cataclysmic explosion, an interstellar shock wave plows through space sweeping up and exciting interstellar material. Imaged with narrow band filters, the glowing filaments are like long ripples in a sheet seen almost edge on, remarkably well separated into atomic hydrogen (red) and oxygen (blue-green) gas. The complete supernova remnant lies about 1400 light-years away towards the constellation Cygnus. This Witch's Broom actually spans about 35 light-years. The bright star in the frame is 52 Cygni, visible with the unaided eye from a dark location but unrelated to the ancient supernova remnant.",
-      "pt": "Dez mil anos atrás, antes do início da história humana registrada, uma nova luz teria aparecido repentinamente no céu noturno e desaparecido após algumas semanas.  Hoje sabemos que esta luz veio de uma supernova, ou estrela em explosão, e registamos a nuvem de detritos em expansão como a Nebulosa do Véu, um remanescente de supernova.  Esta visão telescópica nítida está centrada num segmento ocidental da Nebulosa do Véu, catalogada como NGC 6960, mas menos formalmente conhecida como Nebulosa da Vassoura de Bruxa.  Explodida na explosão cataclísmica, uma onda de choque interestelar atravessa o espaço, varrendo e excitando material interestelar. Observados com filtros de banda estreita, os filamentos brilhantes são como longas ondulações em uma folha vista quase de lado, notavelmente bem separados em gás atômico hidrogênio (vermelho) e oxigênio (azul esverdeado). O remanescente completo da supernova fica a cerca de 1.400 anos-luz de distância, na direção da constelação de Cygnus. Na verdade, esta Vassoura de Bruxa se estende por cerca de 35 anos-luz. A estrela brilhante na imagem é 52 Cygni, visível a olho nu a partir de um local escuro, mas sem relação com o antigo remanescente de supernova."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_6043.jpg",
-    "copyright": ", Brian Meyers,"
   },
   {
     "date": "2025-10-01",
