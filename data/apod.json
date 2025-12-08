@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-12-08",
+    "title": {
+      "en": "Flying Over the Earth at Night",
+      "pt": "Voando sobre a Terra à noite"
+    },
+    "explanation": {
+      "en": "Many wonders are visible when flying over the Earth at night.  Such visual spectacles occur every day for astronauts in low Earth orbit, but the featured video captured several from the International Space Station (ISS) in 2011 and set them to rousing music.  Passing below are white clouds, orange city lights, lightning flashes in thunderstorms, and dark blue seas.  On the horizon is the golden haze of Earth's thin atmosphere, frequently decorated by dancing auroras as the video progresses.  The green parts of auroras typically remain below the space station, but the station flies right through the red and purple auroral peaks.  Solar panels of the ISS are seen around the frame edges.  The ominous wave of approaching brightness at the end of each sequence is just the dawn of the sunlit half of Earth, a dawn that occurs every 90 minutes.   Free APOD Lecture in Phoenix: This Wednesday (December 10) at 7 pm",
+      "pt": "Muitas maravilhas são visíveis ao sobrevoar a Terra à noite.  Tais espetáculos visuais ocorrem todos os dias para astronautas em órbita baixa da Terra, mas o vídeo apresentado capturou vários deles na Estação Espacial Internacional (ISS) em 2011 e os colocou ao som de músicas emocionantes.  Passando abaixo estão nuvens brancas, luzes laranja da cidade, relâmpagos em tempestades e mares azuis escuros.  No horizonte está a névoa dourada da fina atmosfera da Terra, frequentemente decorada por auroras dançantes à medida que o vídeo avança.  As partes verdes das auroras normalmente permanecem abaixo da estação espacial, mas a estação voa através dos picos aurorais vermelhos e roxos.  Painéis solares da ISS são vistos nas bordas da moldura.  A sinistra onda de brilho que se aproxima no final de cada sequência é apenas o amanhecer da metade da Terra iluminada pelo sol, um amanhecer que ocorre a cada 90 minutos.   Palestra APOD gratuita em Phoenix: nesta quarta-feira (10 de dezembro) às 19h"
+    },
+    "media_type": "video",
+    "url": "https://www.youtube.com/embed/FG0fTKAqZ5g?rel=0",
+    "hdurl": "https://www.youtube.com/embed/FG0fTKAqZ5g?rel=0",
+    "copyright": null
+  },
+  {
     "date": "2025-12-07",
     "title": {
       "en": "The Sun and Its Missing Colors",
@@ -356,21 +371,6 @@
     "url": "https://apod.nasa.gov/apod/image/2511/DSC07080-Edit1024.jpeg",
     "hdurl": "https://apod.nasa.gov/apod/image/2511/DSC07080-Edit.jpeg",
     "copyright": "Samil Cabrera"
-  },
-  {
-    "date": "2025-10-01",
-    "title": {
-      "en": "Astronomy Picture of the Day",
-      "pt": "Foto Astronômica do Dia"
-    },
-    "explanation": {
-      "en": "Ten thousand years ago, before the dawn of recorded human history, a new light would suddenly have appeared in the night sky and faded after a few weeks.  Today we know this light was from a supernova, or exploding star, and record the expanding debris cloud as the Veil Nebula, a supernova remnant.  This sharp telescopic view is centered on a western segment of the Veil Nebula cataloged as NGC 6960 but less formally known as the Witch's Broom Nebula.  Blasted out in the cataclysmic explosion, an interstellar shock wave plows through space sweeping up and exciting interstellar material. Imaged with narrow band filters, the glowing filaments are like long ripples in a sheet seen almost edge on, remarkably well separated into atomic hydrogen (red) and oxygen (blue-green) gas. The complete supernova remnant lies about 1400 light-years away towards the constellation Cygnus. This Witch's Broom actually spans about 35 light-years. The bright star in the frame is 52 Cygni, visible with the unaided eye from a dark location but unrelated to the ancient supernova remnant.",
-      "pt": "Dez mil anos atrás, antes do início da história humana registrada, uma nova luz teria aparecido repentinamente no céu noturno e desaparecido após algumas semanas.  Hoje sabemos que esta luz veio de uma supernova, ou estrela em explosão, e registamos a nuvem de detritos em expansão como a Nebulosa do Véu, um remanescente de supernova.  Esta visão telescópica nítida está centrada num segmento ocidental da Nebulosa do Véu, catalogada como NGC 6960, mas menos formalmente conhecida como Nebulosa da Vassoura de Bruxa.  Explodida na explosão cataclísmica, uma onda de choque interestelar atravessa o espaço, varrendo e excitando material interestelar. Observados com filtros de banda estreita, os filamentos brilhantes são como longas ondulações em uma folha vista quase de lado, notavelmente bem separados em gás atômico hidrogênio (vermelho) e oxigênio (azul esverdeado). O remanescente completo da supernova fica a cerca de 1.400 anos-luz de distância, na direção da constelação de Cygnus. Na verdade, esta Vassoura de Bruxa se estende por cerca de 35 anos-luz. A estrela brilhante na imagem é 52 Cygni, visível a olho nu a partir de um local escuro, mas sem relação com o antigo remanescente de supernova."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_6043.jpg",
-    "copyright": ", Brian Meyers,"
   },
   {
     "date": "2025-10-01",
