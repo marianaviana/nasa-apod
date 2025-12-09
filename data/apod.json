@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-12-09",
+    "title": {
+      "en": "The Heart of the Soul Nebula",
+      "pt": "A Nebulosa do Coração da Alma"
+    },
+    "explanation": {
+      "en": "This cosmic close-up looks deep inside the Soul Nebula. The dark and brooding dust clouds outlined by bright ridges of glowing gas are cataloged as IC 1871. About 25 light-years across, the telescopic field of view spans only a small part of the much larger Heart and Soul nebulae. At an estimated distance of 6,500 light-years, the star-forming complex lies within the Perseus spiral arm of the Milky Way, seen in planet Earth's skies toward the constellation of the Queen of Aethiopia (Cassiopeia). An example of triggered star formation, the dense star-forming clouds of IC 1871 are themselves sculpted by the intense winds and radiation of the region's massive young stars. This color image adopts a palette made popular in Hubble images of star-forming regions.",
+      "pt": "Este close cósmico mostra as profundezas da Nebulosa da Alma. As nuvens de poeira escuras e ameaçadoras delineadas por cristas brilhantes de gás brilhante são catalogadas como IC 1871. Com cerca de 25 anos-luz de diâmetro, o campo de visão telescópico abrange apenas uma pequena parte das muito maiores nebulosas do Coração e da Alma. A uma distância estimada de 6.500 anos-luz, o complexo de formação estelar situa-se no braço espiral de Perseu da Via Láctea, visto nos céus do planeta Terra em direção à constelação da Rainha da Etiópia (Cassiopeia). Um exemplo de formação estelar desencadeada, as densas nuvens de formação estelar de IC 1871 são elas próprias esculpidas pelos ventos intensos e pela radiação das massivas estrelas jovens da região. Esta imagem colorida adota uma paleta que se tornou popular nas imagens do Hubble de regiões de formação estelar."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2512/Soul_Bugin_1080.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2512/Soul_Bugin_3710.jpg",
+    "copyright": ", Nicola Bugin,"
+  },
+  {
     "date": "2025-12-08",
     "title": {
       "en": "Flying Over the Earth at Night",
@@ -371,21 +386,6 @@
     "url": "https://apod.nasa.gov/apod/image/2511/DSC07080-Edit1024.jpeg",
     "hdurl": "https://apod.nasa.gov/apod/image/2511/DSC07080-Edit.jpeg",
     "copyright": "Samil Cabrera"
-  },
-  {
-    "date": "2025-10-01",
-    "title": {
-      "en": "Astronomy Picture of the Day",
-      "pt": "Foto Astronômica do Dia"
-    },
-    "explanation": {
-      "en": "Ten thousand years ago, before the dawn of recorded human history, a new light would suddenly have appeared in the night sky and faded after a few weeks.  Today we know this light was from a supernova, or exploding star, and record the expanding debris cloud as the Veil Nebula, a supernova remnant.  This sharp telescopic view is centered on a western segment of the Veil Nebula cataloged as NGC 6960 but less formally known as the Witch's Broom Nebula.  Blasted out in the cataclysmic explosion, an interstellar shock wave plows through space sweeping up and exciting interstellar material. Imaged with narrow band filters, the glowing filaments are like long ripples in a sheet seen almost edge on, remarkably well separated into atomic hydrogen (red) and oxygen (blue-green) gas. The complete supernova remnant lies about 1400 light-years away towards the constellation Cygnus. This Witch's Broom actually spans about 35 light-years. The bright star in the frame is 52 Cygni, visible with the unaided eye from a dark location but unrelated to the ancient supernova remnant.",
-      "pt": "Dez mil anos atrás, antes do início da história humana registrada, uma nova luz teria aparecido repentinamente no céu noturno e desaparecido após algumas semanas.  Hoje sabemos que esta luz veio de uma supernova, ou estrela em explosão, e registamos a nuvem de detritos em expansão como a Nebulosa do Véu, um remanescente de supernova.  Esta visão telescópica nítida está centrada num segmento ocidental da Nebulosa do Véu, catalogada como NGC 6960, mas menos formalmente conhecida como Nebulosa da Vassoura de Bruxa.  Explodida na explosão cataclísmica, uma onda de choque interestelar atravessa o espaço, varrendo e excitando material interestelar. Observados com filtros de banda estreita, os filamentos brilhantes são como longas ondulações em uma folha vista quase de lado, notavelmente bem separados em gás atômico hidrogênio (vermelho) e oxigênio (azul esverdeado). O remanescente completo da supernova fica a cerca de 1.400 anos-luz de distância, na direção da constelação de Cygnus. Na verdade, esta Vassoura de Bruxa se estende por cerca de 35 anos-luz. A estrela brilhante na imagem é 52 Cygni, visível a olho nu a partir de um local escuro, mas sem relação com o antigo remanescente de supernova."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_6043.jpg",
-    "copyright": ", Brian Meyers,"
   },
   {
     "date": "2025-10-01",
