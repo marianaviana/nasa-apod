@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-12-10",
+    "title": {
+      "en": "The Horsehead Nebula",
+      "pt": "A Nebulosa Cabeça de Cavalo"
+    },
+    "explanation": {
+      "en": "Sculpted by stellar winds and radiation, this dusty interstellar molecular cloud has by chance has assumed an immediately recognizable shape. Fittingly known as The Horsehead Nebula, it lies some 1,500 light-years distant, embedded in the vast Orion cloud complex. About five light-years \"tall,\" the dark cloud is cataloged as Barnard 33, first identified on a photographic plate taken in the late 19th century.  B33 is visible primarily because its obscuring dust is silhouetted against the glow of emission nebula IC 434.  Hubble space telescope images from the early 21st century find young stars forming within B33. Of course, the magnificent interstellar cloud will slowly shift its apparent shape over the next few million years. But for now the Horsehead Nebula is a rewarding though difficult object to view with small telescopes from planet Earth.",
+      "pt": "Esculpida pelos ventos estelares e pela radiação, esta nuvem molecular interestelar empoeirada assumiu por acaso uma forma imediatamente reconhecível. Apropriadamente conhecida como Nebulosa Cabeça de Cavalo, ela fica a cerca de 1.500 anos-luz de distância, inserida no vasto complexo de nuvens de Órion. Com cerca de cinco anos-luz de “altura”, a nuvem escura é catalogada como Barnard 33, identificada pela primeira vez em uma chapa fotográfica tirada no final do século XIX.  B33 é visível principalmente porque sua poeira obscurecedora é recortada contra o brilho da nebulosa de emissão IC 434. Imagens do telescópio espacial Hubble do início do século 21 encontram estrelas jovens se formando dentro de B33. É claro que a magnífica nuvem interestelar mudará lentamente a sua forma aparente ao longo dos próximos milhões de anos. Mas, por enquanto, a Nebulosa Cabeça de Cavalo é um objeto gratificante, embora difícil de observar com pequenos telescópios do planeta Terra."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2512/IC434NM900.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2512/IC434NM.jpg",
+    "copyright": "George Chatzifrantzis"
+  },
+  {
     "date": "2025-12-09",
     "title": {
       "en": "The Heart of the Soul Nebula",
@@ -386,21 +401,6 @@
     "url": "https://apod.nasa.gov/apod/image/2511/DSC07080-Edit1024.jpeg",
     "hdurl": "https://apod.nasa.gov/apod/image/2511/DSC07080-Edit.jpeg",
     "copyright": "Samil Cabrera"
-  },
-  {
-    "date": "2025-10-01",
-    "title": {
-      "en": "Astronomy Picture of the Day",
-      "pt": "Foto Astronômica do Dia"
-    },
-    "explanation": {
-      "en": "Ten thousand years ago, before the dawn of recorded human history, a new light would suddenly have appeared in the night sky and faded after a few weeks.  Today we know this light was from a supernova, or exploding star, and record the expanding debris cloud as the Veil Nebula, a supernova remnant.  This sharp telescopic view is centered on a western segment of the Veil Nebula cataloged as NGC 6960 but less formally known as the Witch's Broom Nebula.  Blasted out in the cataclysmic explosion, an interstellar shock wave plows through space sweeping up and exciting interstellar material. Imaged with narrow band filters, the glowing filaments are like long ripples in a sheet seen almost edge on, remarkably well separated into atomic hydrogen (red) and oxygen (blue-green) gas. The complete supernova remnant lies about 1400 light-years away towards the constellation Cygnus. This Witch's Broom actually spans about 35 light-years. The bright star in the frame is 52 Cygni, visible with the unaided eye from a dark location but unrelated to the ancient supernova remnant.",
-      "pt": "Dez mil anos atrás, antes do início da história humana registrada, uma nova luz teria aparecido repentinamente no céu noturno e desaparecido após algumas semanas.  Hoje sabemos que esta luz veio de uma supernova, ou estrela em explosão, e registamos a nuvem de detritos em expansão como a Nebulosa do Véu, um remanescente de supernova.  Esta visão telescópica nítida está centrada num segmento ocidental da Nebulosa do Véu, catalogada como NGC 6960, mas menos formalmente conhecida como Nebulosa da Vassoura de Bruxa.  Explodida na explosão cataclísmica, uma onda de choque interestelar atravessa o espaço, varrendo e excitando material interestelar. Observados com filtros de banda estreita, os filamentos brilhantes são como longas ondulações em uma folha vista quase de lado, notavelmente bem separados em gás atômico hidrogênio (vermelho) e oxigênio (azul esverdeado). O remanescente completo da supernova fica a cerca de 1.400 anos-luz de distância, na direção da constelação de Cygnus. Na verdade, esta Vassoura de Bruxa se estende por cerca de 35 anos-luz. A estrela brilhante na imagem é 52 Cygni, visível a olho nu a partir de um local escuro, mas sem relação com o antigo remanescente de supernova."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_6043.jpg",
-    "copyright": ", Brian Meyers,"
   },
   {
     "date": "2025-10-01",
