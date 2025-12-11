@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-12-11",
+    "title": {
+      "en": "Galaxies in the River",
+      "pt": "Galáxias no rio"
+    },
+    "explanation": {
+      "en": "Large galaxies grow by eating small ones. Even our own galaxy engages in a sort of galactic cannibalism, absorbing small galaxies that are too close and are captured by the Milky Way's gravity. In fact, the practice is common in the universe and illustrated by this striking pair of interacting galaxies from the banks of the southern constellation Eridanus, The River. Located over 50 million light years away, the large, distorted spiral NGC 1532 is seen locked in a gravitational struggle with dwarf galaxy NGC 1531, a struggle the smaller galaxy will eventually lose. Seen nearly edge-on, in this sharp image spiral NGC 1532 spans about 100,000 light-years. The NGC 1532/1531 pair is thought to be similar to the well-studied system of face-on spiral and small companion known as M51.",
+      "pt": "Grandes galáxias crescem comendo as pequenas. Até a nossa própria galáxia se envolve numa espécie de canibalismo galáctico, absorvendo pequenas galáxias que estão demasiado próximas e são capturadas pela gravidade da Via Láctea. Na verdade, a prática é comum no universo e ilustrada por este impressionante par de galáxias em interação nas margens da constelação meridional de Eridanus, O Rio. Localizada a mais de 50 milhões de anos-luz de distância, a grande e distorcida espiral NGC 1532 é vista travada numa luta gravitacional com a galáxia anã NGC 1531, uma luta que a galáxia mais pequena acabará por perder. Vista quase de lado, nesta imagem nítida, a espiral NGC 1532 abrange cerca de 100.000 anos-luz. Acredita-se que o par NGC 1532/1531 seja semelhante ao sistema bem estudado de espiral frontal e pequeno companheiro conhecido como M51."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2512/NGC1532_1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2512/NGC1532.jpg",
+    "copyright": "Vikas Chander"
+  },
+  {
     "date": "2025-12-10",
     "title": {
       "en": "The Horsehead Nebula",
@@ -401,21 +416,6 @@
     "url": "https://apod.nasa.gov/apod/image/2511/DSC07080-Edit1024.jpeg",
     "hdurl": "https://apod.nasa.gov/apod/image/2511/DSC07080-Edit.jpeg",
     "copyright": "Samil Cabrera"
-  },
-  {
-    "date": "2025-10-01",
-    "title": {
-      "en": "Astronomy Picture of the Day",
-      "pt": "Foto Astronômica do Dia"
-    },
-    "explanation": {
-      "en": "Ten thousand years ago, before the dawn of recorded human history, a new light would suddenly have appeared in the night sky and faded after a few weeks.  Today we know this light was from a supernova, or exploding star, and record the expanding debris cloud as the Veil Nebula, a supernova remnant.  This sharp telescopic view is centered on a western segment of the Veil Nebula cataloged as NGC 6960 but less formally known as the Witch's Broom Nebula.  Blasted out in the cataclysmic explosion, an interstellar shock wave plows through space sweeping up and exciting interstellar material. Imaged with narrow band filters, the glowing filaments are like long ripples in a sheet seen almost edge on, remarkably well separated into atomic hydrogen (red) and oxygen (blue-green) gas. The complete supernova remnant lies about 1400 light-years away towards the constellation Cygnus. This Witch's Broom actually spans about 35 light-years. The bright star in the frame is 52 Cygni, visible with the unaided eye from a dark location but unrelated to the ancient supernova remnant.",
-      "pt": "Dez mil anos atrás, antes do início da história humana registrada, uma nova luz teria aparecido repentinamente no céu noturno e desaparecido após algumas semanas.  Hoje sabemos que esta luz veio de uma supernova, ou estrela em explosão, e registamos a nuvem de detritos em expansão como a Nebulosa do Véu, um remanescente de supernova.  Esta visão telescópica nítida está centrada num segmento ocidental da Nebulosa do Véu, catalogada como NGC 6960, mas menos formalmente conhecida como Nebulosa da Vassoura de Bruxa.  Explodida na explosão cataclísmica, uma onda de choque interestelar atravessa o espaço, varrendo e excitando material interestelar. Observados com filtros de banda estreita, os filamentos brilhantes são como longas ondulações em uma folha vista quase de lado, notavelmente bem separados em gás atômico hidrogênio (vermelho) e oxigênio (azul esverdeado). O remanescente completo da supernova fica a cerca de 1.400 anos-luz de distância, na direção da constelação de Cygnus. Na verdade, esta Vassoura de Bruxa se estende por cerca de 35 anos-luz. A estrela brilhante na imagem é 52 Cygni, visível a olho nu a partir de um local escuro, mas sem relação com o antigo remanescente de supernova."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_6043.jpg",
-    "copyright": ", Brian Meyers,"
   },
   {
     "date": "2025-10-01",
