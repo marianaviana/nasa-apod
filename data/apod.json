@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-12-12",
+    "title": {
+      "en": "Northern Fox Fires",
+      "pt": "Incêndios na Raposa do Norte"
+    },
+    "explanation": {
+      "en": "In a Finnish myth, when an arctic fox runs so fast that its bushy tail brushes the mountains, flaming sparks are cast into the heavens creating the northern lights. In fact the Finnish word \"revontulet\", a name for the aurora borealis or northern lights, can be translated as fire fox. So that evocative myth took on a special significance for the photographer of this northern night skyscape from Finnish Lapland near Kilpisjarvi Lake. The snowy scene is illuminated by moonlight. Saana, an iconic fell or mountain of Lapland, rises at the right in the background. But as the beautiful nothern lights danced overhead, the wild fire fox in the foreground enthusiastically ran around the photographer and his equipment, making it difficult to capture in this lucky single shot.",
+      "pt": "Num mito finlandês, quando uma raposa ártica corre tão rápido que a sua cauda espessa roça as montanhas, faíscas flamejantes são lançadas nos céus criando as luzes do norte. Na verdade, a palavra finlandesa \"revontulet\", um nome para a aurora boreal ou aurora boreal, pode ser traduzida como raposa de fogo. Assim, esse mito evocativo assumiu um significado especial para o fotógrafo desta paisagem noturna do norte da Lapônia finlandesa, perto do lago Kilpisjarvi. A cena nevada é iluminada pelo luar. Saana, uma colina ou montanha icônica da Lapônia, ergue-se à direita ao fundo. Mas enquanto as belas luzes do norte dançavam no alto, a raposa de fogo selvagem em primeiro plano corria com entusiasmo ao redor do fotógrafo e de seu equipamento, dificultando a captura nesta única foto de sorte."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2512/Firefox-Lehtonen-Dennis1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2512/Firefox-Lehtonen-Dennis.jpg",
+    "copyright": "Dennis Lehtonen"
+  },
+  {
     "date": "2025-12-11",
     "title": {
       "en": "Galaxies in the River",
@@ -416,21 +431,6 @@
     "url": "https://apod.nasa.gov/apod/image/2511/DSC07080-Edit1024.jpeg",
     "hdurl": "https://apod.nasa.gov/apod/image/2511/DSC07080-Edit.jpeg",
     "copyright": "Samil Cabrera"
-  },
-  {
-    "date": "2025-10-01",
-    "title": {
-      "en": "Astronomy Picture of the Day",
-      "pt": "Foto Astronômica do Dia"
-    },
-    "explanation": {
-      "en": "Ten thousand years ago, before the dawn of recorded human history, a new light would suddenly have appeared in the night sky and faded after a few weeks.  Today we know this light was from a supernova, or exploding star, and record the expanding debris cloud as the Veil Nebula, a supernova remnant.  This sharp telescopic view is centered on a western segment of the Veil Nebula cataloged as NGC 6960 but less formally known as the Witch's Broom Nebula.  Blasted out in the cataclysmic explosion, an interstellar shock wave plows through space sweeping up and exciting interstellar material. Imaged with narrow band filters, the glowing filaments are like long ripples in a sheet seen almost edge on, remarkably well separated into atomic hydrogen (red) and oxygen (blue-green) gas. The complete supernova remnant lies about 1400 light-years away towards the constellation Cygnus. This Witch's Broom actually spans about 35 light-years. The bright star in the frame is 52 Cygni, visible with the unaided eye from a dark location but unrelated to the ancient supernova remnant.",
-      "pt": "Dez mil anos atrás, antes do início da história humana registrada, uma nova luz teria aparecido repentinamente no céu noturno e desaparecido após algumas semanas.  Hoje sabemos que esta luz veio de uma supernova, ou estrela em explosão, e registamos a nuvem de detritos em expansão como a Nebulosa do Véu, um remanescente de supernova.  Esta visão telescópica nítida está centrada num segmento ocidental da Nebulosa do Véu, catalogada como NGC 6960, mas menos formalmente conhecida como Nebulosa da Vassoura de Bruxa.  Explodida na explosão cataclísmica, uma onda de choque interestelar atravessa o espaço, varrendo e excitando material interestelar. Observados com filtros de banda estreita, os filamentos brilhantes são como longas ondulações em uma folha vista quase de lado, notavelmente bem separados em gás atômico hidrogênio (vermelho) e oxigênio (azul esverdeado). O remanescente completo da supernova fica a cerca de 1.400 anos-luz de distância, na direção da constelação de Cygnus. Na verdade, esta Vassoura de Bruxa se estende por cerca de 35 anos-luz. A estrela brilhante na imagem é 52 Cygni, visível a olho nu a partir de um local escuro, mas sem relação com o antigo remanescente de supernova."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_6043.jpg",
-    "copyright": ", Brian Meyers,"
   },
   {
     "date": "2025-10-01",
