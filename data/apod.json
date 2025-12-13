@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-12-13",
+    "title": {
+      "en": "Orion and the Ocean of Storms",
+      "pt": "Órion e o Oceano de Tempestades"
+    },
+    "explanation": {
+      "en": "On December 5, 2022, a camera on board the uncrewed Orion spacecraft captured this view as Orion approached its return powered flyby of the Moon.  Beyond one of Orion's extended solar arrays lies dark, smooth, terrain along the western edge of the Oceanus Procellarum. Prominent on the lunar nearside Oceanus Procellarum, the Ocean of Storms, is the largest of the Moon's lava-flooded maria. The lunar terminator, the shadow line between lunar night and day, runs along the left of this frame. The 41 kilometer diameter crater Marius is top center, with ray crater Kepler peeking in at the edge, just right of the solar array wing. Kepler's bright rays extend to the north and west, reaching the dark-floored Marius. By December 11, 2022 the Orion spacecraft had returned to its home world. The historic Artemis 1 mission ended with Orion's successful splashdown in planet Earth's water-flooded Pacific Ocean.  Watch: The Geminid Meteor Shower",
+      "pt": "Em 5 de dezembro de 2022, uma câmera a bordo da espaçonave Orion sem rosca capturou esta vista enquanto Orion se aproximava de seu sobrevôo motorizado de retorno pela Lua.  Além de um dos extensos painéis solares de Orion encontra-se um terreno escuro e liso ao longo da borda oeste do Oceanus Procellarum. Proeminente no lado lunar Oceanus Procellarum, o Oceano das Tempestades, é o maior dos mares inundados de lava da Lua. O terminador lunar, a linha sombreada entre a noite e o dia lunar, corre à esquerda deste quadro. A cratera Marius, com 41 quilômetros de diâmetro, está no centro superior, com a cratera de raios Kepler aparecendo na borda, logo à direita da asa do painel solar. Os raios brilhantes do Kepler estendem-se para norte e oeste, atingindo Marius, de piso escuro. Em 11 de dezembro de 2022, a espaçonave Orion retornou ao seu mundo natal. A histórica missão Artemis 1 terminou com a aterrissagem bem-sucedida da Orion no Oceano Pacífico inundado de água do planeta Terra.  Assistir: A chuva de meteoros Geminídeos"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2512/art001e002132_apod1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2512/art001e002132.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-12-12",
     "title": {
       "en": "Northern Fox Fires",
@@ -431,20 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2511/DSC07080-Edit1024.jpeg",
     "hdurl": "https://apod.nasa.gov/apod/image/2511/DSC07080-Edit.jpeg",
     "copyright": "Samil Cabrera"
-  },
-  {
-    "date": "2025-10-01",
-    "title": {
-      "en": "Astronomy Picture of the Day",
-      "pt": "Foto Astronômica do Dia"
-    },
-    "explanation": {
-      "en": "Ten thousand years ago, before the dawn of recorded human history, a new light would suddenly have appeared in the night sky and faded after a few weeks.  Today we know this light was from a supernova, or exploding star, and record the expanding debris cloud as the Veil Nebula, a supernova remnant.  This sharp telescopic view is centered on a western segment of the Veil Nebula cataloged as NGC 6960 but less formally known as the Witch's Broom Nebula.  Blasted out in the cataclysmic explosion, an interstellar shock wave plows through space sweeping up and exciting interstellar material. Imaged with narrow band filters, the glowing filaments are like long ripples in a sheet seen almost edge on, remarkably well separated into atomic hydrogen (red) and oxygen (blue-green) gas. The complete supernova remnant lies about 1400 light-years away towards the constellation Cygnus. This Witch's Broom actually spans about 35 light-years. The bright star in the frame is 52 Cygni, visible with the unaided eye from a dark location but unrelated to the ancient supernova remnant.",
-      "pt": "Dez mil anos atrás, antes do início da história humana registrada, uma nova luz teria aparecido repentinamente no céu noturno e desaparecido após algumas semanas.  Hoje sabemos que esta luz veio de uma supernova, ou estrela em explosão, e registamos a nuvem de detritos em expansão como a Nebulosa do Véu, um remanescente de supernova.  Esta visão telescópica nítida está centrada num segmento ocidental da Nebulosa do Véu, catalogada como NGC 6960, mas menos formalmente conhecida como Nebulosa da Vassoura de Bruxa.  Explodida na explosão cataclísmica, uma onda de choque interestelar atravessa o espaço, varrendo e excitando material interestelar. Observados com filtros de banda estreita, os filamentos brilhantes são como longas ondulações em uma folha vista quase de lado, notavelmente bem separados em gás atômico hidrogênio (vermelho) e oxigênio (azul esverdeado). O remanescente completo da supernova fica a cerca de 1.400 anos-luz de distância, na direção da constelação de Cygnus. Na verdade, esta Vassoura de Bruxa se estende por cerca de 35 anos-luz. A estrela brilhante na imagem é 52 Cygni, visível a olho nu a partir de um local escuro, mas sem relação com o antigo remanescente de supernova."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_6043.jpg",
-    "copyright": ", Brian Meyers,"
   }
 ]
