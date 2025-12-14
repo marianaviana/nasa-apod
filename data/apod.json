@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-12-14",
+    "title": {
+      "en": "Juno Flyby of Ganymede and Jupiter",
+      "pt": "Juno Flyby de Ganimedes e Júpiter"
+    },
+    "explanation": {
+      "en": "What would it be like to fly over the largest moon in the Solar System? In 2021, the robotic Juno spacecraft flew past Jupiter's huge moon Ganymede and took images that have been digitally constructed into a detailed flyby. As the featured video begins, Juno swoops over the two-toned surface of the 2,000-km wide moon, revealing an icy alien landscape filled with grooves and craters. The grooves are likely caused by shifting surface plates, while the craters are caused by violent impacts. Continuing on in its orbit, Juno then performed its 34th close pass over Jupiter's clouds. The digitally-constructed video shows numerous swirling clouds in the north, colorful planet-circling zones and bands across the middle -- featuring several white-oval clouds from the String of Pearls, and finally more swirling clouds in the south.",
+      "pt": "Como seria sobrevoar a maior lua do Sistema Solar? Em 2021, a espaçonave robótica Juno passou pela enorme lua de Júpiter, Ganimedes, e captou imagens que foram construídas digitalmente em um sobrevôo detalhado. Quando o vídeo em destaque começa, Juno sobrevoa a superfície de dois tons da lua de 2.000 km de largura, revelando uma paisagem alienígena gelada cheia de sulcos e crateras. As ranhuras são provavelmente causadas pelo deslocamento das placas superficiais, enquanto as crateras são causadas por impactos violentos. Continuando em sua órbita, Juno realizou então sua 34ª passagem próxima sobre as nuvens de Júpiter. O vídeo construído digitalmente mostra inúmeras nuvens rodopiantes no norte, zonas coloridas que circundam os planetas e faixas no meio - apresentando várias nuvens ovais brancas do Colar de Pérolas e, finalmente, mais nuvens rodopiantes no sul."
+    },
+    "media_type": "video",
+    "url": "https://www.youtube.com/embed/CC7OJ7gFLvE?rel=0",
+    "hdurl": "https://www.youtube.com/embed/CC7OJ7gFLvE?rel=0",
+    "copyright": null
+  },
+  {
     "date": "2025-12-13",
     "title": {
       "en": "Orion and the Ocean of Storms",
@@ -431,20 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2511/M31AB_1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2511/M31AB.jpg",
     "copyright": "Piotr Czerski"
-  },
-  {
-    "date": "2025-11-14",
-    "title": {
-      "en": "Florida Northern Lights",
-      "pt": "Aurora Boreal da Flórida"
-    },
-    "explanation": {
-      "en": "Northern lights have come to Florida skies. In fact, the brilliant streak of a Northern Taurid meteor flashes through the starry night sky above the beach in this sea and skyscape, captured from Shired Island, Florida on November 11. Meteors from the annual Northern Taurid meteor shower are expected this time of year. But the digital camera exposure also records the shimmering glow of aurora, a phenomenon more often seen from our fair planet's higher geographical latitudes. Also known as aurora borealis, these northern lights are part of recent, wide spread auroral activity caused by strong geomagnetic storms. In the last few days, stormy spaceweather has been triggered by multiple Earth impacting coronal mass ejections and intense solar activity.",
-      "pt": "A aurora boreal chegou aos céus da Flórida. Na verdade, a faixa brilhante de um meteoro Taurid do Norte brilha no céu noturno estrelado acima da praia nesta paisagem marítima e celeste, capturada na Ilha Shired, Flórida, em 11 de novembro. Meteoros da chuva anual de meteoros Taurid do Norte são esperados nesta época do ano. Mas a exposição da câmara digital também regista o brilho cintilante da aurora, um fenómeno observado com mais frequência nas latitudes geográficas mais elevadas do nosso belo planeta. Também conhecidas como aurora boreal, essas luzes do norte fazem parte de uma atividade auroral recente e ampla, causada por fortes tempestades geomagnéticas. Nos últimos dias, o clima espacial tempestuoso foi desencadeado por múltiplas ejeções de massa coronal com impacto na Terra e intensa atividade solar."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2511/DSC07080-Edit1024.jpeg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2511/DSC07080-Edit.jpeg",
-    "copyright": "Samil Cabrera"
   }
 ]
