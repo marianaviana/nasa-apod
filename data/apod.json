@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-12-15",
+    "title": {
+      "en": "Gemini Meteors over Snow Capped Mountains",
+      "pt": "Meteoros de Gêmeos sobre montanhas cobertas de neve"
+    },
+    "explanation": {
+      "en": "Where are all of these meteors coming from?  In terms of direction on the sky, the pointed answer is the constellation of Gemini.  That is why the major meteor shower in December is known as the Geminids -- because shower meteors all appear to come from a radiant toward Gemini. Three dimensionally, however, sand-sized debris expelled from the unusual asteroid 3200 Phaethon follows a well-defined orbit about our Sun, and the part of the orbit that approaches Earth is superposed in front of the constellation of Gemini. Therefore, when Earth crosses this orbit, the radiant point of falling debris appears in Gemini. Featured here is a composite of many images taken over the past few days through dark skies from Slovakia and capturing the snow-covered peaks of the Belianske Tatra mountains Numerous  bright meteor streaks from the Geminids meteor shower are visible.  Orion is visible above the horizon, while the bright star nearest the radiant is Castor.    APOD Review: RJN's Night Sky Network Lecture",
+      "pt": "De onde vêm todos esses meteoros?  Em termos de direção no céu, a resposta correta é a constelação de Gêmeos.  É por isso que a grande chuva de meteoros de dezembro é conhecida como Geminídeas - porque todas as chuvas de meteoros parecem vir de um radiante em direção a Gêmeos. Tridimensionalmente, no entanto, detritos do tamanho de areia expelidos do incomum asteroide 3200 Phaethon seguem uma órbita bem definida em torno do nosso Sol, e a parte da órbita que se aproxima da Terra está sobreposta na frente da constelação de Gêmeos. Portanto, quando a Terra cruza esta órbita, o ponto radiante de detritos caindo aparece em Gêmeos. Apresentamos aqui uma composição de muitas imagens tiradas nos últimos dias através dos céus escuros da Eslováquia e capturando os picos cobertos de neve das montanhas Belianske Tatra. Numerosas faixas brilhantes de meteoros da chuva de meteoros Geminídeos são visíveis.  Orion é visível acima do horizonte, enquanto a estrela brilhante mais próxima do radiante é Castor.    Revisão do APOD: Palestra Night Sky Network do RJN"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2512/GeminidWinter_Slovinsky_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2512/GeminidWinter_Slovinsky_1303.jpg",
+    "copyright": ", Tomáš Slovinský,"
+  },
+  {
     "date": "2025-12-14",
     "title": {
       "en": "Juno Flyby of Ganymede and Jupiter",
@@ -431,20 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2511/saturnplane_cassini_1004.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2511/saturnplane_cassini_1004.jpg",
     "copyright": null
-  },
-  {
-    "date": "2025-11-15",
-    "title": {
-      "en": "Andromeda and Friends",
-      "pt": "Andrômeda e amigos"
-    },
-    "explanation": {
-      "en": "This magnificent extragalactic skyscape looks toward the Andromeda Galaxy, the closest large spiral galaxy to the Milky Way. It also accomplishes a Messier catalog trifecta by including Andromeda, cataloged as Messier 31 (M31), along with Messier 32 (M32), and Messier 110 (M110) in the same telescopic field of view.  In this frame, M32 is just left of the Andromeda Galaxy's bright core with M110 below and to the right. M32 and M110 are both elliptical galaxies themselves and satellites of the larger spiral Andromeda. By combining 60 hours of broadband and narrowband image data, the deep telescopic view also reveals tantalizing details of dust lanes, young star clusters, and star-forming regions along Andromeda's spiral arms, and faint, foreground clouds of glowing hydrogen gas. For now, Andromeda and friends are some 2.5 million light-years from our own large spiral Milky Way.",
-      "pt": "Esta magnífica paisagem extragaláctica aponta para a Galáxia de Andrômeda, a grande galáxia espiral mais próxima da Via Láctea. Ele também realiza uma trifeta do catálogo Messier ao incluir Andromeda, catalogado como Messier 31 (M31), junto com Messier 32 (M32) e Messier 110 (M110) no mesmo campo de visão telescópico.  Neste quadro, M32 está logo à esquerda do núcleo brilhante da Galáxia de Andrômeda com M110 abaixo e à direita. M32 e M110 são galáxias elípticas e satélites da espiral maior de Andrômeda. Ao combinar 60 horas de dados de imagens de banda larga e banda estreita, a visão telescópica profunda também revela detalhes tentadores de faixas de poeira, aglomerados de estrelas jovens e regiões de formação de estrelas ao longo dos braços espirais de Andrômeda, além de nuvens tênues de gás hidrogênio brilhante em primeiro plano. Por enquanto, Andrômeda e seus amigos estão a cerca de 2,5 milhões de anos-luz de nossa grande espiral, a Via Láctea."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2511/M31AB_1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2511/M31AB.jpg",
-    "copyright": "Piotr Czerski"
   }
 ]
