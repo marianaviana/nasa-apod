@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-12-16",
+    "title": {
+      "en": "Andromeda and Sprites over Australia",
+      "pt": "Andrômeda e Sprites sobre a Austrália"
+    },
+    "explanation": {
+      "en": "What’s happening over that tree? Two very different things. On the left is the Andromeda galaxy, an object that is older than humanity and will last billions of years into the future.  Andromeda (M31) is similar in size and shape to our own Milky Way Galaxy.  On the right is a red sprite, a type of lightning that lasts a fraction of a second and occurs above violent thunderstorms. Red sprites were verified as real atmospheric phenomena only about 35 years ago.  The tree in the center is a boab, which may live for as long as a thousand years.  Boab trees grow naturally in Australia and Africa and are known for being able to store large amounts of water: up to 100,000 liters.  The featured image was captured last month near Derby in Western Australia.",
+      "pt": "O que está acontecendo naquela árvore? Duas coisas muito diferentes. À esquerda está a galáxia de Andrômeda, um objeto mais antigo que a humanidade e que durará bilhões de anos no futuro.  Andrômeda (M31) é semelhante em tamanho e forma à nossa Via Láctea.  À direita está um sprite vermelho, um tipo de relâmpago que dura uma fração de segundo e ocorre acima de tempestades violentas. Os sprites vermelhos foram verificados como fenômenos atmosféricos reais há apenas cerca de 35 anos.  A árvore no centro é um boab, que pode viver até mil anos.  As árvores Boab crescem naturalmente na Austrália e na África e são conhecidas por serem capazes de armazenar grandes quantidades de água: até 100.000 litros.  A imagem em destaque foi capturada no mês passado perto de Derby, na Austrália Ocidental."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2512/AndromedaSprites_Rao_1080.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2512/AndromedaSprites_Rao_2000.jpg",
+    "copyright": ", JJ Rao,"
+  },
+  {
     "date": "2025-12-15",
     "title": {
       "en": "Gemini Meteors over Snow Capped Mountains",
@@ -430,21 +445,6 @@
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2511/LemmonTail_Fernandez_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2511/LemmonTail_Fernandez_3728.jpg",
-    "copyright": null
-  },
-  {
-    "date": "2025-11-16",
-    "title": {
-      "en": "Crossing Saturn's Ring Plane",
-      "pt": "Cruzando o Plano Anular de Saturno"
-    },
-    "explanation": {
-      "en": "If this is Saturn, where are the rings?  When Saturn's \"appendages\" disappeared in 1612, Galileo did not understand why.   Later that century, it became understood that Saturn's unusual protrusions were rings and that when the Earth crosses the ring plane, the edge-on rings will appear to disappear.  This is because Saturn's rings are confined to a plane many times thinner, in proportion, than a razor blade.  In modern times, the robotic Cassini spacecraft that orbited Saturn frequently crossed Saturn's ring plane during its mission to Saturn, from 2004 to 2017.  A series of plane crossing images from 2005 February was dug out of the vast online Cassini raw image archive by interested Spanish amateur Fernando Garcia Navarro.  Pictured here, digitally cropped and set in representative colors, is the striking result.  Saturn's thin ring plane appears in blue, bands and clouds in Saturn's upper atmosphere appear in gold. Details of Saturn's rings can be seen in high dark shadows.  The moons Dione and Enceladus appear as bumps in the rings.",
-      "pt": "Se este é Saturno, onde estão os anéis?  Quando os \"apêndices\" de Saturno desapareceram em 1612, Galileu não entendeu por quê.   Mais tarde naquele século, entendeu-se que as saliências incomuns de Saturno eram anéis e que quando a Terra cruza o plano dos anéis, os anéis laterais parecerão desaparecer.  Isto ocorre porque os anéis de Saturno estão confinados a um plano muitas vezes mais fino, em proporção, do que uma lâmina de barbear.  Nos tempos modernos, a espaçonave robótica Cassini que orbitava Saturno frequentemente cruzava o plano do anel de Saturno durante sua missão a Saturno, de 2004 a 2017. Uma série de imagens de cruzamento de planos de fevereiro de 2005 foi extraída do vasto arquivo online de imagens brutas da Cassini pelo interessado amador espanhol Fernando Garcia Navarro.  Retratado aqui, recortado digitalmente e definido em cores representativas, está o resultado impressionante.  O fino plano do anel de Saturno aparece em azul, faixas e nuvens na atmosfera superior de Saturno aparecem em ouro. Detalhes dos anéis de Saturno podem ser vistos em sombras altas e escuras.  As luas Dione e Encélado aparecem como saliências nos anéis."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2511/saturnplane_cassini_1004.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2511/saturnplane_cassini_1004.jpg",
     "copyright": null
   }
 ]
