@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-12-18",
+    "title": {
+      "en": "Jupiter and the Meteors from Gemini",
+      "pt": "Júpiter e os meteoros de Gêmeos"
+    },
+    "explanation": {
+      "en": "Jupiter, the Solar System's ruling gas giant, is the brightest celestial beacon at the center of this composite night skyscape. The scene was constructed by selecting the 40 exposures containing meteors from about 500 exposures made on the nights of December 13 and 14, near peak activity for this year's annual Geminid meteor shower. With each selected exposure registered in the night sky above Alentejo, Portugal, planet Earth, it does look like the meteors are streaming away from Jupiter. But the apparent radiant of the Geminid meteors is actually closer to bright star Castor, in the shower's eponymous constellation Gemini. In this frame that's just a little above and left of the Solar System's most massive planet. Still, the parent body of Geminid meteors is known to be rocky, near-Earth asteroid 3200 Phaethon. And the orbit of Phaethon itself is influenced by the gravitational attraction exerted by massive Jupiter, in concert with planets of the inner Solar System.",
+      "pt": "Júpiter, o gigante gasoso governante do Sistema Solar, é o farol celestial mais brilhante no centro desta paisagem noturna composta. A cena foi construída selecionando as 40 exposições contendo meteoros de cerca de 500 exposições feitas nas noites de 13 e 14 de dezembro, perto do pico de atividade da chuva anual de meteoros Geminídeos deste ano. Com cada exposição selecionada registada no céu noturno acima do Alentejo, Portugal, planeta Terra, parece que os meteoros estão a afastar-se de Júpiter. Mas o brilho aparente dos meteoros Geminídeos está, na verdade, mais próximo da estrela brilhante Castor, na constelação de Gêmeos de mesmo nome da chuva. Neste quadro, estamos um pouco acima e à esquerda do planeta mais massivo do Sistema Solar. Ainda assim, sabe-se que o corpo parental dos meteoros Geminídeos é o asteroide rochoso próximo à Terra 3200 Phaethon. E a própria órbita de Phaethon é influenciada pela atração gravitacional exercida pelo massivo Júpiter, em conjunto com os planetas do Sistema Solar interno."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2512/GeminidsJupiterCruz1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2512/GeminidsJupiterCruz.jpg",
+    "copyright": "David Cruz"
+  },
+  {
     "date": "2025-12-17",
     "title": {
       "en": "W5: The Soul Nebula",
@@ -433,18 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2511/Chamaeleon_Houbo_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2511/Chamaeleon_Houbo_3691.jpg",
     "copyright": ", Xinran Li & , Houbo Zhao,"
-  },
-  {
-    "date": "2025-11-18",
-    "title": {
-      "en": "The Galactic Plane: Radio Versus Visible",
-      "pt": "O Plano Galáctico: Rádio Versus Visível"
-    },
-    "explanation": {
-      "en": "What does the Milky Way look like in radio waves? To better find out, GLEAM surveyed the central band of our galaxy in high resolution radio light as imaged by the Murchison Widefield Array in Australia.  As the featured video slowly scrolls, radio light (71 - 231 MHz) is seen on the left and visible light -- from the same field -- on the right. Differences are so great because most objects glow differently in radio and visible light, and because visible light is stopped by nearby interstellar dust. These differences are particularly apparent in the direction toward the center of our galaxy, seen about a third of the way through.  Among the many features that appear in the radio, bright red patches are usually supernova remnants of exploded stars, while areas colored blue are stellar nurseries filled with bright young stars.    Did you know: APOD is available from numerous sites, including social media?",
-      "pt": "Qual é a aparência da Via Láctea nas ondas de rádio? Para descobrir melhor, o GLEAM pesquisou a banda central da nossa galáxia em luz de rádio de alta resolução, conforme visualizado pelo Murchison Widefield Array na Austrália.  À medida que o vídeo em destaque rola lentamente, a luz do rádio (71 - 231 MHz) é vista à esquerda e a luz visível - do mesmo campo - à direita. As diferenças são tão grandes porque a maioria dos objetos brilha de forma diferente no rádio e na luz visível, e porque a luz visível é interrompida pela poeira interestelar próxima. Estas diferenças são particularmente aparentes na direção do centro da nossa galáxia, vista a cerca de um terço do caminho.  Entre as muitas características que aparecem no rádio, as manchas vermelhas brilhantes são geralmente restos de supernovas de estrelas que explodiram, enquanto as áreas coloridas em azul são berçários estelares cheios de estrelas jovens brilhantes.    Você sabia: o APOD está disponível em vários sites, incluindo mídias sociais?"
-    },
-    "media_type": "other",
-    "copyright": null
   }
 ]
