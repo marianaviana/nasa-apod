@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-12-19",
+    "title": {
+      "en": "Long Shadows of the Montes Caucasus",
+      "pt": "Longas Sombras dos Montes Cáucaso"
+    },
+    "explanation": {
+      "en": "When the Moon is at its first quarter phase, the Sun rises along the Montes Caucasus as seen from the lunar surface. The lunar mountain range casts the magnificent, spire-like shadows in this telescopic view from planet Earth, looking along the lunar terminator or the boundary between lunar night and day. Named for Earth's own Caucasus Mountains, the rugged lunar Montes Caucasus peaks, up to 6 kilometers high, are located between the smooth Mare Imbrium to the west and Mare Serenitatis to the east. Still mostly in shadow in this first quarter lunarscape, at the left (west) impact craters reflect the light of the rising Sun along their outer, eastern crater walls.",
+      "pt": "Quando a Lua está na fase de quarto crescente, o Sol nasce ao longo dos Montes Cáucaso, visto da superfície lunar. A cordilheira lunar projeta sombras magníficas em forma de pináculo nesta visão telescópica do planeta Terra, olhando ao longo do terminador lunar ou da fronteira entre a noite e o dia lunar. Nomeados em homenagem às montanhas do Cáucaso da Terra, os escarpados picos lunares Montes Cáucaso, com até 6 quilômetros de altura, estão localizados entre o suave Mare Imbrium a oeste e o Mare Serenitatis a leste. Ainda na maior parte na sombra nesta paisagem lunar do primeiro quarto, à esquerda (oeste) as crateras de impacto refletem a luz do Sol nascente ao longo das paredes externas da cratera leste."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2512/MontesCaucasusCopie1024.png",
+    "hdurl": "https://apod.nasa.gov/apod/image/2512/MontesCaucasusCopie.png",
+    "copyright": "When the Moon"
+  },
+  {
     "date": "2025-12-18",
     "title": {
       "en": "Jupiter and the Meteors from Gemini",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2511/NebularSymphonyOrionsBelt1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2511/NebularSymphonyOrionsBelt2048.jpg",
     "copyright": "Aygen Erkaslan"
-  },
-  {
-    "date": "2025-11-19",
-    "title": {
-      "en": "Chamaeleon Dark Nebulas",
-      "pt": "Nebulosas Negras Camaleão"
-    },
-    "explanation": {
-      "en": "Sometimes the dark dust of interstellar space has an angular elegance.  Such is the case toward the far-south constellation of Chamaeleon. Normally too faint to see, dark dust is best known for blocking visible light from stars and galaxies behind it. In this 11.4-hour exposure, however, the dust is seen mostly in light of its own, with its strong red and near-infrared colors creating a brown hue. Contrastingly blue, a bright star Beta Chamaeleontis is visible on the upper right of the V, with the dust that surrounds it preferentially reflecting blue light from its primarily blue-white color.  All of the pictured stars and dust occur in our own Milky Way Galaxy with one notable exception: a white spot just below Beta Chamaeleontis is the galaxy IC 3104, which lies far in the distance.  Interstellar dust is mostly created in the cool atmospheres of giant stars and dispersed into space by stellar light, stellar winds, and stellar explosions such as supernovas.",
-      "pt": "Às vezes, a poeira escura do espaço interestelar tem uma elegância angular.  Esse é o caso da constelação do Camaleão, no extremo sul. Normalmente muito fraca para ser vista, a poeira escura é mais conhecida por bloquear a luz visível das estrelas e galáxias atrás dela. Nesta exposição de 11,4 horas, no entanto, a poeira é vista principalmente sob luz própria, com as suas fortes cores vermelhas e infravermelhas próximas criando uma tonalidade castanha. Contrastando com o azul, uma estrela brilhante Beta Chamaeleontis é visível no canto superior direito do V, com a poeira que a rodeia refletindo preferencialmente a luz azul de sua cor principalmente branco-azulada.  Todas as estrelas e poeira retratadas ocorrem na nossa galáxia, a Via Láctea, com uma exceção notável: uma mancha branca logo abaixo de Beta Chamaeleontis é a galáxia IC 3104, que fica muito distante.  A poeira interestelar é criada principalmente nas atmosferas frias de estrelas gigantes e dispersa no espaço pela luz estelar, ventos estelares e explosões estelares, como supernovas."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2511/Chamaeleon_Houbo_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2511/Chamaeleon_Houbo_3691.jpg",
-    "copyright": ", Xinran Li & , Houbo Zhao,"
   }
 ]
