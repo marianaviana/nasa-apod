@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-12-20",
+    "title": {
+      "en": "A Solstice Sun Tattoo",
+      "pt": "Uma tatuagem do sol do solstício"
+    },
+    "explanation": {
+      "en": "The word solstice is from the Latin for Sun and to pause or stand still. And in the days surrounding a solstice the Sun's annual north-south drift in planet Earth's sky does slow down, pause, and then reverse direction. So near the solstice the daily path of the Sun through the sky really doesn't change much. In fact, near the December solstice, the Sun's consistent, low arc through northern hemisphere skies, along with low surface temperatures, has left a noticeable imprint on this path to the mountain town of Peaio in northern Italy. The morning frost on the road has melted away only where the sunlight was able to reach the ground. But it remains in the areas persistently shadowed by the fence, tattooing in frost an image of the fence on the asphalt surface.",
+      "pt": "A palavra solstício vem do latim para Sol e fazer uma pausa ou ficar parado. E nos dias que cercam o solstício, a deriva anual norte-sul do Sol no céu do planeta Terra diminui a velocidade, faz uma pausa e depois inverte a direção. Portanto, perto do solstício, a trajetória diária do Sol no céu realmente não muda muito. De facto, perto do solstício de Dezembro, o arco consistente e baixo do Sol através dos céus do hemisfério norte, juntamente com as baixas temperaturas à superfície, deixaram uma marca notável neste caminho até à cidade montanhosa de Peaio, no norte de Itália. A geada matinal na estrada só derreteu onde a luz do sol conseguiu atingir o solo. Mas permanece nas áreas persistentemente sombreadas pela cerca, tatuando no gelo uma imagem da cerca na superfície do asfalto."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2512/tatooimg_145020251217_1024.jpeg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2512/tatooimg_145020251217.jpeg",
+    "copyright": "Marcella Pace"
+  },
+  {
     "date": "2025-12-19",
     "title": {
       "en": "Long Shadows of the Montes Caucasus",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2511/3I_251114_1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2511/3I_251114.jpg",
     "copyright": "Rolando Ligustri"
-  },
-  {
-    "date": "2025-11-20",
-    "title": {
-      "en": "Alnitak, Alnilam, Mintaka",
-      "pt": "Alnitak, Alnilam, Mintaka"
-    },
-    "explanation": {
-      "en": "Alnitak, Alnilam, and Mintaka are the bright bluish stars from east to west (upper right to lower left) along the diagonal in this cosmic vista. Otherwise known as the Belt of Orion, these three blue supergiant stars are hotter and much more massive than the Sun. They lie from 700 to 2,000 light-years away, born of Orion's well-studied interstellar clouds. In fact, clouds of gas and dust adrift in this region have some surprisingly familiar shapes, including the dark Horsehead Nebula and Flame Nebula near Alnitak at the upper right. The famous Orion Nebula itself is off the right edge of this colorful starfield. The telescopic frame spans almost 4 degrees on the sky.",
-      "pt": "Alnitak, Alnilam e Mintaka são as estrelas azuis brilhantes de leste a oeste (canto superior direito para canto inferior esquerdo) ao longo da diagonal nesta vista cósmica. Também conhecidas como Cinturão de Órion, essas três estrelas supergigantes azuis são mais quentes e muito mais massivas que o Sol. Eles ficam entre 700 e 2.000 anos-luz de distância, nascidos das bem estudadas nuvens interestelares de Órion. Na verdade, as nuvens de gás e poeira à deriva nesta região têm algumas formas surpreendentemente familiares, incluindo a escura Nebulosa Cabeça de Cavalo e a Nebulosa da Chama, perto de Alnitak, no canto superior direito. A famosa Nebulosa de Órion fica na borda direita deste campo estelar colorido. A estrutura telescópica se estende por quase 4 graus no céu."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2511/NebularSymphonyOrionsBelt1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2511/NebularSymphonyOrionsBelt2048.jpg",
-    "copyright": "Aygen Erkaslan"
   }
 ]
