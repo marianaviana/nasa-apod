@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-12-22",
+    "title": {
+      "en": "Sunset Solstice over Stonehenge",
+      "pt": "Solstício do pôr do sol sobre Stonehenge"
+    },
+    "explanation": {
+      "en": "Yesterday the Sun reached its southernmost point in planet Earth's sky.  Called a solstice, many cultures mark yesterday's date as a change of seasons -- from autumn to winter in Earth's Northern Hemisphere and from spring to summer in Earth's Southern Hemisphere.  The featured image was taken just before the longest night of the 2025 northern year at Stonehenge in United Kingdom. There, through stones precisely placed 4,500 years ago, a 4.5 billion year old large glowing orb is seen setting. Even given the precession of the Earth's rotational axis over the millennia, the Sun continues to set over Stonehenge in an astronomically significant way.",
+      "pt": "Ontem o Sol atingiu o seu ponto mais meridional no céu do planeta Terra.  Chamado de solstício, muitas culturas marcam a data de ontem como uma mudança de estações – do outono ao inverno no Hemisfério Norte da Terra e da primavera ao verão no Hemisfério Sul da Terra.  A imagem em destaque foi tirada pouco antes da noite mais longa do ano setentrional de 2025 em Stonehenge, no Reino Unido. Lá, através de pedras colocadas com precisão há 4.500 anos, um grande orbe brilhante de 4,5 bilhões de anos é visto se pondo. Mesmo tendo em conta a precessão do eixo de rotação da Terra ao longo dos milénios, o Sol continua a pôr-se sobre Stonehenge de uma forma astronomicamente significativa."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2512/StonehengeSolstice_Dury_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2512/StonehengeSolstice_Dury_3558.jpg",
+    "copyright": ", English Heritage, Josh Dury,"
+  },
+  {
     "date": "2025-12-21",
     "title": {
       "en": "Solstice on a Spinning Earth",
@@ -431,20 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2511/ObsUni_WikipediaPablo_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2511/ObsUni_WikipediaPablo_2100.jpg",
     "copyright": null
-  },
-  {
-    "date": "2025-11-22",
-    "title": {
-      "en": "Dione and Rhea Ring Transit",
-      "pt": "Dione e Rhea Anel Trânsito"
-    },
-    "explanation": {
-      "en": "Seen to the left of Saturn's banded planetary disk, small icy moons Dione and Rhea are caught passing in front of the gas giant's extensive ring system in this sharp telescopic snapshot. The remarkable image was recorded on November 20, when Saturn's rings were nearly edge-on when viewed from planet Earth. In fact, every 13 to 16 years the view from planet Earth aligns with Saturn's ring plane to produce a series of ring plane crossings. During a ring plane crossing, the interplanetary edge-on perspective makes the thin but otherwise bright rings seem to disappear. By November 23rd Saturn's rings will have reached a minimum angle for now, at their narrowest for viewing from planet Earth, but then start to widen again. Of course, Dione and Rhea orbit Saturn near the ring plane once every 2.7 and 4.5 days respectively, while the next series of Saturn ring plane crossings as seen from Earth will begin again in 2038.",
-      "pt": "Vistas à esquerda do disco planetário em faixas de Saturno, as pequenas luas geladas Dione e Rhea são capturadas passando em frente ao extenso sistema de anéis do gigante gasoso nesta nítida imagem telescópica. A imagem notável foi registada em 20 de Novembro, quando os anéis de Saturno estavam quase de lado quando vistos do planeta Terra. Na verdade, a cada 13 a 16 anos, a visão do planeta Terra se alinha com o plano dos anéis de Saturno para produzir uma série de cruzamentos dos planos dos anéis. Durante uma travessia do plano do anel, a perspectiva interplanetária lateral faz com que os anéis finos, mas brilhantes, pareçam desaparecer. Em 23 de Novembro, os anéis de Saturno terão atingido um ângulo mínimo por enquanto, no seu ponto mais estreito para visualização do planeta Terra, mas depois começarão a alargar-se novamente. É claro que Dione e Rhea orbitam Saturno perto do plano dos anéis uma vez a cada 2,7 e 4,5 dias, respectivamente, enquanto a próxima série de travessias do plano dos anéis de Saturno, vistas da Terra, começará novamente em 2038."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2511/SATURN2025-11-20-1130.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2511/SATURN2025-11-20-1130.tif",
-    "copyright": "Christopher Go"
   }
 ]
