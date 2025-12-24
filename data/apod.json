@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-12-24",
+    "title": {
+      "en": "Mystery: Little Red Dots in the Early Universe",
+      "pt": "Mistério: pequenos pontos vermelhos no universo primitivo"
+    },
+    "explanation": {
+      "en": "What are these little red dots (LRDs)? Nobody knows. Discovered only last year, hundreds of LRDs have now been found by the James Webb Space Telescope in the early universe. Although extremely faint, LRDs are now frequently identified in deep observations made for other purposes. A wide-ranging debate is raging about what LRDs may be and what importance they may have.  Possible origin hypotheses include accreting supermassive black holes inside clouds of gas and dust, bursts of star formation in young dust-reddened galaxies, and dark matter powered gas clouds.  The highlighted images show six nearly featureless LRDs listed under the JWST program that found them, and z, a distance indicator called cosmological redshift.  Additionally, searches are underway in our nearby universe to try to find whatever previous LRDs might have become today.",
+      "pt": "O que são esses pequenos pontos vermelhos (LRDs)? Ninguém sabe. Descobertos apenas no ano passado, centenas de LRDs foram agora encontrados pelo Telescópio Espacial James Webb no universo primitivo. Embora extremamente fracos, os LRDs são agora frequentemente identificados em observações profundas feitas para outros fins. Está em curso um amplo debate sobre o que podem ser os LRD e qual a importância que podem ter.  As possíveis hipóteses de origem incluem a acumulação de buracos negros supermassivos dentro de nuvens de gás e poeira, explosões de formação de estrelas em galáxias jovens com poeira avermelhada e nuvens de gás alimentadas por matéria escura.  As imagens destacadas mostram seis LRDs quase sem características listadas no programa JWST que os encontrou, e z, um indicador de distância chamado redshift cosmológico.  Além disso, pesquisas estão em andamento em nosso universo próximo para tentar encontrar o que quer que os LRDs anteriores possam ter se tornado hoje."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2512/Lrd_Webb_1080.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2512/Lrd_Webb_1080.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-12-23",
     "title": {
       "en": "Red Sprites and Circular Elves Lightning over Italy",
@@ -431,20 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2511/MilkyLemmon_Zixuan_1080.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2511/MilkyLemmon_Zixuan_5008.jpg",
     "copyright": ", Lin Zixuan , (Tsinghua U.),"
-  },
-  {
-    "date": "2025-11-24",
-    "title": {
-      "en": "Apep: Unusual Dust Shells from Webb",
-      "pt": "Apep: Conchas de Poeira Incomuns de Webb"
-    },
-    "explanation": {
-      "en": "What created this unusual space sculpture? Stars. This unusual system of swirls and shells, known as Apep, was observed in unprecedented detail by NASA’s James Webb Space Telescope in infrared light in 2024. Observations indicate that the unusual shape originates from two massive Wolf-Rayet stars orbiting each other every 190 years with each close passes causing a new shell of dust and gas to be expelled. Holes in these shells are thought to be caused by a third orbiting star. This stellar dust dance will likely continue for hundreds of thousands of years, possibly ending only when one of the massive stars runs out of internal nuclear fuel and explodes in a supernova punctuated by a burst of gamma-rays.   Build your own star system: Astronomy Puzzle of the Day",
-      "pt": "O que criou esta escultura espacial incomum? Estrelas. Este sistema incomum de redemoinhos e conchas, conhecido como Apep, foi observado com detalhes sem precedentes pelo Telescópio Espacial James Webb da NASA em luz infravermelha em 2024. As observações indicam que a forma incomum se origina de duas estrelas massivas Wolf-Rayet orbitando uma à outra a cada 190 anos, com cada passagem próxima causando a expulsão de uma nova camada de poeira e gás. Acredita-se que os buracos nessas conchas sejam causados ​​por uma terceira estrela em órbita. Esta dança da poeira estelar provavelmente continuará por centenas de milhares de anos, possivelmente terminando apenas quando uma das estrelas massivas ficar sem combustível nuclear interno e explodir numa supernova pontuada por uma explosão de raios gama.   Construa seu próprio sistema estelar: quebra-cabeça astronômico do dia"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2511/ApepStars_webb_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2511/ApepStars_webb_960.jpg",
-    "copyright": null
   }
 ]
