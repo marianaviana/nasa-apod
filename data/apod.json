@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-12-25",
+    "title": {
+      "en": "Unicorn, Fox Fur and Christmas Tree",
+      "pt": "Unicórnio, Pele de Raposa e Árvore de Natal"
+    },
+    "explanation": {
+      "en": "A star forming region cataloged as NGC 2264, this beautiful but complex arrangement of interstellar gas and dust is about 2,700 light-years distant in the faint but fanciful constellation Monoceros, the Unicorn. Seen toward the celestial equator and near the plane of our Milky Way galaxy, the seasonal skyscape mixes reddish emission nebulae excited by energetic light from newborn stars with dark interstellar dust clouds. Where the otherwise obscuring dust clouds lie close to the hot, young stars, they also reflect starlight, forming blue reflection nebulae. In fact, bright variable star S Monocerotis is immersed in a blue-tinted haze near center. Arrayed with a simple triangular outline above S Monocerotis, the stars of NGC 2264 are popularly known as the Christmas Tree star cluster. Carved by energetic starlight, the Cone Nebula sits upside down at the apex of this cosmic Christmas tree while the dusty, convoluted pelt of glowing gas and dust under the tree is called the Fox Fur Nebula. This rich telescopic frame spans about 1.5 degrees or 3 full moons on the sky top to bottom, covering nearly 80 light-years at the distance of NGC 2264.",
+      "pt": "Uma região de formação estelar catalogada como NGC 2264, este belo mas complexo arranjo de gás e poeira interestelar está a cerca de 2.700 anos-luz de distância, na tênue mas fantasiosa constelação de Monoceros, o Unicórnio. Vista em direção ao equador celestial e perto do plano da nossa galáxia, a Via Láctea, a paisagem celeste sazonal mistura nebulosas de emissão avermelhadas excitadas pela luz energética de estrelas recém-nascidas com nuvens escuras de poeira interestelar. Onde as nuvens de poeira, de outra forma obscurecedoras, ficam perto das estrelas jovens e quentes, elas também refletem a luz das estrelas, formando nebulosas de reflexão azuis. Na verdade, a brilhante estrela variável S Monocerotis está imersa numa névoa azulada perto do centro. Dispostas com um contorno triangular simples acima de S Monocerotis, as estrelas de NGC 2264 são popularmente conhecidas como aglomerado estelar da Árvore de Natal. Esculpida pela energia da luz das estrelas, a Nebulosa do Cone fica de cabeça para baixo no ápice desta árvore de Natal cósmica, enquanto a pele empoeirada e complicada de gás brilhante e poeira sob a árvore é chamada de Nebulosa Pele de Raposa. Esta rica estrutura telescópica abrange cerca de 1,5 graus ou 3 luas cheias no céu, de cima a baixo, cobrindo quase 80 anos-luz à distância de NGC 2264."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2512/IMG_7311_800.jpeg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2512/IMG_7311.jpeg",
+    "copyright": "Michael Kalika"
+  },
+  {
     "date": "2025-12-24",
     "title": {
       "en": "Mystery: Little Red Dots in the Early Universe",
@@ -431,20 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2511/M15Deep_AIP_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2511/M15Deep_AIP_5585.jpg",
     "copyright": ", Alvaro Ibanez Perez,"
-  },
-  {
-    "date": "2025-11-25",
-    "title": {
-      "en": "Comet Lemmon and the Milky Way",
-      "pt": "Cometa Lemmon e a Via Láctea"
-    },
-    "explanation": {
-      "en": "What did Comet Lemmon look like when it was at its best? One example is pictured here, featuring three celestial spectacles all at different distances. The closest spectacle is the snowcapped Meili Mountains, part of the Himalayas in China.  The middle marvel is Comet Lemmon near its picturesque best early this month, showing not only a white dust tail trailing off to the right but its blue solar wind-distorted ion tail trailing off to the left.  Far in the distance on the left is the magnificent central plane of our Milky Way Galaxy, featuring dark dust, red nebula, and including billions of Sun-like stars. Comet C/2025 A6 (Lemmon) is already fading as it heads back into the outer Solar System, while the Himalayan mountains will gradually erode over the next billion years. The Milky Way Galaxy, though, will live on -- forming new mountains and comets -- for many billions of years into the future.",
-      "pt": "Como era o cometa Lemmon quando estava no seu melhor? Um exemplo é mostrado aqui, apresentando três espetáculos celestes, todos a distâncias diferentes. O espetáculo mais próximo são as montanhas Meili, cobertas de neve, parte do Himalaia, na China.  A maravilha do meio é o cometa Lemmon, próximo de seu melhor pitoresco no início deste mês, mostrando não apenas uma cauda de poeira branca se arrastando para a direita, mas sua cauda de íon azul distorcida pelo vento solar se arrastando para a esquerda.  Ao longe, à esquerda, está o magnífico plano central da nossa Galáxia, a Via Láctea, com poeira escura, nebulosa vermelha e incluindo bilhões de estrelas semelhantes ao Sol. O cometa C/2025 A6 (Lemmon) já está desaparecendo ao retornar para o Sistema Solar exterior, enquanto as montanhas do Himalaia sofrerão erosão gradual ao longo dos próximos bilhões de anos. A Via Láctea, no entanto, continuará viva - formando novas montanhas e cometas - durante muitos milhares de milhões de anos no futuro."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2511/MilkyLemmon_Zixuan_1080.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2511/MilkyLemmon_Zixuan_5008.jpg",
-    "copyright": ", Lin Zixuan , (Tsinghua U.),"
   }
 ]
