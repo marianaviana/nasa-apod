@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-12-26",
+    "title": {
+      "en": "3I/ATLAS Flyby",
+      "pt": "Sobrevoo 3I/ATLAS"
+    },
+    "explanation": {
+      "en": "Attention grabbing interstellar visitor 3I/ATLAS made its not-so-close flyby of our fair planet on December 19 at a distance of 1.8 astronomical units. That's about 900 light-seconds. Still, this deep exposure captures the comet from another star system as it gently swept across a faint background of stars in the constellation Leo about 4 days earlier, on the night of December 15. Though faint, colors emphasized in the image data, show off the comet's yellowish dust tail and bluish ion tail along with a greenish tinged coma. And even while scrutinized by arrays of telescopes and spacecraft from planet Earth, 3I ATLAS is headed out of the Solar System. It's presently moving outward along a hyperbolic trajectory at about 64 kilometers per second relative to the Sun, too fast to be bound the Sun's gravity.",
+      "pt": "O visitante interestelar 3I/ATLAS, que chamou a atenção, fez seu sobrevôo não tão próximo de nosso belo planeta em 19 de dezembro, a uma distância de 1,8 unidades astronômicas. Isso é cerca de 900 segundos-luz. Ainda assim, esta exposição profunda captura o cometa de outro sistema estelar enquanto ele varria suavemente um fundo tênue de estrelas na constelação de Leão cerca de 4 dias antes, na noite de 15 de dezembro. Embora fracas, as cores enfatizadas nos dados da imagem mostram a cauda de poeira amarelada e a cauda de íon azulada do cometa, juntamente com uma coma tingida de esverdeado. E mesmo enquanto é examinado por conjuntos de telescópios e naves espaciais do planeta Terra, o 3I ATLAS está a sair do Sistema Solar. Atualmente está se movendo para fora ao longo de uma trajetória hiperbólica a cerca de 64 quilômetros por segundo em relação ao Sol, rápido demais para ser limitado pela gravidade do Sol."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2512/3IATLAS_2025_12_15_JuneLake_DEBartlett1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2512/3IATLAS_2025_12_15_JuneLake_DEBartlett.jpg",
+    "copyright": "Dan Bartlett"
+  },
+  {
     "date": "2025-12-25",
     "title": {
       "en": "Unicorn, Fox Fur and Christmas Tree",
@@ -431,20 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2511/NGC1055JohnHayes1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2511/NGC1055JohnHayes.jpg",
     "copyright": "John Hayes"
-  },
-  {
-    "date": "2025-11-26",
-    "title": {
-      "en": "Globular Cluster M15 Deep Field",
-      "pt": "Campo Profundo do Aglomerado Globular M15"
-    },
-    "explanation": {
-      "en": "Stars, like bees, swarm around the center of bright globular cluster M15.  The central ball of over 100,000 stars is a relic from the early years of our Galaxy, and continues to orbit the Milky Way's center.  M15, one of about 150 globular clusters remaining, is noted for being easily visible with only binoculars, having at its center one of the densest concentrations of stars known, and containing a high abundance of variable stars and pulsars.  The featured image of M15 was taken by combining very long exposures -- 122 hours in all -- and so brings up faint wisps of gas and dust in front of the giant ball of stars. M15 lies about 35,000 light years away toward the constellation of the Winged Horse (Pegasus).    Almost Hyperspace: Random APOD Generator",
-      "pt": "Estrelas, como abelhas, enxameiam em torno do centro do brilhante aglomerado globular M15.  A bola central de mais de 100.000 estrelas é uma relíquia dos primeiros anos da nossa Galáxia e continua a orbitar o centro da Via Láctea.  M15, um dos cerca de 150 aglomerados globulares restantes, é conhecido por ser facilmente visível apenas com binóculos, tendo no seu centro uma das mais densas concentrações de estrelas conhecidas e contendo uma grande abundância de estrelas variáveis ​​e pulsares.  A imagem apresentada da M15 foi obtida combinando exposições muito longas - 122 horas no total - e assim mostra tênues fragmentos de gás e poeira na frente da gigante bola de estrelas. M15 fica a cerca de 35.000 anos-luz de distância, em direção à constelação do Cavalo Alado (Pégaso).    Quase Hiperespaço: Gerador APOD Aleatório"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2511/M15Deep_AIP_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2511/M15Deep_AIP_5585.jpg",
-    "copyright": ", Alvaro Ibanez Perez,"
   }
 ]
