@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-12-27",
+    "title": {
+      "en": "Apollo 17's Moonship",
+      "pt": "Nave lunar da Apollo 17"
+    },
+    "explanation": {
+      "en": "Awkward and angular looking, Apollo 17's lunar module Challenger was designed for flight in the near vacuum of space.  Digitally enhanced and reprocessed, this picture taken from Apollo 17's command module America shows Challenger's ascent stage in lunar orbit. Small reaction control thrusters are at the sides of the moonship with the bell of the ascent rocket engine underneath. The hatch that allowed access to the lunar surface is seen at the front, with a round radar antenna at the top. Mission commander Gene Cernan is clearly visible through the triangular window. This spaceship performed gracefully, landing on the Moon and returning the Apollo astronauts to the orbiting command module in December of 1972. So where is Challenger now?  While its descent stage remains at the Apollo 17 landing site in the Taurus-Littrow valley, the ascent stage pictured was intentionally crashed nearby after being jettisoned from the command module prior to the astronauts' return to planet Earth.",
+      "pt": "De aparência estranha e angular, o módulo lunar Challenger da Apollo 17 foi projetado para voar no quase vácuo do espaço.  Aprimorada e reprocessada digitalmente, esta foto tirada do módulo de comando América da Apollo 17 mostra o estágio de ascensão do Challenger na órbita lunar. Pequenos propulsores de controle de reação estão nas laterais da nave lunar, com o sino do motor do foguete de subida embaixo. A escotilha que permitia o acesso à superfície lunar é vista na frente, com uma antena de radar redonda no topo. O comandante da missão, Gene Cernan, é claramente visível através da janela triangular. Esta nave espacial teve um desempenho elegante, pousando na Lua e devolvendo os astronautas da Apollo ao módulo de comando em órbita em dezembro de 1972. Então, onde está o Challenger agora?  Embora seu estágio de descida permaneça no local de pouso da Apollo 17 no vale Taurus-Littrow, o estágio de subida na foto caiu intencionalmente nas proximidades, após ser descartado do módulo de comando antes do retorno dos astronautas ao planeta Terra."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2512/AS17-149-22859-2v2SmlWmk1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2512/AS17-149-22859-2v2SmlWmk.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-12-26",
     "title": {
       "en": "3I/ATLAS Flyby",
@@ -431,20 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2511/NGC6888_40_300s_F2_1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2511/NGC6888_40_300s_2048.jpg",
     "copyright": "Greg Bass"
-  },
-  {
-    "date": "2025-11-27",
-    "title": {
-      "en": "Portrait of NGC 1055",
-      "pt": "Retrato de NGC 1055"
-    },
-    "explanation": {
-      "en": "Big, beautiful spiral galaxy NGC 1055 is a dominant member of a small galaxy group a mere 60 million light-years away toward the aquatically intimidating constellation Cetus. Seen edge-on, the island universe spans over 100,000 light-years, a little larger than our own Milky Way galaxy. The colorful, spiky stars decorating this cosmic portrait of NGC 1055 are in the foreground, well within the Milky Way. But telltale pinkish star forming regions and young blue star clusters are scattered through winding dust lanes along the distant galaxy's thin disk. With a smattering of even more distant background galaxies, the deep image also reveals a boxy halo that extends far above and below the central bulge and disk of NGC 1055. The halo itself is laced with faint, narrow structures, and could represent the mixed and spread out debris from a satellite galaxy disrupted by the larger spiral some 10 billion years ago.",
-      "pt": "A grande e bela galáxia espiral NGC 1055 é um membro dominante de um pequeno grupo de galáxias a apenas 60 milhões de anos-luz de distância, em direção à intimidante constelação aquática de Cetus. Visto de lado, o universo insular abrange mais de 100.000 anos-luz, um pouco maior que a nossa galáxia, a Via Láctea. As estrelas coloridas e pontiagudas que decoram este retrato cósmico da NGC 1055 estão em primeiro plano, bem dentro da Via Láctea. Mas reveladores regiões de formação de estrelas rosadas e jovens aglomerados de estrelas azuis estão espalhados através de faixas sinuosas de poeira ao longo do fino disco da galáxia distante. Com um punhado de galáxias de fundo ainda mais distantes, a imagem profunda também revela um halo quadradão que se estende muito acima e abaixo do bojo central e do disco da NGC 1055. O próprio halo está repleto de estruturas tênues e estreitas, e pode representar os detritos misturados e espalhados de uma galáxia satélite interrompida pela espiral maior há cerca de 10 mil milhões de anos."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2511/NGC1055JohnHayes1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2511/NGC1055JohnHayes.jpg",
-    "copyright": "John Hayes"
   }
 ]
