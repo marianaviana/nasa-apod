@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-12-28",
+    "title": {
+      "en": "NGC 1898: Globular Cluster in the Large Magellanic Cloud",
+      "pt": "NGC 1898: Aglomerado Globular na Grande Nuvem de Magalhães"
+    },
+    "explanation": {
+      "en": "Jewels don't shine this bright -- only stars do. And almost every spot in this jewel-box of an image from the Hubble Space Telescope is a star. Now, some stars are more red than our Sun, and some more blue -- but all of them are much farther away.  Although it takes light about 8 minutes to reach Earth from the Sun, NGC 1898 is so far away that it takes light about 160,000 years to get here. This huge ball of stars, NGC 1898, is called a globular cluster and resides in the central bar of the Large Magellanic Cloud (LMC) -- a satellite galaxy of our Milky Way Galaxy. The featured multi-colored image includes light from the infrared to the ultraviolet and was taken to help determine if the stars of NGC 1898 all formed at the same time or at different times. There are increasing indications that most globular clusters formed stars in stages, and that, in particular, stars from NGC 1898 formed shortly after ancient encounters with the Small Magellanic Cloud (SMC) and our Milky Way Galaxy.   Space Telescopes Live: Where are Hubble and Webb looking right now?",
+      "pt": "As joias não brilham tanto – apenas as estrelas brilham. E quase todos os pontos nesta caixa de joias da imagem do Telescópio Espacial Hubble são estrelas. Agora, algumas estrelas são mais vermelhas que o nosso Sol e outras mais azuis - mas todas elas estão muito mais distantes.  Embora a luz leve cerca de 8 minutos para chegar à Terra vindo do Sol, NGC 1898 está tão longe que a luz leva cerca de 160.000 anos para chegar aqui. Esta enorme bola de estrelas, NGC 1898, é chamada de aglomerado globular e reside na barra central da Grande Nuvem de Magalhães (LMC) - uma galáxia satélite da nossa Via Láctea. A imagem multicolorida apresentada inclui luz do infravermelho ao ultravioleta e foi obtida para ajudar a determinar se as estrelas de NGC 1898 se formaram todas ao mesmo tempo ou em momentos diferentes. Há indicações crescentes de que a maioria dos aglomerados globulares formaram estrelas em estágios e que, em particular, as estrelas de NGC 1898 se formaram logo após antigos encontros com a Pequena Nuvem de Magalhães (SMC) e a nossa Galáxia, a Via Láctea.   Telescópios espaciais ao vivo: para onde o Hubble e o Webb estão olhando agora?"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2512/NGC1898_Hubble_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2512/NGC1898_Hubble_2913.jpg",
+    "copyright": null
+  },
+  {
     "date": "2025-12-27",
     "title": {
       "en": "Apollo 17's Moonship",
@@ -431,20 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2511/GHR1127sbarbaralunapicc1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2511/GHR1127sbarbaralunapicc.jpg",
     "copyright": "Giorgia Hofer"
-  },
-  {
-    "date": "2025-11-28",
-    "title": {
-      "en": "NGC 6888: The Crescent Nebula",
-      "pt": "NGC 6888: A Nebulosa Crescente"
-    },
-    "explanation": {
-      "en": "NGC 6888, also known as the Crescent Nebula, is a about 25 light-years across, a cosmic bubble blown by winds from its central, massive star. This deep telescopic image includes narrowband image data, to isolate light from hydrogen and oxygen atoms. The oxygen atoms produce the blue-green hue that seems to enshroud the nebula's detailed folds and filaments. Visible within the nebula, NGC 6888's central star is classified as a Wolf-Rayet star (WR 136). The star is shedding its outer envelope in a strong stellar wind, ejecting the equivalent of the Sun's mass every 10,000 years.  In fact, the Crescent Nebula's complex structures are likely the result of this strong wind interacting with material ejected in an earlier phase. Burning fuel at a prodigious rate and near the end of its stellar life, this star should ultimately go out with a bang in a spectacular supernova explosion. Found in the nebula rich constellation Cygnus, NGC 6888 is about 5,000 light-years away.",
-      "pt": "NGC 6888, também conhecida como Nebulosa Crescente, tem cerca de 25 anos-luz de diâmetro, uma bolha cósmica soprada pelos ventos de sua estrela central massiva. Esta imagem telescópica profunda inclui dados de imagem de banda estreita, para isolar a luz dos átomos de hidrogênio e oxigênio. Os átomos de oxigênio produzem a tonalidade azul esverdeada que parece envolver as dobras e filamentos detalhados da nebulosa. Visível dentro da nebulosa, a estrela central de NGC 6888 é classificada como uma estrela Wolf-Rayet (WR 136). A estrela está a libertar-se do seu invólucro exterior num forte vento estelar, ejetando o equivalente à massa do Sol a cada 10.000 anos.  Na verdade, as estruturas complexas da Nebulosa Crescente são provavelmente o resultado da interação deste vento forte com material ejetado numa fase anterior. Queimando combustível a um ritmo prodigioso e perto do fim da sua vida estelar, esta estrela deverá finalmente extinguir-se com um estrondo numa espectacular explosão de supernova. Encontrada na constelação de Cygnus, rica em nebulosas, NGC 6888 está a cerca de 5.000 anos-luz de distância."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2511/NGC6888_40_300s_F2_1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2511/NGC6888_40_300s_2048.jpg",
-    "copyright": "Greg Bass"
   }
 ]
