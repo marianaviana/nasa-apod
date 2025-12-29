@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-12-29",
+    "title": {
+      "en": "M1: The Crab Nebula",
+      "pt": "M1: A Nebulosa do Caranguejo"
+    },
+    "explanation": {
+      "en": "This is the mess that is left when a star explodes.  The Crab Nebula, the result of a supernova seen in 1054 AD, is filled with mysterious filaments.  The filaments are not only tremendously complex but appear to have less mass than expelled in the original supernova and a higher speed than expected from a free explosion.  The featured image was taken by an amateur astronomer in Leesburg, Florida, USA over three nights last month. It was captured in three primary colors but with extra detail provided by specific emission by hydrogen gas. The Crab Nebula spans about 10 light years.  In the Nebula's very center lies a pulsar: a neutron star as massive as the Sun but with only the size of a small town.  The Crab Pulsar rotates about 30 times each second.   Explore the Universe: Random APOD Generator",
+      "pt": "Esta é a bagunça que fica quando uma estrela explode.  A Nebulosa do Caranguejo, resultado de uma supernova vista em 1054 DC, está repleta de filamentos misteriosos.  Os filamentos não são apenas tremendamente complexos, mas parecem ter menos massa do que a expelida na supernova original e uma velocidade mais elevada do que a esperada numa explosão livre.  A imagem apresentada foi tirada por um astrônomo amador em Leesburg, Flórida, EUA, durante três noites no mês passado. Foi capturado em três cores primárias, mas com detalhes extras fornecidos pela emissão específica do gás hidrogênio. A Nebulosa do Caranguejo se estende por cerca de 10 anos-luz.  Bem no centro da nebulosa encontra-se um pulsar: uma estrela de nêutrons tão massiva quanto o Sol, mas com apenas o tamanho de uma pequena cidade.  O Pulsar Caranguejo gira cerca de 30 vezes por segundo.   Explore o Universo: Gerador APOD Aleatório"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2512/Crab_Chen_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2512/Crab_Chen_1920.jpg",
+    "copyright": ", Alan Chen,"
+  },
+  {
     "date": "2025-12-28",
     "title": {
       "en": "NGC 1898: Globular Cluster in the Large Magellanic Cloud",
@@ -431,20 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2511/Titan_Huygens_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2511/Titan_Huygens_960.jpg",
     "copyright": null
-  },
-  {
-    "date": "2025-11-29",
-    "title": {
-      "en": "Moon Games",
-      "pt": "Jogos da Lua"
-    },
-    "explanation": {
-      "en": "This is not a screen from a video game. Nestled below the tree-line, the small mountain church does look like it might be hiding from Moon though. In the well-composed telephoto snapshot, taken on November 23, the church walls are partly reflecting light from terrestrial flood lights. Of course, the Moon is reflecting light from the Sun. At any given time the Sun illuminates fully half of the Moon's surface, also known as the lunar dayside, but on that night only a sliver of its sunlit surface was visible. About three days after New Moon, the Moon was in a waxing crescent phase. The single exposure was captured shortly after sunset in skies near Danta di Cadore, northern Italy, planet Earth.",
-      "pt": "Esta não é uma tela de videogame. Situada abaixo da linha das árvores, a pequena igreja na montanha parece estar se escondendo da Lua. Na fotografia telefoto bem composta, tirada em 23 de novembro, as paredes da igreja refletem parcialmente a luz dos holofotes terrestres. Claro, a Lua está refletindo a luz do Sol. A qualquer momento, o Sol ilumina totalmente metade da superfície da Lua, também conhecida como lado diurno lunar, mas naquela noite apenas uma parte da sua superfície iluminada pelo sol era visível. Cerca de três dias após a Lua Nova, a Lua estava em fase crescente. A exposição única foi capturada logo após o pôr do sol nos céus perto de Danta di Cadore, norte da Itália, planeta Terra."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2511/GHR1127sbarbaralunapicc1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2511/GHR1127sbarbaralunapicc.jpg",
-    "copyright": "Giorgia Hofer"
   }
 ]
