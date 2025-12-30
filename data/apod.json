@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-12-30",
+    "title": {
+      "en": "An Artificial Comet",
+      "pt": "Um cometa artificial"
+    },
+    "explanation": {
+      "en": "Yes, but can your comet tail do this? No, and what you are seeing is not the tail of a comet. The picture features a cleverly overlayed time-lapse sequence of a group of satellites orbiting Earth together in June. Specifically, these are Starlink communications satellites in low Earth orbit reflecting back sunlight before sunrise to Inner Mongolia, China. Although the satellites appear to the human eye as points, the 20-second-long camera exposures caused them to appear as short streaks. Currently there are over 9000 Starlinks in orbit, with more being launched nearly every week.  Other satellite constellations are also being planned.   Explore the Universe: Random APOD Generator",
+      "pt": "Sim, mas a cauda do seu cometa pode fazer isso? Não, e o que você está vendo não é a cauda de um cometa. A imagem apresenta uma sequência de lapso de tempo habilmente sobreposta de um grupo de satélites orbitando a Terra juntos em junho. Especificamente, estes são satélites de comunicações Starlink em órbita baixa da Terra, refletindo a luz solar antes do nascer do sol para a Mongólia Interior, China. Embora os satélites pareçam ao olho humano como pontos, as exposições de 20 segundos da câmera fizeram com que eles aparecessem como listras curtas. Atualmente, existem mais de 9.000 Starlinks em órbita, com mais lançamentos quase todas as semanas.  Outras constelações de satélites também estão sendo planejadas.   Explore o Universo: Gerador APOD Aleatório"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2512/ArtificialComet_Chao_1080.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2512/ArtificialComet_Chao_3000.jpg",
+    "copyright": ", Wang Chao,"
+  },
+  {
     "date": "2025-12-29",
     "title": {
       "en": "M1: The Crab Nebula",
@@ -431,20 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2512/Comet3I_SabetWinter_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2512/Comet3I_SabetWinter_4243.jpg",
     "copyright": ", Victor Sabet & , Julien De Winter,"
-  },
-  {
-    "date": "2025-11-30",
-    "title": {
-      "en": "The Surface of Titan from Huygens",
-      "pt": "A Superfície de Titã de Huygens"
-    },
-    "explanation": {
-      "en": "If you could stand on Titan -- what would you see? The featured color view from Titan gazes across an unfamiliar and distant landscape on Saturn's largest moon.  The scene was recorded by ESA's Huygens probe in 2005 after a 2.5-hour descent through a thick atmosphere of nitrogen laced with methane.  Bathed in an eerie orange light at ground level, rocks strewn about the scene could well be composed of water and hydrocarbons frozen solid at an inhospitable temperature of negative 179 degrees C.  The large light-toned rock below and left of center is only about 15 centimeters across and lies 85 centimeters away.  The saucer-shaped spacecraft is believed to have penetrated about 15 centimeters into a place on Titan's surface that had the consistency of wet sand or clay.  Huygen's batteries enabled the probe to take and transmit data for more than 90 minutes after landing.  Titan's bizarre chemical environment may bear similarities to planet Earth's before life evolved.",
-      "pt": "Se você pudesse subir em Titã – o que você veria? A vista colorida apresentada de Titã contempla uma paisagem desconhecida e distante da maior lua de Saturno.  A cena foi registada pela sonda Huygens da ESA em 2005, após uma descida de 2,5 horas através de uma espessa atmosfera de azoto misturada com metano.  Banhadas por uma estranha luz laranja ao nível do solo, as rochas espalhadas pela cena poderiam muito bem ser compostas de água e hidrocarbonetos congelados a uma temperatura inóspita de 179 graus C negativos. A grande rocha de tom claro abaixo e à esquerda do centro tem apenas cerca de 15 centímetros de diâmetro e fica a 85 centímetros de distância.  Acredita-se que a espaçonave em forma de disco tenha penetrado cerca de 15 centímetros em um local da superfície de Titã que tinha consistência de areia úmida ou argila.  As baterias da Huygen permitiram que a sonda captasse e transmitisse dados por mais de 90 minutos após o pouso.  O bizarro ambiente químico de Titã pode ter semelhanças com o do planeta Terra antes da evolução da vida."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2511/Titan_Huygens_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2511/Titan_Huygens_960.jpg",
-    "copyright": null
   }
 ]
