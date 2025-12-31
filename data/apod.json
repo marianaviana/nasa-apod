@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-12-31",
+    "title": {
+      "en": "HH-222: The Waterfall Nebula",
+      "pt": "HH-222: A Nebulosa da Cachoeira"
+    },
+    "explanation": {
+      "en": "What created the Waterfall Nebula?  The origin is still being researched.  The structure, officially designated Herbig-Haro 222, appears in the region of NGC 1999 in the Great Orion Molecular Cloud complex. The elongated gaseous stream stretches about ten light years but appears similar to a long waterfall on Earth.  Recent observations indicate that HH-222 is likely a gigantic gaseous bow shock, similar to a wave of water caused by a fast-moving ship. The origin of this shock wave is thought to be a jet outflow from the multiple star system V380 Orionis off the lower left of the frame.  Therefore, gas does not flow along the waterfall, but rather the entire structure moves toward the upper right.  The Waterfall Nebula lies about 1,500 light years away toward the constellation of Orion.  The featured image was captured earlier this month from El Sauce Observatory in Chile.   Jigsaw Nebula: Astronomy Puzzle of the Day",
+      "pt": "O que criou a Nebulosa da Cachoeira?  A origem ainda está sendo pesquisada.  A estrutura, oficialmente designada Herbig-Haro 222, aparece na região de NGC 1999 no complexo da Grande Nuvem Molecular de Orion. A corrente gasosa alongada se estende por cerca de dez anos-luz, mas parece semelhante a uma longa cachoeira na Terra.  Observações recentes indicam que o HH-222 é provavelmente um gigantesco choque de proa gasoso, semelhante a uma onda de água causada por um navio em movimento rápido. Acredita-se que a origem desta onda de choque seja um jato que sai do sistema estelar múltiplo V380 Orionis na parte inferior esquerda do quadro.  Portanto, o gás não flui ao longo da cachoeira, mas sim toda a estrutura se move para o canto superior direito.  A Nebulosa da Cachoeira fica a cerca de 1.500 anos-luz de distância, em direção à constelação de Órion.  A imagem em destaque foi capturada no início deste mês no Observatório El Sauce, no Chile.   Nebulosa Jigsaw: quebra-cabeça astronômico do dia"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2512/WaterfallNeb_Selby_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2512/WaterfallNeb_Selby_4000.jpg",
+    "copyright": ", Mike Selby,"
+  },
+  {
     "date": "2025-12-30",
     "title": {
       "en": "An Artificial Comet",
@@ -431,20 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2512/M77_Hubble_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2512/M77_Hubble_3681.jpg",
     "copyright": null
-  },
-  {
-    "date": "2025-12-01",
-    "title": {
-      "en": "3I ATLAS: Tails of an Interstellar Comet",
-      "pt": "3I ATLAS: Caudas de um cometa interestelar"
-    },
-    "explanation": {
-      "en": "How typical is our Solar System?  Studying 3I/ATLAS, a comet just passing through, is providing clues.  Confirmed previous interstellar visitors include an asteroid, a comet, a meteor, and a gas wind dominated by hydrogen and helium. Comet 3I/ATLAS appears relatively normal when compared to Solar System comets, therefore providing more evidence that our Solar System is a somewhat typical star system.  For example, Comet 3I/ATLAS has a broadly similar chemical composition and ejected dust. The featured image was captured last week from Texas and shows a green coma, a wandering blue-tinted ion tail likely deflected by our Sun's wind, and a slight anti-tail, all typical cometary attributes.  The comet, visible with a telescope, passed its closest to the Sun in late October and will pass its closest to the Earth in mid-December, after which it will return to interstellar space and never return.    Explore the Universe: Random APOD Generator",
-      "pt": "Quão típico é o nosso Sistema Solar?  Estudar o 3I/ATLAS, um cometa que está de passagem, está fornecendo pistas.  Visitantes interestelares anteriores confirmados incluem um asteroide, um cometa, um meteoro e um vento gasoso dominado por hidrogênio e hélio. O Cometa 3I/ATLAS parece relativamente normal quando comparado aos cometas do Sistema Solar, fornecendo assim mais evidências de que o nosso Sistema Solar é um sistema estelar típico.  Por exemplo, o Cometa 3I/ATLAS tem uma composição química e poeira ejetada bastante semelhantes. A imagem em destaque foi capturada na semana passada no Texas e mostra uma coma verde, uma cauda de íons errante de cor azul, provavelmente desviada pelo vento do nosso Sol, e uma leve anti-cauda, ​​todos atributos típicos de cometas.  O cometa, visível com um telescópio, passou mais perto do Sol no final de outubro e passará mais perto da Terra em meados de dezembro, após o que retornará ao espaço interestelar e nunca mais retornará.    Explore o Universo: Gerador APOD Aleatório"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2512/Comet3I_SabetWinter_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2512/Comet3I_SabetWinter_4243.jpg",
-    "copyright": ", Victor Sabet & , Julien De Winter,"
   }
 ]
