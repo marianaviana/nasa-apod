@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-01-03",
+    "title": {
+      "en": "Full Moonlight",
+      "pt": "Luar Cheio"
+    },
+    "explanation": {
+      "en": "The Full Moon is the brightest lunar phase, and tonight you can stand in the light of the first Full Moon of 2026. In fact, the Moon's full phase occurs on January 3 at 10:03 UTC, while only about 7 hours later planet Earth reaches its 2026 perihelion, the closest point in its elliptical orbit around the Sun, at 17:16 UTC. January's Full Moon was also not far from its own perigee, or closest approach to planet Earth. For this lunation the Moon's perigee was on January 1 at 21:44 UTC. You can also spot planet Jupiter, near its brightest for 2026 and close on the sky to the Full Moon tonight. But while you're out skygazing don't forget to look for rare, bright fireballs from the Quadrantid meteor shower.",
+      "pt": "A Lua Cheia é a fase lunar mais brilhante, e esta noite você pode estar sob a luz da primeira Lua Cheia de 2026. Na verdade, a fase cheia da Lua ocorre em 3 de janeiro às 10h03 UTC, enquanto apenas cerca de 7 horas depois o planeta Terra atinge seu periélio de 2026, o ponto mais próximo em sua órbita elíptica ao redor do Sol, às 17h16 UTC. A Lua Cheia de Janeiro também não esteve longe do seu próprio perigeu, ou da maior aproximação ao planeta Terra. Para esta lunação, o perigeu da Lua ocorreu em 1º de janeiro às 21h44 UTC. Você também pode localizar o planeta Júpiter, próximo ao seu ponto mais brilhante em 2026 e próximo no céu da Lua Cheia esta noite. Mas enquanto você estiver observando o céu, não se esqueça de procurar bolas de fogo raras e brilhantes da chuva de meteoros Quadrantid."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2601/moonwalk1c1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2601/moonwalk1.jpg",
+    "copyright": "Jeff Dai"
+  },
+  {
     "date": "2026-01-02",
     "title": {
       "en": "NanoSail-D2",
@@ -431,20 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2512/KXAnd1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2512/KXAnd.jpg",
     "copyright": "Tim Schaeffer"
-  },
-  {
-    "date": "2025-12-04",
-    "title": {
-      "en": "Galaxies in the Furnace",
-      "pt": "Galáxias na Fornalha"
-    },
-    "explanation": {
-      "en": "An example of violence on a cosmic scale, enormous elliptical galaxy NGC 1316 lies about 75 million light-years away toward Fornax, the southern constellation of the Furnace. Investigating the startling sight, astronomers suspect the giant galaxy of colliding with smaller neighbor NGC 1317 seen just right of the large galaxy's center, producing far flung star streams in loops and shells. Light from their close encounter would have reached Earth some 100 million years ago. In the sharp telescopic image, the central regions of NGC 1316 and NGC 1317 appear separated by over 100,000 light-years. Complex dust lanes visible within also indicate that NGC 1316 is itself the result of a merger of galaxies in the distant past. Found on the outskirts of the Fornax galaxy cluster, NGC 1316 is known as Fornax A. One of the visually brightest of the Fornax cluster galaxies it is one of the strongest and largest celestial radio sources with radio emission extending well beyond this one degree wide field-of-view.",
-      "pt": "Um exemplo de violência à escala cósmica, a enorme galáxia elíptica NGC 1316 situa-se a cerca de 75 milhões de anos-luz de distância, na direcção de Fornax, a constelação meridional da Fornalha. Investigando esta visão surpreendente, os astrónomos suspeitam que a galáxia gigante está a colidir com a vizinha mais pequena, NGC 1317, vista mesmo à direita do centro da grande galáxia, produzindo fluxos estelares distantes em voltas e conchas. A luz do seu encontro próximo teria chegado à Terra há cerca de 100 milhões de anos. Na nítida imagem telescópica, as regiões centrais da NGC 1316 e NGC 1317 aparecem separadas por mais de 100.000 anos-luz. As complexas faixas de poeira visíveis no seu interior também indicam que a própria NGC 1316 é o resultado de uma fusão de galáxias no passado distante. Encontrada nos arredores do aglomerado de galáxias Fornax, NGC 1316 é conhecida como Fornax A. Uma das galáxias visualmente mais brilhantes do aglomerado Fornax, é uma das maiores e mais fortes fontes de rádio celestes, com emissão de rádio que se estende muito além deste campo de visão de um grau de largura."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2512/FornaxA_final_apod1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2512/FornaxA_final_apod.jpg",
-    "copyright": "Simone Curzi"
   }
 ]
