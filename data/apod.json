@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-01-13",
+    "title": {
+      "en": "A Solar Eruption from SDO",
+      "pt": "Uma erupção solar do SDO"
+    },
+    "explanation": {
+      "en": "What just leapt from the Sun?  A towering structure of solar plasma suddenly rose from the Sun's surface and unfurled into space -- a structure so large that many Earths would easily fit within it-- marking the onset of a dramatic Coronal Mass Ejection (CME).  The event was captured in striking detail in late 2024 by NASA's Solar Dynamics Observatory (SDO), whose continuous monitoring improves space weather forecasts and helps humanity better understand how solar activity affects satellites, GPS, radio communications, and power grids on Earth.  The featured video blends three extreme-ultraviolet views from SDO’s Atmospheric Imaging Assembly (AIA), revealing how plasma at different temperatures surged upward as the eruption unfolded.  Here, red highlights cooler, denser material lifted from the Sun’s lower atmosphere, while yellow traces hotter, million-degree coronal loops stretching outward as magnetic fields open.  After the main outburst, the Sun’s magnetic fields quickly reorganize.",
+      "pt": "O que acabou de saltar do Sol?  Uma estrutura imponente de plasma solar surgiu subitamente da superfície do Sol e desdobrou-se no espaço - uma estrutura tão grande que muitas Terras caberiam facilmente dentro dela - marcando o início de uma dramática Ejecção de Massa Coronal (CME).  O evento foi capturado com detalhes impressionantes no final de 2024 pelo Solar Dynamics Observatory (SDO) da NASA, cujo monitoramento contínuo melhora as previsões meteorológicas espaciais e ajuda a humanidade a entender melhor como a atividade solar afeta satélites, GPS, comunicações de rádio e redes elétricas na Terra.  O vídeo apresentado combina três visualizações ultravioleta extremas do Atmospheric Imaging Assembly (AIA) do SDO, revelando como o plasma em diferentes temperaturas subiu à medida que a erupção se desenrolava.  Aqui, o vermelho destaca o material mais frio e denso retirado da atmosfera inferior do Sol, enquanto o amarelo traça loops coronais mais quentes, de milhões de graus, que se estendem para fora à medida que os campos magnéticos se abrem.  Após a explosão principal, os campos magnéticos do Sol reorganizam-se rapidamente."
+    },
+    "media_type": "other",
+    "copyright": null
+  },
+  {
     "date": "2026-01-03",
     "title": {
       "en": "Full Moonlight",
@@ -431,20 +444,5 @@
     "url": "https://apod.nasa.gov/apod/image/2512/moonshorty_apollo17_1080.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2512/moonshorty_apollo17_1498.jpg",
     "copyright": null
-  },
-  {
-    "date": "2025-12-05",
-    "title": {
-      "en": "The Bipolar Jets of KX Andromedae",
-      "pt": "Os jatos bipolares de KX Andromedae"
-    },
-    "explanation": {
-      "en": "Blasting outward from variable star KX Andromedae, these stunning bipolar jets are 19 light-years long. Recently discovered, they are revealed in unprecedented detail in this deep telescopic image centered on KX And and composed from over 692 hours of combined image data. In fact, KX And is spectroscopically found to be an interacting binary star system consisting of a bright, hot B-type star with a swollen cool giant star as its co-orbiting, close companion. The stellar material from the cool giant star is likely being transferred to the hot B-type star through an accretion disk, with spectacular symmetric jets driven outward perpendicular to the disk itself. The known distance to KX And of 2,500 light-years, angular size of the jets, and estimated inclination of the accretion disk lead to the size estimate for each jet of an astonishing 19 light-years.   Free APOD Lecture in Phoenix: Wednesday, December 10 at 7 pm",
-      "pt": "Saindo da estrela variável KX Andromedae, esses impressionantes jatos bipolares têm 19 anos-luz de comprimento. Descobertos recentemente, eles são revelados com detalhes sem precedentes nesta imagem telescópica profunda centrada em KX And ​​e composta por mais de 692 horas de dados de imagem combinados. Na verdade, KX And ​​é espectroscopicamente considerado um sistema estelar binário em interação que consiste em uma estrela brilhante e quente do tipo B com uma estrela gigante fria e inchada como sua companheira próxima e co-orbitante. O material estelar da estrela gigante fria está provavelmente a ser transferido para a estrela quente do tipo B através de um disco de acreção, com espectaculares jactos simétricos dirigidos para fora perpendicularmente ao próprio disco. A distância conhecida até KX And ​​de 2.500 anos-luz, o tamanho angular dos jatos e a inclinação estimada do disco de acreção levam à estimativa do tamanho de cada jato de surpreendentes 19 anos-luz.   Palestra APOD gratuita em Phoenix: quarta-feira, 10 de dezembro às 19h"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2512/KXAnd1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2512/KXAnd.jpg",
-    "copyright": "Tim Schaeffer"
   }
 ]
