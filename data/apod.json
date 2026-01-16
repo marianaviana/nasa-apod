@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-01-16",
+    "title": {
+      "en": "NGC 7023: The Iris Nebula",
+      "pt": "NGC 7023: A Nebulosa da Íris"
+    },
+    "explanation": {
+      "en": "These cosmic clouds have blossomed 1,300 light-years away in the fertile starfields of the constellation Cepheus. Called the Iris Nebula, NGC 7023 is not the only nebula to evoke the imagery of flowers. Still, this deep telescopic image shows off the Iris Nebula's range of colors and symmetries embedded in surrounding fields of interstellar dust. Within the Iris itself, dusty nebular material surrounds a hot, young star. The dominant color of the brighter reflection nebula is blue, characteristic of dust grains reflecting starlight. Central filaments of the reflection nebula glow with a faint reddish photoluminescence as some dust grains effectively convert the star's invisible ultraviolet radiation to visible red light. Infrared observations indicate that this nebula contains complex carbon molecules known as PAHs. The dusty blue petals of the Iris Nebula span about six light-years.",
+      "pt": "Estas nuvens cósmicas floresceram a 1.300 anos-luz de distância, nos férteis campos estelares da constelação de Cepheus. Chamada de Nebulosa da Íris, NGC 7023 não é a única nebulosa a evocar imagens de flores. Ainda assim, esta imagem telescópica profunda mostra a gama de cores e simetrias da Nebulosa da Íris incorporadas nos campos circundantes de poeira interestelar. Dentro da própria íris, material nebular empoeirado envolve uma estrela jovem e quente. A cor dominante da nebulosa de reflexão mais brilhante é o azul, característico dos grãos de poeira que refletem a luz das estrelas. Os filamentos centrais da nebulosa de reflexão brilham com uma fraca fotoluminescência avermelhada, à medida que alguns grãos de poeira convertem eficazmente a radiação ultravioleta invisível da estrela em luz vermelha visível. Observações infravermelhas indicam que esta nebulosa contém moléculas complexas de carbono conhecidas como PAHs. As empoeiradas pétalas azuis da Nebulosa da Íris abrangem cerca de seis anos-luz."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2601/NGC7023_Falk1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2601/NGC7023_Falk2048.jpg",
+    "copyright": "Justus Falk"
+  },
+  {
     "date": "2026-01-15",
     "title": {
       "en": "Plato and the Lunar Alps",
@@ -429,20 +444,5 @@
     "url": "https://apod.nasa.gov/apod/image/2512/Soul_Bugin_1080.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2512/Soul_Bugin_3710.jpg",
     "copyright": ", Nicola Bugin,"
-  },
-  {
-    "date": "2025-12-08",
-    "title": {
-      "en": "Flying Over the Earth at Night",
-      "pt": "Voando sobre a Terra à noite"
-    },
-    "explanation": {
-      "en": "Many wonders are visible when flying over the Earth at night.  Such visual spectacles occur every day for astronauts in low Earth orbit, but the featured video captured several from the International Space Station (ISS) in 2011 and set them to rousing music.  Passing below are white clouds, orange city lights, lightning flashes in thunderstorms, and dark blue seas.  On the horizon is the golden haze of Earth's thin atmosphere, frequently decorated by dancing auroras as the video progresses.  The green parts of auroras typically remain below the space station, but the station flies right through the red and purple auroral peaks.  Solar panels of the ISS are seen around the frame edges.  The ominous wave of approaching brightness at the end of each sequence is just the dawn of the sunlit half of Earth, a dawn that occurs every 90 minutes.   Free APOD Lecture in Phoenix: This Wednesday (December 10) at 7 pm",
-      "pt": "Muitas maravilhas são visíveis ao sobrevoar a Terra à noite.  Tais espetáculos visuais ocorrem todos os dias para astronautas em órbita baixa da Terra, mas o vídeo apresentado capturou vários deles na Estação Espacial Internacional (ISS) em 2011 e os colocou ao som de músicas emocionantes.  Passando abaixo estão nuvens brancas, luzes laranja da cidade, relâmpagos em tempestades e mares azuis escuros.  No horizonte está a névoa dourada da fina atmosfera da Terra, frequentemente decorada por auroras dançantes à medida que o vídeo avança.  As partes verdes das auroras normalmente permanecem abaixo da estação espacial, mas a estação voa através dos picos aurorais vermelhos e roxos.  Painéis solares da ISS são vistos nas bordas da moldura.  A sinistra onda de brilho que se aproxima no final de cada sequência é apenas o amanhecer da metade da Terra iluminada pelo sol, um amanhecer que ocorre a cada 90 minutos.   Palestra APOD gratuita em Phoenix: nesta quarta-feira (10 de dezembro) às 19h"
-    },
-    "media_type": "video",
-    "url": "https://www.youtube.com/embed/FG0fTKAqZ5g?rel=0",
-    "hdurl": "https://www.youtube.com/embed/FG0fTKAqZ5g?rel=0",
-    "copyright": null
   }
 ]
