@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-01-17",
+    "title": {
+      "en": "Apollo 14: A View from Antares",
+      "pt": "Apollo 14: Uma Vista de Antares"
+    },
+    "explanation": {
+      "en": "Apollo 14's Lunar Module Antares landed on the Moon on February 5, 1971. Toward the end of the stay astronaut Ed Mitchell snapped a series of photos of the lunar surface while looking out a window, assembled into this detailed mosaic by Apollo Lunar Surface Journal editor Eric Jones. The view looks across the Fra Mauro highlands to the northwest of the landing site after the Apollo 14 astronauts had completed their second and final walk on the Moon. Prominent in the foreground is their Modular Equipment Transporter, a two-wheeled, rickshaw-like device used to carry tools and samples. Near the horizon at top center is a 1.5 meter wide boulder dubbed Turtle rock. In the shallow crater below Turtle rock is the long white handle of a sampling instrument, thrown there javelin-style by Mitchell. Mitchell's fellow moonwalker and first American in space, Alan Shepard, also used a makeshift six iron to hit two golf balls. One of Shepard's golf balls is just visible as a white spot below Mitchell's javelin.",
+      "pt": "O Módulo Lunar Antares da Apollo 14 pousou na Lua em 5 de fevereiro de 1971. Perto do final da estadia, o astronauta Ed Mitchell tirou uma série de fotos da superfície lunar enquanto olhava pela janela, montadas neste mosaico detalhado pelo editor do Apollo Lunar Surface Journal, Eric Jones. A vista abrange as terras altas de Fra Mauro, a noroeste do local de pouso, depois que os astronautas da Apollo 14 completaram sua segunda e última caminhada na Lua. Proeminente em primeiro plano está o Modular Equipment Transporter, um dispositivo de duas rodas, semelhante a um riquixá, usado para transportar ferramentas e amostras. Perto do horizonte, no centro superior, há uma pedra de 1,5 metros de largura chamada Turtle Rock. Na cratera rasa abaixo de Turtle Rock está o longo cabo branco de um instrumento de amostragem, lançado ali como um dardo por Mitchell. O colega moonwalker de Mitchell e primeiro americano no espaço, Alan Shepard, também usou um ferro seis improvisado para acertar duas bolas de golfe. Uma das bolas de golfe de Shepard é visível apenas como uma mancha branca abaixo do dardo de Mitchell."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2601/a14pan9335-43emj_900.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2601/a14pan9335-43emj.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-01-16",
     "title": {
       "en": "NGC 7023: The Iris Nebula",
@@ -429,20 +444,5 @@
     "url": "https://apod.nasa.gov/apod/image/2512/IC434NM900.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2512/IC434NM.jpg",
     "copyright": "George Chatzifrantzis"
-  },
-  {
-    "date": "2025-12-09",
-    "title": {
-      "en": "The Heart of the Soul Nebula",
-      "pt": "A Nebulosa do Coração da Alma"
-    },
-    "explanation": {
-      "en": "This cosmic close-up looks deep inside the Soul Nebula. The dark and brooding dust clouds outlined by bright ridges of glowing gas are cataloged as IC 1871. About 25 light-years across, the telescopic field of view spans only a small part of the much larger Heart and Soul nebulae. At an estimated distance of 6,500 light-years, the star-forming complex lies within the Perseus spiral arm of the Milky Way, seen in planet Earth's skies toward the constellation of the Queen of Aethiopia (Cassiopeia). An example of triggered star formation, the dense star-forming clouds of IC 1871 are themselves sculpted by the intense winds and radiation of the region's massive young stars. This color image adopts a palette made popular in Hubble images of star-forming regions.",
-      "pt": "Este close cósmico mostra as profundezas da Nebulosa da Alma. As nuvens de poeira escuras e ameaçadoras delineadas por cristas brilhantes de gás brilhante são catalogadas como IC 1871. Com cerca de 25 anos-luz de diâmetro, o campo de visão telescópico abrange apenas uma pequena parte das muito maiores nebulosas do Coração e da Alma. A uma distância estimada de 6.500 anos-luz, o complexo de formação estelar situa-se no braço espiral de Perseu da Via Láctea, visto nos céus do planeta Terra em direção à constelação da Rainha da Etiópia (Cassiopeia). Um exemplo de formação estelar desencadeada, as densas nuvens de formação estelar de IC 1871 são elas próprias esculpidas pelos ventos intensos e pela radiação das massivas estrelas jovens da região. Esta imagem colorida adota uma paleta que se tornou popular nas imagens do Hubble de regiões de formação estelar."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2512/Soul_Bugin_1080.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2512/Soul_Bugin_3710.jpg",
-    "copyright": ", Nicola Bugin,"
   }
 ]
