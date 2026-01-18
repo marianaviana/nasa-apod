@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-01-18",
+    "title": {
+      "en": "Jupiter from the Webb Space Telescope",
+      "pt": "Júpiter visto pelo Telescópio Espacial Webb"
+    },
+    "explanation": {
+      "en": "This infrared view of Jupiter by Webb is illuminating. High-resolution infrared images of Jupiter from the  James Webb Space Telescope (Webb) reveal, for example, differences between high-floating bright clouds -- including the Great Red Spot -- and low-lying dark clouds. Also clearly visible in the featured Webb image are Jupiter's dust ring, bright auroras at the poles, and Jupiter's moons Amalthea and Adrastea. The footprint of large volcanic moon Io's magnetic funneling of charged particles onto Jupiter is also visible in the southern aurora. Some objects are so bright that light noticeably diffracts around Webb's optics creating streaks.  Webb, which orbits the Sun near the Earth, has a mirror over six meters across making it the largest astronomical telescope ever launched -- with over six times more light-collecting area than Hubble.",
+      "pt": "Esta visão infravermelha de Júpiter feita por Webb é esclarecedora. Imagens infravermelhas de alta resolução de Júpiter obtidas pelo Telescópio Espacial James Webb (Webb) revelam, por exemplo, diferenças entre nuvens brilhantes e flutuantes - incluindo a Grande Mancha Vermelha - e nuvens escuras baixas. Também claramente visíveis na imagem do Webb estão o anel de poeira de Júpiter, as auroras brilhantes nos pólos e as luas de Júpiter, Amalteia e Adrastea. A pegada do afunilamento magnético de partículas carregadas da grande lua vulcânica Io para Júpiter também é visível na aurora meridional. Alguns objetos são tão brilhantes que a luz difrata visivelmente em torno da óptica de Webb, criando listras.  O Webb, que orbita o Sol perto da Terra, tem um espelho com mais de seis metros de diâmetro, o que o torna o maior telescópio astronómico alguma vez lançado - com mais de seis vezes mais área de recolha de luz do que o Hubble."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2601/Jupiter2_WebbSchmidt_1080_annotated.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2601/Jupiter2_WebbSchmidt_3283_annotated.png",
+    "copyright": null
+  },
+  {
     "date": "2026-01-17",
     "title": {
       "en": "Apollo 14: A View from Antares",
@@ -429,20 +444,5 @@
     "url": "https://apod.nasa.gov/apod/image/2512/NGC1532_1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2512/NGC1532.jpg",
     "copyright": "Vikas Chander"
-  },
-  {
-    "date": "2025-12-10",
-    "title": {
-      "en": "The Horsehead Nebula",
-      "pt": "A Nebulosa Cabeça de Cavalo"
-    },
-    "explanation": {
-      "en": "Sculpted by stellar winds and radiation, this dusty interstellar molecular cloud has by chance has assumed an immediately recognizable shape. Fittingly known as The Horsehead Nebula, it lies some 1,500 light-years distant, embedded in the vast Orion cloud complex. About five light-years \"tall,\" the dark cloud is cataloged as Barnard 33, first identified on a photographic plate taken in the late 19th century.  B33 is visible primarily because its obscuring dust is silhouetted against the glow of emission nebula IC 434.  Hubble space telescope images from the early 21st century find young stars forming within B33. Of course, the magnificent interstellar cloud will slowly shift its apparent shape over the next few million years. But for now the Horsehead Nebula is a rewarding though difficult object to view with small telescopes from planet Earth.",
-      "pt": "Esculpida pelos ventos estelares e pela radiação, esta nuvem molecular interestelar empoeirada assumiu por acaso uma forma imediatamente reconhecível. Apropriadamente conhecida como Nebulosa Cabeça de Cavalo, ela fica a cerca de 1.500 anos-luz de distância, inserida no vasto complexo de nuvens de Órion. Com cerca de cinco anos-luz de “altura”, a nuvem escura é catalogada como Barnard 33, identificada pela primeira vez em uma chapa fotográfica tirada no final do século XIX.  B33 é visível principalmente porque sua poeira obscurecedora é recortada contra o brilho da nebulosa de emissão IC 434. Imagens do telescópio espacial Hubble do início do século 21 encontram estrelas jovens se formando dentro de B33. É claro que a magnífica nuvem interestelar mudará lentamente a sua forma aparente ao longo dos próximos milhões de anos. Mas, por enquanto, a Nebulosa Cabeça de Cavalo é um objeto gratificante, embora difícil de observar com pequenos telescópios do planeta Terra."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2512/IC434NM900.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2512/IC434NM.jpg",
-    "copyright": "George Chatzifrantzis"
   }
 ]
