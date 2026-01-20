@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-01-20",
+    "title": {
+      "en": "Io in True Color",
+      "pt": "Io em True Color"
+    },
+    "explanation": {
+      "en": "The strangest moon in the Solar System is bright yellow.  The featured picture, an attempt to show how Io would appear in the \"true colors\" perceptible to the average human eye, was taken in 1999 July by the Galileo spacecraft that orbited Jupiter from 1995 to 2003.  Io's colors derive from sulfur and molten silicate rock.  The unusual surface of Io is kept very young by its system of active volcanoes.  The intense tidal gravity of Jupiter stretches Io and damps wobbles caused by Jupiter's other Galilean moons.  The resulting friction greatly heats Io's interior, causing  molten rock to explode through the surface.  Io's volcanoes are so active that they are effectively turning the whole moon inside out.  Some of Io's volcanic lava is so hot it glows in the dark.",
+      "pt": "A lua mais estranha do Sistema Solar é amarela brilhante.  A imagem apresentada, uma tentativa de mostrar como Io apareceria nas \"cores verdadeiras\" perceptíveis ao olho humano médio, foi tirada em julho de 1999 pela espaçonave Galileo que orbitou Júpiter de 1995 a 2003. As cores de Io derivam de enxofre e rocha de silicato derretida.  A superfície incomum de Io é mantida muito jovem pelo seu sistema de vulcões ativos.  A intensa gravidade das marés de Júpiter estica Io e amortece as oscilações causadas pelas outras luas galileanas de Júpiter.  O atrito resultante aquece muito o interior de Io, fazendo com que a rocha derretida exploda através da superfície.  Os vulcões de Io são tão ativos que estão efetivamente virando a Lua inteira do avesso.  Parte da lava vulcânica de Io é tão quente que brilha no escuro."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2601/iotruecolor_galileo_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2601/iotruecolor_galileo_2796.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-01-19",
     "title": {
       "en": "CTB 1: The Medulla Nebula",
@@ -429,20 +444,5 @@
     "url": "https://apod.nasa.gov/apod/image/2512/art001e002132_apod1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2512/art001e002132.jpg",
     "copyright": null
-  },
-  {
-    "date": "2025-12-12",
-    "title": {
-      "en": "Northern Fox Fires",
-      "pt": "Incêndios na Raposa do Norte"
-    },
-    "explanation": {
-      "en": "In a Finnish myth, when an arctic fox runs so fast that its bushy tail brushes the mountains, flaming sparks are cast into the heavens creating the northern lights. In fact the Finnish word \"revontulet\", a name for the aurora borealis or northern lights, can be translated as fire fox. So that evocative myth took on a special significance for the photographer of this northern night skyscape from Finnish Lapland near Kilpisjarvi Lake. The snowy scene is illuminated by moonlight. Saana, an iconic fell or mountain of Lapland, rises at the right in the background. But as the beautiful nothern lights danced overhead, the wild fire fox in the foreground enthusiastically ran around the photographer and his equipment, making it difficult to capture in this lucky single shot.",
-      "pt": "Num mito finlandês, quando uma raposa ártica corre tão rápido que a sua cauda espessa roça as montanhas, faíscas flamejantes são lançadas nos céus criando as luzes do norte. Na verdade, a palavra finlandesa \"revontulet\", um nome para a aurora boreal ou aurora boreal, pode ser traduzida como raposa de fogo. Assim, esse mito evocativo assumiu um significado especial para o fotógrafo desta paisagem noturna do norte da Lapônia finlandesa, perto do lago Kilpisjarvi. A cena nevada é iluminada pelo luar. Saana, uma colina ou montanha icônica da Lapônia, ergue-se à direita ao fundo. Mas enquanto as belas luzes do norte dançavam no alto, a raposa de fogo selvagem em primeiro plano corria com entusiasmo ao redor do fotógrafo e de seu equipamento, dificultando a captura nesta única foto de sorte."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2512/Firefox-Lehtonen-Dennis1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2512/Firefox-Lehtonen-Dennis.jpg",
-    "copyright": "Dennis Lehtonen"
   }
 ]
