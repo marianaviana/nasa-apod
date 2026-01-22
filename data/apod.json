@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-01-22",
+    "title": {
+      "en": "LDN 1622: Dark Nebula in Orion",
+      "pt": "LDN 1622: Nebulosa Negra em Orion"
+    },
+    "explanation": {
+      "en": "The silhouette of an intriguing dark nebula inhabits this cosmic scene. Lynds' Dark Nebula (LDN) 1622 appears against a faint background of glowing hydrogen gas only visible in long telescopic exposures of the region. In contrast, a brighter reflection nebula, vdB 62, is more easily seen just above the dusty dark nebula. LDN 1622 lies near the plane of our Milky Way Galaxy, close on the sky to Barnard's Loop, a large cloud surrounding the rich complex of emission nebulae found in the Belt and Sword of Orion. With swept-back outlines, the obscuring dust of LDN 1622 is thought to lie at a similar distance, perhaps 1,500 light-years away. At that distance, this 3 degree wide field of view would span about 100 light-years. Young stars do lie hidden within the dark expanse and have been revealed in Spitzer Space telescope infrared images. Still, the foreboding visual appearance of LDN 1622 inspires its popular name, the Boogeyman Nebula.",
+      "pt": "A silhueta de uma intrigante nebulosa escura habita esta cena cósmica. A Nebulosa Negra de Lynds (LDN) 1622 aparece contra um fundo fraco de gás hidrogênio brilhante, visível apenas em longas exposições telescópicas da região. Em contraste, uma nebulosa de reflexão mais brilhante, vdB 62, é mais facilmente vista logo acima da nebulosa escura e empoeirada. LDN 1622 fica perto do plano da nossa Via Láctea, perto do céu do Loop de Barnard, uma grande nuvem que envolve o rico complexo de nebulosas de emissão encontradas no Cinturão e Espada de Órion. Com contornos recuados, pensa-se que a poeira obscurecedora de LDN 1622 se encontra a uma distância semelhante, talvez a 1.500 anos-luz de distância. A essa distância, este campo de visão de 3 graus abrangeria cerca de 100 anos-luz. Estrelas jovens estão escondidas na extensão escura e foram reveladas em imagens infravermelhas do telescópio espacial Spitzer. Ainda assim, a aparência visual agourenta da LDN 1622 inspira o seu nome popular, Nebulosa do Boogeyman."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2601/ldn1622fellows1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2601/ldn1622fellows.jpg",
+    "copyright": "Chris Fellows"
+  },
+  {
     "date": "2026-01-21",
     "title": {
       "en": "Barred Spiral Galaxy NGC 1365 from Webb",
@@ -429,20 +444,5 @@
     "url": "https://apod.nasa.gov/apod/image/2512/GeminidWinter_Slovinsky_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2512/GeminidWinter_Slovinsky_1303.jpg",
     "copyright": ", Tomáš Slovinský,"
-  },
-  {
-    "date": "2025-12-14",
-    "title": {
-      "en": "Juno Flyby of Ganymede and Jupiter",
-      "pt": "Juno Flyby de Ganimedes e Júpiter"
-    },
-    "explanation": {
-      "en": "What would it be like to fly over the largest moon in the Solar System? In 2021, the robotic Juno spacecraft flew past Jupiter's huge moon Ganymede and took images that have been digitally constructed into a detailed flyby. As the featured video begins, Juno swoops over the two-toned surface of the 2,000-km wide moon, revealing an icy alien landscape filled with grooves and craters. The grooves are likely caused by shifting surface plates, while the craters are caused by violent impacts. Continuing on in its orbit, Juno then performed its 34th close pass over Jupiter's clouds. The digitally-constructed video shows numerous swirling clouds in the north, colorful planet-circling zones and bands across the middle -- featuring several white-oval clouds from the String of Pearls, and finally more swirling clouds in the south.",
-      "pt": "Como seria sobrevoar a maior lua do Sistema Solar? Em 2021, a espaçonave robótica Juno passou pela enorme lua de Júpiter, Ganimedes, e captou imagens que foram construídas digitalmente em um sobrevôo detalhado. Quando o vídeo em destaque começa, Juno sobrevoa a superfície de dois tons da lua de 2.000 km de largura, revelando uma paisagem alienígena gelada cheia de sulcos e crateras. As ranhuras são provavelmente causadas pelo deslocamento das placas superficiais, enquanto as crateras são causadas por impactos violentos. Continuando em sua órbita, Juno realizou então sua 34ª passagem próxima sobre as nuvens de Júpiter. O vídeo construído digitalmente mostra inúmeras nuvens rodopiantes no norte, zonas coloridas que circundam os planetas e faixas no meio - apresentando várias nuvens ovais brancas do Colar de Pérolas e, finalmente, mais nuvens rodopiantes no sul."
-    },
-    "media_type": "video",
-    "url": "https://www.youtube.com/embed/CC7OJ7gFLvE?rel=0",
-    "hdurl": "https://www.youtube.com/embed/CC7OJ7gFLvE?rel=0",
-    "copyright": null
   }
 ]
