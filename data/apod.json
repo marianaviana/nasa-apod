@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-01-23",
+    "title": {
+      "en": "Planetary Nebula Abell 7",
+      "pt": "Nebulosa Planetária Abell 7"
+    },
+    "explanation": {
+      "en": "Very faint planetary nebula Abell 7 is about 1,800 light-years distant. It lies just south of Orion in planet Earth's skies toward the constellation Lepus, The Hare. Posing with scattered Milky Way stars, its generally simple spherical shape about 8 light-years in diameter is revealed in this deep telescopic image. The beautiful and complex shapes seen within the cosmic cloud are visually enhanced by the use of long exposures and narrowband filters that capture emission from hydrogen and oxygen atoms. Otherwise Abell 7 would be much too faint to be appreciated by eye. A planetary nebula represents a very brief final phase in stellar evolution that our own Sun will experience 5 billion years hence, as the nebula's central, once sun-like star shrugs off its outer layers. Abell 7 itself is estimated to be 20,000 years old. But its central star, seen here as a fading white dwarf, is some 10 billion years old.",
+      "pt": "A nebulosa planetária muito fraca Abell 7 está a cerca de 1.800 anos-luz de distância. Situa-se logo ao sul de Órion, nos céus do planeta Terra, em direção à constelação de Lepus, A Lebre. Posando com estrelas dispersas da Via Láctea, a sua forma esférica geralmente simples, com cerca de 8 anos-luz de diâmetro, é revelada nesta imagem telescópica profunda. As belas e complexas formas vistas dentro da nuvem cósmica são visualmente melhoradas pelo uso de longas exposições e filtros de banda estreita que capturam as emissões dos átomos de hidrogênio e oxigênio. Caso contrário, o Abell 7 seria muito fraco para ser apreciado a olho nu. Uma nebulosa planetária representa uma fase final muito breve na evolução estelar que o nosso próprio Sol experimentará daqui a 5 mil milhões de anos, à medida que a estrela central da nebulosa, outrora semelhante ao Sol, encolhe as suas camadas exteriores. O próprio Abell 7 tem cerca de 20.000 anos. Mas a sua estrela central, vista aqui como uma anã branca em extinção, tem cerca de 10 mil milhões de anos."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2601/Abell7pugh1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2601/Abell7pugh.jpg",
+    "copyright": "Martin Pugh"
+  },
+  {
     "date": "2026-01-22",
     "title": {
       "en": "LDN 1622: Dark Nebula in Orion",
@@ -429,20 +444,5 @@
     "url": "https://apod.nasa.gov/apod/image/2512/AndromedaSprites_Rao_1080.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2512/AndromedaSprites_Rao_2000.jpg",
     "copyright": ", JJ Rao,"
-  },
-  {
-    "date": "2025-12-15",
-    "title": {
-      "en": "Gemini Meteors over Snow Capped Mountains",
-      "pt": "Meteoros de Gêmeos sobre montanhas cobertas de neve"
-    },
-    "explanation": {
-      "en": "Where are all of these meteors coming from?  In terms of direction on the sky, the pointed answer is the constellation of Gemini.  That is why the major meteor shower in December is known as the Geminids -- because shower meteors all appear to come from a radiant toward Gemini. Three dimensionally, however, sand-sized debris expelled from the unusual asteroid 3200 Phaethon follows a well-defined orbit about our Sun, and the part of the orbit that approaches Earth is superposed in front of the constellation of Gemini. Therefore, when Earth crosses this orbit, the radiant point of falling debris appears in Gemini. Featured here is a composite of many images taken over the past few days through dark skies from Slovakia and capturing the snow-covered peaks of the Belianske Tatra mountains Numerous  bright meteor streaks from the Geminids meteor shower are visible.  Orion is visible above the horizon, while the bright star nearest the radiant is Castor.    APOD Review: RJN's Night Sky Network Lecture",
-      "pt": "De onde vêm todos esses meteoros?  Em termos de direção no céu, a resposta correta é a constelação de Gêmeos.  É por isso que a grande chuva de meteoros de dezembro é conhecida como Geminídeas - porque todas as chuvas de meteoros parecem vir de um radiante em direção a Gêmeos. Tridimensionalmente, no entanto, detritos do tamanho de areia expelidos do incomum asteroide 3200 Phaethon seguem uma órbita bem definida em torno do nosso Sol, e a parte da órbita que se aproxima da Terra está sobreposta na frente da constelação de Gêmeos. Portanto, quando a Terra cruza esta órbita, o ponto radiante de detritos caindo aparece em Gêmeos. Apresentamos aqui uma composição de muitas imagens tiradas nos últimos dias através dos céus escuros da Eslováquia e capturando os picos cobertos de neve das montanhas Belianske Tatra. Numerosas faixas brilhantes de meteoros da chuva de meteoros Geminídeos são visíveis.  Orion é visível acima do horizonte, enquanto a estrela brilhante mais próxima do radiante é Castor.    Revisão do APOD: Palestra Night Sky Network do RJN"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2512/GeminidWinter_Slovinsky_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2512/GeminidWinter_Slovinsky_1303.jpg",
-    "copyright": ", Tomáš Slovinský,"
   }
 ]
