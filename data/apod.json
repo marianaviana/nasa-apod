@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-01-24",
+    "title": {
+      "en": "Earthset from Orion",
+      "pt": "Planeta Terra de Orion"
+    },
+    "explanation": {
+      "en": "ght billion people are about to disappear in this snapshot from space taken on 2022 November 21. On the sixth day of the Artemis I mission, their home world is setting behind the Moon's bright edge as viewed by an external camera on the outbound Orion spacecraft. Orion was headed for a powered flyby that took it to within 130 kilometers of the lunar surface. Velocity gained in the flyby maneuver was used to reach a distant retrograde orbit around the Moon. That orbit is considered distant because it's another 92,000 kilometers beyond the Moon, and retrograde because the spacecraft orbited in the opposite direction of the Moon's orbit around planet Earth. Swinging around the Moon, Orion reached a maximum distance (just over 400,000 kilometers) from Earth on 2022 November 28, exceeding a record set by Apollo 13 for most distant spacecraft designed for human space exploration. The Artemis II mission, carrying 4 astronauts around the moon and back again, is due to launch as early as February 6.",
+      "pt": "Cerca de oito bilhões de pessoas estão prestes a desaparecer nesta foto tirada do espaço em 21 de novembro de 2022. No sexto dia da missão Artemis I, seu mundo natal está situado atrás da borda brilhante da Lua, conforme visto por uma câmera externa na espaçonave Orion. Orion estava se dirigindo para um sobrevôo motorizado que o levou a 130 quilômetros da superfície lunar. A velocidade adquirida na manobra de sobrevôo foi usada para alcançar uma órbita retrógrada distante ao redor da Lua. Essa órbita é considerada distante porque está a outros 92.000 quilômetros além da Lua, e retrógrada porque a espaçonave orbitou na direção oposta da órbita da Lua ao redor do planeta Terra. Girando em torno da Lua, Orion atingiu uma distância máxima (pouco mais de 400.000 quilômetros) da Terra em 28 de novembro de 2022, excedendo um recorde estabelecido pela Apollo 13 para a nave espacial mais distante projetada para exploração espacial humana. A missão Artemis II, que transporta quatro astronautas ao redor da Lua e de volta, deve ser lançada já em 6 de fevereiro."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2601/earthset-snap01.png",
+    "hdurl": "https://apod.nasa.gov/apod/image/2601/earthset-snap00.png",
+    "copyright": null
+  },
+  {
     "date": "2026-01-23",
     "title": {
       "en": "Planetary Nebula Abell 7",
@@ -429,20 +444,5 @@
     "url": "https://apod.nasa.gov/apod/image/2512/Soul_Horne_1080.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2512/Soul_Horne_2048.jpg",
     "copyright": ", Jeffrey Horne,"
-  },
-  {
-    "date": "2025-12-16",
-    "title": {
-      "en": "Andromeda and Sprites over Australia",
-      "pt": "Andrômeda e Sprites sobre a Austrália"
-    },
-    "explanation": {
-      "en": "What’s happening over that tree? Two very different things. On the left is the Andromeda galaxy, an object that is older than humanity and will last billions of years into the future.  Andromeda (M31) is similar in size and shape to our own Milky Way Galaxy.  On the right is a red sprite, a type of lightning that lasts a fraction of a second and occurs above violent thunderstorms. Red sprites were verified as real atmospheric phenomena only about 35 years ago.  The tree in the center is a boab, which may live for as long as a thousand years.  Boab trees grow naturally in Australia and Africa and are known for being able to store large amounts of water: up to 100,000 liters.  The featured image was captured last month near Derby in Western Australia.",
-      "pt": "O que está acontecendo naquela árvore? Duas coisas muito diferentes. À esquerda está a galáxia de Andrômeda, um objeto mais antigo que a humanidade e que durará bilhões de anos no futuro.  Andrômeda (M31) é semelhante em tamanho e forma à nossa Via Láctea.  À direita está um sprite vermelho, um tipo de relâmpago que dura uma fração de segundo e ocorre acima de tempestades violentas. Os sprites vermelhos foram verificados como fenômenos atmosféricos reais há apenas cerca de 35 anos.  A árvore no centro é um boab, que pode viver até mil anos.  As árvores Boab crescem naturalmente na Austrália e na África e são conhecidas por serem capazes de armazenar grandes quantidades de água: até 100.000 litros.  A imagem em destaque foi capturada no mês passado perto de Derby, na Austrália Ocidental."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2512/AndromedaSprites_Rao_1080.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2512/AndromedaSprites_Rao_2000.jpg",
-    "copyright": ", JJ Rao,"
   }
 ]
