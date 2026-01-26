@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-01-26",
+    "title": {
+      "en": "NGC 55: A Galaxy of Nebulas",
+      "pt": "NGC 55: Uma Galáxia de Nebulosas"
+    },
+    "explanation": {
+      "en": "Can you see nebulas in other galaxies?  Yes, some nebulas shine brightly enough -- if you know how to look.  Clouds of hydrogen and oxygen emit light at very specific colors, and by isolating them, astronomers and astrophotographers can reveal structures that would otherwise be too faint to notice.  This deep, 50-hour exposure highlights glowing hydrogen (red) and oxygen (blue) across galaxy NGC 55, viewed nearly edge-on.  Also known as the String of Pearls Galaxy, NGC 55 is often compared to our Milky Way's satellite galaxy the Large Magellanic Cloud (LMC), although NGC 55 lies much farther away at about 6.5 million light-years.  The resulting image uncovers a sprinkling of emission nebulas within and sometimes above the galaxy's dusty disk, offering a detailed look at distant star-forming regions.    Jigsaw Galaxy: Astronomy Puzzle of the Day",
+      "pt": "Você pode ver nebulosas em outras galáxias?  Sim, algumas nebulosas brilham bastante – se você souber como olhar.  Nuvens de hidrogénio e oxigénio emitem luz em cores muito específicas e, ao isolá-las, os astrónomos e astrofotógrafos podem revelar estruturas que, de outra forma, seriam demasiado ténues para serem notadas.  Esta exposição profunda de 50 horas destaca o hidrogênio (vermelho) e o oxigênio (azul) brilhantes em toda a galáxia NGC 55, vista quase de lado.  Também conhecida como Galáxia do Colar de Pérolas, a NGC 55 é frequentemente comparada à galáxia satélite da nossa Via Láctea, a Grande Nuvem de Magalhães (LMC), embora a NGC 55 esteja muito mais distante, a cerca de 6,5 milhões de anos-luz.  A imagem resultante revela uma série de nebulosas de emissão dentro e por vezes acima do disco de poeira da galáxia, oferecendo uma visão detalhada de regiões distantes de formação estelar.    Galáxia Jigsaw: quebra-cabeça astronômico do dia"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2601/Ngc55_Promper_1080.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2601/Ngc55_Promper_3686.jpg",
+    "copyright": ", Wolfgang Promper; , Text: Ogetay Kayali , (MTU)  ,"
+  },
+  {
     "date": "2026-01-25",
     "title": {
       "en": "Phobos: Doomed Moon of Mars",
@@ -429,20 +444,5 @@
     "url": "https://apod.nasa.gov/apod/image/2512/MontesCaucasusCopie1024.png",
     "hdurl": "https://apod.nasa.gov/apod/image/2512/MontesCaucasusCopie.png",
     "copyright": "When the Moon"
-  },
-  {
-    "date": "2025-12-18",
-    "title": {
-      "en": "Jupiter and the Meteors from Gemini",
-      "pt": "Júpiter e os meteoros de Gêmeos"
-    },
-    "explanation": {
-      "en": "Jupiter, the Solar System's ruling gas giant, is the brightest celestial beacon at the center of this composite night skyscape. The scene was constructed by selecting the 40 exposures containing meteors from about 500 exposures made on the nights of December 13 and 14, near peak activity for this year's annual Geminid meteor shower. With each selected exposure registered in the night sky above Alentejo, Portugal, planet Earth, it does look like the meteors are streaming away from Jupiter. But the apparent radiant of the Geminid meteors is actually closer to bright star Castor, in the shower's eponymous constellation Gemini. In this frame that's just a little above and left of the Solar System's most massive planet. Still, the parent body of Geminid meteors is known to be rocky, near-Earth asteroid 3200 Phaethon. And the orbit of Phaethon itself is influenced by the gravitational attraction exerted by massive Jupiter, in concert with planets of the inner Solar System.",
-      "pt": "Júpiter, o gigante gasoso governante do Sistema Solar, é o farol celestial mais brilhante no centro desta paisagem noturna composta. A cena foi construída selecionando as 40 exposições contendo meteoros de cerca de 500 exposições feitas nas noites de 13 e 14 de dezembro, perto do pico de atividade da chuva anual de meteoros Geminídeos deste ano. Com cada exposição selecionada registada no céu noturno acima do Alentejo, Portugal, planeta Terra, parece que os meteoros estão a afastar-se de Júpiter. Mas o brilho aparente dos meteoros Geminídeos está, na verdade, mais próximo da estrela brilhante Castor, na constelação de Gêmeos de mesmo nome da chuva. Neste quadro, estamos um pouco acima e à esquerda do planeta mais massivo do Sistema Solar. Ainda assim, sabe-se que o corpo parental dos meteoros Geminídeos é o asteroide rochoso próximo à Terra 3200 Phaethon. E a própria órbita de Phaethon é influenciada pela atração gravitacional exercida pelo massivo Júpiter, em conjunto com os planetas do Sistema Solar interno."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2512/GeminidsJupiterCruz1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2512/GeminidsJupiterCruz.jpg",
-    "copyright": "David Cruz"
   }
 ]
