@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-01-28",
+    "title": {
+      "en": "M78: Reflecting Blue in a Sea of Red",
+      "pt": "M78: Refletindo Azul em um Mar Vermelho"
+    },
+    "explanation": {
+      "en": "In the vast Orion Molecular Cloud complex, several bright blue nebulas are particularly apparent.  Pictured here in the center are two of the most prominent reflection nebulas - dust clouds lit by the reflecting light of bright embedded stars.  The more famous nebula is M78, in the image center, cataloged over 200 years ago.  To its upper left is the lesser known NGC 2071.  Astronomers continue to study these reflection nebulas to better understand how interior stars form.  The overall red glow is from diffuse hydrogen gas that covers much of the Orion complex that spans much of the constellation of Orion. Nearby in the greater complex, which lies about 1,500 light years away, are the Orion Nebula, the Horsehead Nebula, and Barnard's Loop -- partially seen here as the white band on the upper left.    Almost Hyperspace: Random APOD Generator",
+      "pt": "No vasto complexo da Nuvem Molecular de Orion, várias nebulosas azuis brilhantes são particularmente aparentes.  Retratadas aqui no centro estão duas das nebulosas de reflexão mais proeminentes - nuvens de poeira iluminadas pela luz refletida de estrelas brilhantes embutidas.  A nebulosa mais famosa é a M78, no centro da imagem, catalogada há mais de 200 anos.  No canto superior esquerdo está a menos conhecida NGC 2071. Os astrónomos continuam a estudar estas nebulosas de reflexão para compreender melhor como as estrelas interiores se formam.  O brilho vermelho geral provém do gás hidrogênio difuso que cobre grande parte do complexo de Orion, que abrange grande parte da constelação de Orion. Perto dali, no complexo maior, que fica a cerca de 1.500 anos-luz de distância, estão a Nebulosa de Órion, a Nebulosa Cabeça de Cavalo e o Laço de Barnard - parcialmente visto aqui como a faixa branca no canto superior esquerdo.    Quase Hiperespaço: Gerador APOD Aleatório"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2601/M78Red_McCauley_1080.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2601/M78Red_McCauley_2048.jpg",
+    "copyright": ", Daniel McCauley,"
+  },
+  {
     "date": "2026-01-27",
     "title": {
       "en": "Orion's Treasures over Snowy Mountains",
@@ -429,20 +444,5 @@
     },
     "media_type": "other",
     "copyright": null
-  },
-  {
-    "date": "2025-12-20",
-    "title": {
-      "en": "A Solstice Sun Tattoo",
-      "pt": "Uma tatuagem do sol do solstício"
-    },
-    "explanation": {
-      "en": "The word solstice is from the Latin for Sun and to pause or stand still. And in the days surrounding a solstice the Sun's annual north-south drift in planet Earth's sky does slow down, pause, and then reverse direction. So near the solstice the daily path of the Sun through the sky really doesn't change much. In fact, near the December solstice, the Sun's consistent, low arc through northern hemisphere skies, along with low surface temperatures, has left a noticeable imprint on this path to the mountain town of Peaio in northern Italy. The morning frost on the road has melted away only where the sunlight was able to reach the ground. But it remains in the areas persistently shadowed by the fence, tattooing in frost an image of the fence on the asphalt surface.",
-      "pt": "A palavra solstício vem do latim para Sol e fazer uma pausa ou ficar parado. E nos dias que cercam o solstício, a deriva anual norte-sul do Sol no céu do planeta Terra diminui a velocidade, faz uma pausa e depois inverte a direção. Portanto, perto do solstício, a trajetória diária do Sol no céu realmente não muda muito. De facto, perto do solstício de Dezembro, o arco consistente e baixo do Sol através dos céus do hemisfério norte, juntamente com as baixas temperaturas à superfície, deixaram uma marca notável neste caminho até à cidade montanhosa de Peaio, no norte de Itália. A geada matinal na estrada só derreteu onde a luz do sol conseguiu atingir o solo. Mas permanece nas áreas persistentemente sombreadas pela cerca, tatuando no gelo uma imagem da cerca na superfície do asfalto."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2512/tatooimg_145020251217_1024.jpeg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2512/tatooimg_145020251217.jpeg",
-    "copyright": "Marcella Pace"
   }
 ]
