@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-01-29",
+    "title": {
+      "en": "NGC 2442: Galaxy in Volans",
+      "pt": "NGC 2442: Galáxia em Volans"
+    },
+    "explanation": {
+      "en": "Distorted galaxy NGC 2442 can be found in the southern constellation of the flying fish, (Piscis) Volans. Located about 50 million light-years away, the galaxy's two spiral arms extending from a pronounced central bar give it a hook-shaped appearance in this deep and colorful image, with foreground stars scattered across the telescopic field of view. The image also reveals the distant galaxy's obscuring dust lanes, young blue star clusters and reddish star forming regions surrounding a core of yellowish light from an older population of stars. But the star forming regions seem more concentrated along the drawn-out (upper right) spiral arm. The distorted structure is likely the result of an ancient close encounter with a smaller galaxy that lies off top left of the frame. This telescopic field of view spans over 200,000 light-years at the estimated distance of NGC 2442.",
+      "pt": "A galáxia distorcida NGC 2442 pode ser encontrada na constelação meridional do peixe voador, (Piscis) Volans. Localizada a cerca de 50 milhões de anos-luz de distância, os dois braços espirais da galáxia que se estendem a partir de uma barra central pronunciada dão-lhe uma aparência em forma de gancho nesta imagem profunda e colorida, com estrelas em primeiro plano espalhadas pelo campo de visão telescópico. A imagem também revela as obscuras faixas de poeira da galáxia distante, jovens aglomerados de estrelas azuis e regiões avermelhadas de formação de estrelas em torno de um núcleo de luz amarelada proveniente de uma população mais antiga de estrelas. Mas as regiões de formação estelar parecem mais concentradas ao longo do braço espiral estendido (canto superior direito). A estrutura distorcida é provavelmente o resultado de um antigo encontro próximo com uma galáxia menor que fica no canto superior esquerdo da imagem. Este campo de visão telescópico abrange mais de 200.000 anos-luz, à distância estimada de NGC 2442."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2601/NGC-2442-rev-1-crop-18-Jan-2026_1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2601/NGC-2442-rev-1-crop-18-Jan-2026_2048.jpg",
+    "copyright": "Mike Selby"
+  },
+  {
     "date": "2026-01-28",
     "title": {
       "en": "M78: Reflecting Blue in a Sea of Red",
@@ -431,18 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2512/StonehengeSolstice_Dury_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2512/StonehengeSolstice_Dury_3558.jpg",
     "copyright": ", English Heritage, Josh Dury,"
-  },
-  {
-    "date": "2025-12-21",
-    "title": {
-      "en": "Solstice on a Spinning Earth",
-      "pt": "Solstício em uma Terra Giratória"
-    },
-    "explanation": {
-      "en": "Can you tell that today is a solstice by the tilt of the Earth?  Yes. At a solstice, the Earth's terminator -- the dividing line between night and day -- is tilted the most.  The featured time-lapse video demonstrates this by displaying an entire year on planet Earth in twelve seconds. From geosynchronous orbit, the Meteosat 9 satellite recorded infrared images of the Earth every day at the same local time.  The video started at the September 2010 equinox with the terminator line being vertical: an equinox. As the Earth revolved around the Sun, the terminator was seen to tilt in a way that provides less daily sunlight to the northern hemisphere, causing winter in the north. At the most tilt, winter solstice occurred in the north, and summer solstice in the south.  As the year progressed, the March 2011 equinox arrived halfway through the video, followed by the terminator tilting the other way, causing winter in the southern hemisphere -- and summer in the north. The captured year ends again with the September equinox, concluding another of the billions of trips the Earth has taken -- and will take -- around the Sun.    APOD Review: RJN's Night Sky Network Lecture",
-      "pt": "Você pode dizer que hoje é solstício pela inclinação da Terra?  Sim. No solstício, o terminador da Terra – a linha divisória entre a noite e o dia – é o mais inclinado.  O vídeo de lapso de tempo apresentado demonstra isso exibindo um ano inteiro no planeta Terra em doze segundos. A partir da órbita geossíncrona, o satélite Meteosat 9 registrou imagens infravermelhas da Terra todos os dias no mesmo horário local.  O vídeo começou no equinócio de setembro de 2010 com a linha do terminador vertical: um equinócio. À medida que a Terra girava em torno do Sol, o terminador foi visto inclinando-se de uma forma que fornece menos luz solar diária ao hemisfério norte, causando o inverno no norte. Na maior inclinação, o solstício de inverno ocorreu no norte e o solstício de verão no sul.  À medida que o ano avançava, o equinócio de março de 2011 chegou a meio do vídeo, seguido pela inclinação do terminador para o outro lado, causando o inverno no hemisfério sul - e o verão no norte. O ano capturado termina novamente com o equinócio de Setembro, concluindo mais uma das milhares de milhões de viagens que a Terra fez - e fará - em torno do Sol.    Revisão do APOD: Palestra Night Sky Network do RJN"
-    },
-    "media_type": "other",
-    "copyright": null
   }
 ]
