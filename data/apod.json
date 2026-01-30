@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-01-30",
+    "title": {
+      "en": "NGC 1333: Stellar Nursery in Perseus",
+      "pt": "NGC 1333: Berçário Estelar em Perseu"
+    },
+    "explanation": {
+      "en": "NGC 1333 is seen in visible light as a reflection nebula, dominated by bluish hues characteristic of starlight reflected by interstellar dust. A mere 1,000 light-years distant toward the heroic constellation Perseus, it lies at the edge of a large, star-forming molecular cloud. This telescopic close-up spans over two full moons on the sky or just over 15 light-years at the estimated distance of NGC 1333. It shows details of the dusty region along with telltale hints of contrasty red emission from Herbig-Haro objects, jets and shocked glowing gas emanating from recently formed stars. In fact, NGC 1333 contains hundreds of stars less than a million years old, most still hidden from optical telescopes by the pervasive stardust. The chaotic environment may be similar to one in which our own Sun formed over 4.5 billion years ago.",
+      "pt": "NGC 1333 é vista na luz visível como uma nebulosa de reflexão, dominada por tons azulados característicos da luz estelar refletida pela poeira interestelar. A apenas 1.000 anos-luz de distância da heróica constelação de Perseu, fica na borda de uma grande nuvem molecular de formação de estrelas. Este grande plano telescópico abrange duas luas cheias no céu ou pouco mais de 15 anos-luz à distância estimada de NGC 1333. Mostra detalhes da região poeirenta juntamente com indícios reveladores de emissão vermelha contrastante de objetos Herbig-Haro, jatos e gás brilhante em choque que emana de estrelas recentemente formadas. Na verdade, NGC 1333 contém centenas de estrelas com menos de um milhão de anos, a maioria ainda escondida dos telescópios ópticos pela poeira estelar generalizada. O ambiente caótico pode ser semelhante àquele em que o nosso Sol se formou há mais de 4,5 mil milhões de anos."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2601/NGC1333_Robert_Eder1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2601/NGC1333_Robert_Eder.jpg",
+    "copyright": "Robert Eder"
+  },
+  {
     "date": "2026-01-29",
     "title": {
       "en": "NGC 2442: Galaxy in Volans",
@@ -431,20 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2512/SpriteElf_binotto_1080.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2512/SpriteElf_binotto_1500.jpg",
     "copyright": ", Valter Binotto,"
-  },
-  {
-    "date": "2025-12-22",
-    "title": {
-      "en": "Sunset Solstice over Stonehenge",
-      "pt": "Solstício do pôr do sol sobre Stonehenge"
-    },
-    "explanation": {
-      "en": "Yesterday the Sun reached its southernmost point in planet Earth's sky.  Called a solstice, many cultures mark yesterday's date as a change of seasons -- from autumn to winter in Earth's Northern Hemisphere and from spring to summer in Earth's Southern Hemisphere.  The featured image was taken just before the longest night of the 2025 northern year at Stonehenge in United Kingdom. There, through stones precisely placed 4,500 years ago, a 4.5 billion year old large glowing orb is seen setting. Even given the precession of the Earth's rotational axis over the millennia, the Sun continues to set over Stonehenge in an astronomically significant way.",
-      "pt": "Ontem o Sol atingiu o seu ponto mais meridional no céu do planeta Terra.  Chamado de solstício, muitas culturas marcam a data de ontem como uma mudança de estações – do outono ao inverno no Hemisfério Norte da Terra e da primavera ao verão no Hemisfério Sul da Terra.  A imagem em destaque foi tirada pouco antes da noite mais longa do ano setentrional de 2025 em Stonehenge, no Reino Unido. Lá, através de pedras colocadas com precisão há 4.500 anos, um grande orbe brilhante de 4,5 bilhões de anos é visto se pondo. Mesmo tendo em conta a precessão do eixo de rotação da Terra ao longo dos milénios, o Sol continua a pôr-se sobre Stonehenge de uma forma astronomicamente significativa."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2512/StonehengeSolstice_Dury_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2512/StonehengeSolstice_Dury_3558.jpg",
-    "copyright": ", English Heritage, Josh Dury,"
   }
 ]
