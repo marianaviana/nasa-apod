@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-02-01",
+    "title": {
+      "en": "Galle: Happy Face Crater on Mars",
+      "pt": "Galle: Cratera Happy Face em Marte"
+    },
+    "explanation": {
+      "en": "Mars has put on a happy face.  The Martian crater Galle is famous because it has internal markings that make it look like a face that is both smiling and winking.  These markings were originally discovered in the 1970s in pictures taken by the Viking Orbiter.  The Mars Global Surveyor (MGS) spacecraft that orbited Mars from 1996 to 2006 captured the featured picture.  Happy Face Crater and its iconic features were formed by chance billions of years ago when a city-sized asteroid slammed into the Martian surface.  All rocky planets and moons in our Solar System show impact craters, with the highest number of craters found on Earth's Moon and the planet Mercury. Earth and Venus would show the most, though, were it not for weather and erosion.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)",
+      "pt": "Marte fez uma cara feliz.  A cratera marciana Galle é famosa porque possui marcas internas que fazem com que pareça um rosto sorrindo e piscando.  Estas marcas foram originalmente descobertas na década de 1970 em fotos tiradas pela Viking Orbiter.  A espaçonave Mars Global Surveyor (MGS) que orbitou Marte de 1996 a 2006 capturou a imagem em destaque.  A cratera Happy Face e suas características icônicas foram formadas por acaso há bilhões de anos, quando um asteroide do tamanho de uma cidade colidiu com a superfície marciana.  Todos os planetas rochosos e luas do nosso Sistema Solar apresentam crateras de impacto, com o maior número de crateras encontradas na Lua da Terra e no planeta Mercúrio. A Terra e Vênus seriam os que mais se mostrariam, não fosse pelo clima e pela erosão.   Sky Surprise: Que foto o APOD apresentou no seu aniversário? (depois de 1995)"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2602/MarsHappyFace_mgs_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2602/MarsHappyFace_mgs_525.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-01-31",
     "title": {
       "en": "Artemis I: Flight Day 13",
@@ -431,20 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2512/IMG_7311_800.jpeg",
     "hdurl": "https://apod.nasa.gov/apod/image/2512/IMG_7311.jpeg",
     "copyright": "Michael Kalika"
-  },
-  {
-    "date": "2025-12-24",
-    "title": {
-      "en": "Mystery: Little Red Dots in the Early Universe",
-      "pt": "Mistério: pequenos pontos vermelhos no universo primitivo"
-    },
-    "explanation": {
-      "en": "What are these little red dots (LRDs)? Nobody knows. Discovered only last year, hundreds of LRDs have now been found by the James Webb Space Telescope in the early universe. Although extremely faint, LRDs are now frequently identified in deep observations made for other purposes. A wide-ranging debate is raging about what LRDs may be and what importance they may have.  Possible origin hypotheses include accreting supermassive black holes inside clouds of gas and dust, bursts of star formation in young dust-reddened galaxies, and dark matter powered gas clouds.  The highlighted images show six nearly featureless LRDs listed under the JWST program that found them, and z, a distance indicator called cosmological redshift.  Additionally, searches are underway in our nearby universe to try to find whatever previous LRDs might have become today.",
-      "pt": "O que são esses pequenos pontos vermelhos (LRDs)? Ninguém sabe. Descobertos apenas no ano passado, centenas de LRDs foram agora encontrados pelo Telescópio Espacial James Webb no universo primitivo. Embora extremamente fracos, os LRDs são agora frequentemente identificados em observações profundas feitas para outros fins. Está em curso um amplo debate sobre o que podem ser os LRD e qual a importância que podem ter.  As possíveis hipóteses de origem incluem a acumulação de buracos negros supermassivos dentro de nuvens de gás e poeira, explosões de formação de estrelas em galáxias jovens com poeira avermelhada e nuvens de gás alimentadas por matéria escura.  As imagens destacadas mostram seis LRDs quase sem características listadas no programa JWST que os encontrou, e z, um indicador de distância chamado redshift cosmológico.  Além disso, pesquisas estão em andamento em nosso universo próximo para tentar encontrar o que quer que os LRDs anteriores possam ter se tornado hoje."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2512/Lrd_Webb_1080.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2512/Lrd_Webb_1080.jpg",
-    "copyright": null
   }
 ]
