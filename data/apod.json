@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-02-02",
+    "title": {
+      "en": "Orion: The Running Man Nebula",
+      "pt": "Órion: a nebulosa do homem correndo"
+    },
+    "explanation": {
+      "en": "What part of Orion is this? Just north of the famous Orion Nebula is a picturesque star forming region in Orion's Sword that contains a lot of intricate dust -- some of which appears blue because it reflects the light of bright embedded stars.  The region's popular name is the Running Man Nebula because, looked at from the right, part of the brown dust appears to be running legs.  Cataloged as Sharpless 279, the reflection nebula is not only part of the constellation of Orion, but part of the greater Orion molecular cloud complex.  Light from the Running Man's bright stars, including 42 Orionis, the bright star closest to the featured image center, is slowly destroying and reshaping the surrounding dust, which will likely be completely gone in about 10 million years.  The nebula spans about 15 light years and lies about 1,500 light years away.   Jigsaw Nebula: Astronomy Puzzle of the Day",
+      "pt": "Que parte de Orion é essa? Logo ao norte da famosa Nebulosa de Orion há uma pitoresca região de formação de estrelas na Espada de Orion que contém uma grande quantidade de poeira intrincada - algumas das quais parecem azuis porque refletem a luz de estrelas brilhantes embutidas.  O nome popular da região é Nebulosa do Homem Corredor porque, vista da direita, parte da poeira marrom parece ser pernas correndo.  Catalogada como Sharpless 279, a nebulosa de reflexão não faz apenas parte da constelação de Orion, mas também parte do grande complexo de nuvens moleculares de Orion.  A luz das estrelas brilhantes do Running Man, incluindo 42 Orionis, a estrela brilhante mais próxima do centro da imagem em destaque, está lentamente destruindo e remodelando a poeira circundante, que provavelmente desaparecerá completamente dentro de cerca de 10 milhões de anos.  A nebulosa se estende por cerca de 15 anos-luz e fica a cerca de 1.500 anos-luz de distância.   Nebulosa Jigsaw: quebra-cabeça astronômico do dia"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2602/RunningMan_Lyons_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2602/RunningMan_Lyons_3298.jpg",
+    "copyright": ", Robert G. Lyons  , (Robservatory) ,"
+  },
+  {
     "date": "2026-02-01",
     "title": {
       "en": "Galle: Happy Face Crater on Mars",
@@ -431,20 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2512/3IATLAS_2025_12_15_JuneLake_DEBartlett1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2512/3IATLAS_2025_12_15_JuneLake_DEBartlett.jpg",
     "copyright": "Dan Bartlett"
-  },
-  {
-    "date": "2025-12-25",
-    "title": {
-      "en": "Unicorn, Fox Fur and Christmas Tree",
-      "pt": "Unicórnio, Pele de Raposa e Árvore de Natal"
-    },
-    "explanation": {
-      "en": "A star forming region cataloged as NGC 2264, this beautiful but complex arrangement of interstellar gas and dust is about 2,700 light-years distant in the faint but fanciful constellation Monoceros, the Unicorn. Seen toward the celestial equator and near the plane of our Milky Way galaxy, the seasonal skyscape mixes reddish emission nebulae excited by energetic light from newborn stars with dark interstellar dust clouds. Where the otherwise obscuring dust clouds lie close to the hot, young stars, they also reflect starlight, forming blue reflection nebulae. In fact, bright variable star S Monocerotis is immersed in a blue-tinted haze near center. Arrayed with a simple triangular outline above S Monocerotis, the stars of NGC 2264 are popularly known as the Christmas Tree star cluster. Carved by energetic starlight, the Cone Nebula sits upside down at the apex of this cosmic Christmas tree while the dusty, convoluted pelt of glowing gas and dust under the tree is called the Fox Fur Nebula. This rich telescopic frame spans about 1.5 degrees or 3 full moons on the sky top to bottom, covering nearly 80 light-years at the distance of NGC 2264.",
-      "pt": "Uma região de formação estelar catalogada como NGC 2264, este belo mas complexo arranjo de gás e poeira interestelar está a cerca de 2.700 anos-luz de distância, na tênue mas fantasiosa constelação de Monoceros, o Unicórnio. Vista em direção ao equador celestial e perto do plano da nossa galáxia, a Via Láctea, a paisagem celeste sazonal mistura nebulosas de emissão avermelhadas excitadas pela luz energética de estrelas recém-nascidas com nuvens escuras de poeira interestelar. Onde as nuvens de poeira, de outra forma obscurecedoras, ficam perto das estrelas jovens e quentes, elas também refletem a luz das estrelas, formando nebulosas de reflexão azuis. Na verdade, a brilhante estrela variável S Monocerotis está imersa numa névoa azulada perto do centro. Dispostas com um contorno triangular simples acima de S Monocerotis, as estrelas de NGC 2264 são popularmente conhecidas como aglomerado estelar da Árvore de Natal. Esculpida pela energia da luz das estrelas, a Nebulosa do Cone fica de cabeça para baixo no ápice desta árvore de Natal cósmica, enquanto a pele empoeirada e complicada de gás brilhante e poeira sob a árvore é chamada de Nebulosa Pele de Raposa. Esta rica estrutura telescópica abrange cerca de 1,5 graus ou 3 luas cheias no céu, de cima a baixo, cobrindo quase 80 anos-luz à distância de NGC 2264."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2512/IMG_7311_800.jpeg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2512/IMG_7311.jpeg",
-    "copyright": "Michael Kalika"
   }
 ]
