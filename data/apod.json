@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-02-03",
+    "title": {
+      "en": "Red Spider Planetary Nebula from Webb",
+      "pt": "Nebulosa Planetária da Aranha Vermelha de Webb"
+    },
+    "explanation": {
+      "en": "Oh what a tangled web a planetary nebula can weave.  The Red Spider Planetary Nebula shows the complex structure that can result when a normal star ejects its outer gases and becomes a white dwarf star. Officially tagged NGC 6537, this two-lobed symmetric planetary nebula houses one of the hottest white dwarfs ever observed, probably as part of a binary star system.  Internal winds flowing out from the central stars, have been measured in excess of 1,000 kilometers per second. These winds expand the nebula, flow along the nebula's walls, and cause waves of hot gas and dust to collide.  Atoms caught in these colliding shocks radiate light shown in the featured false-color infrared picture by the James Webb Space Telescope.  The Red Spider Nebula lies toward the constellation of the Archer (Sagittarius).  Its distance is not well known but has been estimated by some to be about 4,000 light-years.",
+      "pt": "Oh, que teia emaranhada uma nebulosa planetária pode tecer.  A Nebulosa Planetária da Aranha Vermelha mostra a estrutura complexa que pode resultar quando uma estrela normal ejeta os seus gases exteriores e se torna uma estrela anã branca. Oficialmente identificada como NGC 6537, esta nebulosa planetária simétrica de dois lóbulos abriga uma das anãs brancas mais quentes já observadas, provavelmente como parte de um sistema estelar binário.  Os ventos internos que fluem das estrelas centrais foram medidos a mais de 1.000 quilômetros por segundo. Esses ventos expandem a nebulosa, fluem ao longo de suas paredes e causam a colisão de ondas de gás quente e poeira.  Os átomos capturados nesses choques em colisão irradiam a luz mostrada na imagem infravermelha em cores falsas do Telescópio Espacial James Webb.  A Nebulosa da Aranha Vermelha fica próxima à constelação do Arqueiro (Sagitário).  Sua distância não é bem conhecida, mas foi estimada por alguns em cerca de 4.000 anos-luz."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2602/RedSpider_Webb_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2602/RedSpider_Webb_1280.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-02-02",
     "title": {
       "en": "Orion: The Running Man Nebula",
@@ -431,20 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2512/AS17-149-22859-2v2SmlWmk1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2512/AS17-149-22859-2v2SmlWmk.jpg",
     "copyright": null
-  },
-  {
-    "date": "2025-12-26",
-    "title": {
-      "en": "3I/ATLAS Flyby",
-      "pt": "Sobrevoo 3I/ATLAS"
-    },
-    "explanation": {
-      "en": "Attention grabbing interstellar visitor 3I/ATLAS made its not-so-close flyby of our fair planet on December 19 at a distance of 1.8 astronomical units. That's about 900 light-seconds. Still, this deep exposure captures the comet from another star system as it gently swept across a faint background of stars in the constellation Leo about 4 days earlier, on the night of December 15. Though faint, colors emphasized in the image data, show off the comet's yellowish dust tail and bluish ion tail along with a greenish tinged coma. And even while scrutinized by arrays of telescopes and spacecraft from planet Earth, 3I ATLAS is headed out of the Solar System. It's presently moving outward along a hyperbolic trajectory at about 64 kilometers per second relative to the Sun, too fast to be bound the Sun's gravity.",
-      "pt": "O visitante interestelar 3I/ATLAS, que chamou a atenção, fez seu sobrevôo não tão próximo de nosso belo planeta em 19 de dezembro, a uma distância de 1,8 unidades astronômicas. Isso é cerca de 900 segundos-luz. Ainda assim, esta exposição profunda captura o cometa de outro sistema estelar enquanto ele varria suavemente um fundo tênue de estrelas na constelação de Leão cerca de 4 dias antes, na noite de 15 de dezembro. Embora fracas, as cores enfatizadas nos dados da imagem mostram a cauda de poeira amarelada e a cauda de íon azulada do cometa, juntamente com uma coma tingida de esverdeado. E mesmo enquanto é examinado por conjuntos de telescópios e naves espaciais do planeta Terra, o 3I ATLAS está a sair do Sistema Solar. Atualmente está se movendo para fora ao longo de uma trajetória hiperbólica a cerca de 64 quilômetros por segundo em relação ao Sol, rápido demais para ser limitado pela gravidade do Sol."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2512/3IATLAS_2025_12_15_JuneLake_DEBartlett1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2512/3IATLAS_2025_12_15_JuneLake_DEBartlett.jpg",
-    "copyright": "Dan Bartlett"
   }
 ]
