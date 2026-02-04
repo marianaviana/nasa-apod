@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-02-04",
+    "title": {
+      "en": "Spiral Galaxy NGC 1512: Wide Field",
+      "pt": "Galáxia Espiral NGC 1512: Campo Amplo"
+    },
+    "explanation": {
+      "en": "Most galaxies don't have any rings -- why does this galaxy have three?  To begin, a ring that's near NGC 1512's center -- and so hard to see here -- is the nuclear ring which glows brightly with recently formed stars.  Next out is a ring of stars and dust appearing both red and blue, called, counter-intuitively, the inner ring.  This inner ring connects ends of a diffuse central bar of stars that runs horizontally across the galaxy.  Farthest out in this wide field image is a ragged structure that might be considered an outer ring. This outer ring appears spiral-like and is dotted with clusters of bright blue stars.  All these ring structures are thought to be affected by NGC 1512's own gravitational asymmetries in a drawn-out process called secular evolution.  The featured image was captured last month from a telescope at Deep Sky Chile in Chile.",
+      "pt": "A maioria das galáxias não tem anéis – por que esta galáxia tem três?  Para começar, um anel que está próximo do centro da NGC 1512 - e tão difícil de ver aqui - é o anel nuclear que brilha intensamente com estrelas recentemente formadas.  O próximo é um anel de estrelas e poeira que aparece tanto em vermelho quanto em azul, chamado, contra-intuitivamente, de anel interno.  Este anel interno conecta as extremidades de uma barra central difusa de estrelas que corre horizontalmente pela galáxia.  Mais distante nesta imagem de campo amplo está uma estrutura irregular que pode ser considerada um anel externo. Este anel externo parece uma espiral e é pontilhado por aglomerados de estrelas azuis brilhantes.  Acredita-se que todas essas estruturas em anel sejam afetadas pelas próprias assimetrias gravitacionais da NGC 1512, num processo prolongado denominado evolução secular.  A imagem em destaque foi capturada no mês passado por um telescópio da Deep Sky Chile, no Chile."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2602/NGC1512_stern_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2602/NGC1512_stern_6214.jpg",
+    "copyright": ", Daniel Stern,"
+  },
+  {
     "date": "2026-02-03",
     "title": {
       "en": "Red Spider Planetary Nebula from Webb",
@@ -430,21 +445,6 @@
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2512/NGC1898_Hubble_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2512/NGC1898_Hubble_2913.jpg",
-    "copyright": null
-  },
-  {
-    "date": "2025-12-27",
-    "title": {
-      "en": "Apollo 17's Moonship",
-      "pt": "Nave lunar da Apollo 17"
-    },
-    "explanation": {
-      "en": "Awkward and angular looking, Apollo 17's lunar module Challenger was designed for flight in the near vacuum of space.  Digitally enhanced and reprocessed, this picture taken from Apollo 17's command module America shows Challenger's ascent stage in lunar orbit. Small reaction control thrusters are at the sides of the moonship with the bell of the ascent rocket engine underneath. The hatch that allowed access to the lunar surface is seen at the front, with a round radar antenna at the top. Mission commander Gene Cernan is clearly visible through the triangular window. This spaceship performed gracefully, landing on the Moon and returning the Apollo astronauts to the orbiting command module in December of 1972. So where is Challenger now?  While its descent stage remains at the Apollo 17 landing site in the Taurus-Littrow valley, the ascent stage pictured was intentionally crashed nearby after being jettisoned from the command module prior to the astronauts' return to planet Earth.",
-      "pt": "De aparência estranha e angular, o módulo lunar Challenger da Apollo 17 foi projetado para voar no quase vácuo do espaço.  Aprimorada e reprocessada digitalmente, esta foto tirada do módulo de comando América da Apollo 17 mostra o estágio de ascensão do Challenger na órbita lunar. Pequenos propulsores de controle de reação estão nas laterais da nave lunar, com o sino do motor do foguete de subida embaixo. A escotilha que permitia o acesso à superfície lunar é vista na frente, com uma antena de radar redonda no topo. O comandante da missão, Gene Cernan, é claramente visível através da janela triangular. Esta nave espacial teve um desempenho elegante, pousando na Lua e devolvendo os astronautas da Apollo ao módulo de comando em órbita em dezembro de 1972. Então, onde está o Challenger agora?  Embora seu estágio de descida permaneça no local de pouso da Apollo 17 no vale Taurus-Littrow, o estágio de subida na foto caiu intencionalmente nas proximidades, após ser descartado do módulo de comando antes do retorno dos astronautas ao planeta Terra."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2512/AS17-149-22859-2v2SmlWmk1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2512/AS17-149-22859-2v2SmlWmk.jpg",
     "copyright": null
   }
 ]
