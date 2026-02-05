@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-02-05",
+    "title": {
+      "en": "NGC 1275 in the Perseus Cluster",
+      "pt": "NGC 1275 no aglomerado Perseus"
+    },
+    "explanation": {
+      "en": "Active galaxy NGC 1275 is the central, dominant member of the large and relatively nearby Perseus Cluster of Galaxies. Wild-looking at visible wavelengths, the active galaxy is also a prodigious source of x-rays and radio emission. NGC 1275 accretes matter as entire galaxies fall into it, ultimately feeding a supermassive black hole at the galaxy's core. Narrowband image data used in this sharp telescopic image highlights the resulting galactic debris and filaments of glowing gas, some up to 20,000 light-years long. The filaments persist in NGC 1275, even though the turmoil of galactic collisions should destroy them.  What keeps the filaments together? Observations indicate that the structures, pushed out from the galaxy's center by the black hole's activity, are held together by magnetic fields. Also known as Perseus A, NGC 1275 itself spans over 100,000 light years and lies about 230 million light years away.",
+      "pt": "A galáxia ativa NGC 1275 é o membro central e dominante do grande e relativamente próximo Aglomerado de Galáxias de Perseu. Com uma aparência selvagem nos comprimentos de onda visíveis, a galáxia ativa é também uma fonte prodigiosa de raios X e de emissão de rádio. A NGC 1275 acumula matéria à medida que galáxias inteiras caem nela, alimentando, em última análise, um buraco negro supermassivo no núcleo da galáxia. Os dados de imagem de banda estreita usados ​​nesta imagem telescópica nítida destacam os detritos galácticos resultantes e filamentos de gás brilhante, alguns com até 20.000 anos-luz de comprimento. Os filamentos persistem em NGC 1275, embora o turbilhão das colisões galácticas deva destruí-los.  O que mantém os filamentos juntos? As observações indicam que as estruturas, expulsas do centro da galáxia pela atividade do buraco negro, são mantidas unidas por campos magnéticos. Também conhecida como Perseus A, a própria NGC 1275 abrange mais de 100.000 anos-luz e fica a cerca de 230 milhões de anos-luz de distância."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2602/ngc-1275-perseus-cluster1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2602/ngc-1275-perseus-cluster.jpg",
+    "copyright": "Michal Wierzbinski"
+  },
+  {
     "date": "2026-02-04",
     "title": {
       "en": "Spiral Galaxy NGC 1512: Wide Field",
@@ -431,20 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2512/Crab_Chen_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2512/Crab_Chen_1920.jpg",
     "copyright": ", Alan Chen,"
-  },
-  {
-    "date": "2025-12-28",
-    "title": {
-      "en": "NGC 1898: Globular Cluster in the Large Magellanic Cloud",
-      "pt": "NGC 1898: Aglomerado Globular na Grande Nuvem de Magalhães"
-    },
-    "explanation": {
-      "en": "Jewels don't shine this bright -- only stars do. And almost every spot in this jewel-box of an image from the Hubble Space Telescope is a star. Now, some stars are more red than our Sun, and some more blue -- but all of them are much farther away.  Although it takes light about 8 minutes to reach Earth from the Sun, NGC 1898 is so far away that it takes light about 160,000 years to get here. This huge ball of stars, NGC 1898, is called a globular cluster and resides in the central bar of the Large Magellanic Cloud (LMC) -- a satellite galaxy of our Milky Way Galaxy. The featured multi-colored image includes light from the infrared to the ultraviolet and was taken to help determine if the stars of NGC 1898 all formed at the same time or at different times. There are increasing indications that most globular clusters formed stars in stages, and that, in particular, stars from NGC 1898 formed shortly after ancient encounters with the Small Magellanic Cloud (SMC) and our Milky Way Galaxy.   Space Telescopes Live: Where are Hubble and Webb looking right now?",
-      "pt": "As joias não brilham tanto – apenas as estrelas brilham. E quase todos os pontos nesta caixa de joias da imagem do Telescópio Espacial Hubble são estrelas. Agora, algumas estrelas são mais vermelhas que o nosso Sol e outras mais azuis - mas todas elas estão muito mais distantes.  Embora a luz leve cerca de 8 minutos para chegar à Terra vindo do Sol, NGC 1898 está tão longe que a luz leva cerca de 160.000 anos para chegar aqui. Esta enorme bola de estrelas, NGC 1898, é chamada de aglomerado globular e reside na barra central da Grande Nuvem de Magalhães (LMC) - uma galáxia satélite da nossa Via Láctea. A imagem multicolorida apresentada inclui luz do infravermelho ao ultravioleta e foi obtida para ajudar a determinar se as estrelas de NGC 1898 se formaram todas ao mesmo tempo ou em momentos diferentes. Há indicações crescentes de que a maioria dos aglomerados globulares formaram estrelas em estágios e que, em particular, as estrelas de NGC 1898 se formaram logo após antigos encontros com a Pequena Nuvem de Magalhães (SMC) e a nossa Galáxia, a Via Láctea.   Telescópios espaciais ao vivo: para onde o Hubble e o Webb estão olhando agora?"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2512/NGC1898_Hubble_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2512/NGC1898_Hubble_2913.jpg",
-    "copyright": null
   }
 ]
