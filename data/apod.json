@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-02-07",
+    "title": {
+      "en": "Crescent Enceladus",
+      "pt": "Encelado Crescente"
+    },
+    "explanation": {
+      "en": "Peering from the shadows, the Saturn-facing hemisphere of tantalizing inner moon Enceladus poses in this Cassini spacecraft image. North is up in the dramatic scene captured during November 2016 as Cassini's camera was pointed in a nearly sunward direction about 130,000 kilometers from the moon's bright crescent. In fact, the distant world reflects over 90 percent of the sunlight it receives, giving its surface about the same reflectivity as fresh snow. A mere 500 kilometers in diameter, Enceladus is a surprisingly active moon. Data and images collected during Cassini's flybys have revealed water vapor and ice grains spewing from south polar geysers and evidence of an ocean of liquid water hidden beneath the moon's icy crust.",
+      "pt": "Espiando das sombras, o hemisfério voltado para Saturno da tentadora lua interna Enceladus posa nesta imagem da espaçonave Cassini. O Norte está no topo da cena dramática capturada em novembro de 2016, quando a câmera da Cassini foi apontada quase na direção do Sol, a cerca de 130.000 quilômetros do crescente brilhante da lua. Na verdade, o mundo distante reflete mais de 90% da luz solar que recebe, dando à sua superfície aproximadamente a mesma refletividade que a neve fresca. Com apenas 500 quilômetros de diâmetro, Encélado é uma lua surpreendentemente ativa. Dados e imagens recolhidos durante os voos rasantes da Cassini revelaram vapor de água e grãos de gelo expelidos dos gêiseres do pólo sul e evidências de um oceano de água líquida escondido sob a crosta gelada da lua."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2602/PIA20522enceladusC.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2602/PIA20522enceladus.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-02-06",
     "title": {
       "en": "Supernova Remnant Cassiopeia A",
@@ -431,20 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2512/WaterfallNeb_Selby_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2512/WaterfallNeb_Selby_4000.jpg",
     "copyright": ", Mike Selby,"
-  },
-  {
-    "date": "2025-12-30",
-    "title": {
-      "en": "An Artificial Comet",
-      "pt": "Um cometa artificial"
-    },
-    "explanation": {
-      "en": "Yes, but can your comet tail do this? No, and what you are seeing is not the tail of a comet. The picture features a cleverly overlayed time-lapse sequence of a group of satellites orbiting Earth together in June. Specifically, these are Starlink communications satellites in low Earth orbit reflecting back sunlight before sunrise to Inner Mongolia, China. Although the satellites appear to the human eye as points, the 20-second-long camera exposures caused them to appear as short streaks. Currently there are over 9000 Starlinks in orbit, with more being launched nearly every week.  Other satellite constellations are also being planned.   Explore the Universe: Random APOD Generator",
-      "pt": "Sim, mas a cauda do seu cometa pode fazer isso? Não, e o que você está vendo não é a cauda de um cometa. A imagem apresenta uma sequência de lapso de tempo habilmente sobreposta de um grupo de satélites orbitando a Terra juntos em junho. Especificamente, estes são satélites de comunicações Starlink em órbita baixa da Terra, refletindo a luz solar antes do nascer do sol para a Mongólia Interior, China. Embora os satélites pareçam ao olho humano como pontos, as exposições de 20 segundos da câmera fizeram com que eles aparecessem como listras curtas. Atualmente, existem mais de 9.000 Starlinks em órbita, com mais lançamentos quase todas as semanas.  Outras constelações de satélites também estão sendo planejadas.   Explore o Universo: Gerador APOD Aleatório"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2512/ArtificialComet_Chao_1080.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2512/ArtificialComet_Chao_3000.jpg",
-    "copyright": ", Wang Chao,"
   }
 ]
