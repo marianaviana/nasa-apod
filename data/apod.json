@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-02-08",
+    "title": {
+      "en": "Active Sunspot Region 4366 Crosses the Sun",
+      "pt": "Região de manchas solares ativas 4366 cruza o sol"
+    },
+    "explanation": {
+      "en": "An unusually active sunspot region is now crossing the Sun.  The region, labelled AR 4366, is much larger than the Earth and has produced several powerful solar flares over the past ten days.  In the featured image, the region is marked by large and dark sunspots toward the upper right of the Sun's disk. The image captured the Sun over a hill in Zacatecas, Mexico, 5 days ago.  AR 4366 has become a candidate for the most active solar region in this entire 11-year solar cycle.  Active solar regions are frequently associated with increased auroral activity on the Earth.  Now reaching the edge, AR 4366 will begin facing away from the Earth during the coming week. It is not known, though, if the active region will survive long enough to reappear in about two weeks' time, as the Sun rotates.",
+      "pt": "Uma região de manchas solares extraordinariamente ativa está agora cruzando o Sol.  A região, denominada AR 4366, é muito maior que a Terra e produziu várias erupções solares poderosas nos últimos dez dias.  Na imagem apresentada, a região é marcada por manchas solares grandes e escuras na parte superior direita do disco solar. A imagem capturou o Sol sobre uma colina em Zacatecas, no México, há 5 dias.  AR 4366 tornou-se candidato à região solar mais ativa em todo este ciclo solar de 11 anos.  As regiões solares ativas estão frequentemente associadas ao aumento da atividade auroral na Terra.  Chegando agora ao limite, AR 4366 começará a se afastar da Terra durante a próxima semana. Não se sabe, porém, se a região ativa sobreviverá o tempo suficiente para reaparecer dentro de cerca de duas semanas, à medida que o Sol gira."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2602/Sunspot4366_Korona_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2602/Sunspot4366_Korona_1280.jpg",
+    "copyright": ", Daniel Korona,"
+  },
+  {
     "date": "2026-02-07",
     "title": {
       "en": "Crescent Enceladus",
@@ -431,20 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2601/AuroraFireworksstormRoiLevi1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2601/AuroraFireworksstormRoiLevi.jpg",
     "copyright": "Roi Levi"
-  },
-  {
-    "date": "2025-12-31",
-    "title": {
-      "en": "HH-222: The Waterfall Nebula",
-      "pt": "HH-222: A Nebulosa da Cachoeira"
-    },
-    "explanation": {
-      "en": "What created the Waterfall Nebula?  The origin is still being researched.  The structure, officially designated Herbig-Haro 222, appears in the region of NGC 1999 in the Great Orion Molecular Cloud complex. The elongated gaseous stream stretches about ten light years but appears similar to a long waterfall on Earth.  Recent observations indicate that HH-222 is likely a gigantic gaseous bow shock, similar to a wave of water caused by a fast-moving ship. The origin of this shock wave is thought to be a jet outflow from the multiple star system V380 Orionis off the lower left of the frame.  Therefore, gas does not flow along the waterfall, but rather the entire structure moves toward the upper right.  The Waterfall Nebula lies about 1,500 light years away toward the constellation of Orion.  The featured image was captured earlier this month from El Sauce Observatory in Chile.   Jigsaw Nebula: Astronomy Puzzle of the Day",
-      "pt": "O que criou a Nebulosa da Cachoeira?  A origem ainda está sendo pesquisada.  A estrutura, oficialmente designada Herbig-Haro 222, aparece na região de NGC 1999 no complexo da Grande Nuvem Molecular de Orion. A corrente gasosa alongada se estende por cerca de dez anos-luz, mas parece semelhante a uma longa cachoeira na Terra.  Observações recentes indicam que o HH-222 é provavelmente um gigantesco choque de proa gasoso, semelhante a uma onda de água causada por um navio em movimento rápido. Acredita-se que a origem desta onda de choque seja um jato que sai do sistema estelar múltiplo V380 Orionis na parte inferior esquerda do quadro.  Portanto, o gás não flui ao longo da cachoeira, mas sim toda a estrutura se move para o canto superior direito.  A Nebulosa da Cachoeira fica a cerca de 1.500 anos-luz de distância, em direção à constelação de Órion.  A imagem em destaque foi capturada no início deste mês no Observatório El Sauce, no Chile.   Nebulosa Jigsaw: quebra-cabeça astronômico do dia"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2512/WaterfallNeb_Selby_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2512/WaterfallNeb_Selby_4000.jpg",
-    "copyright": ", Mike Selby,"
   }
 ]
