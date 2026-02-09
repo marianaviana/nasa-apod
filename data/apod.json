@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-02-09",
+    "title": {
+      "en": "Miranda Revisited",
+      "pt": "Miranda revisitada"
+    },
+    "explanation": {
+      "en": "What is Miranda really like?  Visually, old images from NASA's Voyager 2 have been recently combined and remastered to result in the featured image of Uranus's 500-kilometer-wide moon. In the late 1980s, Voyager 2 flew by Uranus, coming close to the cratered, fractured, and unusually grooved moon -- named after a character from Shakespeare’s The Tempest.  Scientifically, planetary scientists are using old data and clear images to theorize anew about what shaped Miranda's severe surface features.  A leading hypothesis is that Miranda, beneath its icy surface, may have once hosted an expansive liquid water ocean which may be slowly freezing.  Thanks to the legacy of Voyager 2, Miranda has joined the ranks of Europa, Titan, and other icy moons in the search for water, and, possibly, microbial life, in our Solar System.   Jigsaw Moon: Astronomy Puzzle of the Day",
+      "pt": "Como é realmente Miranda?  Visualmente, imagens antigas da Voyager 2 da NASA foram recentemente combinadas e remasterizadas para resultar na imagem apresentada da lua de Urano com 500 quilómetros de largura. No final da década de 1980, a Voyager 2 passou por Urano, aproximando-se da lua cheia de crateras, fraturada e com ranhuras incomuns - em homenagem a um personagem de A Tempestade, de Shakespeare.  Cientificamente, os cientistas planetários estão a utilizar dados antigos e imagens nítidas para teorizar novamente sobre o que moldou as severas características da superfície de Miranda.  Uma hipótese principal é que Miranda, sob a sua superfície gelada, pode ter albergado outrora um extenso oceano de água líquida que pode estar a congelar lentamente.  Graças ao legado da Voyager 2, Miranda juntou-se às fileiras de Europa, Titã e outras luas geladas na busca por água e, possivelmente, vida microbiana, no nosso Sistema Solar.   Jigsaw Moon: quebra-cabeça astronômico do dia"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2602/Miranda_Voyager2Zelario12_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2602/Miranda_Voyager2Zelario12_2320.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-02-08",
     "title": {
       "en": "Active Sunspot Region 4366 Crosses the Sun",
@@ -431,20 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2601/NanosailD2_reprocessed1a1024.png",
     "hdurl": "https://apod.nasa.gov/apod/image/2601/NanosailD2_reprocessed1a.png",
     "copyright": "Ralf Vandebergh"
-  },
-  {
-    "date": "2026-01-01",
-    "title": {
-      "en": "Auroral Corona",
-      "pt": "Coroa Auroral"
-    },
-    "explanation": {
-      "en": "Cycle 25 solar maximum made 2025 a great year for aurora borealis (or aurora australis) on planet Earth. And the high level of solar activity should extend into 2026. So, while you're celebrating the arrival of the new year, check out this spectacular auroral display that erupted in starry night skies over Kirkjufell, Iceland. The awesome auroral corona, energetic curtains of light streaming from directly overhead, was witnessed during a strong geomagnetic storm triggered by intense solar activity near the March 2025 equinox. This northland and skyscape captures the evocative display in a 21 frame panoramic mosaic.",
-      "pt": "O máximo solar do ciclo 25 fez de 2025 um grande ano para a aurora boreal (ou aurora australis) no planeta Terra. E o alto nível de atividade solar deve se estender até 2026. Então, enquanto você comemora a chegada do novo ano, confira esta espetacular exibição auroral que irrompeu nos céus noturnos estrelados de Kirkjufell, na Islândia. A incrível coroa auroral, cortinas energéticas de luz fluindo diretamente de cima, foi testemunhada durante uma forte tempestade geomagnética desencadeada por intensa atividade solar perto do equinócio de março de 2025. Esta paisagem do norte e do céu captura a exibição evocativa em um mosaico panorâmico de 21 quadros."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2601/AuroraFireworksstormRoiLevi1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2601/AuroraFireworksstormRoiLevi.jpg",
-    "copyright": "Roi Levi"
   }
 ]
