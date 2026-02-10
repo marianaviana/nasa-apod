@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-02-10",
+    "title": {
+      "en": "In Green Company: Aurora over Norway",
+      "pt": "In Green Company: Aurora sobre a Noruega"
+    },
+    "explanation": {
+      "en": "Raise your arms if you see an aurora. With those instructions, two nights went by with, well, clouds -- mostly. On the third night of returning to same peaks, though, the sky not only cleared up but lit up with a spectacular auroral display. Arms went high in the air, patience and experience paid off, and the creative featured image was captured as a composite from three separate exposures. The setting is a summit of the Austnesfjorden (a fjord) close to the town of Svolvear on the Lofoten islands in northern Norway. The year was 2014. This year, our Sun is just passing solar maximum, the peak in its 11-year surface activity cycle. As expected, some spectacular auroras have recently resulted.   Portal Universe: Random APOD Generator",
+      "pt": "Levante os braços se vir uma aurora. Com essas instruções, duas noites se passaram com, bem, nuvens – principalmente. Na terceira noite de retorno aos mesmos picos, porém, o céu não apenas clareou, mas também se iluminou com uma espetacular exibição de auroras. Os braços ergueram-se no ar, a paciência e a experiência valeram a pena, e a imagem criativa em destaque foi capturada como uma composição a partir de três exposições separadas. O cenário é o cume do Austnesfjorden (um fiorde) perto da cidade de Svolvear, nas ilhas Lofoten, no norte da Noruega. O ano era 2014. Este ano, o nosso Sol está apenas a ultrapassar o máximo solar, o pico do seu ciclo de atividade superficial de 11 anos. Como esperado, surgiram recentemente algumas auroras espetaculares.   Portal Universo: Gerador APOD aleatório"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2602/greencompany_rive_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2602/greencompany_rive_2916.jpg",
+    "copyright": ", Max Rive,"
+  },
+  {
     "date": "2026-02-09",
     "title": {
       "en": "Miranda Revisited",
@@ -431,20 +446,5 @@
     "url": "https://apod.nasa.gov/apod/image/2601/moonwalk1c1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2601/moonwalk1.jpg",
     "copyright": "Jeff Dai"
-  },
-  {
-    "date": "2026-01-02",
-    "title": {
-      "en": "NanoSail-D2",
-      "pt": "NanoSail-D2"
-    },
-    "explanation": {
-      "en": "In 2011, on January 20, NASA's NanoSail-D2 unfurled a very thin and very reflective 10 square meter sail becoming the first solar sail spacecraft in low Earth orbit. Often considered the stuff of science fiction, sailing through space was suggested 400 years ago by astronomer Johannes Kepler, who had observed comet tails blown by the solar wind. But modern solar sail spacecraft designs, like NanoSail-D2, Japan's interplanetary spacecraft IKAROS, or the Planetary Society's Lightsail A, rely on the small but continuous pressure from sunlight itself for thrust. Glinting in the sunlight as it circled planet Earth, NanoSail-D2's solar sail was periodically bright and visible to the eye. These remarkably detailed images were captured by manually tracking the orbiting solar sail spacecraft with a small telescope.",
-      "pt": "Em 2011, em 20 de janeiro, o NanoSail-D2 da NASA desenrolou uma vela muito fina e muito refletiva de 10 metros quadrados, tornando-se a primeira espaçonave com vela solar em órbita baixa da Terra. Muitas vezes considerada matéria de ficção científica, navegar pelo espaço foi sugerido há 400 anos pelo astrônomo Johannes Kepler, que observou caudas de cometas sopradas pelo vento solar. Mas os projetos modernos de naves espaciais com velas solares, como a NanoSail-D2, a espaçonave interplanetária japonesa IKAROS ou a Lightsail A da Sociedade Planetária, dependem da pequena mas contínua pressão da própria luz solar para obter impulso. Brilhando à luz do sol enquanto circulava o planeta Terra, a vela solar do NanoSail-D2 era periodicamente brilhante e visível a olho nu. Estas imagens extraordinariamente detalhadas foram capturadas através do rastreamento manual da nave espacial de vela solar em órbita com um pequeno telescópio."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2601/NanosailD2_reprocessed1a1024.png",
-    "hdurl": "https://apod.nasa.gov/apod/image/2601/NanosailD2_reprocessed1a.png",
-    "copyright": "Ralf Vandebergh"
   }
 ]
