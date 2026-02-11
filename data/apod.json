@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-02-11",
+    "title": {
+      "en": "A Year of Sunspots",
+      "pt": "Um ano de manchas solares"
+    },
+    "explanation": {
+      "en": "How many sunspots can you see?  The central image shows the many sunspots that occurred in 2025, month by month around the circle, and all together in the grand central image.  Each sunspot is magnetically cooled and so appears dark -- and can last from days to months. Although the featured images originated from NASA's Solar Dynamics Observatory, sunspots can be easily seen with a small telescope or binoculars equipped with a solar filter. Very large sunspot groups like recent AR 4366 can even be seen with eclipse glasses. Sunspots are still counted by eye, but the total number is not considered exact because they frequently change and break up.  Last year, 2025, coincided with a solar maximum, the period of most intense magnetic activity during its 11-year solar cycle.  Our Sun remains unpredictable in many ways, including when it ejects solar flares that will impact the Earth, and how active the next solar cycle will be.",
+      "pt": "Quantas manchas solares você consegue ver?  A imagem central mostra as muitas manchas solares que ocorreram em 2025, mês a mês ao redor do círculo, e todas juntas na grande imagem central.  Cada mancha solar é resfriada magneticamente e, portanto, parece escura – e pode durar de dias a meses. Embora as imagens apresentadas tenham origem no Solar Dynamics Observatory da NASA, as manchas solares podem ser facilmente vistas com um pequeno telescópio ou binóculos equipados com filtro solar. Grupos muito grandes de manchas solares, como o recente AR 4366, podem até ser vistos com óculos de eclipse. As manchas solares ainda são contadas a olho nu, mas o número total não é considerado exato porque elas mudam e se fragmentam com frequência.  O ano passado, 2025, coincidiu com um máximo solar, o período de atividade magnética mais intensa durante o seu ciclo solar de 11 anos.  Nosso Sol permanece imprevisível em muitos aspectos, inclusive quando ejeta explosões solares que impactarão a Terra e quão ativo será o próximo ciclo solar."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2602/Sunspots2025_SdoSanli_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2602/Sunspots2025_SdoSanli_3450.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-02-10",
     "title": {
       "en": "In Green Company: Aurora over Norway",
@@ -431,20 +446,5 @@
     },
     "media_type": "other",
     "copyright": null
-  },
-  {
-    "date": "2026-01-03",
-    "title": {
-      "en": "Full Moonlight",
-      "pt": "Luar Cheio"
-    },
-    "explanation": {
-      "en": "The Full Moon is the brightest lunar phase, and tonight you can stand in the light of the first Full Moon of 2026. In fact, the Moon's full phase occurs on January 3 at 10:03 UTC, while only about 7 hours later planet Earth reaches its 2026 perihelion, the closest point in its elliptical orbit around the Sun, at 17:16 UTC. January's Full Moon was also not far from its own perigee, or closest approach to planet Earth. For this lunation the Moon's perigee was on January 1 at 21:44 UTC. You can also spot planet Jupiter, near its brightest for 2026 and close on the sky to the Full Moon tonight. But while you're out skygazing don't forget to look for rare, bright fireballs from the Quadrantid meteor shower.",
-      "pt": "A Lua Cheia é a fase lunar mais brilhante, e esta noite você pode estar sob a luz da primeira Lua Cheia de 2026. Na verdade, a fase cheia da Lua ocorre em 3 de janeiro às 10h03 UTC, enquanto apenas cerca de 7 horas depois o planeta Terra atinge seu periélio de 2026, o ponto mais próximo em sua órbita elíptica ao redor do Sol, às 17h16 UTC. A Lua Cheia de Janeiro também não esteve longe do seu próprio perigeu, ou da maior aproximação ao planeta Terra. Para esta lunação, o perigeu da Lua ocorreu em 1º de janeiro às 21h44 UTC. Você também pode localizar o planeta Júpiter, próximo ao seu ponto mais brilhante em 2026 e próximo no céu da Lua Cheia esta noite. Mas enquanto você estiver observando o céu, não se esqueça de procurar bolas de fogo raras e brilhantes da chuva de meteoros Quadrantid."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2601/moonwalk1c1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2601/moonwalk1.jpg",
-    "copyright": "Jeff Dai"
   }
 ]
