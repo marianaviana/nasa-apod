@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-02-12",
+    "title": {
+      "en": "The Bay of Rainbows",
+      "pt": "A Baía dos Arco-Íris"
+    },
+    "explanation": {
+      "en": "Dark, smooth regions that cover the Moon's familiar face are called by Latin names for oceans and seas. That naming convention is historical, though it may seem a little ironic to denizens of the space age who recognize the Moon as a mostly dry and airless world, and the smooth, dark areas as lava-flooded impact basins. For example, this telescopic lunar vista, looks over the expanse of the northwestern Mare Imbrium, or Sea of Rains and into the Sinus Iridum, the Bay of Rainbows. Ringed by the Jura Mountains (montes), the bay is about 250 kilometers across. Seen after local sunrise, the mountains form part of the Sinus Iridum impact crater wall. Their rugged sunlit arc is bounded at the top by Cape (promontorium) Laplace reaching nearly 3,000 meters above the bay's surface. At the bottom of the arc is Cape Heraclides, depicted by Giovanni Cassini in his 1679 telescope-based drawings mapping the moon as a moon maiden seen in profile with long, flowing hair.",
+      "pt": "As regiões escuras e lisas que cobrem a face familiar da Lua são chamadas por nomes latinos para oceanos e mares. Essa convenção de nomenclatura é histórica, embora possa parecer um pouco irónica para os habitantes da era espacial que reconhecem a Lua como um mundo maioritariamente seco e sem ar, e as áreas lisas e escuras como bacias de impacto inundadas de lava. Por exemplo, esta vista lunar telescópica olha para a extensão do noroeste do Mare Imbrium, ou Mar das Chuvas, e para o Sinus Iridum, a Baía dos Arco-Íris. Rodeada pelas montanhas do Jura (montes), a baía tem cerca de 250 quilómetros de diâmetro. Vistas após o nascer do sol local, as montanhas fazem parte da parede da cratera de impacto Sinus Iridum. Seu arco acidentado iluminado pelo sol é delimitado no topo pelo Cabo (promontório) Laplace, atingindo quase 3.000 metros acima da superfície da baía. Na parte inferior do arco está o Cabo Heráclides, representado por Giovanni Cassini em seus desenhos baseados em telescópio de 1679, mapeando a Lua como uma donzela lunar vista de perfil com cabelos longos e esvoaçantes."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2602/APOD-Sinus-Iridum-Olaf-Filzinger1080.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2602/APOD-Sinus-Iridum-Olaf-Filzinger.jpg",
+    "copyright": "Olaf Filzinger"
+  },
+  {
     "date": "2026-02-11",
     "title": {
       "en": "A Year of Sunspots",
@@ -433,18 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2601/M51_Sleeman_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2601/M51_Sleeman_2017.jpg",
     "copyright": ", Michael Sleeman,"
-  },
-  {
-    "date": "2026-01-13",
-    "title": {
-      "en": "A Solar Eruption from SDO",
-      "pt": "Uma erupção solar do SDO"
-    },
-    "explanation": {
-      "en": "What just leapt from the Sun?  A towering structure of solar plasma suddenly rose from the Sun's surface and unfurled into space -- a structure so large that many Earths would easily fit within it-- marking the onset of a dramatic Coronal Mass Ejection (CME).  The event was captured in striking detail in late 2024 by NASA's Solar Dynamics Observatory (SDO), whose continuous monitoring improves space weather forecasts and helps humanity better understand how solar activity affects satellites, GPS, radio communications, and power grids on Earth.  The featured video blends three extreme-ultraviolet views from SDO’s Atmospheric Imaging Assembly (AIA), revealing how plasma at different temperatures surged upward as the eruption unfolded.  Here, red highlights cooler, denser material lifted from the Sun’s lower atmosphere, while yellow traces hotter, million-degree coronal loops stretching outward as magnetic fields open.  After the main outburst, the Sun’s magnetic fields quickly reorganize.",
-      "pt": "O que acabou de saltar do Sol?  Uma estrutura imponente de plasma solar surgiu subitamente da superfície do Sol e desdobrou-se no espaço - uma estrutura tão grande que muitas Terras caberiam facilmente dentro dela - marcando o início de uma dramática Ejecção de Massa Coronal (CME).  O evento foi capturado com detalhes impressionantes no final de 2024 pelo Solar Dynamics Observatory (SDO) da NASA, cujo monitoramento contínuo melhora as previsões meteorológicas espaciais e ajuda a humanidade a entender melhor como a atividade solar afeta satélites, GPS, comunicações de rádio e redes elétricas na Terra.  O vídeo apresentado combina três visualizações ultravioleta extremas do Atmospheric Imaging Assembly (AIA) do SDO, revelando como o plasma em diferentes temperaturas subiu à medida que a erupção se desenrolava.  Aqui, o vermelho destaca o material mais frio e denso retirado da atmosfera inferior do Sol, enquanto o amarelo traça loops coronais mais quentes, de milhões de graus, que se estendem para fora à medida que os campos magnéticos se abrem.  Após a explosão principal, os campos magnéticos do Sol reorganizam-se rapidamente."
-    },
-    "media_type": "other",
-    "copyright": null
   }
 ]
