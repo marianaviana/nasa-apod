@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-02-13",
+    "title": {
+      "en": "NGC 147 and NGC 185",
+      "pt": "NGC 147 e NGC 185"
+    },
+    "explanation": {
+      "en": "Dwarf galaxies NGC 147 (left) and NGC 185 stand side by side in this deep telescopic portrait. The two are not-often-imaged satellite galaxies of M31, the great spiral Andromeda Galaxy, some 2.5 million light-years away. Their separation on the sky, less than one degree across a pretty field of view toward the constellation Cassiopeia, translates to only about 35 thousand light-years at Andromeda's distance, but Andromeda itself is found well outside this frame. Brighter and more famous satellite galaxies of Andromeda, M32 and M110, are seen much closer to the great spiral. NGC 147 and NGC 185 have been identified as binary galaxies, forming a gravitationally stable binary system. But recently discovered faint dwarf galaxy Cassiopeia II also seems to be part of their system, forming a gravitationally bound group within Andromeda's intriguing population of small satellite galaxies.",
+      "pt": "As galáxias anãs NGC 147 (esquerda) e NGC 185 estão lado a lado neste retrato telescópico profundo. As duas são galáxias satélites de M31, a grande galáxia espiral de Andrômeda, pouco fotografadas, a cerca de 2,5 milhões de anos-luz de distância. A sua separação no céu, menos de um grau num bonito campo de visão em direcção à constelação de Cassiopeia, traduz-se em apenas cerca de 35 mil anos-luz à distância de Andrómeda, mas a própria Andrómeda é encontrada bem fora deste enquadramento. As galáxias satélites mais brilhantes e famosas de Andrômeda, M32 e M110, são vistas muito mais próximas da grande espiral. NGC 147 e NGC 185 foram identificadas como galáxias binárias, formando um sistema binário gravitacionalmente estável. Mas a galáxia anã recentemente descoberta, Cassiopeia II, também parece fazer parte do seu sistema, formando um grupo gravitacionalmente ligado dentro da intrigante população de pequenas galáxias satélites de Andrómeda."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2602/N147N1851024.png",
+    "hdurl": "https://apod.nasa.gov/apod/image/2602/N147N185.png",
+    "copyright": "Chuck Ayoub"
+  },
+  {
     "date": "2026-02-12",
     "title": {
       "en": "The Bay of Rainbows",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2601/2025-12-29-1656_Plato_Lmorr1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2601/2025-12-29-1656_Plato_Lmorr.jpg",
     "copyright": "Luigi Morrone"
-  },
-  {
-    "date": "2026-01-14",
-    "title": {
-      "en": "M51: The Whirlpool Galaxy",
-      "pt": "M51: A Galáxia do Redemoinho"
-    },
-    "explanation": {
-      "en": "The Whirlpool Galaxy is a classic spiral galaxy. At only 30 million light years distant and fully 60 thousand light years across, M51, also known as NGC 5194, is one of the brightest and most picturesque galaxies on the sky.  The featured deep image is a digital combination of images taken in different colors over 58 hours with a telescope from Lijiang, China. Anyone with a good pair of binoculars, however, can see this Whirlpool toward the constellation of the Hunting Dogs (Canes Venatici). M51 is a spiral galaxy of type Sc and is the dominant member of a whole group of galaxies.  Astronomers speculate that M51's spiral structure is primarily due to its gravitational interaction with the smaller galaxy just above it.",
-      "pt": "A Galáxia Whirlpool é uma galáxia espiral clássica. A apenas 30 milhões de anos-luz de distância e com 60 mil anos-luz de diâmetro, M51, também conhecida como NGC 5194, é uma das galáxias mais brilhantes e pitorescas do céu.  A imagem profunda apresentada é uma combinação digital de imagens tiradas em cores diferentes ao longo de 58 horas com um telescópio de Lijiang, na China. Qualquer pessoa com um bom binóculo, porém, consegue ver esse Redemoinho em direção à constelação dos Cães de Caça (Canes Venatici). M51 é uma galáxia espiral do tipo Sc e é o membro dominante de todo um grupo de galáxias.  Os astrônomos especulam que a estrutura espiral de M51 se deve principalmente à sua interação gravitacional com a galáxia menor logo acima dela."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2601/M51_Sleeman_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2601/M51_Sleeman_2017.jpg",
-    "copyright": ", Michael Sleeman,"
   }
 ]
