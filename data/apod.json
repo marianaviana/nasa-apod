@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-02-14",
+    "title": {
+      "en": "Roses are Red",
+      "pt": "Roses are Red"
+    },
+    "explanation": {
+      "en": "Roses are red, nebulas are too, and this Valentine's gift is a stunning view! Pictured is a loving look at the Rosette Nebula (NGC 2237): a cosmic bloom of bright young stars sitting atop a stem of glowing hot gas. The rose’s blue-white speckles are among the most luminous stars in the galaxy, with some burning millions of times brighter than the Sun. Their stellar winds sculpt the famed rose shape by pushing gas and dust away from the center. Though only a few million years old, these massive stars are already nearing the end of their lives, while dimmer stars embedded in the nebula will burn for billions of years to come. The vibrant red hue comes from hydrogen gas, ionized by the ultraviolet light from the young stars. The rose’s blue-white center is color-mapped to indicate the presence of similarly ionized oxygen. The Rosette Nebula reminds us of the beauty and transformation woven into the fabric of the universe.",
+      "pt": "As rosas são vermelhas, as nebulosas também, e esse presente de Dia dos Namorados é uma vista deslumbrante! Na foto está uma visão amorosa da Nebulosa Roseta (NGC 2237): uma flor cósmica de estrelas jovens e brilhantes situadas no topo de um caule de gás quente e brilhante. As manchas branco-azuladas da rosa estão entre as estrelas mais luminosas da galáxia, com algumas queimando milhões de vezes mais brilhantes que o Sol. Seus ventos estelares esculpem a famosa forma de rosa, empurrando o gás e a poeira para longe do centro. Embora tenham apenas alguns milhões de anos de idade, estas estrelas massivas já estão a aproximar-se do fim das suas vidas, enquanto as estrelas mais fracas embutidas na nebulosa irão arder durante milhares de milhões de anos. A tonalidade vermelha vibrante vem do gás hidrogênio, ionizado pela luz ultravioleta das estrelas jovens. O centro branco-azulado da rosa é mapeado por cores para indicar a presença de oxigênio ionizado de forma semelhante. A Nebulosa Roseta nos lembra da beleza e da transformação tecida na estrutura do universo."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2602/RosetteCalcagno1082.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2602/RosetteCalcagno.jpg",
+    "copyright": "Keighley Rockcliffe"
+  },
+  {
     "date": "2026-02-13",
     "title": {
       "en": "NGC 147 and NGC 185",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2601/NGC7023_Falk1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2601/NGC7023_Falk2048.jpg",
     "copyright": "Justus Falk"
-  },
-  {
-    "date": "2026-01-15",
-    "title": {
-      "en": "Plato and the Lunar Alps",
-      "pt": "Platão e os Alpes Lunares"
-    },
-    "explanation": {
-      "en": "The dark-floored, 95 kilometer wide crater Plato and sunlit peaks of the lunar Alps (Montes Alpes) are highlighted in this this sharp telescopic snapshot of the Moon's surface. While the Alps of planet Earth were uplifted over millions of years as continental plates slowly collided, the lunar Alps were likely formed by a sudden collision that created the giant impact basin known as the Mare Imbrium or Sea of Rains. The mare's generally smooth, lava-flooded floor is seen below the bordering mountain range. The prominent straight feature cutting through the mountains is the lunar Alpine Valley (Vallis Alpes). Joining the Mare Imbrium and northern Mare Frigoris (Sea of Cold) the valley extends toward the upper right, about 160 kilometers long and up to 10 kilometers wide. Of course, the large, bright lunar alpine mountain below and right of Plato crater is named Mont Blanc. Lacking an atmosphere, not to mention snow, the lunar Alps are probably not an ideal location for a winter vacation. Still, a 150 pound skier would weigh a mere 25 pounds on the Moon.",
-      "pt": "A cratera Platão, de fundo escuro e 95 quilômetros de largura, e os picos iluminados pelo sol dos Alpes lunares (Montes Alpes) são destacados nesta nítida fotografia telescópica da superfície da Lua. Enquanto os Alpes do planeta Terra foram elevados ao longo de milhões de anos à medida que as placas continentais colidiam lentamente, os Alpes lunares foram provavelmente formados por uma colisão repentina que criou a gigantesca bacia de impacto conhecida como Mare Imbrium ou Mar das Chuvas. O piso geralmente liso e inundado de lava da égua é visto abaixo da cordilheira adjacente. A característica reta proeminente que corta as montanhas é o Vale Alpino lunar (Vallis Alpes). Unindo-se ao Mare Imbrium e ao norte do Mare Frigoris (Mar de Frio), o vale se estende em direção ao canto superior direito, com cerca de 160 quilômetros de comprimento e até 10 quilômetros de largura. Claro, a grande e brilhante montanha alpina lunar abaixo e à direita da cratera Platão é chamada de Mont Blanc. Na falta de atmosfera, sem falar na neve, os Alpes lunares provavelmente não são um local ideal para férias de inverno. Ainda assim, um esquiador de 150 libras pesaria apenas 25 libras na Lua."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2601/2025-12-29-1656_Plato_Lmorr1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2601/2025-12-29-1656_Plato_Lmorr.jpg",
-    "copyright": "Luigi Morrone"
   }
 ]
