@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-02-15",
+    "title": {
+      "en": "To Fly Free in Space",
+      "pt": "Voar Livre no Espaço"
+    },
+    "explanation": {
+      "en": "What would it be like to fly free in space?  About 100 meters from the cargo bay of a space shuttle, Bruce McCandless II was living the dream -- floating farther out than anyone had ever been before.  Guided by a Manned Maneuvering Unit (MMU), astronaut McCandless, pictured, was floating free in space. During Space Shuttle mission 41-B in 1984,  McCandless and fellow NASA astronaut Robert Stewart were the first to experience such an \"untethered space walk\". The MMU worked by shooting jets of nitrogen and was used to help deploy and retrieve satellites.  With a mass over 140 kilograms, an MMU is heavy on Earth, but, like everything, is weightless when drifting in orbit. The MMU was later replaced with the SAFER backpack propulsion unit.",
+      "pt": "Como seria voar livre no espaço?  A cerca de 100 metros do compartimento de carga de um ônibus espacial, Bruce McCandless II estava vivendo o sonho – flutuando mais longe do que qualquer pessoa jamais esteve antes.  Guiado por uma Unidade de Manobra Tripulada (MMU), o astronauta McCandless, na foto, flutuava livre no espaço. Durante a missão 41-B do ônibus espacial em 1984, McCandless e seu colega astronauta da NASA Robert Stewart foram os primeiros a experimentar essa \"caminhada espacial sem restrições\". A MMU funcionava disparando jatos de nitrogênio e era usada para ajudar a implantar e recuperar satélites.  Com massa superior a 140 quilogramas, um MMU é pesado na Terra, mas, como tudo, não tem peso quando está à deriva em órbita. A MMU foi posteriormente substituída pela unidade de propulsão de mochila SAFER."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2602/freeflyer_nasa_900.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2602/freeflyer_nasa_3000.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-02-14",
     "title": {
       "en": "Roses are Red",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2601/a14pan9335-43emj_900.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2601/a14pan9335-43emj.jpg",
     "copyright": null
-  },
-  {
-    "date": "2026-01-16",
-    "title": {
-      "en": "NGC 7023: The Iris Nebula",
-      "pt": "NGC 7023: A Nebulosa da Íris"
-    },
-    "explanation": {
-      "en": "These cosmic clouds have blossomed 1,300 light-years away in the fertile starfields of the constellation Cepheus. Called the Iris Nebula, NGC 7023 is not the only nebula to evoke the imagery of flowers. Still, this deep telescopic image shows off the Iris Nebula's range of colors and symmetries embedded in surrounding fields of interstellar dust. Within the Iris itself, dusty nebular material surrounds a hot, young star. The dominant color of the brighter reflection nebula is blue, characteristic of dust grains reflecting starlight. Central filaments of the reflection nebula glow with a faint reddish photoluminescence as some dust grains effectively convert the star's invisible ultraviolet radiation to visible red light. Infrared observations indicate that this nebula contains complex carbon molecules known as PAHs. The dusty blue petals of the Iris Nebula span about six light-years.",
-      "pt": "Estas nuvens cósmicas floresceram a 1.300 anos-luz de distância, nos férteis campos estelares da constelação de Cepheus. Chamada de Nebulosa da Íris, NGC 7023 não é a única nebulosa a evocar imagens de flores. Ainda assim, esta imagem telescópica profunda mostra a gama de cores e simetrias da Nebulosa da Íris incorporadas nos campos circundantes de poeira interestelar. Dentro da própria íris, material nebular empoeirado envolve uma estrela jovem e quente. A cor dominante da nebulosa de reflexão mais brilhante é o azul, característico dos grãos de poeira que refletem a luz das estrelas. Os filamentos centrais da nebulosa de reflexão brilham com uma fraca fotoluminescência avermelhada, à medida que alguns grãos de poeira convertem eficazmente a radiação ultravioleta invisível da estrela em luz vermelha visível. Observações infravermelhas indicam que esta nebulosa contém moléculas complexas de carbono conhecidas como PAHs. As empoeiradas pétalas azuis da Nebulosa da Íris abrangem cerca de seis anos-luz."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2601/NGC7023_Falk1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2601/NGC7023_Falk2048.jpg",
-    "copyright": "Justus Falk"
   }
 ]
