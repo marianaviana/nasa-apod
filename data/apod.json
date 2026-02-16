@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-02-16",
+    "title": {
+      "en": "Unexplained Shocks Around a White Dwarf Star",
+      "pt": "Choques inexplicáveis ​​em torno de uma estrela anã branca"
+    },
+    "explanation": {
+      "en": "How is RXJ0528+2838 creating such shock waves?  A recently discovered white dwarf star, the farther left of the two largest white spots, RXJ0528+2838, was found 730 light-years away from Earth.  Most stars, when done fusing nuclei in their cores for energy, become red giant stars, the cores of which live on as faint dense white dwarfs that slowly cool down for the rest of time.  White dwarfs are so dense that the only thing that stops them from collapsing further is quantum mechanics. In about 5 billion years, our Sun will become a white dwarf, too.  The featured image, obtained with the European Southern Observatory’s Very Large Telescope, shows unexplained bow shocks around RXJ0528+2838, similar to the bow wave of water around a fast-moving ship. Astronomers don’t yet know what is powering these shocks, which have existed for at least 1,000 years.  The red, green and blue colors represent trace amounts of glowing hydrogen, nitrogen and oxygen gas.    Open Science: Browse 3,900+ codes in the Astrophysics Source Code Library",
+      "pt": "Como o RXJ0528+2838 está criando tais ondas de choque?  Uma estrela anã branca recentemente descoberta, a mais à esquerda das duas maiores manchas brancas, RXJ0528+2838, foi encontrada a 730 anos-luz de distância da Terra.  A maioria das estrelas, quando terminam de fundir núcleos em seus núcleos para obter energia, tornam-se estrelas gigantes vermelhas, cujos núcleos vivem como anãs brancas densas e tênues que esfriam lentamente pelo resto do tempo.  As anãs brancas são tão densas que a única coisa que as impede de entrar em colapso ainda mais é a mecânica quântica. Dentro de cerca de 5 mil milhões de anos, o nosso Sol também se tornará uma anã branca.  A imagem em destaque, obtida com o Very Large Telescope do Observatório Europeu do Sul, mostra choques de proa inexplicáveis ​​em torno de RXJ0528+2838, semelhantes à onda de água em torno de um navio em movimento rápido. Os astrónomos ainda não sabem o que está a alimentar estes choques, que existem há pelo menos 1.000 anos.  As cores vermelha, verde e azul representam vestígios de gás brilhante de hidrogênio, nitrogênio e oxigênio.    Ciência Aberta: Navegue por mais de 3.900 códigos na Biblioteca de Código-Fonte de Astrofísica"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2602/WhiteDwarfShock_VLT_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2602/WhiteDwarfShock_VLT_960.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-02-15",
     "title": {
       "en": "To Fly Free in Space",
@@ -432,21 +447,6 @@
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2601/Jupiter2_WebbSchmidt_1080_annotated.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2601/Jupiter2_WebbSchmidt_3283_annotated.png",
-    "copyright": null
-  },
-  {
-    "date": "2026-01-17",
-    "title": {
-      "en": "Apollo 14: A View from Antares",
-      "pt": "Apollo 14: Uma Vista de Antares"
-    },
-    "explanation": {
-      "en": "Apollo 14's Lunar Module Antares landed on the Moon on February 5, 1971. Toward the end of the stay astronaut Ed Mitchell snapped a series of photos of the lunar surface while looking out a window, assembled into this detailed mosaic by Apollo Lunar Surface Journal editor Eric Jones. The view looks across the Fra Mauro highlands to the northwest of the landing site after the Apollo 14 astronauts had completed their second and final walk on the Moon. Prominent in the foreground is their Modular Equipment Transporter, a two-wheeled, rickshaw-like device used to carry tools and samples. Near the horizon at top center is a 1.5 meter wide boulder dubbed Turtle rock. In the shallow crater below Turtle rock is the long white handle of a sampling instrument, thrown there javelin-style by Mitchell. Mitchell's fellow moonwalker and first American in space, Alan Shepard, also used a makeshift six iron to hit two golf balls. One of Shepard's golf balls is just visible as a white spot below Mitchell's javelin.",
-      "pt": "O Módulo Lunar Antares da Apollo 14 pousou na Lua em 5 de fevereiro de 1971. Perto do final da estadia, o astronauta Ed Mitchell tirou uma série de fotos da superfície lunar enquanto olhava pela janela, montadas neste mosaico detalhado pelo editor do Apollo Lunar Surface Journal, Eric Jones. A vista abrange as terras altas de Fra Mauro, a noroeste do local de pouso, depois que os astronautas da Apollo 14 completaram sua segunda e última caminhada na Lua. Proeminente em primeiro plano está o Modular Equipment Transporter, um dispositivo de duas rodas, semelhante a um riquixá, usado para transportar ferramentas e amostras. Perto do horizonte, no centro superior, há uma pedra de 1,5 metros de largura chamada Turtle Rock. Na cratera rasa abaixo de Turtle Rock está o longo cabo branco de um instrumento de amostragem, lançado ali como um dardo por Mitchell. O colega moonwalker de Mitchell e primeiro americano no espaço, Alan Shepard, também usou um ferro seis improvisado para acertar duas bolas de golfe. Uma das bolas de golfe de Shepard é visível apenas como uma mancha branca abaixo do dardo de Mitchell."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2601/a14pan9335-43emj_900.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2601/a14pan9335-43emj.jpg",
     "copyright": null
   }
 ]
