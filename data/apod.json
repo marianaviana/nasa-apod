@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-02-19",
+    "title": {
+      "en": "IC 2574: Coddington's Nebula",
+      "pt": "IC 2574: Nebulosa de Coddington"
+    },
+    "explanation": {
+      "en": "Grand spiral galaxies often seem to get all the glory, flaunting their young, bright, blue star clusters in beautiful, symmetric spiral arms. But small, irregular galaxies form stars too. In fact, dwarf galaxy IC 2574 shows clear evidence of intense star forming activity in its telltale reddish regions of glowing hydrogen gas. Just as in spiral galaxies, the turbulent star-forming regions in IC 2574 are churned by stellar winds and supernova explosions spewing material into the galaxy's interstellar medium and triggering further star formation. A mere 12 million light-years distant, IC 2574 is part of the M81 group of galaxies, seen toward the northern constellation Ursa Major. Also known as Coddington's Nebula, the faint but intriguing island universe is about 50,000 light-years across, discovered by American astronomer Edwin Coddington in 1898.",
+      "pt": "Grandes galáxias espirais muitas vezes parecem receber toda a glória, exibindo seus jovens e brilhantes aglomerados de estrelas azuis em lindos braços espirais simétricos. Mas galáxias pequenas e irregulares também formam estrelas. Na verdade, a galáxia anã IC 2574 mostra evidências claras de intensa atividade de formação de estrelas nas suas regiões avermelhadas de gás hidrogênio brilhante. Tal como nas galáxias espirais, as turbulentas regiões de formação estelar em IC 2574 são agitadas por ventos estelares e explosões de supernovas, expelindo material para o meio interestelar da galáxia e desencadeando mais formação estelar. A apenas 12 milhões de anos-luz de distância, IC 2574 faz parte do grupo de galáxias M81, visto em direção à constelação norte da Ursa Maior. Também conhecida como Nebulosa de Coddington, o tênue mas intrigante universo insular tem cerca de 50.000 anos-luz de diâmetro, descoberto pelo astrônomo americano Edwin Coddington em 1898."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2602/IC2574Vetter1050.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2602/IC2574Vetter.jpg",
+    "copyright": "Dane Vetter"
+  },
+  {
     "date": "2026-02-18",
     "title": {
       "en": "Orion's Cradle",
@@ -432,21 +447,6 @@
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2601/JWSTMIRI_ngc1365_1024.png",
     "hdurl": "https://apod.nasa.gov/apod/image/2601/JWSTMIRI_ngc1365.png",
-    "copyright": null
-  },
-  {
-    "date": "2026-01-20",
-    "title": {
-      "en": "Io in True Color",
-      "pt": "Io em True Color"
-    },
-    "explanation": {
-      "en": "The strangest moon in the Solar System is bright yellow.  The featured picture, an attempt to show how Io would appear in the \"true colors\" perceptible to the average human eye, was taken in 1999 July by the Galileo spacecraft that orbited Jupiter from 1995 to 2003.  Io's colors derive from sulfur and molten silicate rock.  The unusual surface of Io is kept very young by its system of active volcanoes.  The intense tidal gravity of Jupiter stretches Io and damps wobbles caused by Jupiter's other Galilean moons.  The resulting friction greatly heats Io's interior, causing  molten rock to explode through the surface.  Io's volcanoes are so active that they are effectively turning the whole moon inside out.  Some of Io's volcanic lava is so hot it glows in the dark.",
-      "pt": "A lua mais estranha do Sistema Solar é amarela brilhante.  A imagem apresentada, uma tentativa de mostrar como Io apareceria nas \"cores verdadeiras\" perceptíveis ao olho humano médio, foi tirada em julho de 1999 pela espaçonave Galileo que orbitou Júpiter de 1995 a 2003. As cores de Io derivam de enxofre e rocha de silicato derretida.  A superfície incomum de Io é mantida muito jovem pelo seu sistema de vulcões ativos.  A intensa gravidade das marés de Júpiter estica Io e amortece as oscilações causadas pelas outras luas galileanas de Júpiter.  O atrito resultante aquece muito o interior de Io, fazendo com que a rocha derretida exploda através da superfície.  Os vulcões de Io são tão ativos que estão efetivamente virando a Lua inteira do avesso.  Parte da lava vulcânica de Io é tão quente que brilha no escuro."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2601/iotruecolor_galileo_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2601/iotruecolor_galileo_2796.jpg",
     "copyright": null
   }
 ]
