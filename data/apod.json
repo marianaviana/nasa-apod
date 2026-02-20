@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-02-20",
+    "title": {
+      "en": "B93: A Dark Interstellar Ghost",
+      "pt": "B93: Um Fantasma Interestelar Sombrio"
+    },
+    "explanation": {
+      "en": "\"A ghost in the Milky Way…” says Christian Bertincourt, the astrophotographer behind this striking image of Barnard 93 (B93).  The 93rd entry in Barnard’s Catalogue of Dark Nebulae, B93 lies within the Small Sagittarius Star Cloud (Messier 24), where its darkness stands in stark contrast to bright stars and gas in the background.  In some ways, B93 is really like a ghost, because it contains gas and dust that was dispersed by the deaths of stars, like supernovas.  B93 appears as a dark void not because it is empty, but because its dust blocks the light emitted by more distant stars and glowing gas.  Like other dark nebulas, some gas from B93, if dense and massive enough, will eventually gravitationally condense to form new stars.  If so, then once these stars ignite, B93 will transform from a dark ghost into a brilliant cradle of newborn stars.",
+      "pt": "“Um fantasma na Via Láctea…” diz Christian Bertincourt, o astrofotógrafo por trás desta impressionante imagem de Barnard 93 (B93).  A 93ª entrada no Catálogo de Nebulosas Escuras de Barnard, B93, situa-se na Pequena Nuvem Estelar de Sagitário (Messier 24), onde a sua escuridão contrasta fortemente com as estrelas brilhantes e o gás no fundo.  De certa forma, B93 é realmente como um fantasma, porque contém gás e poeira que foram dispersados ​​pela morte de estrelas, como as supernovas.  B93 aparece como um vazio escuro não porque esteja vazio, mas porque a sua poeira bloqueia a luz emitida por estrelas mais distantes e pelo gás brilhante.  Tal como outras nebulosas escuras, algum gás da B93, se for suficientemente denso e massivo, acabará por condensar-se gravitacionalmente para formar novas estrelas.  Se assim for, então, assim que estas estrelas se acenderem, B93 transformar-se-á de um fantasma escuro num berço brilhante de estrelas recém-nascidas."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2602/B93_bertincourt_1080.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2602/B93_bertincourt_1178.png",
+    "copyright": "Christian Bertincourt; , Text:, Keighley Rockcliffe  , (NASA, GSFC, UMBC, CSST, CRESST II)"
+  },
+  {
     "date": "2026-02-19",
     "title": {
       "en": "IC 2574: Coddington's Nebula",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2601/ldn1622fellows1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2601/ldn1622fellows.jpg",
     "copyright": "Chris Fellows"
-  },
-  {
-    "date": "2026-01-21",
-    "title": {
-      "en": "Barred Spiral Galaxy NGC 1365 from Webb",
-      "pt": "Galáxia espiral barrada NGC 1365 de Webb"
-    },
-    "explanation": {
-      "en": "A mere 56 million light-years distant toward the southern constellation Fornax, NGC 1365 is an enormous barred spiral galaxy about 200,000 light-years in diameter. That's twice the size of our own barred spiral Milky Way. This sharp image from the James Webb Space Telescope's Mid-Infrared Instrument (MIRI) reveals stunning details of this magnificent spiral in infrared light. Webb's field of view stretches about 60,000 light-years across NGC 1365, exploring the galaxy's core and bright newborn star clusters. The intricate network of dusty filaments and bubbles is created by young stars along spiral arms winding from the galaxy's central bar. Astronomers suspect the gravitational field of NGC 1365's bar plays a crucial role in the galaxy's evolution, funneling gas and dust into a star-forming maelstrom and ultimately feeding material into the active galaxy's central, supermassive black hole.",
-      "pt": "A apenas 56 milhões de anos-luz de distância em direção à constelação meridional de Fornax, NGC 1365 é uma enorme galáxia espiral barrada com cerca de 200.000 anos-luz de diâmetro. Isso é o dobro do tamanho da nossa Via Láctea em espiral barrada. Esta imagem nítida do instrumento Mid-Infrared (MIRI) do Telescópio Espacial James Webb revela detalhes impressionantes desta magnífica espiral em luz infravermelha. O campo de visão de Webb estende-se por cerca de 60.000 anos-luz através da NGC 1365, explorando o núcleo da galáxia e os brilhantes enxames de estrelas recém-nascidas. A intrincada rede de filamentos de poeira e bolhas é criada por estrelas jovens ao longo de braços espirais que serpenteiam a partir da barra central da galáxia. Os astrónomos suspeitam que o campo gravitacional da barra da NGC 1365 desempenha um papel crucial na evolução da galáxia, canalizando gás e poeira para um turbilhão de formação estelar e, em última análise, alimentando com material o buraco negro supermassivo central da galáxia activa."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2601/JWSTMIRI_ngc1365_1024.png",
-    "hdurl": "https://apod.nasa.gov/apod/image/2601/JWSTMIRI_ngc1365.png",
-    "copyright": null
   }
 ]
