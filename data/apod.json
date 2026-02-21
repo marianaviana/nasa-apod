@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-02-21",
+    "title": {
+      "en": "Twilight with Moon and Planets",
+      "pt": "Crepúsculo com Lua e Planetas"
+    },
+    "explanation": {
+      "en": "Only two days after the February New Moon's annular eclipse of the Sun, a slender lunar crescent poses above the western horizon after sunset in this wintry twilight skyscape. Its nightside faintly illuminated by earthshine, the young Moon is joined by three bright planets in the mostly clear, early evening skies above the village of Kirazli, Turkiye. Inner planet Venus appears closest to the horizon. Near the beginning of its 2026 performance as planet Earth's evening star, brilliant Venus is seen through the warm sunset glare near picture center. Straight above Venus, innermost planet Mercury is easy to spot as it stands remarkably high above the horizon even as the twilight sky is growing dark. Outer planet Saturn, most distant of the naked-eye planets, is found just left of the Moon's sunlit crescent.",
+      "pt": "Apenas dois dias após o eclipse anular do Sol na Lua Nova de fevereiro, um delgado crescente lunar surge acima do horizonte ocidental após o pôr do sol nesta paisagem invernal do crepúsculo. Com o seu lado noturno fracamente iluminado pelo brilho da terra, a jovem Lua é acompanhada por três planetas brilhantes nos céus quase sempre claros do início da noite acima da aldeia de Kirazli, Turkiye. O planeta interno Vênus parece mais próximo do horizonte. Perto do início do seu desempenho em 2026 como estrela vespertina do planeta Terra, a brilhante Vênus é vista através do brilho quente do pôr do sol perto do centro da imagem. Diretamente acima de Vênus, o planeta mais interno Mercúrio é fácil de localizar, pois fica notavelmente alto acima do horizonte, mesmo quando o céu crepuscular está escurecendo. O planeta externo Saturno, o mais distante dos planetas a olho nu, é encontrado logo à esquerda do crescente iluminado pela Lua."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2602/20260219a_c1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2602/20260219a.jpg",
+    "copyright": "Tunc Tezel"
+  },
+  {
     "date": "2026-02-20",
     "title": {
       "en": "B93: A Dark Interstellar Ghost",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2601/Abell7pugh1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2601/Abell7pugh.jpg",
     "copyright": "Martin Pugh"
-  },
-  {
-    "date": "2026-01-22",
-    "title": {
-      "en": "LDN 1622: Dark Nebula in Orion",
-      "pt": "LDN 1622: Nebulosa Negra em Orion"
-    },
-    "explanation": {
-      "en": "The silhouette of an intriguing dark nebula inhabits this cosmic scene. Lynds' Dark Nebula (LDN) 1622 appears against a faint background of glowing hydrogen gas only visible in long telescopic exposures of the region. In contrast, a brighter reflection nebula, vdB 62, is more easily seen just above the dusty dark nebula. LDN 1622 lies near the plane of our Milky Way Galaxy, close on the sky to Barnard's Loop, a large cloud surrounding the rich complex of emission nebulae found in the Belt and Sword of Orion. With swept-back outlines, the obscuring dust of LDN 1622 is thought to lie at a similar distance, perhaps 1,500 light-years away. At that distance, this 3 degree wide field of view would span about 100 light-years. Young stars do lie hidden within the dark expanse and have been revealed in Spitzer Space telescope infrared images. Still, the foreboding visual appearance of LDN 1622 inspires its popular name, the Boogeyman Nebula.",
-      "pt": "A silhueta de uma intrigante nebulosa escura habita esta cena cósmica. A Nebulosa Negra de Lynds (LDN) 1622 aparece contra um fundo fraco de gás hidrogênio brilhante, visível apenas em longas exposições telescópicas da região. Em contraste, uma nebulosa de reflexão mais brilhante, vdB 62, é mais facilmente vista logo acima da nebulosa escura e empoeirada. LDN 1622 fica perto do plano da nossa Via Láctea, perto do céu do Loop de Barnard, uma grande nuvem que envolve o rico complexo de nebulosas de emissão encontradas no Cinturão e Espada de Órion. Com contornos recuados, pensa-se que a poeira obscurecedora de LDN 1622 se encontra a uma distância semelhante, talvez a 1.500 anos-luz de distância. A essa distância, este campo de visão de 3 graus abrangeria cerca de 100 anos-luz. Estrelas jovens estão escondidas na extensão escura e foram reveladas em imagens infravermelhas do telescópio espacial Spitzer. Ainda assim, a aparência visual agourenta da LDN 1622 inspira o seu nome popular, Nebulosa do Boogeyman."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2601/ldn1622fellows1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2601/ldn1622fellows.jpg",
-    "copyright": "Chris Fellows"
   }
 ]
