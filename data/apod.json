@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-02-22",
+    "title": {
+      "en": "Shadow of a Martian Robot",
+      "pt": "Sombra de um robô marciano"
+    },
+    "explanation": {
+      "en": "What if you saw your shadow on Mars and it wasn't human?  Then you might be the Opportunity rover exploring Mars.  Opportunity explored the Red Planet from 2004 to 2018, finding evidence of ancient water, and sending breathtaking images across the inner Solar System.  Pictured here in 2004, Opportunity looks opposite the Sun into Endurance Crater and sees its own shadow.  Two wheels are visible on the lower left and right, while the floor and walls of the unusual crater are visible in the background.  Caught in a dust storm in 2018, Opportunity stopped responding, and NASA stopped trying to contact it in 2019 and declared the ground-breaking mission, originally planned for only 92 days, complete.",
+      "pt": "E se você visse sua sombra em Marte e ela não fosse humana?  Então você pode ser o rover Opportunity explorando Marte.  O Opportunity explorou o Planeta Vermelho de 2004 a 2018, encontrando evidências de água antiga e enviando imagens de tirar o fôlego por todo o Sistema Solar interno.  Retratado aqui em 2004, o Opportunity olha do lado oposto ao Sol para a cratera Endurance e vê sua própria sombra.  Duas rodas são visíveis no canto inferior esquerdo e direito, enquanto o chão e as paredes da cratera incomum são visíveis ao fundo.  Apanhado por uma tempestade de areia em 2018, o Opportunity parou de responder e a NASA parou de tentar contactá-lo em 2019 e declarou concluída a missão inovadora, originalmente planeada para apenas 92 dias."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2602/marsshadow_opportunity_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2602/marsshadow_opportunity_1024.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-02-21",
     "title": {
       "en": "Twilight with Moon and Planets",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2601/earthset-snap01.png",
     "hdurl": "https://apod.nasa.gov/apod/image/2601/earthset-snap00.png",
     "copyright": null
-  },
-  {
-    "date": "2026-01-23",
-    "title": {
-      "en": "Planetary Nebula Abell 7",
-      "pt": "Nebulosa Planetária Abell 7"
-    },
-    "explanation": {
-      "en": "Very faint planetary nebula Abell 7 is about 1,800 light-years distant. It lies just south of Orion in planet Earth's skies toward the constellation Lepus, The Hare. Posing with scattered Milky Way stars, its generally simple spherical shape about 8 light-years in diameter is revealed in this deep telescopic image. The beautiful and complex shapes seen within the cosmic cloud are visually enhanced by the use of long exposures and narrowband filters that capture emission from hydrogen and oxygen atoms. Otherwise Abell 7 would be much too faint to be appreciated by eye. A planetary nebula represents a very brief final phase in stellar evolution that our own Sun will experience 5 billion years hence, as the nebula's central, once sun-like star shrugs off its outer layers. Abell 7 itself is estimated to be 20,000 years old. But its central star, seen here as a fading white dwarf, is some 10 billion years old.",
-      "pt": "A nebulosa planetária muito fraca Abell 7 está a cerca de 1.800 anos-luz de distância. Situa-se logo ao sul de Órion, nos céus do planeta Terra, em direção à constelação de Lepus, A Lebre. Posando com estrelas dispersas da Via Láctea, a sua forma esférica geralmente simples, com cerca de 8 anos-luz de diâmetro, é revelada nesta imagem telescópica profunda. As belas e complexas formas vistas dentro da nuvem cósmica são visualmente melhoradas pelo uso de longas exposições e filtros de banda estreita que capturam as emissões dos átomos de hidrogênio e oxigênio. Caso contrário, o Abell 7 seria muito fraco para ser apreciado a olho nu. Uma nebulosa planetária representa uma fase final muito breve na evolução estelar que o nosso próprio Sol experimentará daqui a 5 mil milhões de anos, à medida que a estrela central da nebulosa, outrora semelhante ao Sol, encolhe as suas camadas exteriores. O próprio Abell 7 tem cerca de 20.000 anos. Mas a sua estrela central, vista aqui como uma anã branca em extinção, tem cerca de 10 mil milhões de anos."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2601/Abell7pugh1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2601/Abell7pugh.jpg",
-    "copyright": "Martin Pugh"
   }
 ]
