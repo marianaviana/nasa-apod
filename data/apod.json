@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-02-23",
+    "title": {
+      "en": "Pleiades: The Seven Sisters Star Cluster",
+      "pt": "Plêiades: O Conglomerado Estelar das Sete Irmãs"
+    },
+    "explanation": {
+      "en": "Have you ever seen the Pleiades star cluster? Even if you have, you probably have never seen it as large and clear as this. Perhaps the most famous star cluster on the sky, the bright stars of the Pleiades can be seen with the unaided eye even from the depths of a light-polluted city.  With a long exposure from a dark location, though, the dust cloud surrounding the Pleiades star cluster becomes very evident. The featured 18-hour exposure, taken from Bory Tucholskie, Poland covers a sky area several times the size of the full moon.  Also known as the Seven Sisters and M45, the Pleiades lies about 400 light years away toward the constellation of the Bull (Taurus).  A common legend with a modern twist is that one of the brighter stars faded since the cluster was named, leaving only six of the sister stars visible to the unaided eye. The actual number of Pleiades stars visible, however, may be more or less than seven, depending on the darkness of the surrounding sky and the clarity of the observer's eyesight.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)",
+      "pt": "Você já viu o aglomerado de estrelas das Plêiades? Mesmo que tenha visto, provavelmente nunca o viu tão grande e claro como este. Talvez o aglomerado de estrelas mais famoso do céu, as estrelas brilhantes das Plêiades podem ser vistas a olho nu, mesmo nas profundezas de uma cidade poluída pela luz.  Porém, com uma longa exposição a partir de um local escuro, a nuvem de poeira que rodeia o aglomerado estelar das Plêiades torna-se muito evidente. A exposição de 18 horas, tirada em Bory Tucholskie, na Polônia, cobre uma área do céu várias vezes maior que a lua cheia.  Também conhecidas como Sete Irmãs e M45, as Plêiades ficam a cerca de 400 anos-luz de distância, em direção à constelação do Touro (Touro).  Uma lenda comum com um toque moderno é que uma das estrelas mais brilhantes desapareceu desde que o aglomerado foi nomeado, deixando apenas seis das estrelas irmãs visíveis a olho nu. O número real de estrelas das Plêiades visíveis, contudo, pode ser maior ou menor que sete, dependendo da escuridão do céu circundante e da clareza da visão do observador.   Sky Surprise: Que foto o APOD apresentou no seu aniversário? (depois de 1995)"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2602/Pleiades_Fiedosiuk_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2602/Pleiades_Fiedosiuk_2200.jpg",
+    "copyright": "Kamil Fiedosiuk"
+  },
+  {
     "date": "2026-02-22",
     "title": {
       "en": "Shadow of a Martian Robot",
@@ -432,21 +447,6 @@
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2601/Phobos_MRO_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2601/Phobos_MRO_3374.jpg",
-    "copyright": null
-  },
-  {
-    "date": "2026-01-24",
-    "title": {
-      "en": "Earthset from Orion",
-      "pt": "Planeta Terra de Orion"
-    },
-    "explanation": {
-      "en": "ght billion people are about to disappear in this snapshot from space taken on 2022 November 21. On the sixth day of the Artemis I mission, their home world is setting behind the Moon's bright edge as viewed by an external camera on the outbound Orion spacecraft. Orion was headed for a powered flyby that took it to within 130 kilometers of the lunar surface. Velocity gained in the flyby maneuver was used to reach a distant retrograde orbit around the Moon. That orbit is considered distant because it's another 92,000 kilometers beyond the Moon, and retrograde because the spacecraft orbited in the opposite direction of the Moon's orbit around planet Earth. Swinging around the Moon, Orion reached a maximum distance (just over 400,000 kilometers) from Earth on 2022 November 28, exceeding a record set by Apollo 13 for most distant spacecraft designed for human space exploration. The Artemis II mission, carrying 4 astronauts around the moon and back again, is due to launch as early as February 6.",
-      "pt": "Cerca de oito bilhões de pessoas estão prestes a desaparecer nesta foto tirada do espaço em 21 de novembro de 2022. No sexto dia da missão Artemis I, seu mundo natal está situado atrás da borda brilhante da Lua, conforme visto por uma câmera externa na espaçonave Orion. Orion estava se dirigindo para um sobrevôo motorizado que o levou a 130 quilômetros da superfície lunar. A velocidade adquirida na manobra de sobrevôo foi usada para alcançar uma órbita retrógrada distante ao redor da Lua. Essa órbita é considerada distante porque está a outros 92.000 quilômetros além da Lua, e retrógrada porque a espaçonave orbitou na direção oposta da órbita da Lua ao redor do planeta Terra. Girando em torno da Lua, Orion atingiu uma distância máxima (pouco mais de 400.000 quilômetros) da Terra em 28 de novembro de 2022, excedendo um recorde estabelecido pela Apollo 13 para a nave espacial mais distante projetada para exploração espacial humana. A missão Artemis II, que transporta quatro astronautas ao redor da Lua e de volta, deve ser lançada já em 6 de fevereiro."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2601/earthset-snap01.png",
-    "hdurl": "https://apod.nasa.gov/apod/image/2601/earthset-snap00.png",
     "copyright": null
   }
 ]
