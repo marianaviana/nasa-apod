@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-02-24",
+    "title": {
+      "en": "Planet Parade over Sydney Opera House",
+      "pt": "Planet Parade sobre a Ópera de Sydney"
+    },
+    "explanation": {
+      "en": "Look up this week and see a whole bunch of planets.  Just after sunset, looking west (mostly), planets Mercury, Venus, Saturn, and Jupiter will all be visible to the unaided eye simultaneously.  If you have a telescope, planets Uranus and Neptune can also be seen.  In order up from the horizon, the lineup this week will be Venus (the brightest), Mercury, Saturn, Neptune, Uranus, and Jupiter (second brightest).  It doesn't matter where on Earth you live because this early evening planet parade will be visible through clear skies all around the globe.  The planets will appear to be nearly in a line because they all orbit the Sun in nearly the same plane: the ecliptic.  The featured image shows a similar planet parade that occurred in 2022, captured over the Sydney Opera House in southern Australia.  Although visible all week, the planets will be most easily seen together this weekend.",
+      "pt": "Olhe para cima esta semana e veja um monte de planetas.  Logo após o pôr do sol, olhando para o oeste (principalmente), os planetas Mercúrio, Vênus, Saturno e Júpiter estarão todos visíveis a olho nu simultaneamente.  Se você tiver um telescópio, os planetas Urano e Netuno também poderão ser vistos.  Em ordem ascendente a partir do horizonte, a programação desta semana será Vênus (o mais brilhante), Mercúrio, Saturno, Netuno, Urano e Júpiter (o segundo mais brilhante).  Não importa onde você mora na Terra, porque este desfile planetário no início da noite será visível através de céus claros em todo o mundo.  Os planetas parecerão estar quase alinhados porque todos orbitam o Sol quase no mesmo plano: a eclíptica.  A imagem em destaque mostra um desfile planetário semelhante que ocorreu em 2022, capturado na Ópera de Sydney, no sul da Austrália.  Embora visíveis durante toda a semana, os planetas serão vistos juntos mais facilmente neste fim de semana."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2602/PlanetParadeSydney_Agrawal_960_ann.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2602/PlanetParadeSydney_Agrawal_1663.jpg",
+    "copyright": "Prasun Agrawal"
+  },
+  {
     "date": "2026-02-23",
     "title": {
       "en": "Pleiades: The Seven Sisters Star Cluster",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2601/Ngc55_Promper_1080.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2601/Ngc55_Promper_3686.jpg",
     "copyright": ", Wolfgang Promper; , Text: Ogetay Kayali , (MTU)  ,"
-  },
-  {
-    "date": "2026-01-25",
-    "title": {
-      "en": "Phobos: Doomed Moon of Mars",
-      "pt": "Fobos: Lua Condenada de Marte"
-    },
-    "explanation": {
-      "en": "This moon is doomed. Mars, the red planet named for the Roman god of war, has two tiny moons, Phobos and Deimos, whose names are derived from the Greek for Fear and Panic. These Martian moons may well be captured asteroids originating in the main asteroid belt between Mars and Jupiter or perhaps from even more distant reaches of our Solar System. The larger moon, Phobos, is indeed seen to be a cratered, asteroid-like object in this stunning color image from the robotic Mars Reconnaissance Orbiter, which can image objects as small as 10 meters. But Phobos orbits so close to Mars - about 5,800 kilometers above the surface compared to 400,000 kilometers for our Moon - that gravitational tidal forces are dragging it down. In perhaps 50 million years, Phobos is expected to disintegrate into a ring of debris.",
-      "pt": "Esta lua está condenada. Marte, o planeta vermelho que leva o nome do deus romano da guerra, tem duas pequenas luas, Fobos e Deimos, cujos nomes são derivados do grego para Medo e Pânico. Estas luas marcianas podem muito bem ser asteróides capturados originários do principal cinturão de asteróides entre Marte e Júpiter ou talvez de regiões ainda mais distantes do nosso Sistema Solar. A lua maior, Fobos, é de fato vista como um objeto semelhante a um asteróide com crateras nesta impressionante imagem colorida da robótica Mars Reconnaissance Orbiter, que pode fotografar objetos tão pequenos quanto 10 metros. Mas Fobos orbita tão perto de Marte - cerca de 5.800 quilómetros acima da superfície, em comparação com os 400.000 quilómetros da nossa Lua - que as forças gravitacionais das marés estão a arrastá-la para baixo. Em talvez 50 milhões de anos, espera-se que Fobos se desintegre num anel de detritos."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2601/Phobos_MRO_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2601/Phobos_MRO_3374.jpg",
-    "copyright": null
   }
 ]
