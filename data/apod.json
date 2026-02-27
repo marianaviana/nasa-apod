@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-02-27",
+    "title": {
+      "en": "Sharpless 249 and the Jellyfish Nebula",
+      "pt": "Sharpless 249 e a nebulosa da água-viva"
+    },
+    "explanation": {
+      "en": "Normally faint and elusive, the Jellyfish Nebula is caught in this alluring telescopic field of view. Floating in the interstellar sea, the nebula is anchored right and left by two bright stars, Mu and Eta Geminorum, at the foot of the celestial twins. The Jellyfish Nebula itself is right of center, seen as a brighter arcing ridge of emission with dangling tentacles. In fact, this cosmic jellyfish is part of bubble-shaped supernova remnant IC 443, the expanding debris cloud from a massive star that exploded. Light from the explosion first reached planet Earth over 30,000 years ago. Like its cousin in astrophysical waters the Crab Nebula supernova remnant, the Jellyfish Nebula is known to harbor a neutron star, the ultradense remnant of the collapsed stellar core. An emission nebula cataloged as Sharpless 249 fills the field at the upper left. The Jellyfish Nebula is about 5,000 light-years away. At that distance, this image would be about 300 light-years across.",
+      "pt": "Normalmente tênue e evasiva, a Nebulosa da Água-viva é capturada neste atraente campo de visão telescópico. Flutuando no mar interestelar, a nebulosa está ancorada à direita e à esquerda por duas estrelas brilhantes, Mu e Eta Geminorum, aos pés das gêmeas celestes. A própria Nebulosa da Água-viva está à direita do centro, vista como uma crista de emissão em arco mais brilhante com tentáculos pendurados. Na verdade, esta água-viva cósmica faz parte do remanescente de supernova em forma de bolha IC 443, a nuvem de detritos em expansão de uma estrela massiva que explodiu. A luz da explosão atingiu o planeta Terra pela primeira vez há mais de 30.000 anos. Tal como a sua prima nas águas astrofísicas, o remanescente da supernova da Nebulosa do Caranguejo, a Nebulosa da Água-viva é conhecida por abrigar uma estrela de neutrões, o remanescente ultradenso do núcleo estelar colapsado. Uma nebulosa de emissão catalogada como Sharpless 249 preenche o campo no canto superior esquerdo. A Nebulosa da Água-viva está a cerca de 5.000 anos-luz de distância. A essa distância, esta imagem teria cerca de 300 anos-luz de diâmetro."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2602/JellyfishBeecroft_final1_1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2602/JellyfishBeecroft_final1_2048.jpg",
+    "copyright": "Katelyn Beecroft"
+  },
+  {
     "date": "2026-02-26",
     "title": {
       "en": "Webb and Hubble: IC 5332",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2601/NGC-2442-rev-1-crop-18-Jan-2026_1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2601/NGC-2442-rev-1-crop-18-Jan-2026_2048.jpg",
     "copyright": "Mike Selby"
-  },
-  {
-    "date": "2026-01-28",
-    "title": {
-      "en": "M78: Reflecting Blue in a Sea of Red",
-      "pt": "M78: Refletindo Azul em um Mar Vermelho"
-    },
-    "explanation": {
-      "en": "In the vast Orion Molecular Cloud complex, several bright blue nebulas are particularly apparent.  Pictured here in the center are two of the most prominent reflection nebulas - dust clouds lit by the reflecting light of bright embedded stars.  The more famous nebula is M78, in the image center, cataloged over 200 years ago.  To its upper left is the lesser known NGC 2071.  Astronomers continue to study these reflection nebulas to better understand how interior stars form.  The overall red glow is from diffuse hydrogen gas that covers much of the Orion complex that spans much of the constellation of Orion. Nearby in the greater complex, which lies about 1,500 light years away, are the Orion Nebula, the Horsehead Nebula, and Barnard's Loop -- partially seen here as the white band on the upper left.    Almost Hyperspace: Random APOD Generator",
-      "pt": "No vasto complexo da Nuvem Molecular de Orion, várias nebulosas azuis brilhantes são particularmente aparentes.  Retratadas aqui no centro estão duas das nebulosas de reflexão mais proeminentes - nuvens de poeira iluminadas pela luz refletida de estrelas brilhantes embutidas.  A nebulosa mais famosa é a M78, no centro da imagem, catalogada há mais de 200 anos.  No canto superior esquerdo está a menos conhecida NGC 2071. Os astrónomos continuam a estudar estas nebulosas de reflexão para compreender melhor como as estrelas interiores se formam.  O brilho vermelho geral provém do gás hidrogênio difuso que cobre grande parte do complexo de Orion, que abrange grande parte da constelação de Orion. Perto dali, no complexo maior, que fica a cerca de 1.500 anos-luz de distância, estão a Nebulosa de Órion, a Nebulosa Cabeça de Cavalo e o Laço de Barnard - parcialmente visto aqui como a faixa branca no canto superior esquerdo.    Quase Hiperespaço: Gerador APOD Aleatório"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2601/M78Red_McCauley_1080.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2601/M78Red_McCauley_2048.jpg",
-    "copyright": ", Daniel McCauley,"
   }
 ]
