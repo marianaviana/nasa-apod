@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-02-28",
+    "title": {
+      "en": "Lunar Occultation of Mercury",
+      "pt": "Ocultação Lunar de Mercúrio"
+    },
+    "explanation": {
+      "en": "Fans of the western sky after sunset have lately enjoyed this month's remarkable array of bright planets. Witnessed from some locations, on February 18 planet Mercury even appeared to slide behind the Moon, an event known as a lunar occultation. These two snapshots, taken in early evening skies show before and after telescopic views of the rare disappearance of innermost planet behind young Moon. The top panel finds bright Mercury just visible at the northern (right) edge of the earthshine-illuminated lunar disk. In the bottom panel the bright planet has emerged in darker skies beyond the Moon's sunlit crescent. As seen south of Sallisaw, Oklahoma, planet Earth, this lunar occultation of Mercury lasted only about 3 minutes (video). But you can still check out a parade of planets tonight.  March 3: Total Lunar Eclipse",
+      "pt": "Os fãs do céu ocidental após o pôr do sol têm desfrutado recentemente da notável variedade de planetas brilhantes deste mês. Testemunhado em alguns locais, em 18 de fevereiro o planeta Mercúrio até parecia deslizar atrás da Lua, um evento conhecido como ocultação lunar. Estas duas imagens, tiradas no início da noite, mostram imagens telescópicas antes e depois do raro desaparecimento do planeta mais interno atrás da jovem Lua. O painel superior mostra Mercúrio brilhante apenas visível na borda norte (direita) do disco lunar iluminado pela luz terrestre. No painel inferior, o planeta brilhante emergiu em céus mais escuros além do crescente iluminado pela Lua. Conforme visto ao sul de Sallisaw, Oklahoma, planeta Terra, esta ocultação lunar de Mercúrio durou apenas cerca de 3 minutos (vídeo). Mas você ainda pode conferir um desfile de planetas esta noite.  3 de março: Eclipse Lunar Total"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2602/LunarOccultMercury_2026Feb18-Melandri_1065.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2602/LunarOccultMercury_2026Feb18-Melandri.jpg",
+    "copyright": "Fabrizio Melandri"
+  },
+  {
     "date": "2026-02-27",
     "title": {
       "en": "Sharpless 249 and the Jellyfish Nebula",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2601/NGC1333_Robert_Eder1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2601/NGC1333_Robert_Eder.jpg",
     "copyright": "Robert Eder"
-  },
-  {
-    "date": "2026-01-29",
-    "title": {
-      "en": "NGC 2442: Galaxy in Volans",
-      "pt": "NGC 2442: Galáxia em Volans"
-    },
-    "explanation": {
-      "en": "Distorted galaxy NGC 2442 can be found in the southern constellation of the flying fish, (Piscis) Volans. Located about 50 million light-years away, the galaxy's two spiral arms extending from a pronounced central bar give it a hook-shaped appearance in this deep and colorful image, with foreground stars scattered across the telescopic field of view. The image also reveals the distant galaxy's obscuring dust lanes, young blue star clusters and reddish star forming regions surrounding a core of yellowish light from an older population of stars. But the star forming regions seem more concentrated along the drawn-out (upper right) spiral arm. The distorted structure is likely the result of an ancient close encounter with a smaller galaxy that lies off top left of the frame. This telescopic field of view spans over 200,000 light-years at the estimated distance of NGC 2442.",
-      "pt": "A galáxia distorcida NGC 2442 pode ser encontrada na constelação meridional do peixe voador, (Piscis) Volans. Localizada a cerca de 50 milhões de anos-luz de distância, os dois braços espirais da galáxia que se estendem a partir de uma barra central pronunciada dão-lhe uma aparência em forma de gancho nesta imagem profunda e colorida, com estrelas em primeiro plano espalhadas pelo campo de visão telescópico. A imagem também revela as obscuras faixas de poeira da galáxia distante, jovens aglomerados de estrelas azuis e regiões avermelhadas de formação de estrelas em torno de um núcleo de luz amarelada proveniente de uma população mais antiga de estrelas. Mas as regiões de formação estelar parecem mais concentradas ao longo do braço espiral estendido (canto superior direito). A estrutura distorcida é provavelmente o resultado de um antigo encontro próximo com uma galáxia menor que fica no canto superior esquerdo da imagem. Este campo de visão telescópico abrange mais de 200.000 anos-luz, à distância estimada de NGC 2442."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2601/NGC-2442-rev-1-crop-18-Jan-2026_1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2601/NGC-2442-rev-1-crop-18-Jan-2026_2048.jpg",
-    "copyright": "Mike Selby"
   }
 ]
