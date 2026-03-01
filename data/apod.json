@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-03-01",
+    "title": {
+      "en": "The Moon During a Total Lunar Eclipse",
+      "pt": "A Lua durante um eclipse lunar total"
+    },
+    "explanation": {
+      "en": "How does the Moon's appearance change during a total lunar eclipse?  The featured time-lapse video was digitally processed to keep the Moon bright and centered during the 5-hour eclipse of 2018 January 31.  At first the full moon is visible because only a full moon can undergo a lunar eclipse. Stars move by in the background because the Moon orbits the Earth during the eclipse.  The circular shadow of the Earth is then seen moving across the Moon.  The light blue hue of the shadow's edge is related to why Earth's sky is blue, while the deep red hue of the shadow's center is related to why the Sun appears red when near the horizon.  Tomorrow night, people living in Eastern Asia, Australia, and much of North America may get to see a Total Blood Moon Lunar Eclipse.  Here the term blood refers to the (likely) red color of a fully eclipsed Moon.   Almost Hyperspace: Random APOD Generator",
+      "pt": "Como a aparência da Lua muda durante um eclipse lunar total?  O vídeo de lapso de tempo apresentado foi processado digitalmente para manter a Lua brilhante e centrada durante o eclipse de 5 horas de 31 de janeiro de 2018. A princípio, a lua cheia é visível porque apenas uma lua cheia pode sofrer um eclipse lunar. As estrelas se movem ao fundo porque a Lua orbita a Terra durante o eclipse.  A sombra circular da Terra é então vista movendo-se através da Lua.  O tom azul claro da borda da sombra está relacionado ao motivo pelo qual o céu da Terra é azul, enquanto o tom vermelho profundo do centro da sombra está relacionado ao motivo pelo qual o Sol parece vermelho quando está próximo do horizonte.  Amanhã à noite, as pessoas que vivem no Leste Asiático, na Austrália e em grande parte da América do Norte poderão ver um Eclipse Lunar da Lua de Sangue Total.  Aqui, o termo sangue refere-se à (provável) cor vermelha de uma Lua totalmente eclipsada.   Quase Hiperespaço: Gerador APOD Aleatório"
+    },
+    "media_type": "video",
+    "url": "https://apod.nasa.gov/apod/image/2603/TotalLunarEclipse2018.mp4",
+    "hdurl": "https://apod.nasa.gov/apod/image/2603/TotalLunarEclipse2018.mp4",
+    "copyright": null
+  },
+  {
     "date": "2026-02-28",
     "title": {
       "en": "Lunar Occultation of Mercury",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2601/art001e000672-orig1024c.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2601/art001e000672-orig.jpg",
     "copyright": null
-  },
-  {
-    "date": "2026-01-30",
-    "title": {
-      "en": "NGC 1333: Stellar Nursery in Perseus",
-      "pt": "NGC 1333: Berçário Estelar em Perseu"
-    },
-    "explanation": {
-      "en": "NGC 1333 is seen in visible light as a reflection nebula, dominated by bluish hues characteristic of starlight reflected by interstellar dust. A mere 1,000 light-years distant toward the heroic constellation Perseus, it lies at the edge of a large, star-forming molecular cloud. This telescopic close-up spans over two full moons on the sky or just over 15 light-years at the estimated distance of NGC 1333. It shows details of the dusty region along with telltale hints of contrasty red emission from Herbig-Haro objects, jets and shocked glowing gas emanating from recently formed stars. In fact, NGC 1333 contains hundreds of stars less than a million years old, most still hidden from optical telescopes by the pervasive stardust. The chaotic environment may be similar to one in which our own Sun formed over 4.5 billion years ago.",
-      "pt": "NGC 1333 é vista na luz visível como uma nebulosa de reflexão, dominada por tons azulados característicos da luz estelar refletida pela poeira interestelar. A apenas 1.000 anos-luz de distância da heróica constelação de Perseu, fica na borda de uma grande nuvem molecular de formação de estrelas. Este grande plano telescópico abrange duas luas cheias no céu ou pouco mais de 15 anos-luz à distância estimada de NGC 1333. Mostra detalhes da região poeirenta juntamente com indícios reveladores de emissão vermelha contrastante de objetos Herbig-Haro, jatos e gás brilhante em choque que emana de estrelas recentemente formadas. Na verdade, NGC 1333 contém centenas de estrelas com menos de um milhão de anos, a maioria ainda escondida dos telescópios ópticos pela poeira estelar generalizada. O ambiente caótico pode ser semelhante àquele em que o nosso Sol se formou há mais de 4,5 mil milhões de anos."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2601/NGC1333_Robert_Eder1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2601/NGC1333_Robert_Eder.jpg",
-    "copyright": "Robert Eder"
   }
 ]
