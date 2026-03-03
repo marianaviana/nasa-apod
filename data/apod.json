@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-03-03",
+    "title": {
+      "en": "Flying over the North Pole of Mars",
+      "pt": "Voando sobre o Pólo Norte de Marte"
+    },
+    "explanation": {
+      "en": "If you could fly over the North Pole of Mars, what would you see?  Images from ESA’s Mars Express mission in 2019 were compiled into the featured video which shows just such a trip.  First you see below you a landscape tinted orange by rusted iron in the fine soil, with some land appearing darker due to exposed rock.  Soon the northern polar cap comes into view, mostly white because of its reflective frozen water.  Surrounding the polar cap is the North Polar Basin, a layered depression covered with dust and sand.  The frames in the featured video were captured during northern Martian Spring when the carbon-dioxide ice is evaporating, leaving the underlying water-ice in the cap. Mars Express continues to study the Martian surface and look for clues about the Red Planet's ancient climate and potential for life.",
+      "pt": "Se você pudesse sobrevoar o Pólo Norte de Marte, o que veria?  Imagens da missão Mars Express da ESA em 2019 foram compiladas no vídeo em destaque que mostra exatamente essa viagem.  Primeiro você vê abaixo uma paisagem tingida de laranja por ferro enferrujado no solo fino, com algumas terras parecendo mais escuras devido à rocha exposta.  Logo a calota polar norte aparece, quase toda branca por causa de sua água congelada refletiva.  Ao redor da calota polar está a Bacia Polar Norte, uma depressão em camadas coberta de poeira e areia.  Os quadros no vídeo em destaque foram capturados durante a primavera no norte de Marte, quando o gelo de dióxido de carbono está evaporando, deixando a água gelada subjacente na calota. A Mars Express continua a estudar a superfície marciana e a procurar pistas sobre o antigo clima do Planeta Vermelho e o potencial de vida."
+    },
+    "media_type": "video",
+    "url": "https://apod.nasa.gov/apod/image/2603/FlyingNorth_MarsExpress.mp4",
+    "hdurl": "https://apod.nasa.gov/apod/image/2603/FlyingNorth_MarsExpress.mp4",
+    "copyright": null
+  },
+  {
     "date": "2026-03-02",
     "title": {
       "en": "The Dusty Surroundings of Orion and the Pleiades",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2602/RunningMan_Lyons_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2602/RunningMan_Lyons_3298.jpg",
     "copyright": ", Robert G. Lyons  , (Robservatory) ,"
-  },
-  {
-    "date": "2026-02-01",
-    "title": {
-      "en": "Galle: Happy Face Crater on Mars",
-      "pt": "Galle: Cratera Happy Face em Marte"
-    },
-    "explanation": {
-      "en": "Mars has put on a happy face.  The Martian crater Galle is famous because it has internal markings that make it look like a face that is both smiling and winking.  These markings were originally discovered in the 1970s in pictures taken by the Viking Orbiter.  The Mars Global Surveyor (MGS) spacecraft that orbited Mars from 1996 to 2006 captured the featured picture.  Happy Face Crater and its iconic features were formed by chance billions of years ago when a city-sized asteroid slammed into the Martian surface.  All rocky planets and moons in our Solar System show impact craters, with the highest number of craters found on Earth's Moon and the planet Mercury. Earth and Venus would show the most, though, were it not for weather and erosion.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)",
-      "pt": "Marte fez uma cara feliz.  A cratera marciana Galle é famosa porque possui marcas internas que fazem com que pareça um rosto sorrindo e piscando.  Estas marcas foram originalmente descobertas na década de 1970 em fotos tiradas pela Viking Orbiter.  A espaçonave Mars Global Surveyor (MGS) que orbitou Marte de 1996 a 2006 capturou a imagem em destaque.  A cratera Happy Face e suas características icônicas foram formadas por acaso há bilhões de anos, quando um asteroide do tamanho de uma cidade colidiu com a superfície marciana.  Todos os planetas rochosos e luas do nosso Sistema Solar apresentam crateras de impacto, com o maior número de crateras encontradas na Lua da Terra e no planeta Mercúrio. A Terra e Vênus seriam os que mais se mostrariam, não fosse pelo clima e pela erosão.   Sky Surprise: Que foto o APOD apresentou no seu aniversário? (depois de 1995)"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2602/MarsHappyFace_mgs_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2602/MarsHappyFace_mgs_525.jpg",
-    "copyright": null
   }
 ]
