@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-03-04",
+    "title": {
+      "en": "Shapley 1: An Annular Planetary Nebula",
+      "pt": "Shapley 1: uma nebulosa planetária anular"
+    },
+    "explanation": {
+      "en": "What’s looking back at you isn’t a cosmic eye, but Shapley 1, a beautifully symmetric planetary nebula.  Shapley 1, also known as the Fine Ring Nebula or PLN 329+2.1, bejewels the southern sky constellation of the Carpenter's Square  (Norma).  The nebula is the result of a star near the mass of our Sun running out of fuel and shedding its outer layers.  Glowing oxygen from those expelled layers makes up the circular halo.  The bright central point is actually a binary: a white dwarf, the remaining stellar core after the outer layers are expelled into space, and another star, orbiting each other every 2.9 days.  Shapley 1’s annular shape is due to our top-down view of the system and provides insight into the influence of central stars on planetary nebula structures.",
+      "pt": "O que está olhando para você não é um olho cósmico, mas sim Shapley 1, uma nebulosa planetária lindamente simétrica.  Shapley 1, também conhecida como Nebulosa do Anel Fino ou PLN 329+2.1, adorna a constelação do céu meridional da Praça do Carpinteiro (Norma).  A nebulosa é o resultado de uma estrela próxima à massa do nosso Sol ficar sem combustível e se desprendendo de suas camadas externas.  O oxigênio brilhante dessas camadas expelidas forma o halo circular.  O ponto central brilhante é na verdade um binário: uma anã branca, o núcleo estelar restante após as camadas externas serem expelidas para o espaço e outra estrela, orbitando uma à outra a cada 2,9 dias.  A forma anular de Shapley 1 deve-se à nossa visão de cima para baixo do sistema e fornece informações sobre a influência das estrelas centrais nas estruturas das nebulosas planetárias."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2603/Shapley1_Bresseler_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2603/Shapley1_Bresseler_2092.jpg",
+    "copyright": "Peter Bresseler;, Text:, Keighley Rockcliffe  , (NASA, GSFC, UMBC, CSST, CRESST II)"
+  },
+  {
     "date": "2026-03-03",
     "title": {
       "en": "Flying over the North Pole of Mars",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2602/RedSpider_Webb_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2602/RedSpider_Webb_1280.jpg",
     "copyright": null
-  },
-  {
-    "date": "2026-02-02",
-    "title": {
-      "en": "Orion: The Running Man Nebula",
-      "pt": "Órion: a nebulosa do homem correndo"
-    },
-    "explanation": {
-      "en": "What part of Orion is this? Just north of the famous Orion Nebula is a picturesque star forming region in Orion's Sword that contains a lot of intricate dust -- some of which appears blue because it reflects the light of bright embedded stars.  The region's popular name is the Running Man Nebula because, looked at from the right, part of the brown dust appears to be running legs.  Cataloged as Sharpless 279, the reflection nebula is not only part of the constellation of Orion, but part of the greater Orion molecular cloud complex.  Light from the Running Man's bright stars, including 42 Orionis, the bright star closest to the featured image center, is slowly destroying and reshaping the surrounding dust, which will likely be completely gone in about 10 million years.  The nebula spans about 15 light years and lies about 1,500 light years away.   Jigsaw Nebula: Astronomy Puzzle of the Day",
-      "pt": "Que parte de Orion é essa? Logo ao norte da famosa Nebulosa de Orion há uma pitoresca região de formação de estrelas na Espada de Orion que contém uma grande quantidade de poeira intrincada - algumas das quais parecem azuis porque refletem a luz de estrelas brilhantes embutidas.  O nome popular da região é Nebulosa do Homem Corredor porque, vista da direita, parte da poeira marrom parece ser pernas correndo.  Catalogada como Sharpless 279, a nebulosa de reflexão não faz apenas parte da constelação de Orion, mas também parte do grande complexo de nuvens moleculares de Orion.  A luz das estrelas brilhantes do Running Man, incluindo 42 Orionis, a estrela brilhante mais próxima do centro da imagem em destaque, está lentamente destruindo e remodelando a poeira circundante, que provavelmente desaparecerá completamente dentro de cerca de 10 milhões de anos.  A nebulosa se estende por cerca de 15 anos-luz e fica a cerca de 1.500 anos-luz de distância.   Nebulosa Jigsaw: quebra-cabeça astronômico do dia"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2602/RunningMan_Lyons_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2602/RunningMan_Lyons_3298.jpg",
-    "copyright": ", Robert G. Lyons  , (Robservatory) ,"
   }
 ]
