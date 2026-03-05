@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-03-05",
+    "title": {
+      "en": "Total Lunar Eclipse over Tsé Bit'a'í",
+      "pt": "Eclipse Lunar Total sobre Tsé Bit'a'í"
+    },
+    "explanation": {
+      "en": "rlier this week, Earth’s shadow swept across the full Moon in the year’s only total lunar eclipse. This stunning sequence combines images showing the Moon’s path across the night sky.  Each lunar image captures our planet’s shadow gradually engulfing the Moon, culminating in its red glow.  Sunlight scatters and refracts as it passes through Earth’s atmosphere toward the Moon. Shorter wavelength light (blue and green) scatters more efficiently, leaving red, orange, and yellow hues to paint the lunar surface. Tsé Bit'a'í (”rock with wings”, also known as Shiprock), located in Navajo Nation, provides a powerful volcanic foreground central to this photo and to stories of Navajo origin, adventure, and heroism. As the first full moon of the lunar new year, this eclipse held significance across cultures. Visible from East Asia to North America, this eclipse united observers across great distances, a cosmic reminder that we share the same sky.",
+      "pt": "No início desta semana, a sombra da Terra varreu a Lua cheia no único eclipse lunar total do ano. Esta sequência impressionante combina imagens que mostram o caminho da Lua no céu noturno.  Cada imagem lunar captura a sombra do nosso planeta envolvendo gradualmente a Lua, culminando no seu brilho vermelho.  A luz solar se espalha e refrata à medida que passa pela atmosfera da Terra em direção à Lua. A luz de comprimento de onda mais curto (azul e verde) se espalha com mais eficiência, deixando tons de vermelho, laranja e amarelo para pintar a superfície lunar. Tsé Bit'a'í (“rocha com asas”, também conhecida como Shiprock), localizada na nação Navajo, fornece um poderoso primeiro plano vulcânico central para esta foto e para histórias de origem, aventura e heroísmo Navajo. Como a primeira lua cheia do ano novo lunar, este eclipse teve significado em todas as culturas. Visível desde o Leste Asiático até à América do Norte, este eclipse uniu observadores a grandes distâncias, um lembrete cósmico de que partilhamos o mesmo céu."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2603/EclipseSequence_Murata_1080.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2603/EclipseSequence_Murata_1080.jpg",
+    "copyright": "Satoru Murata;, Text: , Keighley Rockcliffe , (NASA, GSFC, UMCP, CRESST II)"
+  },
+  {
     "date": "2026-03-04",
     "title": {
       "en": "Shapley 1: An Annular Planetary Nebula",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2602/NGC1512_stern_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2602/NGC1512_stern_6214.jpg",
     "copyright": ", Daniel Stern,"
-  },
-  {
-    "date": "2026-02-03",
-    "title": {
-      "en": "Red Spider Planetary Nebula from Webb",
-      "pt": "Nebulosa Planetária da Aranha Vermelha de Webb"
-    },
-    "explanation": {
-      "en": "Oh what a tangled web a planetary nebula can weave.  The Red Spider Planetary Nebula shows the complex structure that can result when a normal star ejects its outer gases and becomes a white dwarf star. Officially tagged NGC 6537, this two-lobed symmetric planetary nebula houses one of the hottest white dwarfs ever observed, probably as part of a binary star system.  Internal winds flowing out from the central stars, have been measured in excess of 1,000 kilometers per second. These winds expand the nebula, flow along the nebula's walls, and cause waves of hot gas and dust to collide.  Atoms caught in these colliding shocks radiate light shown in the featured false-color infrared picture by the James Webb Space Telescope.  The Red Spider Nebula lies toward the constellation of the Archer (Sagittarius).  Its distance is not well known but has been estimated by some to be about 4,000 light-years.",
-      "pt": "Oh, que teia emaranhada uma nebulosa planetária pode tecer.  A Nebulosa Planetária da Aranha Vermelha mostra a estrutura complexa que pode resultar quando uma estrela normal ejeta os seus gases exteriores e se torna uma estrela anã branca. Oficialmente identificada como NGC 6537, esta nebulosa planetária simétrica de dois lóbulos abriga uma das anãs brancas mais quentes já observadas, provavelmente como parte de um sistema estelar binário.  Os ventos internos que fluem das estrelas centrais foram medidos a mais de 1.000 quilômetros por segundo. Esses ventos expandem a nebulosa, fluem ao longo de suas paredes e causam a colisão de ondas de gás quente e poeira.  Os átomos capturados nesses choques em colisão irradiam a luz mostrada na imagem infravermelha em cores falsas do Telescópio Espacial James Webb.  A Nebulosa da Aranha Vermelha fica próxima à constelação do Arqueiro (Sagitário).  Sua distância não é bem conhecida, mas foi estimada por alguns em cerca de 4.000 anos-luz."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2602/RedSpider_Webb_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2602/RedSpider_Webb_1280.jpg",
-    "copyright": null
   }
 ]
