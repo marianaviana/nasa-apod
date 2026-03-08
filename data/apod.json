@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-03-08",
+    "title": {
+      "en": "The Aurora Tree",
+      "pt": "A Árvore Aurora"
+    },
+    "explanation": {
+      "en": "Yes, but can your tree do this?  Pictured is a visual coincidence between the dark branches of a nearby tree and bright glow of a distant aurora. The beauty of the aurora -- combined with how it seemed to mimic a tree right nearby -- mesmerized the photographer to such a degree that he momentarily forgot to take pictures. When viewed at the right angle, it seemed that this tree had aurora for leaves. Fortunately, before the aurora morphed into a different overall shape, he came to his senses and captured the awe-inspiring momentary coincidence.  Typically triggered by solar explosions, aurora are caused by high energy electrons impacting the Earth's atmosphere around 150 kilometers up.  The unusual Earth-sky collaboration was witnessed in March of 2017 in Iceland.    Sky Surprise: What picture did APOD feature on your birthday? (after 1995)",
+      "pt": "Sim, mas sua árvore pode fazer isso?  Na foto há uma coincidência visual entre os galhos escuros de uma árvore próxima e o brilho brilhante de uma aurora distante. A beleza da aurora – combinada com a forma como ela parecia imitar uma árvore próxima – hipnotizou o fotógrafo a tal ponto que ele se esqueceu momentaneamente de tirar fotos. Quando vista do ângulo certo, parecia que esta árvore tinha aurora no lugar das folhas. Felizmente, antes que a aurora se transformasse em uma forma geral diferente, ele recobrou o juízo e capturou a inspiradora coincidência momentânea.  Normalmente desencadeadas por explosões solares, as auroras são causadas por elétrons de alta energia que impactam a atmosfera da Terra a cerca de 150 quilômetros de altitude.  A incomum colaboração Terra-céu foi testemunhada em março de 2017 na Islândia.    Sky Surprise: Que foto o APOD apresentou no seu aniversário? (depois de 1995)"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2603/AuroraTree_Wallace_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2603/AuroraTree_Wallace_2048.jpg",
+    "copyright": "Alyn Wallace"
+  },
+  {
     "date": "2026-03-07",
     "title": {
       "en": "Two Eclipses of Saros 133",
@@ -432,21 +447,6 @@
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2602/PIA20522enceladusC.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2602/PIA20522enceladus.jpg",
-    "copyright": null
-  },
-  {
-    "date": "2026-02-06",
-    "title": {
-      "en": "Supernova Remnant Cassiopeia A",
-      "pt": "Remanescente de Supernova Cassiopeia A"
-    },
-    "explanation": {
-      "en": "Massive stars in our Milky Way Galaxy live spectacular lives.  Collapsing from vast cosmic clouds, their nuclear furnaces ignite and create heavy elements in their cores. After only a few million years for the most massive stars, the enriched material is blasted back into interstellar space where star formation can begin anew. The expanding debris cloud known as Cassiopeia A is an example of this final phase of the stellar life cycle. Light from the supernova explosion that created this remnant would have been first seen in planet Earth's sky about 350 years ago, although it took that light 11,000 years to reach us. This sharp NIRCam image from the James Webb Space Telescope shows the still-hot filaments and knots in the supernova remnant. The whitish, smoke-like outer shell of the expanding blast wave is about 20 light-years across. A series of light echoes from the massive star's cataclysmic explosion are also identified in Webb's detailed images of the surrounding interstellar medium.",
-      "pt": "Estrelas enormes em nossa galáxia, a Via Láctea, vivem vidas espetaculares.  Colapsando a partir de vastas nuvens cósmicas, suas fornalhas nucleares se inflamam e criam elementos pesados ​​em seus núcleos. Depois de apenas alguns milhões de anos para as estrelas mais massivas, o material enriquecido é lançado de volta ao espaço interestelar, onde a formação estelar pode recomeçar. A nuvem de detritos em expansão conhecida como Cassiopeia A é um exemplo desta fase final do ciclo de vida estelar. A luz da explosão da supernova que criou este remanescente teria sido vista pela primeira vez no céu do planeta Terra há cerca de 350 anos, embora essa luz tenha levado 11.000 anos para chegar até nós. Esta imagem nítida do NIRCam obtida pelo Telescópio Espacial James Webb mostra os filamentos e nós ainda quentes no remanescente da supernova. A camada externa esbranquiçada e semelhante a fumaça da onda de choque em expansão tem cerca de 20 anos-luz de diâmetro. Uma série de ecos de luz da explosão cataclísmica da estrela massiva também são identificados nas imagens detalhadas do meio interestelar circundante feitas por Webb."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2602/CasA_nircam_1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2602/CasA_nircam_4096.jpg",
     "copyright": null
   }
 ]
