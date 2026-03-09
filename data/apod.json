@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-03-09",
+    "title": {
+      "en": "The Cranium Nebula from the Webb Telescope",
+      "pt": "A Nebulosa do Crânio vista pelo Telescópio Webb"
+    },
+    "explanation": {
+      "en": "What's going on inside the head of this nebula?  Dubbed the Exposed Cranium Nebula for its similarity to the human brain, what created the nebula remains a mystery.  One thought is that the Cranium Nebula, also known as PMR 1, is a planetary nebula surrounding a white dwarf star. In this mode, the outer atmosphere was expelled when the original Sun-like star ran out of central nuclear fuel and contracted. A competing thought is that the central star is much more massive, possibly a Wolf-Rayet star, that is ejecting gas and dust via turbulent stellar winds.  Adding to the intrigue is the dark vertical central division and the thin outer gaseous shell.  The featured image was taken by the Webb Space Telescope in mid- infrared light, while a second image, included as a rollover, is in near-infrared.  Future observations may reveal if this brainy system will quietly just fade from view or, many years from now, suddenly erupt in a powerful supernova.",
+      "pt": "O que está acontecendo dentro da cabeça desta nebulosa?  Apelidada de Nebulosa do Crânio Exposto por sua semelhança com o cérebro humano, o que criou a nebulosa permanece um mistério.  Pensa-se que a Nebulosa do Crânio, também conhecida como PMR 1, seja uma nebulosa planetária que rodeia uma estrela anã branca. Neste modo, a atmosfera exterior foi expelida quando a estrela original semelhante ao Sol ficou sem combustível nuclear central e contraiu-se. Um pensamento concorrente é que a estrela central é muito mais massiva, possivelmente uma estrela Wolf-Rayet, que está ejetando gás e poeira através de ventos estelares turbulentos.  Somando-se à intriga está a divisão central vertical escura e a fina camada gasosa externa.  A imagem apresentada foi obtida pelo Telescópio Espacial Webb no infravermelho médio, enquanto uma segunda imagem, incluída como rollover, é no infravermelho próximo.  Observações futuras poderão revelar se este sistema inteligente desaparecerá silenciosamente de vista ou, daqui a muitos anos, explodirá subitamente numa poderosa supernova."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2603/cranium_WebbMiri2_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2603/Cranium_Webb_8832.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-03-08",
     "title": {
       "en": "The Aurora Tree",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2602/Sunspot4366_Korona_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2602/Sunspot4366_Korona_1280.jpg",
     "copyright": ", Daniel Korona,"
-  },
-  {
-    "date": "2026-02-07",
-    "title": {
-      "en": "Crescent Enceladus",
-      "pt": "Encelado Crescente"
-    },
-    "explanation": {
-      "en": "Peering from the shadows, the Saturn-facing hemisphere of tantalizing inner moon Enceladus poses in this Cassini spacecraft image. North is up in the dramatic scene captured during November 2016 as Cassini's camera was pointed in a nearly sunward direction about 130,000 kilometers from the moon's bright crescent. In fact, the distant world reflects over 90 percent of the sunlight it receives, giving its surface about the same reflectivity as fresh snow. A mere 500 kilometers in diameter, Enceladus is a surprisingly active moon. Data and images collected during Cassini's flybys have revealed water vapor and ice grains spewing from south polar geysers and evidence of an ocean of liquid water hidden beneath the moon's icy crust.",
-      "pt": "Espiando das sombras, o hemisfério voltado para Saturno da tentadora lua interna Enceladus posa nesta imagem da espaçonave Cassini. O Norte está no topo da cena dramática capturada em novembro de 2016, quando a câmera da Cassini foi apontada quase na direção do Sol, a cerca de 130.000 quilômetros do crescente brilhante da lua. Na verdade, o mundo distante reflete mais de 90% da luz solar que recebe, dando à sua superfície aproximadamente a mesma refletividade que a neve fresca. Com apenas 500 quilômetros de diâmetro, Encélado é uma lua surpreendentemente ativa. Dados e imagens recolhidos durante os voos rasantes da Cassini revelaram vapor de água e grãos de gelo expelidos dos gêiseres do pólo sul e evidências de um oceano de água líquida escondido sob a crosta gelada da lua."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2602/PIA20522enceladusC.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2602/PIA20522enceladus.jpg",
-    "copyright": null
   }
 ]
