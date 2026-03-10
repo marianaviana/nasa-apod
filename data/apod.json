@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-03-10",
+    "title": {
+      "en": "Sky Glows over Paranal Observatory",
+      "pt": "Céu brilha sobre o Observatório do Paranal"
+    },
+    "explanation": {
+      "en": "Are lasers from giant telescopes being used to defend the Earth?  No.  Lasers shot from telescopes are now commonly used to help increase the accuracy of astronomical observations.  In some directions, Earth atmosphere-induced fluctuations in starlight can indicate how the air mass over a telescope is changing, but in other directions, no bright star exists.  In these directions, astronomers can create an artificial star with a laser.  Subsequent observations of the artificial laser guide star can reveal information so detailed about the changing blurring effects of the Earth's atmosphere that much of it can be removed by rapidly flexing a telescope's mirror.  Such adaptive optics techniques allow high-resolution ground-based observations of real stars, planets, and nebulas.  Pictured here, telescopes at Paranal Observatory in Chile study a colorful sky filled with green airglow and the Magellanic Clouds on the left, red airglow on the right, and the majestic central band of our Milky Way Galaxy arching across the center.",
+      "pt": "Os lasers de telescópios gigantes estão sendo usados ​​para defender a Terra?  Não. Lasers disparados por telescópios são agora comumente usados ​​para ajudar a aumentar a precisão das observações astronômicas.  Em algumas direções, as flutuações na luz das estrelas induzidas pela atmosfera terrestre podem indicar como a massa de ar sobre um telescópio está mudando, mas em outras direções, não existe nenhuma estrela brilhante.  Nessas direções, os astrônomos podem criar uma estrela artificial com um laser.  Observações subsequentes da estrela guia laser artificial podem revelar informações tão detalhadas sobre os efeitos mutáveis ​​de desfoque da atmosfera da Terra que grande parte delas pode ser removida flexionando rapidamente o espelho de um telescópio.  Essas técnicas de óptica adaptativa permitem observações terrestres de alta resolução de estrelas, planetas e nebulosas reais.  Na foto aqui, os telescópios do Observatório do Paranal, no Chile, estudam um céu colorido repleto de brilho aéreo verde e as Nuvens de Magalhães à esquerda, brilho aéreo vermelho à direita e a majestosa faixa central da nossa Galáxia, a Via Láctea, arqueando-se no centro."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2603/TeleSkyLasers_Looten_1080.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2603/TeleSkyLasers_Looten_3000.jpg",
+    "copyright": "Julien Looten"
+  },
+  {
     "date": "2026-03-09",
     "title": {
       "en": "The Cranium Nebula from the Webb Telescope",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2602/Miranda_Voyager2Zelario12_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2602/Miranda_Voyager2Zelario12_2320.jpg",
     "copyright": null
-  },
-  {
-    "date": "2026-02-08",
-    "title": {
-      "en": "Active Sunspot Region 4366 Crosses the Sun",
-      "pt": "Região de manchas solares ativas 4366 cruza o sol"
-    },
-    "explanation": {
-      "en": "An unusually active sunspot region is now crossing the Sun.  The region, labelled AR 4366, is much larger than the Earth and has produced several powerful solar flares over the past ten days.  In the featured image, the region is marked by large and dark sunspots toward the upper right of the Sun's disk. The image captured the Sun over a hill in Zacatecas, Mexico, 5 days ago.  AR 4366 has become a candidate for the most active solar region in this entire 11-year solar cycle.  Active solar regions are frequently associated with increased auroral activity on the Earth.  Now reaching the edge, AR 4366 will begin facing away from the Earth during the coming week. It is not known, though, if the active region will survive long enough to reappear in about two weeks' time, as the Sun rotates.",
-      "pt": "Uma região de manchas solares extraordinariamente ativa está agora cruzando o Sol.  A região, denominada AR 4366, é muito maior que a Terra e produziu várias erupções solares poderosas nos últimos dez dias.  Na imagem apresentada, a região é marcada por manchas solares grandes e escuras na parte superior direita do disco solar. A imagem capturou o Sol sobre uma colina em Zacatecas, no México, há 5 dias.  AR 4366 tornou-se candidato à região solar mais ativa em todo este ciclo solar de 11 anos.  As regiões solares ativas estão frequentemente associadas ao aumento da atividade auroral na Terra.  Chegando agora ao limite, AR 4366 começará a se afastar da Terra durante a próxima semana. Não se sabe, porém, se a região ativa sobreviverá o tempo suficiente para reaparecer dentro de cerca de duas semanas, à medida que o Sol gira."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2602/Sunspot4366_Korona_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2602/Sunspot4366_Korona_1280.jpg",
-    "copyright": ", Daniel Korona,"
   }
 ]
