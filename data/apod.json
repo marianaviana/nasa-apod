@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-03-11",
+    "title": {
+      "en": "CG 4: The Globule and the Galaxy",
+      "pt": "CG 4: O Glóbulo e a Galáxia"
+    },
+    "explanation": {
+      "en": "Is this a cosmic monster ready to devour an unsuspecting galaxy? Thankfully, that is not the case. The red “monster” shown in the featured image is Cometary Globule CG 4, 1,300 light-years away in the Constellation Puppis. CG 4 is a molecular cloud, where hydrogen becomes cold enough to form molecules that can be brought together by gravity to create stars. The shape of CG 4 resembles that of a comet, but its head is 1.5 light-year in diameter and its tail is 8 light-years long; for comparison, the distance from the Earth to the sun is only 8 light-minutes. Astronomers believe that the tail of a cometary globule could have been shaped by a nearby supernova explosion or by irradiation from hot, massive stars. Indeed, CG 4 and other nearby globules point away from the Vela Supernova Remnant, at the center of the Gum Nebula. The edge-on spiral galaxy, ESO 257-19, is more than a hundred million light-years beyond CG 4, and is completely safe from the “monster”.",
+      "pt": "Será este um monstro cósmico pronto para devorar uma galáxia desavisada? Felizmente, esse não é o caso. O “monstro” vermelho mostrado na imagem em destaque é o Glóbulo Cometário CG 4, a 1.300 anos-luz de distância, na Constelação Puppis. CG 4 é uma nuvem molecular, onde o hidrogênio se torna frio o suficiente para formar moléculas que podem ser unidas pela gravidade para criar estrelas. A forma do CG 4 lembra a de um cometa, mas sua cabeça tem 1,5 anos-luz de diâmetro e sua cauda tem 8 anos-luz de comprimento; para efeito de comparação, a distância da Terra ao Sol é de apenas 8 minutos-luz. Os astrónomos acreditam que a cauda de um glóbulo cometário pode ter sido moldada pela explosão de uma supernova próxima ou pela irradiação de estrelas quentes e massivas. Na verdade, CG 4 e outros glóbulos próximos apontam para longe do Remanescente da Supernova Vela, no centro da Nebulosa Gum. A galáxia espiral lateral, ESO 257-19, está a mais de cem milhões de anos-luz além de CG 4 e está completamente a salvo do “monstro”."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2603/cg4_1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2603/cg4.jpg",
+    "copyright": "William Vrbasso"
+  },
+  {
     "date": "2026-03-10",
     "title": {
       "en": "Sky Glows over Paranal Observatory",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2602/greencompany_rive_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2602/greencompany_rive_2916.jpg",
     "copyright": ", Max Rive,"
-  },
-  {
-    "date": "2026-02-09",
-    "title": {
-      "en": "Miranda Revisited",
-      "pt": "Miranda revisitada"
-    },
-    "explanation": {
-      "en": "What is Miranda really like?  Visually, old images from NASA's Voyager 2 have been recently combined and remastered to result in the featured image of Uranus's 500-kilometer-wide moon. In the late 1980s, Voyager 2 flew by Uranus, coming close to the cratered, fractured, and unusually grooved moon -- named after a character from Shakespeare’s The Tempest.  Scientifically, planetary scientists are using old data and clear images to theorize anew about what shaped Miranda's severe surface features.  A leading hypothesis is that Miranda, beneath its icy surface, may have once hosted an expansive liquid water ocean which may be slowly freezing.  Thanks to the legacy of Voyager 2, Miranda has joined the ranks of Europa, Titan, and other icy moons in the search for water, and, possibly, microbial life, in our Solar System.   Jigsaw Moon: Astronomy Puzzle of the Day",
-      "pt": "Como é realmente Miranda?  Visualmente, imagens antigas da Voyager 2 da NASA foram recentemente combinadas e remasterizadas para resultar na imagem apresentada da lua de Urano com 500 quilómetros de largura. No final da década de 1980, a Voyager 2 passou por Urano, aproximando-se da lua cheia de crateras, fraturada e com ranhuras incomuns - em homenagem a um personagem de A Tempestade, de Shakespeare.  Cientificamente, os cientistas planetários estão a utilizar dados antigos e imagens nítidas para teorizar novamente sobre o que moldou as severas características da superfície de Miranda.  Uma hipótese principal é que Miranda, sob a sua superfície gelada, pode ter albergado outrora um extenso oceano de água líquida que pode estar a congelar lentamente.  Graças ao legado da Voyager 2, Miranda juntou-se às fileiras de Europa, Titã e outras luas geladas na busca por água e, possivelmente, vida microbiana, no nosso Sistema Solar.   Jigsaw Moon: quebra-cabeça astronômico do dia"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2602/Miranda_Voyager2Zelario12_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2602/Miranda_Voyager2Zelario12_2320.jpg",
-    "copyright": null
   }
 ]
