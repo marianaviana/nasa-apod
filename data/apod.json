@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-03-15",
+    "title": {
+      "en": "Equinox at the Pyramid of the Feathered Serpent",
+      "pt": "Equinócio na Pirâmide da Serpente Emplumada"
+    },
+    "explanation": {
+      "en": "To see the feathered serpent descend the Mayan pyramid requires exquisite timing.  You must visit El Castillo -- in Mexico's Yucatán Peninsula -- near an equinox.  Then, during the late afternoon if the sky is clear, the pyramid's own shadows create triangles that merge into the famous illusion of a slithering viper.  Also known as the Temple of Kukulkan, the impressive step-pyramid stands 30 meters tall and 55 meters wide at the base.  Built up as a series of square terraces by the pre-Columbian civilization between the 9th and 12th century, the structure can be used as a calendar and is noted for astronomical alignments. The featured composite image was captured in 2019 with Jupiter and Saturn straddling the diagonal central band of our Milky Way galaxy. In a few days another equinox will occur -- not only at Temple of Kukulcán, but all over planet Earth.",
+      "pt": "Ver a serpente emplumada descer pela pirâmide maia requer um timing extraordinário.  Você deve visitar El Castillo – na Península de Yucatán, no México – perto de um equinócio.  Depois, no final da tarde, se o céu estiver limpo, as próprias sombras da pirâmide criam triângulos que se fundem na famosa ilusão de uma víbora rastejante.  Também conhecida como Templo de Kukulkan, a impressionante pirâmide em degraus tem 30 metros de altura e 55 metros de largura na base.  Construída como uma série de terraços quadrados pela civilização pré-colombiana entre os séculos IX e XII, a estrutura pode ser usada como calendário e é conhecida pelos alinhamentos astronômicos. A imagem composta apresentada foi capturada em 2019 com Júpiter e Saturno abrangendo a banda central diagonal da nossa galáxia, a Via Láctea. Dentro de alguns dias ocorrerá outro equinócio – não apenas no Templo de Kukulcán, mas em todo o planeta Terra."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2603/MayanMilkyWay_Fernandez_1080.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2603/MayanMilkyWay_Fernandez_1600.jpg",
+    "copyright": "Robert Fedez"
+  },
+  {
     "date": "2026-03-14",
     "title": {
       "en": "A Year for K2-315b",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2602/N147N1851024.png",
     "hdurl": "https://apod.nasa.gov/apod/image/2602/N147N185.png",
     "copyright": "Chuck Ayoub"
-  },
-  {
-    "date": "2026-02-12",
-    "title": {
-      "en": "The Bay of Rainbows",
-      "pt": "A Baía dos Arco-Íris"
-    },
-    "explanation": {
-      "en": "Dark, smooth regions that cover the Moon's familiar face are called by Latin names for oceans and seas. That naming convention is historical, though it may seem a little ironic to denizens of the space age who recognize the Moon as a mostly dry and airless world, and the smooth, dark areas as lava-flooded impact basins. For example, this telescopic lunar vista, looks over the expanse of the northwestern Mare Imbrium, or Sea of Rains and into the Sinus Iridum, the Bay of Rainbows. Ringed by the Jura Mountains (montes), the bay is about 250 kilometers across. Seen after local sunrise, the mountains form part of the Sinus Iridum impact crater wall. Their rugged sunlit arc is bounded at the top by Cape (promontorium) Laplace reaching nearly 3,000 meters above the bay's surface. At the bottom of the arc is Cape Heraclides, depicted by Giovanni Cassini in his 1679 telescope-based drawings mapping the moon as a moon maiden seen in profile with long, flowing hair.",
-      "pt": "As regiões escuras e lisas que cobrem a face familiar da Lua são chamadas por nomes latinos para oceanos e mares. Essa convenção de nomenclatura é histórica, embora possa parecer um pouco irónica para os habitantes da era espacial que reconhecem a Lua como um mundo maioritariamente seco e sem ar, e as áreas lisas e escuras como bacias de impacto inundadas de lava. Por exemplo, esta vista lunar telescópica olha para a extensão do noroeste do Mare Imbrium, ou Mar das Chuvas, e para o Sinus Iridum, a Baía dos Arco-Íris. Rodeada pelas montanhas do Jura (montes), a baía tem cerca de 250 quilómetros de diâmetro. Vistas após o nascer do sol local, as montanhas fazem parte da parede da cratera de impacto Sinus Iridum. Seu arco acidentado iluminado pelo sol é delimitado no topo pelo Cabo (promontório) Laplace, atingindo quase 3.000 metros acima da superfície da baía. Na parte inferior do arco está o Cabo Heráclides, representado por Giovanni Cassini em seus desenhos baseados em telescópio de 1679, mapeando a Lua como uma donzela lunar vista de perfil com cabelos longos e esvoaçantes."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2602/APOD-Sinus-Iridum-Olaf-Filzinger1080.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2602/APOD-Sinus-Iridum-Olaf-Filzinger.jpg",
-    "copyright": "Olaf Filzinger"
   }
 ]
