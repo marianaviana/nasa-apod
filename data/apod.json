@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-03-16",
+    "title": {
+      "en": "NGC 1566: The Spanish Dancer Galaxy",
+      "pt": "NGC 1566: A Galáxia Dançarina Espanhola"
+    },
+    "explanation": {
+      "en": "If not perfect, then this spiral galaxy is at least one of the most photogenic. An island universe containing billions of stars and situated about 40 million light-years away toward the constellation of the Dolphinfish (Dorado), NGC 1566 presents a gorgeous face-on view. Classified as a grand design spiral, NGC 1566 shows two prominent and graceful spiral arms that are traced by bright blue star clusters, red emission nebulas, and dark cosmic dust lanes. Numerous Hubble Space Telescope images of NGC 1566 have been taken to study star formation, supernovas, and the spiral's unusually active center. NGC 1566's flaring center makes the spiral one of the closest and brightest Seyfert galaxies, likely housing a central supermassive black hole wreaking havoc on surrounding stars and gas.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)",
+      "pt": "Se não for perfeita, então esta galáxia espiral é pelo menos uma das mais fotogênicas. Um universo insular contendo bilhões de estrelas e situado a cerca de 40 milhões de anos-luz de distância em direção à constelação do Peixe-Golfinho (Dorado), NGC 1566 apresenta uma vista frontal deslumbrante. Classificada como uma espiral de grande design, NGC 1566 mostra dois braços espirais proeminentes e graciosos que são traçados por aglomerados de estrelas azuis brilhantes, nebulosas de emissão vermelhas e faixas escuras de poeira cósmica. Numerosas imagens do Telescópio Espacial Hubble de NGC 1566 foram tiradas para estudar a formação de estrelas, supernovas e o centro incomumente ativo da espiral. O centro em chamas da NGC 1566 torna a espiral uma das galáxias Seyfert mais próximas e brilhantes, provavelmente abrigando um buraco negro supermassivo central que causa estragos nas estrelas e no gás circundantes.   Sky Surprise: Que foto o APOD apresentou no seu aniversário? (depois de 1995)"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2603/SpanishDancer_Hubble_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2603/SpanishDancer_Hubble_3716.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-03-15",
     "title": {
       "en": "Equinox at the Pyramid of the Feathered Serpent",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2602/RosetteCalcagno1082.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2602/RosetteCalcagno.jpg",
     "copyright": "Keighley Rockcliffe"
-  },
-  {
-    "date": "2026-02-13",
-    "title": {
-      "en": "NGC 147 and NGC 185",
-      "pt": "NGC 147 e NGC 185"
-    },
-    "explanation": {
-      "en": "Dwarf galaxies NGC 147 (left) and NGC 185 stand side by side in this deep telescopic portrait. The two are not-often-imaged satellite galaxies of M31, the great spiral Andromeda Galaxy, some 2.5 million light-years away. Their separation on the sky, less than one degree across a pretty field of view toward the constellation Cassiopeia, translates to only about 35 thousand light-years at Andromeda's distance, but Andromeda itself is found well outside this frame. Brighter and more famous satellite galaxies of Andromeda, M32 and M110, are seen much closer to the great spiral. NGC 147 and NGC 185 have been identified as binary galaxies, forming a gravitationally stable binary system. But recently discovered faint dwarf galaxy Cassiopeia II also seems to be part of their system, forming a gravitationally bound group within Andromeda's intriguing population of small satellite galaxies.",
-      "pt": "As galáxias anãs NGC 147 (esquerda) e NGC 185 estão lado a lado neste retrato telescópico profundo. As duas são galáxias satélites de M31, a grande galáxia espiral de Andrômeda, pouco fotografadas, a cerca de 2,5 milhões de anos-luz de distância. A sua separação no céu, menos de um grau num bonito campo de visão em direcção à constelação de Cassiopeia, traduz-se em apenas cerca de 35 mil anos-luz à distância de Andrómeda, mas a própria Andrómeda é encontrada bem fora deste enquadramento. As galáxias satélites mais brilhantes e famosas de Andrômeda, M32 e M110, são vistas muito mais próximas da grande espiral. NGC 147 e NGC 185 foram identificadas como galáxias binárias, formando um sistema binário gravitacionalmente estável. Mas a galáxia anã recentemente descoberta, Cassiopeia II, também parece fazer parte do seu sistema, formando um grupo gravitacionalmente ligado dentro da intrigante população de pequenas galáxias satélites de Andrómeda."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2602/N147N1851024.png",
-    "hdurl": "https://apod.nasa.gov/apod/image/2602/N147N185.png",
-    "copyright": "Chuck Ayoub"
   }
 ]
