@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-03-17",
+    "title": {
+      "en": "The Tadpoles of IC 410",
+      "pt": "Os girinos do IC 410"
+    },
+    "explanation": {
+      "en": "This telescopic close-up shows off the central regions of otherwise faint emission nebula IC 410, captured under backyard skies. Presented in a Hubble color palette, the image combines visible broadband and narrowband data with data from the near-infrared. Below and right of center are two remarkable inhabitants of the interstellar pond of gas and dust. the Tadpoles of IC 410. Partly obscured by foreground dust, the nebula itself surrounds NGC 1893, a young galactic cluster of stars. Formed in the interstellar cloud a mere 4 million years ago, the intensely hot, bright cluster stars energize the glowing gas. But the cosmic tadpoles themselves are composed of denser cooler gas and dust. Around 10 light-years long they are likely sites of ongoing star formation. Sculpted by stellar winds and radiation their heads are outlined by bright ridges of ionized gas while their tails trail away from the cluster's central young stars. IC 410 lies some 10,000 light-years away, toward the nebula-rich constellation Auriga.",
+      "pt": "Este close-up telescópico mostra as regiões centrais da nebulosa de emissão IC 410, que de outra forma seria fraca, capturada sob o céu de quintal. Apresentada numa paleta de cores do Hubble, a imagem combina dados visíveis de banda larga e banda estreita com dados do infravermelho próximo. Abaixo e à direita do centro estão dois habitantes notáveis ​​da lagoa interestelar de gás e poeira. os girinos de IC 410. Parcialmente obscurecida pela poeira do primeiro plano, a própria nebulosa rodeia NGC 1893, um jovem aglomerado galáctico de estrelas. Formado na nuvem interestelar há apenas 4 milhões de anos, o aglomerado de estrelas intensamente quentes e brilhantes energiza o gás brilhante. Mas os próprios girinos cósmicos são compostos de gás e poeira mais densos e frios. Com cerca de 10 anos-luz de comprimento, são prováveis ​​locais de formação estelar contínua. Esculpidas pelos ventos estelares e pela radiação, as suas cabeças são delineadas por cristas brilhantes de gás ionizado, enquanto as suas caudas se afastam das estrelas jovens centrais do aglomerado. IC 410 fica a cerca de 10.000 anos-luz de distância, em direção à constelação do Auriga, rica em nebulosas."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2603/APOD_Sub_Tadpoles_NicoCarver1024c.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2603/APOD_Sub_Tadpoles_NicoCarver.jpg",
+    "copyright": "Nico Carver"
+  },
+  {
     "date": "2026-03-16",
     "title": {
       "en": "NGC 1566: The Spanish Dancer Galaxy",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2602/freeflyer_nasa_900.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2602/freeflyer_nasa_3000.jpg",
     "copyright": null
-  },
-  {
-    "date": "2026-02-14",
-    "title": {
-      "en": "Roses are Red",
-      "pt": "Roses are Red"
-    },
-    "explanation": {
-      "en": "Roses are red, nebulas are too, and this Valentine's gift is a stunning view! Pictured is a loving look at the Rosette Nebula (NGC 2237): a cosmic bloom of bright young stars sitting atop a stem of glowing hot gas. The rose’s blue-white speckles are among the most luminous stars in the galaxy, with some burning millions of times brighter than the Sun. Their stellar winds sculpt the famed rose shape by pushing gas and dust away from the center. Though only a few million years old, these massive stars are already nearing the end of their lives, while dimmer stars embedded in the nebula will burn for billions of years to come. The vibrant red hue comes from hydrogen gas, ionized by the ultraviolet light from the young stars. The rose’s blue-white center is color-mapped to indicate the presence of similarly ionized oxygen. The Rosette Nebula reminds us of the beauty and transformation woven into the fabric of the universe.",
-      "pt": "As rosas são vermelhas, as nebulosas também, e esse presente de Dia dos Namorados é uma vista deslumbrante! Na foto está uma visão amorosa da Nebulosa Roseta (NGC 2237): uma flor cósmica de estrelas jovens e brilhantes situadas no topo de um caule de gás quente e brilhante. As manchas branco-azuladas da rosa estão entre as estrelas mais luminosas da galáxia, com algumas queimando milhões de vezes mais brilhantes que o Sol. Seus ventos estelares esculpem a famosa forma de rosa, empurrando o gás e a poeira para longe do centro. Embora tenham apenas alguns milhões de anos de idade, estas estrelas massivas já estão a aproximar-se do fim das suas vidas, enquanto as estrelas mais fracas embutidas na nebulosa irão arder durante milhares de milhões de anos. A tonalidade vermelha vibrante vem do gás hidrogênio, ionizado pela luz ultravioleta das estrelas jovens. O centro branco-azulado da rosa é mapeado por cores para indicar a presença de oxigênio ionizado de forma semelhante. A Nebulosa Roseta nos lembra da beleza e da transformação tecida na estrutura do universo."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2602/RosetteCalcagno1082.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2602/RosetteCalcagno.jpg",
-    "copyright": "Keighley Rockcliffe"
   }
 ]
