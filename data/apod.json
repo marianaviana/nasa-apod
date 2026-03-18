@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-03-18",
+    "title": {
+      "en": "Cygnus and the Solitary Tree",
+      "pt": "Cygnus e a Árvore Solitária"
+    },
+    "explanation": {
+      "en": "A lone tree stands in a quiet meadow in Guadalajara, Spain, silhouetted against the Cygnus region rising above like flames in the night sky.  This deep night skyscape is a composite of exposures that reveals a range of brightness and color human eyes can't quite see on their own. Spanning over a thousand times the angular size of the full moon, Cygnus sets the sky afire with active star formation where clouds of gas and dust collapse under gravity until nuclear fusion ignites and new stars are born. These stars  ionize the surrounding hydrogen gas, causing it to glow crimson, while tendrils of interstellar dust absorb some of that light and cast dark shadows across the sky. Cygnus is a trove of celestial treasures, notably the Veil, Crescent, and Pelican nebulae, as well as  Cygnus X-1, the first confirmed black hole.  Cygnus continues to yield fresh science, including a new three-dimensional model of the Cygnus Loop made possible by the Chandra X-ray Observatory.   Almost Hyperspace: Random APOD Generator",
+      "pt": "Uma árvore solitária ergue-se num prado tranquilo em Guadalajara, Espanha, recortada contra a região de Cygnus elevando-se como chamas no céu noturno.  Esta paisagem noturna profunda é uma composição de exposições que revela uma gama de brilho e cores que os olhos humanos não conseguem ver por si próprios. Abrangendo mais de mil vezes o tamanho angular da lua cheia, Cygnus incendeia o céu com a formação estelar ativa, onde nuvens de gás e poeira colapsam sob a gravidade até que a fusão nuclear se inicie e novas estrelas nasçam. Estas estrelas ionizam o gás hidrogénio circundante, fazendo-o brilhar em vermelho, enquanto gavinhas de poeira interestelar absorvem parte dessa luz e lançam sombras escuras no céu. Cygnus é um tesouro de tesouros celestes, nomeadamente as nebulosas Véu, Crescente e Pelicano, bem como Cygnus X-1, o primeiro buraco negro confirmado.  Cygnus continua a produzir ciência nova, incluindo um novo modelo tridimensional do Cygnus Loop, tornado possível pelo Observatório de Raios-X Chandra.   Quase Hiperespaço: Gerador APOD Aleatório"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2603/cygnus_tree_crop.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2603/cygnus_tree_crop.jpg",
+    "copyright": "2025 Horacio Lander / AstroHoracio, Text:, Keighley Rockcliffe  , (NASA, GSFC, UMBC CSST, CRESST II)"
+  },
+  {
     "date": "2026-03-17",
     "title": {
       "en": "The Tadpoles of IC 410",
@@ -432,21 +447,6 @@
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2602/WhiteDwarfShock_VLT_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2602/WhiteDwarfShock_VLT_960.jpg",
-    "copyright": null
-  },
-  {
-    "date": "2026-02-15",
-    "title": {
-      "en": "To Fly Free in Space",
-      "pt": "Voar Livre no Espaço"
-    },
-    "explanation": {
-      "en": "What would it be like to fly free in space?  About 100 meters from the cargo bay of a space shuttle, Bruce McCandless II was living the dream -- floating farther out than anyone had ever been before.  Guided by a Manned Maneuvering Unit (MMU), astronaut McCandless, pictured, was floating free in space. During Space Shuttle mission 41-B in 1984,  McCandless and fellow NASA astronaut Robert Stewart were the first to experience such an \"untethered space walk\". The MMU worked by shooting jets of nitrogen and was used to help deploy and retrieve satellites.  With a mass over 140 kilograms, an MMU is heavy on Earth, but, like everything, is weightless when drifting in orbit. The MMU was later replaced with the SAFER backpack propulsion unit.",
-      "pt": "Como seria voar livre no espaço?  A cerca de 100 metros do compartimento de carga de um ônibus espacial, Bruce McCandless II estava vivendo o sonho – flutuando mais longe do que qualquer pessoa jamais esteve antes.  Guiado por uma Unidade de Manobra Tripulada (MMU), o astronauta McCandless, na foto, flutuava livre no espaço. Durante a missão 41-B do ônibus espacial em 1984, McCandless e seu colega astronauta da NASA Robert Stewart foram os primeiros a experimentar essa \"caminhada espacial sem restrições\". A MMU funcionava disparando jatos de nitrogênio e era usada para ajudar a implantar e recuperar satélites.  Com massa superior a 140 quilogramas, um MMU é pesado na Terra, mas, como tudo, não tem peso quando está à deriva em órbita. A MMU foi posteriormente substituída pela unidade de propulsão de mochila SAFER."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2602/freeflyer_nasa_900.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2602/freeflyer_nasa_3000.jpg",
     "copyright": null
   }
 ]
