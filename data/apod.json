@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-03-19",
+    "title": {
+      "en": "Launch Plume: SpaceX Jellyfish",
+      "pt": "Pluma de lançamento: água-viva SpaceX"
+    },
+    "explanation": {
+      "en": "ven if you live with your head in the clouds, you won’t find a jellyfish like this one very often. The featured image shows a SpaceX Falcon 9 rocket launch from Cape Canaveral in Florida on March 4. The launch happened 52 minutes before sunrise, and the second stage rocket exhaust plume was high enough in the sky to catch the light of the rising sun, while the photographer was still in the dark. This combination of light and shadow, possible at dawn or dusk, makes the exhaust, mostly water vapor and carbon dioxide, appear as a glowing cloud. It only looks like it's going down, as the rocket follows the curvature of the Earth on its way to space. A related effect is the twilight phenomenon, which causes colorful contrails sometimes mistaken for UFOs. But, in case you are wondering: real jellyfish were sent to space by NASA in the 1990s as part of a science experiment.",
+      "pt": "mesmo que você viva com a cabeça nas nuvens, não encontrará uma água-viva como esta com muita frequência. A imagem em destaque mostra o lançamento do foguete SpaceX Falcon 9 do Cabo Canaveral, na Flórida, em 4 de março. O lançamento aconteceu 52 minutos antes do nascer do sol, e a nuvem de exaustão do foguete do segundo estágio estava alta o suficiente no céu para captar a luz do sol nascente, enquanto o fotógrafo ainda estava no escuro. Esta combinação de luz e sombra, possível ao amanhecer ou ao anoitecer, faz com que os gases de escape, principalmente vapor de água e dióxido de carbono, apareçam como uma nuvem brilhante. Parece apenas que está caindo, pois o foguete segue a curvatura da Terra em seu caminho para o espaço. Um efeito relacionado é o fenômeno do crepúsculo, que causa rastros coloridos às vezes confundidos com OVNIs. Mas, caso você esteja se perguntando: águas-vivas reais foram enviadas ao espaço pela NASA na década de 1990 como parte de um experimento científico."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2603/jellyfish_1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2603/jellyfish.jpg",
+    "copyright": "Michael Seeley"
+  },
+  {
     "date": "2026-03-18",
     "title": {
       "en": "Cygnus and the Solitary Tree",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2602/Wierzchos_Chabo_1080.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2602/Wierzchos_Chabo_1280.jpg",
     "copyright": ", José J. Chambó; ,  Text: , Cecilia Chirenti , (NASA, GSFC, UMCP, CRESST II),"
-  },
-  {
-    "date": "2026-02-16",
-    "title": {
-      "en": "Unexplained Shocks Around a White Dwarf Star",
-      "pt": "Choques inexplicáveis ​​em torno de uma estrela anã branca"
-    },
-    "explanation": {
-      "en": "How is RXJ0528+2838 creating such shock waves?  A recently discovered white dwarf star, the farther left of the two largest white spots, RXJ0528+2838, was found 730 light-years away from Earth.  Most stars, when done fusing nuclei in their cores for energy, become red giant stars, the cores of which live on as faint dense white dwarfs that slowly cool down for the rest of time.  White dwarfs are so dense that the only thing that stops them from collapsing further is quantum mechanics. In about 5 billion years, our Sun will become a white dwarf, too.  The featured image, obtained with the European Southern Observatory’s Very Large Telescope, shows unexplained bow shocks around RXJ0528+2838, similar to the bow wave of water around a fast-moving ship. Astronomers don’t yet know what is powering these shocks, which have existed for at least 1,000 years.  The red, green and blue colors represent trace amounts of glowing hydrogen, nitrogen and oxygen gas.    Open Science: Browse 3,900+ codes in the Astrophysics Source Code Library",
-      "pt": "Como o RXJ0528+2838 está criando tais ondas de choque?  Uma estrela anã branca recentemente descoberta, a mais à esquerda das duas maiores manchas brancas, RXJ0528+2838, foi encontrada a 730 anos-luz de distância da Terra.  A maioria das estrelas, quando terminam de fundir núcleos em seus núcleos para obter energia, tornam-se estrelas gigantes vermelhas, cujos núcleos vivem como anãs brancas densas e tênues que esfriam lentamente pelo resto do tempo.  As anãs brancas são tão densas que a única coisa que as impede de entrar em colapso ainda mais é a mecânica quântica. Dentro de cerca de 5 mil milhões de anos, o nosso Sol também se tornará uma anã branca.  A imagem em destaque, obtida com o Very Large Telescope do Observatório Europeu do Sul, mostra choques de proa inexplicáveis ​​em torno de RXJ0528+2838, semelhantes à onda de água em torno de um navio em movimento rápido. Os astrónomos ainda não sabem o que está a alimentar estes choques, que existem há pelo menos 1.000 anos.  As cores vermelha, verde e azul representam vestígios de gás brilhante de hidrogênio, nitrogênio e oxigênio.    Ciência Aberta: Navegue por mais de 3.900 códigos na Biblioteca de Código-Fonte de Astrofísica"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2602/WhiteDwarfShock_VLT_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2602/WhiteDwarfShock_VLT_960.jpg",
-    "copyright": null
   }
 ]
