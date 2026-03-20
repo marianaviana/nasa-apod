@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-03-20",
+    "title": {
+      "en": "Spring Equinox at Teide Observatory",
+      "pt": "Equinócio de Primavera no Observatório de Teide"
+    },
+    "explanation": {
+      "en": "The defining astronomical moment of the equinox today is at 14:46 UTC (March 20). That's when the Sun crosses the celestial equator moving north in its yearly journey through planet Earth's sky, marking the beginning of spring for our fair planet in the northern hemisphere and fall in the southern hemisphere.  Then, day and night are nearly equal around the globe. In fact, both day and nighttime exposures from a spring equinox at the Observatorio del Teide in Tenerife, Canary Islands, Spain, are used in this composited skyscape. Over 1,000 images were taken with a fisheye lens and merged in the ambitious equinox project. The apparent motion of the Sun setting along the celestial equator on the equinox date follows the bright linear, diagonal track from the sequence of daytime exposures taken over 6 hours. After sunset, nighttime exposures recorded startrails, with the celestial equator as a linear track and concentric arcs circling the north celestial pole near Polaris at upper right and the south celestial pole beyond the lower left edge (and below the Teide horizon). The foreground includes the distant Teide volcano peak and the observatory's pyramid-shaped solar laboratory building.",
+      "pt": "O momento astronômico definidor do equinócio hoje é às 14:46 UTC (20 de março). É quando o Sol cruza o equador celeste movendo-se para norte na sua viagem anual pelo céu do planeta Terra, marcando o início da primavera para o nosso belo planeta no hemisfério norte e o outono no hemisfério sul.  Então, o dia e a noite são quase iguais em todo o mundo. Na verdade, exposições diurnas e noturnas de um equinócio de primavera no Observatório del Teide em Tenerife, Ilhas Canárias, Espanha, são usadas nesta paisagem celeste composta. Mais de 1.000 imagens foram tiradas com lentes olho de peixe e fundidas no ambicioso projeto equinócio. O movimento aparente do pôr do Sol ao longo do equador celeste na data do equinócio segue a trilha diagonal linear brilhante da sequência de exposições diurnas feitas ao longo de 6 horas. Após o pôr do sol, as exposições noturnas registraram trilhas iniciais, com o equador celeste como uma trilha linear e arcos concêntricos circundando o pólo celeste norte perto de Polaris no canto superior direito e o pólo celeste sul além da borda inferior esquerda (e abaixo do horizonte do Teide). O primeiro plano inclui o distante pico do vulcão Teide e o edifício do laboratório solar em forma de pirâmide do observatório."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2603/equinox-3k-jcc_1087c.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2603/equinox-3k-jcc.jpg",
+    "copyright": "Juan Carlos Casado"
+  },
+  {
     "date": "2026-03-19",
     "title": {
       "en": "Launch Plume: SpaceX Jellyfish",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2602/OrionBarnard_Czerski_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2602/OrionBarnard_Czerski_3000.jpg",
     "copyright": "Piotr Czerski"
-  },
-  {
-    "date": "2026-02-17",
-    "title": {
-      "en": "Tails of Comet Wierzchoś",
-      "pt": "Caudas do cometa Wierzchoś"
-    },
-    "explanation": {
-      "en": "Some comets are regular guests of our solar neighborhood; others come by only once, never to return.  We won’t have another chance to see Comet C/2024 E1 (Wierzchoś), which is currently making its way through the inner Solar System.  The hyperbolic orbit of this comet indicates that it will likely become an interstellar traveler.  Comet Wierzchoś is today near its closest approach to the Earth, passing roughly the same distance from the Earth as is the Sun.  The featured 30-minute exposure was taken last week in Chile and shows a 5-degree long ion tail as well as three shorter dust tails.  The green hue of the coma comes from the breakdown of dicarbon molecules by sunlight, but that process does not last long enough to also tinge the tails.  On the far right lies a spiral galaxy far in the distance: NGC 300.",
-      "pt": "Alguns cometas são visitantes regulares da nossa vizinhança solar; outros passam por aqui apenas uma vez, para nunca mais voltar.  Não teremos outra oportunidade de ver o cometa C/2024 E1 (Wierzchoś), que atualmente atravessa o interior do Sistema Solar.  A órbita hiperbólica deste cometa indica que provavelmente se tornará um viajante interestelar.  O cometa Wierzchoś está hoje perto da sua maior aproximação à Terra, passando aproximadamente à mesma distância da Terra que o Sol.  A exposição de 30 minutos em destaque foi tirada na semana passada no Chile e mostra uma longa cauda de íons de 5 graus, bem como três caudas de poeira mais curtas.  A tonalidade verde da coma vem da quebra das moléculas de dicarbono pela luz solar, mas esse processo não dura o suficiente para tingir também as caudas.  Na extrema direita encontra-se uma galáxia espiral distante: NGC 300."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2602/Wierzchos_Chabo_1080.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2602/Wierzchos_Chabo_1280.jpg",
-    "copyright": ", José J. Chambó; ,  Text: , Cecilia Chirenti , (NASA, GSFC, UMCP, CRESST II),"
   }
 ]
