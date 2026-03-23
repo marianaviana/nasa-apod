@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-03-23",
+    "title": {
+      "en": "Light Pillars and Orion over Mohe",
+      "pt": "Pilares de Luz e Orion sobre Mohe"
+    },
+    "explanation": {
+      "en": "What's happening at the end of that street?  Pictured here are not auroras but light pillars, a phenomenon typically much closer.  In most places on Earth, a lucky viewer can see a Sun pillar, a column of light appearing to extend up from the Sun caused by flat fluttering ice-crystals reflecting sunlight from the upper atmosphere.  Usually, these ice crystals evaporate before reaching the ground.  During freezing temperatures, however, flat fluttering ice crystals may form near the ground and are sometimes known as a crystal fog.  These small ice crystals may then reflect not the Sun but ground lights.  The featured image captured not only numerous light pillars but also the iconic constellation of Orion, and was taken in Mohe, the northernmost city in China.",
+      "pt": "O que está acontecendo no final daquela rua?  Aqui retratados não estão auroras, mas pilares de luz, um fenômeno tipicamente muito mais próximo.  Na maioria dos lugares da Terra, um observador sortudo pode ver um pilar do Sol, uma coluna de luz que parece estender-se para cima a partir do Sol, causada por cristais de gelo planos e flutuantes que refletem a luz solar da atmosfera superior.  Normalmente, esses cristais de gelo evaporam antes de atingir o solo.  Durante temperaturas congelantes, entretanto, cristais de gelo planos e vibrantes podem se formar perto do solo e às vezes são conhecidos como névoa cristalina.  Esses pequenos cristais de gelo podem então refletir não o Sol, mas as luzes terrestres.  A imagem em destaque capturou não apenas numerosos pilares de luz, mas também a icónica constelação de Órion, e foi tirada em Mohe, a cidade mais a norte da China."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2603/LightPillarsMohe_Dai_1080.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2603/LightPillarsMohe_Dai_2000.jpg",
+    "copyright": "Jeff Dai, (TWAN)"
+  },
+  {
     "date": "2026-03-22",
     "title": {
       "en": "Leaving Earth",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2602/20260219a_c1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2602/20260219a.jpg",
     "copyright": "Tunc Tezel"
-  },
-  {
-    "date": "2026-02-20",
-    "title": {
-      "en": "B93: A Dark Interstellar Ghost",
-      "pt": "B93: Um Fantasma Interestelar Sombrio"
-    },
-    "explanation": {
-      "en": "\"A ghost in the Milky Way…” says Christian Bertincourt, the astrophotographer behind this striking image of Barnard 93 (B93).  The 93rd entry in Barnard’s Catalogue of Dark Nebulae, B93 lies within the Small Sagittarius Star Cloud (Messier 24), where its darkness stands in stark contrast to bright stars and gas in the background.  In some ways, B93 is really like a ghost, because it contains gas and dust that was dispersed by the deaths of stars, like supernovas.  B93 appears as a dark void not because it is empty, but because its dust blocks the light emitted by more distant stars and glowing gas.  Like other dark nebulas, some gas from B93, if dense and massive enough, will eventually gravitationally condense to form new stars.  If so, then once these stars ignite, B93 will transform from a dark ghost into a brilliant cradle of newborn stars.",
-      "pt": "“Um fantasma na Via Láctea…” diz Christian Bertincourt, o astrofotógrafo por trás desta impressionante imagem de Barnard 93 (B93).  A 93ª entrada no Catálogo de Nebulosas Escuras de Barnard, B93, situa-se na Pequena Nuvem Estelar de Sagitário (Messier 24), onde a sua escuridão contrasta fortemente com as estrelas brilhantes e o gás no fundo.  De certa forma, B93 é realmente como um fantasma, porque contém gás e poeira que foram dispersados ​​pela morte de estrelas, como as supernovas.  B93 aparece como um vazio escuro não porque esteja vazio, mas porque a sua poeira bloqueia a luz emitida por estrelas mais distantes e pelo gás brilhante.  Tal como outras nebulosas escuras, algum gás da B93, se for suficientemente denso e massivo, acabará por condensar-se gravitacionalmente para formar novas estrelas.  Se assim for, então, assim que estas estrelas se acenderem, B93 transformar-se-á de um fantasma escuro num berço brilhante de estrelas recém-nascidas."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2602/B93_bertincourt_1080.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2602/B93_bertincourt_1178.png",
-    "copyright": "Christian Bertincourt; , Text:, Keighley Rockcliffe  , (NASA, GSFC, UMBC, CSST, CRESST II)"
   }
 ]
