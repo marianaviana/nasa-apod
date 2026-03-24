@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-03-24",
+    "title": {
+      "en": "A Gravity Map of Earth",
+      "pt": "Um mapa gravitacional da Terra"
+    },
+    "explanation": {
+      "en": "Is gravity the same over the surface of the Earth?  No -- in some places you will feel slightly heavier than others.  The featured Earth map video shows in colors and exaggerated highs and lows where the gravitational field of Earth is relatively strong and weak.  A low spot, where you would feel slightly lighter, can be seen just off the coast of India, in blue, while a relative high occurs in the mountains of Chile in South America.  The cause of these irregularities does not always follow present surface features. Scientists hypothesize that other important factors lie in deep underground structures in Earth's mantle and may be related to the Earth's appearance in the distant past.  The featured map was composed from data taken by NASA's twin GRACE satellites that orbited the Earth from 2002 to 2017.  GRACE mapped Earth's gravity by carefully tracking tiny changes in the distance between the two satellites.",
+      "pt": "A gravidade é a mesma na superfície da Terra?  Não – em alguns lugares você se sentirá um pouco mais pesado do que em outros.  O vídeo do mapa da Terra em destaque mostra em cores e altos e baixos exagerados onde o campo gravitacional da Terra é relativamente forte e fraco.  Um ponto baixo, onde você se sentiria um pouco mais leve, pode ser visto próximo à costa da Índia, em azul, enquanto um ponto alto relativo ocorre nas montanhas do Chile, na América do Sul.  A causa destas irregularidades nem sempre segue as características atuais da superfície. Os cientistas levantam a hipótese de que outros fatores importantes residem em estruturas subterrâneas profundas no manto da Terra e podem estar relacionados com a aparência da Terra no passado distante.  O mapa apresentado foi composto a partir de dados obtidos pelos satélites gêmeos GRACE da NASA que orbitaram a Terra de 2002 a 2017. GRACE mapeou a gravidade da Terra rastreando cuidadosamente pequenas mudanças na distância entre os dois satélites."
+    },
+    "media_type": "video",
+    "url": "https://apod.nasa.gov/apod/image/2603/GravityEarth_GRACE_silent.mp4",
+    "hdurl": "https://apod.nasa.gov/apod/image/2603/GravityEarth_GRACE_silent.mp4",
+    "copyright": null
+  },
+  {
     "date": "2026-03-23",
     "title": {
       "en": "Light Pillars and Orion over Mohe",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2602/marsshadow_opportunity_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2602/marsshadow_opportunity_1024.jpg",
     "copyright": null
-  },
-  {
-    "date": "2026-02-21",
-    "title": {
-      "en": "Twilight with Moon and Planets",
-      "pt": "Crepúsculo com Lua e Planetas"
-    },
-    "explanation": {
-      "en": "Only two days after the February New Moon's annular eclipse of the Sun, a slender lunar crescent poses above the western horizon after sunset in this wintry twilight skyscape. Its nightside faintly illuminated by earthshine, the young Moon is joined by three bright planets in the mostly clear, early evening skies above the village of Kirazli, Turkiye. Inner planet Venus appears closest to the horizon. Near the beginning of its 2026 performance as planet Earth's evening star, brilliant Venus is seen through the warm sunset glare near picture center. Straight above Venus, innermost planet Mercury is easy to spot as it stands remarkably high above the horizon even as the twilight sky is growing dark. Outer planet Saturn, most distant of the naked-eye planets, is found just left of the Moon's sunlit crescent.",
-      "pt": "Apenas dois dias após o eclipse anular do Sol na Lua Nova de fevereiro, um delgado crescente lunar surge acima do horizonte ocidental após o pôr do sol nesta paisagem invernal do crepúsculo. Com o seu lado noturno fracamente iluminado pelo brilho da terra, a jovem Lua é acompanhada por três planetas brilhantes nos céus quase sempre claros do início da noite acima da aldeia de Kirazli, Turkiye. O planeta interno Vênus parece mais próximo do horizonte. Perto do início do seu desempenho em 2026 como estrela vespertina do planeta Terra, a brilhante Vênus é vista através do brilho quente do pôr do sol perto do centro da imagem. Diretamente acima de Vênus, o planeta mais interno Mercúrio é fácil de localizar, pois fica notavelmente alto acima do horizonte, mesmo quando o céu crepuscular está escurecendo. O planeta externo Saturno, o mais distante dos planetas a olho nu, é encontrado logo à esquerda do crescente iluminado pela Lua."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2602/20260219a_c1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2602/20260219a.jpg",
-    "copyright": "Tunc Tezel"
   }
 ]
