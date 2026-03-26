@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-03-26",
+    "title": {
+      "en": "Black Holes and Neutron Stars: 218 Mergers and Counting",
+      "pt": "Buracos negros e estrelas de nêutrons: 218 fusões e contagens"
+    },
+    "explanation": {
+      "en": "What is the sound of two black holes merging in deep space? Sound waves don't propagate in vacuum, but gravitational waves do. In 2015 we were able to \"hear\" them for the first time and confirm one of Albert Einstein's theoretical predictions. Each square on the grid of the featured image represents one of the gravitational wave detections announced so far by the LIGO-VIRGO-KAGRA Collaboration. These plots show how the binary pair accelerates in their orbit around each other towards merger: the rising frequency effect is called a \"chirp\". Although there are significantly more neutron stars than black holes, most of the detections are binary black hole mergers. That happens because black holes are heavier and their signals are louder and can be seen farther away, resulting in more detections. These events are rare, and we don't expect to see one close by in our Galaxy any time soon. But they are happening continuously throughout the cosmos.",
+      "pt": "Qual é o som de dois buracos negros se fundindo no espaço profundo? As ondas sonoras não se propagam no vácuo, mas as ondas gravitacionais sim. Em 2015 pudemos “ouvi-los” pela primeira vez e confirmar uma das previsões teóricas de Albert Einstein. Cada quadrado na grade da imagem em destaque representa uma das detecções de ondas gravitacionais anunciadas até agora pela Colaboração LIGO-VIRGO-KAGRA. Esses gráficos mostram como o par binário acelera em sua órbita em torno um do outro em direção à fusão: o efeito de aumento da frequência é chamado de \"chirp\". Embora existam significativamente mais estrelas de nêutrons do que buracos negros, a maioria das detecções são fusões binárias de buracos negros. Isso acontece porque os buracos negros são mais pesados ​​e os seus sinais são mais altos e podem ser vistos mais longe, resultando em mais detecções. Esses eventos são raros e não esperamos ver nenhum próximo em nossa galáxia tão cedo. Mas eles estão acontecendo continuamente por todo o cosmos."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2603/GWTC4-Events-Poster-Landscape_1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2603/GWTC4-Events-Poster-Landscape.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-03-25",
     "title": {
       "en": "The Guardians of Rapa Nui beneath the Milky Way",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2602/PlanetParadeSydney_Agrawal_960_ann.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2602/PlanetParadeSydney_Agrawal_1663.jpg",
     "copyright": "Prasun Agrawal"
-  },
-  {
-    "date": "2026-02-23",
-    "title": {
-      "en": "Pleiades: The Seven Sisters Star Cluster",
-      "pt": "Plêiades: O Conglomerado Estelar das Sete Irmãs"
-    },
-    "explanation": {
-      "en": "Have you ever seen the Pleiades star cluster? Even if you have, you probably have never seen it as large and clear as this. Perhaps the most famous star cluster on the sky, the bright stars of the Pleiades can be seen with the unaided eye even from the depths of a light-polluted city.  With a long exposure from a dark location, though, the dust cloud surrounding the Pleiades star cluster becomes very evident. The featured 18-hour exposure, taken from Bory Tucholskie, Poland covers a sky area several times the size of the full moon.  Also known as the Seven Sisters and M45, the Pleiades lies about 400 light years away toward the constellation of the Bull (Taurus).  A common legend with a modern twist is that one of the brighter stars faded since the cluster was named, leaving only six of the sister stars visible to the unaided eye. The actual number of Pleiades stars visible, however, may be more or less than seven, depending on the darkness of the surrounding sky and the clarity of the observer's eyesight.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)",
-      "pt": "Você já viu o aglomerado de estrelas das Plêiades? Mesmo que tenha visto, provavelmente nunca o viu tão grande e claro como este. Talvez o aglomerado de estrelas mais famoso do céu, as estrelas brilhantes das Plêiades podem ser vistas a olho nu, mesmo nas profundezas de uma cidade poluída pela luz.  Porém, com uma longa exposição a partir de um local escuro, a nuvem de poeira que rodeia o aglomerado estelar das Plêiades torna-se muito evidente. A exposição de 18 horas, tirada em Bory Tucholskie, na Polônia, cobre uma área do céu várias vezes maior que a lua cheia.  Também conhecidas como Sete Irmãs e M45, as Plêiades ficam a cerca de 400 anos-luz de distância, em direção à constelação do Touro (Touro).  Uma lenda comum com um toque moderno é que uma das estrelas mais brilhantes desapareceu desde que o aglomerado foi nomeado, deixando apenas seis das estrelas irmãs visíveis a olho nu. O número real de estrelas das Plêiades visíveis, contudo, pode ser maior ou menor que sete, dependendo da escuridão do céu circundante e da clareza da visão do observador.   Sky Surprise: Que foto o APOD apresentou no seu aniversário? (depois de 1995)"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2602/Pleiades_Fiedosiuk_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2602/Pleiades_Fiedosiuk_2200.jpg",
-    "copyright": "Kamil Fiedosiuk"
   }
 ]
