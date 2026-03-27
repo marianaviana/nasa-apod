@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-03-27",
+    "title": {
+      "en": "Hickson 44 in Leo",
+      "pt": "Hickson 44 em Leão"
+    },
+    "explanation": {
+      "en": "Scanning the skies for galaxies, Canadian astronomer Paul Hickson and colleagues identified some 100 compact groups of galaxies, now appropriately called Hickson Compact Groups. The four prominent galaxies seen in this intriguing telescopic skyscape are one such group, Hickson 44. The Hickson 44 galaxy group is about 100 million light-years distant, far beyond the foreground Milky Way stars, toward the northern springtime constellation Leo. The two spiral galaxies in the center of the image are edge-on NGC 3190 with distinctive, warped dust lanes, and S-shaped NGC 3187. Along with the bright elliptical, NGC 3193 (left) they are also known as Arp 316. The spiral toward the lower right corner is NGC 3185, the 4th member of the Hickson group. Like other galaxies in Hickson groups, these show signs of distortion and enhanced star formation, evidence of a gravitational tug of war that will eventually result in galaxy mergers on a cosmic timescale. The merger process is now understood to be a normal part of the evolution of galaxies, including our own Milky Way. For scale, NGC 3190 is about 75,000 light-years across at the estimated distance of Hickson 44.",
+      "pt": "Examinando os céus em busca de galáxias, o astrônomo canadense Paul Hickson e seus colegas identificaram cerca de 100 grupos compactos de galáxias, agora apropriadamente chamados de Grupos Compactos de Hickson. As quatro galáxias proeminentes vistas nesta intrigante paisagem telescópica são um desses grupos, Hickson 44. O grupo de galáxias Hickson 44 está a cerca de 100 milhões de anos-luz de distância, muito além das estrelas da Via Láctea em primeiro plano, em direção à constelação norte da primavera de Leão. As duas galáxias espirais no centro da imagem são NGC 3190 com faixas de poeira distorcidas distintas, e NGC 3187 em forma de S. Junto com a elíptica brilhante, NGC 3193 (esquerda), elas também são conhecidas como Arp 316. A espiral em direção ao canto inferior direito é NGC 3185, o 4º membro do grupo Hickson. Tal como outras galáxias em grupos de Hickson, estas mostram sinais de distorção e de formação estelar intensificada, evidência de um cabo de guerra gravitacional que acabará por resultar em fusões de galáxias numa escala de tempo cósmica. O processo de fusão é agora entendido como uma parte normal da evolução das galáxias, incluindo a nossa Via Láctea. Em escala, NGC 3190 tem cerca de 75.000 anos-luz de diâmetro, a uma distância estimada de Hickson 44."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2603/NGC3190-APOD1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2603/NGC3190-APOD.jpg",
+    "copyright": "Peter Kennett"
+  },
+  {
     "date": "2026-03-26",
     "title": {
       "en": "Black Holes and Neutron Stars: 218 Mergers and Counting",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2602/Egg_Hubble_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2602/Egg_Hubble_2048.jpg",
     "copyright": "ESA/Hubble & , NASA, B. Balick , (U. Washington)"
-  },
-  {
-    "date": "2026-02-24",
-    "title": {
-      "en": "Planet Parade over Sydney Opera House",
-      "pt": "Planet Parade sobre a Ópera de Sydney"
-    },
-    "explanation": {
-      "en": "Look up this week and see a whole bunch of planets.  Just after sunset, looking west (mostly), planets Mercury, Venus, Saturn, and Jupiter will all be visible to the unaided eye simultaneously.  If you have a telescope, planets Uranus and Neptune can also be seen.  In order up from the horizon, the lineup this week will be Venus (the brightest), Mercury, Saturn, Neptune, Uranus, and Jupiter (second brightest).  It doesn't matter where on Earth you live because this early evening planet parade will be visible through clear skies all around the globe.  The planets will appear to be nearly in a line because they all orbit the Sun in nearly the same plane: the ecliptic.  The featured image shows a similar planet parade that occurred in 2022, captured over the Sydney Opera House in southern Australia.  Although visible all week, the planets will be most easily seen together this weekend.",
-      "pt": "Olhe para cima esta semana e veja um monte de planetas.  Logo após o pôr do sol, olhando para o oeste (principalmente), os planetas Mercúrio, Vênus, Saturno e Júpiter estarão todos visíveis a olho nu simultaneamente.  Se você tiver um telescópio, os planetas Urano e Netuno também poderão ser vistos.  Em ordem ascendente a partir do horizonte, a programação desta semana será Vênus (o mais brilhante), Mercúrio, Saturno, Netuno, Urano e Júpiter (o segundo mais brilhante).  Não importa onde você mora na Terra, porque este desfile planetário no início da noite será visível através de céus claros em todo o mundo.  Os planetas parecerão estar quase alinhados porque todos orbitam o Sol quase no mesmo plano: a eclíptica.  A imagem em destaque mostra um desfile planetário semelhante que ocorreu em 2022, capturado na Ópera de Sydney, no sul da Austrália.  Embora visíveis durante toda a semana, os planetas serão vistos juntos mais facilmente neste fim de semana."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2602/PlanetParadeSydney_Agrawal_960_ann.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2602/PlanetParadeSydney_Agrawal_1663.jpg",
-    "copyright": "Prasun Agrawal"
   }
 ]
