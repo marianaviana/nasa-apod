@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-03-29",
+    "title": {
+      "en": "A Message from Earth",
+      "pt": "Uma mensagem da Terra"
+    },
+    "explanation": {
+      "en": "What are these Earthlings trying to tell us?  The featured message was broadcast from Earth towards the globular star cluster M13 in 1974.  During the dedication of an upgrade to the Arecibo Observatory - then the largest single radio telescope in the world - a string of 1's and 0's representing the diagram was sent.  This attempt at extraterrestrial communication was mostly ceremonial - humanity regularly broadcasts radio and television signals out into space accidentally.  Even were this message received, M13 is so far away we would have to wait almost 50,000 years to hear an answer.  The featured message gives a few simple facts about humanity and its knowledge: from left to right are numbers from one to ten, atoms including hydrogen and carbon, some interesting molecules, DNA, a human with description, basics of our Solar System, and basics of the sending telescope.  Several searches for extraterrestrial intelligence are currently underway.   Explore the Universe: Random APOD Generator",
+      "pt": "O que esses terráqueos estão tentando nos dizer?  A mensagem apresentada foi transmitida da Terra em direção ao aglomerado estelar globular M13 em 1974. Durante a dedicação de uma atualização ao Observatório de Arecibo - então o maior radiotelescópio do mundo - foi enviada uma série de 1 e 0 representando o diagrama.  Esta tentativa de comunicação extraterrestre foi principalmente cerimonial - a humanidade transmite regularmente sinais de rádio e televisão para o espaço acidentalmente.  Mesmo que esta mensagem fosse recebida, M13 estaria tão longe que teríamos que esperar quase 50 mil anos para ouvir uma resposta.  A mensagem apresentada fornece alguns factos simples sobre a humanidade e o seu conhecimento: da esquerda para a direita estão números de um a dez, átomos incluindo hidrogénio e carbono, algumas moléculas interessantes, ADN, um ser humano com descrição, noções básicas do nosso Sistema Solar e noções básicas do telescópio emissor.  Várias pesquisas por inteligência extraterrestre estão em andamento.   Explore o Universo: Gerador APOD Aleatório"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2603/Message_Arecibo_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2603/Message_Arecibo_2000.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-03-28",
     "title": {
       "en": "Robert Goddard and Nell",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2602/JellyfishBeecroft_final1_1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2602/JellyfishBeecroft_final1_2048.jpg",
     "copyright": "Katelyn Beecroft"
-  },
-  {
-    "date": "2026-02-26",
-    "title": {
-      "en": "Webb and Hubble: IC 5332",
-      "pt": "Webb e Hubble: IC 5332"
-    },
-    "explanation": {
-      "en": "What does the universe look like through infrared goggles? Our eyes can only see visible light, but astronomers want to see more. Today’s APOD shows spiral galaxy IC 5332 as seen by two NASA telescopes: Webb in mid-infrared and Hubble in ultraviolet and visible light. To toggle between the two space-based views just slide your cursor over the image (or follow this link). The Hubble image highlights the spiral arms of the galaxy separated by dark regions, whereas the Webb image reveals a finer, more tangled structure. Interstellar dust scatters and absorbs light from the stars in the galaxy, causing the dark dust lanes in the Hubble image, and then emits heat in infrared light, so dust glows in this Webb image. The Mid-InfraRed Instrument on Webb needs to operate at a chilling temperature of -266ºC (or - 447ºF), otherwise it would detect infrared radiation from the telescope itself. Combining these observations, astronomers connect the “small scale” of gas and stars to the truly large scale of galactic structure and evolution.",
-      "pt": "Como é o universo através de óculos infravermelhos? Nossos olhos só conseguem ver a luz visível, mas os astrônomos querem ver mais. O APOD de hoje mostra a galáxia espiral IC 5332 vista por dois telescópios da NASA: Webb no infravermelho médio e Hubble na luz ultravioleta e visível. Para alternar entre as duas visualizações baseadas em espaço, basta deslizar o cursor sobre a imagem (ou seguir este link). A imagem do Hubble destaca os braços espirais da galáxia separados por regiões escuras, enquanto a imagem do Webb revela uma estrutura mais fina e emaranhada. A poeira interestelar espalha e absorve a luz das estrelas da galáxia, formando faixas escuras de poeira na imagem do Hubble, e então emite calor na luz infravermelha, de modo que a poeira brilha nesta imagem do Webb. O instrumento Mid-InfraRed no Webb precisa operar a uma temperatura fria de -266ºC (ou -447ºF), caso contrário, detectaria radiação infravermelha do próprio telescópio. Combinando estas observações, os astrónomos ligam a “pequena escala” do gás e das estrelas à escala verdadeiramente grande da estrutura e evolução galáctica."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2602/IC5332webb2209c_1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2602/potm2209c.jpg",
-    "copyright": null
   }
 ]
