@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-03-30",
+    "title": {
+      "en": "Peculiar Elliptical Galaxy Centaurus A",
+      "pt": "Galáxia elíptica peculiar Centaurus A"
+    },
+    "explanation": {
+      "en": "What's happened to the center of this galaxy?  Dramatic dust lanes run across the center of unusual elliptical galaxy Centaurus A. These dust lanes are so thick they almost completely obscure the galaxy's center in visible light.  This is particularly unusual as Cen A's older stars and oval shape are characteristic of a giant elliptical galaxy, a galaxy type typically low in dark dust.  Pictured in this deep image is a complex network of foreground gas and dust, as well as shells of dim stars and a jet projecting to the upper right.  Also known as NGC 5128, Cen A is surely the result of a galactic collision where many young dust-creating stars were formed.  However, details of the creation of Cen A's unusually active center and iconic central dust lanes are still being researched.  Cen A lies only 13 million light years away, making it the closest active galaxy.    Jigsaw Galaxy: Astronomy Puzzle of the Day",
+      "pt": "O que aconteceu com o centro desta galáxia?  Dramáticas faixas de poeira atravessam o centro da incomum galáxia elíptica Centaurus A. Essas faixas de poeira são tão espessas que obscurecem quase completamente o centro da galáxia na luz visível.  Isto é particularmente incomum porque as estrelas mais antigas e a forma oval do Cen A são características de uma galáxia elíptica gigante, um tipo de galáxia tipicamente pobre em poeira escura.  Retratada nesta imagem profunda está uma rede complexa de gás e poeira em primeiro plano, bem como conchas de estrelas fracas e um jato projetando-se para o canto superior direito.  Também conhecida como NGC 5128, a Cen A é certamente o resultado de uma colisão galáctica onde se formaram muitas estrelas jovens criadoras de poeira.  No entanto, os detalhes da criação do centro invulgarmente activo do Cen A e das icónicas faixas centrais de poeira ainda estão a ser pesquisados.  Cen A fica a apenas 13 milhões de anos-luz de distância, o que a torna a galáxia ativa mais próxima.    Galáxia Jigsaw: quebra-cabeça astronômico do dia"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2603/CenA_SADR_1080.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2603/CenA_SADR_5000.jpg",
+    "copyright": "SADR Observatory Team: , J-C Dalouzy, P. Bazart, M. Dherbécourt, C. Humbert,  G. Leroy, J-P Quéau, H. Talbot, & E. Valin"
+  },
+  {
     "date": "2026-03-29",
     "title": {
       "en": "A Message from Earth",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2602/LunarOccultMercury_2026Feb18-Melandri_1065.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2602/LunarOccultMercury_2026Feb18-Melandri.jpg",
     "copyright": "Fabrizio Melandri"
-  },
-  {
-    "date": "2026-02-27",
-    "title": {
-      "en": "Sharpless 249 and the Jellyfish Nebula",
-      "pt": "Sharpless 249 e a nebulosa da água-viva"
-    },
-    "explanation": {
-      "en": "Normally faint and elusive, the Jellyfish Nebula is caught in this alluring telescopic field of view. Floating in the interstellar sea, the nebula is anchored right and left by two bright stars, Mu and Eta Geminorum, at the foot of the celestial twins. The Jellyfish Nebula itself is right of center, seen as a brighter arcing ridge of emission with dangling tentacles. In fact, this cosmic jellyfish is part of bubble-shaped supernova remnant IC 443, the expanding debris cloud from a massive star that exploded. Light from the explosion first reached planet Earth over 30,000 years ago. Like its cousin in astrophysical waters the Crab Nebula supernova remnant, the Jellyfish Nebula is known to harbor a neutron star, the ultradense remnant of the collapsed stellar core. An emission nebula cataloged as Sharpless 249 fills the field at the upper left. The Jellyfish Nebula is about 5,000 light-years away. At that distance, this image would be about 300 light-years across.",
-      "pt": "Normalmente tênue e evasiva, a Nebulosa da Água-viva é capturada neste atraente campo de visão telescópico. Flutuando no mar interestelar, a nebulosa está ancorada à direita e à esquerda por duas estrelas brilhantes, Mu e Eta Geminorum, aos pés das gêmeas celestes. A própria Nebulosa da Água-viva está à direita do centro, vista como uma crista de emissão em arco mais brilhante com tentáculos pendurados. Na verdade, esta água-viva cósmica faz parte do remanescente de supernova em forma de bolha IC 443, a nuvem de detritos em expansão de uma estrela massiva que explodiu. A luz da explosão atingiu o planeta Terra pela primeira vez há mais de 30.000 anos. Tal como a sua prima nas águas astrofísicas, o remanescente da supernova da Nebulosa do Caranguejo, a Nebulosa da Água-viva é conhecida por abrigar uma estrela de neutrões, o remanescente ultradenso do núcleo estelar colapsado. Uma nebulosa de emissão catalogada como Sharpless 249 preenche o campo no canto superior esquerdo. A Nebulosa da Água-viva está a cerca de 5.000 anos-luz de distância. A essa distância, esta imagem teria cerca de 300 anos-luz de diâmetro."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2602/JellyfishBeecroft_final1_1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2602/JellyfishBeecroft_final1_2048.jpg",
-    "copyright": "Katelyn Beecroft"
   }
 ]
