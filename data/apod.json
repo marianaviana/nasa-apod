@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-03-31",
+    "title": {
+      "en": "Uranus's Largest Moon: Titania",
+      "pt": "A maior lua de Urano: Titânia"
+    },
+    "explanation": {
+      "en": "Titania's tortured terrain is a mix of canyons, cliffs, and craters.  NASA's interplanetary robot spacecraft Voyager 2 passed the largest moon of Uranus in 1986 and took the feature picture. That the trenches of Titania resemble those on another moon of Uranus, Ariel, indicate that Titania underwent some violent surface event possibly related to water freezing and expanding in its distant past.  Although Titania is Uranus's largest moon, it is only about half the radius of Triton - the largest moon of Uranus's sister planet Neptune, which itself is slightly smaller than Earth's Moon.  Titania, discovered by William Herschel in 1787, is essentially a large dirty iceball that is composed of about half water-ice and half rock.  There is recent speculation that radioactive heating melts some underground ice into oceans.",
+      "pt": "O terreno torturado de Titânia é uma mistura de desfiladeiros, penhascos e crateras.  A espaçonave robótica interplanetária da NASA, Voyager 2, passou pela maior lua de Urano em 1986 e tirou a foto principal. O fato de as trincheiras de Titânia se assemelharem às de outra lua de Urano, Ariel, indica que Titânia sofreu algum evento violento na superfície, possivelmente relacionado ao congelamento e expansão da água em seu passado distante.  Embora Titânia seja a maior lua de Urano, tem apenas cerca de metade do raio de Tritão - a maior lua do planeta irmão de Urano, Netuno, que por sua vez é ligeiramente menor que a Lua da Terra.  Titânia, descoberta por William Herschel em 1787, é essencialmente uma grande bola de gelo suja composta por cerca de metade de água gelada e metade de rocha.  Há especulações recentes de que o aquecimento radioativo derrete parte do gelo subterrâneo nos oceanos."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2603/Titania_Voyager2_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2603/Titania_Voyager2_960.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-03-30",
     "title": {
       "en": "Peculiar Elliptical Galaxy Centaurus A",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2603/TotalLunarEclipse2018.mp4",
     "hdurl": "https://apod.nasa.gov/apod/image/2603/TotalLunarEclipse2018.mp4",
     "copyright": null
-  },
-  {
-    "date": "2026-02-28",
-    "title": {
-      "en": "Lunar Occultation of Mercury",
-      "pt": "Ocultação Lunar de Mercúrio"
-    },
-    "explanation": {
-      "en": "Fans of the western sky after sunset have lately enjoyed this month's remarkable array of bright planets. Witnessed from some locations, on February 18 planet Mercury even appeared to slide behind the Moon, an event known as a lunar occultation. These two snapshots, taken in early evening skies show before and after telescopic views of the rare disappearance of innermost planet behind young Moon. The top panel finds bright Mercury just visible at the northern (right) edge of the earthshine-illuminated lunar disk. In the bottom panel the bright planet has emerged in darker skies beyond the Moon's sunlit crescent. As seen south of Sallisaw, Oklahoma, planet Earth, this lunar occultation of Mercury lasted only about 3 minutes (video). But you can still check out a parade of planets tonight.  March 3: Total Lunar Eclipse",
-      "pt": "Os fãs do céu ocidental após o pôr do sol têm desfrutado recentemente da notável variedade de planetas brilhantes deste mês. Testemunhado em alguns locais, em 18 de fevereiro o planeta Mercúrio até parecia deslizar atrás da Lua, um evento conhecido como ocultação lunar. Estas duas imagens, tiradas no início da noite, mostram imagens telescópicas antes e depois do raro desaparecimento do planeta mais interno atrás da jovem Lua. O painel superior mostra Mercúrio brilhante apenas visível na borda norte (direita) do disco lunar iluminado pela luz terrestre. No painel inferior, o planeta brilhante emergiu em céus mais escuros além do crescente iluminado pela Lua. Conforme visto ao sul de Sallisaw, Oklahoma, planeta Terra, esta ocultação lunar de Mercúrio durou apenas cerca de 3 minutos (vídeo). Mas você ainda pode conferir um desfile de planetas esta noite.  3 de março: Eclipse Lunar Total"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2602/LunarOccultMercury_2026Feb18-Melandri_1065.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2602/LunarOccultMercury_2026Feb18-Melandri.jpg",
-    "copyright": "Fabrizio Melandri"
   }
 ]
