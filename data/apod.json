@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-04-01",
+    "title": {
+      "en": "The Claw and Bubble Nebulae",
+      "pt": "As nebulosas de garra e bolha"
+    },
+    "explanation": {
+      "en": "What unexpected things do you see when you look up at the night sky? Today’s image resembles an abstract painting, with large swaths of color strewn across a cosmic canvas seemingly without design. Despite the image's abstract nature, the human mind finds patterns, identifying a large claw reaching up towards a floating bubble. Embedded within these seemingly random structures are the physical laws that govern how light and matter interact. The Claw (Sh2-157) and Bubble (NGC 7635) Nebulae glow colors that are mapped to the yellow and blue shown, indicating the presence of hydrogen and oxygen ionized by the intense light emitted from stars several times the mass of the Sun. This image depicts both the chaos and structure of astronomical processes, showing that a common thread between art and science is to look for the unexpected.",
+      "pt": "Que coisas inesperadas você vê quando olha para o céu noturno? A imagem de hoje lembra uma pintura abstrata, com grandes faixas de cores espalhadas por uma tela cósmica aparentemente sem desenho. Apesar da natureza abstrata da imagem, a mente humana encontra padrões, identificando uma grande garra que se estende em direção a uma bolha flutuante. Incorporadas nessas estruturas aparentemente aleatórias estão as leis físicas que governam como a luz e a matéria interagem. As nebulosas Garra (Sh2-157) e Bolha (NGC 7635) brilham em cores mapeadas em amarelo e azul mostrados, indicando a presença de hidrogênio e oxigênio ionizados pela luz intensa emitida por estrelas com várias vezes a massa do Sol. Esta imagem retrata tanto o caos quanto a estrutura dos processos astronômicos, mostrando que um traço comum entre a arte e a ciência é procurar o inesperado."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2604/claw_bubble_800.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2604/claw_bubble.jpg",
+    "copyright": "Richard Whitehead, Text:, Keighley Rockcliffe  , (NASA, GSFC, UMBC CSST, CRESST II)"
+  },
+  {
     "date": "2026-03-31",
     "title": {
       "en": "Uranus's Largest Moon: Titania",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2603/DustyOrionPleiades_Fernandez_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2603/DustyOrionPleiades_Fernandez_5000.jpg",
     "copyright": "Ignacio Fernández"
-  },
-  {
-    "date": "2026-03-01",
-    "title": {
-      "en": "The Moon During a Total Lunar Eclipse",
-      "pt": "A Lua durante um eclipse lunar total"
-    },
-    "explanation": {
-      "en": "How does the Moon's appearance change during a total lunar eclipse?  The featured time-lapse video was digitally processed to keep the Moon bright and centered during the 5-hour eclipse of 2018 January 31.  At first the full moon is visible because only a full moon can undergo a lunar eclipse. Stars move by in the background because the Moon orbits the Earth during the eclipse.  The circular shadow of the Earth is then seen moving across the Moon.  The light blue hue of the shadow's edge is related to why Earth's sky is blue, while the deep red hue of the shadow's center is related to why the Sun appears red when near the horizon.  Tomorrow night, people living in Eastern Asia, Australia, and much of North America may get to see a Total Blood Moon Lunar Eclipse.  Here the term blood refers to the (likely) red color of a fully eclipsed Moon.   Almost Hyperspace: Random APOD Generator",
-      "pt": "Como a aparência da Lua muda durante um eclipse lunar total?  O vídeo de lapso de tempo apresentado foi processado digitalmente para manter a Lua brilhante e centrada durante o eclipse de 5 horas de 31 de janeiro de 2018. A princípio, a lua cheia é visível porque apenas uma lua cheia pode sofrer um eclipse lunar. As estrelas se movem ao fundo porque a Lua orbita a Terra durante o eclipse.  A sombra circular da Terra é então vista movendo-se através da Lua.  O tom azul claro da borda da sombra está relacionado ao motivo pelo qual o céu da Terra é azul, enquanto o tom vermelho profundo do centro da sombra está relacionado ao motivo pelo qual o Sol parece vermelho quando está próximo do horizonte.  Amanhã à noite, as pessoas que vivem no Leste Asiático, na Austrália e em grande parte da América do Norte poderão ver um Eclipse Lunar da Lua de Sangue Total.  Aqui, o termo sangue refere-se à (provável) cor vermelha de uma Lua totalmente eclipsada.   Quase Hiperespaço: Gerador APOD Aleatório"
-    },
-    "media_type": "video",
-    "url": "https://apod.nasa.gov/apod/image/2603/TotalLunarEclipse2018.mp4",
-    "hdurl": "https://apod.nasa.gov/apod/image/2603/TotalLunarEclipse2018.mp4",
-    "copyright": null
   }
 ]
