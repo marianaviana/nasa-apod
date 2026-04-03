@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-04-03",
+    "title": {
+      "en": "Caught in the Web: Visualization of a Black Hole Merger in the Tarantula Nebula",
+      "pt": "Preso na Web: Visualização de uma fusão de buraco negro na nebulosa da Tarântula"
+    },
+    "explanation": {
+      "en": "How can we see what is invisible? Black holes are not easy to see in the dark cosmic night, but astronomers can find them by analyzing their gravitational effects on matter, light and spacetime. The featured image shows an illustration that combines a simulation of a black hole binary system in its final \"death-dance\" with an astrophotography image of the Tarantula Nebula in the background. Even though black holes don't emit light, they distort the path of light rays, acting like a gravitational lens. As a result, the nebula appears extremely distorted, forming Einstein rings and multiple images.  Tarantula Nebula lies in the Large Magellanic Cloud, a dwarf galaxy that is one of the satellite galaxies of the Milky Way, 160,000 light-years away. That is more than 1,000 times closer than any of the binary black hole mergers detected so far. We'll probably never detect a merger so close to home!",
+      "pt": "Como podemos ver o que é invisível? Os buracos negros não são fáceis de ver na noite cósmica escura, mas os astrónomos podem encontrá-los analisando os seus efeitos gravitacionais na matéria, na luz e no espaço-tempo. A imagem apresentada mostra uma ilustração que combina uma simulação de um sistema binário de buraco negro em sua “dança da morte” final com uma imagem astrofotográfica da Nebulosa da Tarântula ao fundo. Embora os buracos negros não emitam luz, eles distorcem o caminho dos raios de luz, agindo como lentes gravitacionais. Como resultado, a nebulosa parece extremamente distorcida, formando anéis de Einstein e múltiplas imagens.  A Nebulosa da Tarântula fica na Grande Nuvem de Magalhães, uma galáxia anã que é uma das galáxias satélites da Via Láctea, a 160.000 anos-luz de distância. Isso é mais de 1.000 vezes mais próximo do que qualquer uma das fusões binárias de buracos negros detectadas até agora. Provavelmente nunca detectaremos uma fusão tão perto de casa!"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2604/BH_Merger_Tarantula_1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2604/BH_Merger_Tarantula.jpg",
+    "copyright": "Carl Knox"
+  },
+  {
     "date": "2026-04-02",
     "title": {
       "en": "Liftoff! Returning to the Moon",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2603/Shapley1_Bresseler_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2603/Shapley1_Bresseler_2092.jpg",
     "copyright": "Peter Bresseler;, Text:, Keighley Rockcliffe  , (NASA, GSFC, UMBC, CSST, CRESST II)"
-  },
-  {
-    "date": "2026-03-03",
-    "title": {
-      "en": "Flying over the North Pole of Mars",
-      "pt": "Voando sobre o Pólo Norte de Marte"
-    },
-    "explanation": {
-      "en": "If you could fly over the North Pole of Mars, what would you see?  Images from ESA’s Mars Express mission in 2019 were compiled into the featured video which shows just such a trip.  First you see below you a landscape tinted orange by rusted iron in the fine soil, with some land appearing darker due to exposed rock.  Soon the northern polar cap comes into view, mostly white because of its reflective frozen water.  Surrounding the polar cap is the North Polar Basin, a layered depression covered with dust and sand.  The frames in the featured video were captured during northern Martian Spring when the carbon-dioxide ice is evaporating, leaving the underlying water-ice in the cap. Mars Express continues to study the Martian surface and look for clues about the Red Planet's ancient climate and potential for life.",
-      "pt": "Se você pudesse sobrevoar o Pólo Norte de Marte, o que veria?  Imagens da missão Mars Express da ESA em 2019 foram compiladas no vídeo em destaque que mostra exatamente essa viagem.  Primeiro você vê abaixo uma paisagem tingida de laranja por ferro enferrujado no solo fino, com algumas terras parecendo mais escuras devido à rocha exposta.  Logo a calota polar norte aparece, quase toda branca por causa de sua água congelada refletiva.  Ao redor da calota polar está a Bacia Polar Norte, uma depressão em camadas coberta de poeira e areia.  Os quadros no vídeo em destaque foram capturados durante a primavera no norte de Marte, quando o gelo de dióxido de carbono está evaporando, deixando a água gelada subjacente na calota. A Mars Express continua a estudar a superfície marciana e a procurar pistas sobre o antigo clima do Planeta Vermelho e o potencial de vida."
-    },
-    "media_type": "video",
-    "url": "https://apod.nasa.gov/apod/image/2603/FlyingNorth_MarsExpress.mp4",
-    "hdurl": "https://apod.nasa.gov/apod/image/2603/FlyingNorth_MarsExpress.mp4",
-    "copyright": null
   }
 ]
