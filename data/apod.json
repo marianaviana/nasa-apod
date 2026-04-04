@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-04-04",
+    "title": {
+      "en": "Hello World",
+      "pt": "Olá mundo"
+    },
+    "explanation": {
+      "en": "From pole to pole our fair planet is captured in this snapshot from space, an evocative image from a window of the Orion spacecraft Integrity. From the spacecraft's perspective the Sun is moving behind Earth's bright limb along the lower right. Africa and the Iberian peninsula are in view on the pale blue planet's surface, while aurorae crown Earth's south and north poles at top right and bottom left. Commander Reid Wiseman took the historic picture on Artemis II mission flight day 2 (April 2), after the completion of the planned translunar injection burn. That burn boosted the spacecraft out of Earth orbit, sending Integrity and crew on a trajectory that will take them around the Moon and back again. That's a journey humans last made over 50 years ago.",
+      "pt": "De pólo a pólo, o nosso belo planeta é capturado nesta fotografia tirada do espaço, uma imagem evocativa de uma janela da nave espacial Orion Integrity. Da perspectiva da espaçonave, o Sol está se movendo atrás do membro brilhante da Terra, no canto inferior direito. A África e a Península Ibérica podem ser vistas na superfície do planeta azul claro, enquanto as auroras coroam os pólos sul e norte da Terra no canto superior direito e no canto inferior esquerdo. O comandante Reid Wiseman tirou a foto histórica no dia 2 do voo da missão Artemis II (2 de abril), após a conclusão da queima de injeção translunar planejada. Essa queima impulsionou a espaçonave para fora da órbita da Terra, enviando Integridade e tripulação em uma trajetória que os levará ao redor da Lua e de volta. Essa é uma jornada que os humanos fizeram pela última vez há mais de 50 anos."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2604/art002e000192_1050.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2604/art002e000192.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-04-03",
     "title": {
       "en": "Caught in the Web: Visualization of a Black Hole Merger in the Tarantula Nebula",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2603/EclipseSequence_Murata_1080.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2603/EclipseSequence_Murata_1080.jpg",
     "copyright": "Satoru Murata;, Text: , Keighley Rockcliffe , (NASA, GSFC, UMCP, CRESST II)"
-  },
-  {
-    "date": "2026-03-04",
-    "title": {
-      "en": "Shapley 1: An Annular Planetary Nebula",
-      "pt": "Shapley 1: uma nebulosa planetária anular"
-    },
-    "explanation": {
-      "en": "What’s looking back at you isn’t a cosmic eye, but Shapley 1, a beautifully symmetric planetary nebula.  Shapley 1, also known as the Fine Ring Nebula or PLN 329+2.1, bejewels the southern sky constellation of the Carpenter's Square  (Norma).  The nebula is the result of a star near the mass of our Sun running out of fuel and shedding its outer layers.  Glowing oxygen from those expelled layers makes up the circular halo.  The bright central point is actually a binary: a white dwarf, the remaining stellar core after the outer layers are expelled into space, and another star, orbiting each other every 2.9 days.  Shapley 1’s annular shape is due to our top-down view of the system and provides insight into the influence of central stars on planetary nebula structures.",
-      "pt": "O que está olhando para você não é um olho cósmico, mas sim Shapley 1, uma nebulosa planetária lindamente simétrica.  Shapley 1, também conhecida como Nebulosa do Anel Fino ou PLN 329+2.1, adorna a constelação do céu meridional da Praça do Carpinteiro (Norma).  A nebulosa é o resultado de uma estrela próxima à massa do nosso Sol ficar sem combustível e se desprendendo de suas camadas externas.  O oxigênio brilhante dessas camadas expelidas forma o halo circular.  O ponto central brilhante é na verdade um binário: uma anã branca, o núcleo estelar restante após as camadas externas serem expelidas para o espaço e outra estrela, orbitando uma à outra a cada 2,9 dias.  A forma anular de Shapley 1 deve-se à nossa visão de cima para baixo do sistema e fornece informações sobre a influência das estrelas centrais nas estruturas das nebulosas planetárias."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2603/Shapley1_Bresseler_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2603/Shapley1_Bresseler_2092.jpg",
-    "copyright": "Peter Bresseler;, Text:, Keighley Rockcliffe  , (NASA, GSFC, UMBC, CSST, CRESST II)"
   }
 ]
