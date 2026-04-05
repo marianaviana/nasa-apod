@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-04-05",
+    "title": {
+      "en": "NGC 3310: A Starburst Spiral Galaxy",
+      "pt": "NGC 3310: Uma galáxia espiral Starburst"
+    },
+    "explanation": {
+      "en": "The party is still going on in spiral galaxy NGC 3310.  Roughly 100 million years ago, NGC 3310 likely collided with a smaller galaxy causing the large spiral galaxy to light up with a tremendous burst of star formation.  The changing gravity during the collision created density waves that compressed existing clouds of gas and triggered the star-forming party.  The featured image from the Gemini North Telescope shows the galaxy in great detail, color-coded so that pink highlights gas while white and blue highlight stars.  Some of the star clusters in the galaxy are quite young, indicating that starburst galaxies may remain in star-burst mode for quite some time.  NGC 3310 spans about 50,000 light years, lies about 50 million light years away, and is visible with a small telescope towards the constellation of Great Bear Ursa Major.",
+      "pt": "A festa ainda continua na galáxia espiral NGC 3310. Cerca de 100 milhões de anos atrás, NGC 3310 provavelmente colidiu com uma galáxia menor, fazendo com que a grande galáxia espiral se iluminasse com uma tremenda explosão de formação estelar.  A mudança na gravidade durante a colisão criou ondas de densidade que comprimiram as nuvens de gás existentes e desencadearam o grupo de formação estelar.  A imagem apresentada pelo Telescópio Gemini Norte mostra a galáxia em grande detalhe, codificada por cores de modo que o rosa destaca o gás enquanto o branco e o azul destacam as estrelas.  Alguns dos aglomerados de estrelas na galáxia são bastante jovens, indicando que as galáxias com explosão estelar podem permanecer no modo de explosão estelar por algum tempo.  NGC 3310 se estende por cerca de 50.000 anos-luz, fica a cerca de 50 milhões de anos-luz de distância e é visível com um pequeno telescópio em direção à constelação da Ursa Maior, Ursa Maior."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2604/ngc3310_gemini_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2604/ngc3310_gemini_1837.jpg",
+    "copyright": "AAO ITSO Office, Gemini Obs./AURA & , T. A. Rector , (U. Alaska Anchorage)"
+  },
+  {
     "date": "2026-04-04",
     "title": {
       "en": "Hello World",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2603/astrosphere_labeled_1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2603/astrosphere_labeled_1024.jpg",
     "copyright": null
-  },
-  {
-    "date": "2026-03-05",
-    "title": {
-      "en": "Total Lunar Eclipse over Tsé Bit'a'í",
-      "pt": "Eclipse Lunar Total sobre Tsé Bit'a'í"
-    },
-    "explanation": {
-      "en": "rlier this week, Earth’s shadow swept across the full Moon in the year’s only total lunar eclipse. This stunning sequence combines images showing the Moon’s path across the night sky.  Each lunar image captures our planet’s shadow gradually engulfing the Moon, culminating in its red glow.  Sunlight scatters and refracts as it passes through Earth’s atmosphere toward the Moon. Shorter wavelength light (blue and green) scatters more efficiently, leaving red, orange, and yellow hues to paint the lunar surface. Tsé Bit'a'í (”rock with wings”, also known as Shiprock), located in Navajo Nation, provides a powerful volcanic foreground central to this photo and to stories of Navajo origin, adventure, and heroism. As the first full moon of the lunar new year, this eclipse held significance across cultures. Visible from East Asia to North America, this eclipse united observers across great distances, a cosmic reminder that we share the same sky.",
-      "pt": "No início desta semana, a sombra da Terra varreu a Lua cheia no único eclipse lunar total do ano. Esta sequência impressionante combina imagens que mostram o caminho da Lua no céu noturno.  Cada imagem lunar captura a sombra do nosso planeta envolvendo gradualmente a Lua, culminando no seu brilho vermelho.  A luz solar se espalha e refrata à medida que passa pela atmosfera da Terra em direção à Lua. A luz de comprimento de onda mais curto (azul e verde) se espalha com mais eficiência, deixando tons de vermelho, laranja e amarelo para pintar a superfície lunar. Tsé Bit'a'í (“rocha com asas”, também conhecida como Shiprock), localizada na nação Navajo, fornece um poderoso primeiro plano vulcânico central para esta foto e para histórias de origem, aventura e heroísmo Navajo. Como a primeira lua cheia do ano novo lunar, este eclipse teve significado em todas as culturas. Visível desde o Leste Asiático até à América do Norte, este eclipse uniu observadores a grandes distâncias, um lembrete cósmico de que partilhamos o mesmo céu."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2603/EclipseSequence_Murata_1080.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2603/EclipseSequence_Murata_1080.jpg",
-    "copyright": "Satoru Murata;, Text: , Keighley Rockcliffe , (NASA, GSFC, UMCP, CRESST II)"
   }
 ]
