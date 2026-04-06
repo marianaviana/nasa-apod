@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-04-06",
+    "title": {
+      "en": "The Path of Artemis II",
+      "pt": "O Caminho de Ártemis II"
+    },
+    "explanation": {
+      "en": "Why doesn't Artemis II land on the Moon? The main reason is that Artemis II is primarily a test mission designed to make a future Artemis missions -- which will land humans on the Moon -- better prepared.  Similarly, NASA's Apollo 8 and Apollo 10 went right near the Moon as tests before Apollo 11 -- which landed.  As the trajectory in the featured animated video shows, Artemis II will loop around both the Earth and the Moon before returning to the Earth about 10 days after launch. The Artemis II mission will take humans outside the Earth's magnetosphere for the first time since the Apollo missions 50 years ago.  In the video, particles from the solar wind are shown as streaks, while the Earth's reacting magnetosphere is shown in flickering green.  The Earth's magnetosphere is important in deflecting powerful particles arriving from the Sun as well as creating picturesque auroras visible from the Earth's surface.    Explore the Universe: Random APOD Generator",
+      "pt": "Por que Artemis II não pousa na Lua? A principal razão é que Artemis II é principalmente uma missão de teste projetada para tornar as futuras missões Artemis - que pousarão humanos na Lua - mais bem preparadas.  Da mesma forma, a Apollo 8 e a Apollo 10 da NASA passaram bem perto da Lua como testes antes da Apollo 11 – que pousou.  Como mostra a trajetória no vídeo animado apresentado, o Artemis II dará uma volta ao redor da Terra e da Lua antes de retornar à Terra cerca de 10 dias após o lançamento. A missão Artemis II levará os humanos para fora da magnetosfera da Terra pela primeira vez desde as missões Apollo, há 50 anos.  No vídeo, as partículas do vento solar são mostradas como listras, enquanto a magnetosfera reativa da Terra é mostrada em verde tremeluzente.  A magnetosfera da Terra é importante para desviar partículas poderosas que chegam do Sol, bem como para criar auroras pitorescas visíveis da superfície da Terra.    Explore o Universo: Gerador APOD Aleatório"
+    },
+    "media_type": "video",
+    "url": "https://apod.nasa.gov/apod/image/2604/Artemis2Path_NasaSvs.mp4",
+    "hdurl": "https://apod.nasa.gov/apod/image/2604/Artemis2Path_NasaSvs.mp4",
+    "copyright": null
+  },
+  {
     "date": "2026-04-05",
     "title": {
       "en": "NGC 3310: A Starburst Spiral Galaxy",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2603/Two_Eclipses_Horalek_Tezel_800px.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2603/Two_Eclipses_Horalek_Tezel_1200px.jpg",
     "copyright": "Tunc Tezel"
-  },
-  {
-    "date": "2026-03-06",
-    "title": {
-      "en": "The Astrosphere of HD 61005",
-      "pt": "A Astrosfera de HD 61005"
-    },
-    "explanation": {
-      "en": "Do young stars blow bubbles? The larger view shows a stellar field observed with the Cerro Tololo Inter-American Observatory in Chile, and the inset highlights HD 61005, a star like our Sun, only 120 light-years away. Much younger than the Sun, at just about 100 million years old, it blows a fast and dense stellar wind that pushes out the cooler dust and gas that surrounds it, forming a bubble called an astrosphere. The star-blown bubble was detected with the Chandra X-ray Observatory, and it has a diameter roughly 200 times the Earth-Sun distance.  Our Sun has a bubble too, called the heliosphere, which protects the planets from cosmic radiation. Also shown in the inset is debris left behind from star formation, observed by Hubble. The debris appears as wings, giving the star its nickname: the Moth.",
-      "pt": "As estrelas jovens fazem bolhas? A imagem ampliada mostra um campo estelar observado com o Observatório Interamericano de Cerro Tololo, no Chile, e a inserção destaca HD 61005, uma estrela como o nosso Sol, a apenas 120 anos-luz de distância. Muito mais jovem que o Sol, com cerca de 100 milhões de anos, sopra um vento estelar rápido e denso que empurra para fora a poeira e o gás mais frios que o rodeia, formando uma bolha chamada astrosfera. A bolha estelar foi detectada com o Observatório de Raios-X Chandra e tem um diâmetro de aproximadamente 200 vezes a distância Terra-Sol.  Nosso Sol também possui uma bolha, chamada heliosfera, que protege os planetas da radiação cósmica. Também são mostrados na inserção os detritos deixados pela formação de estrelas, observados pelo Hubble. Os destroços aparecem como asas, dando à estrela o apelido: Mariposa."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2603/astrosphere_labeled_1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2603/astrosphere_labeled_1024.jpg",
-    "copyright": null
   }
 ]
