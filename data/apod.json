@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-04-07",
+    "title": {
+      "en": "IC 4592: The Blue Horsehead Reflection Nebula",
+      "pt": "IC 4592: A Nebulosa de Reflexão Cabeça de Cavalo Azul"
+    },
+    "explanation": {
+      "en": "Do you see the horse's head?   What you are seeing is not the famous Horsehead nebula toward Orion, but rather a fainter nebula that only takes on a familiar form with deeper imaging.  The main part of the here-imaged molecular cloud complex is  reflection nebula IC 4592.  Reflection nebulas are made up of very fine dust that normally appears dark but can look quite blue when reflecting the visible light of energetic nearby stars.  In this case, the source of much of the reflected light is a star at the eye of the horse.  That star is part of Nu Scorpii, one of the brighter star systems toward the constellation of the Scorpion (Scorpius).   A second reflection nebula dubbed IC 4601 is visible surrounding two stars just below the image center.  The featured picture was taken from  Sawda Natheel in  Qatar.   Jigsaw Nebula: Astronomy Puzzle of the Day",
+      "pt": "Você vê a cabeça do cavalo?   O que você está vendo não é a famosa nebulosa Cabeça de Cavalo em direção a Órion, mas sim uma nebulosa mais tênue que só assume uma forma familiar com imagens mais profundas.  A parte principal do complexo de nuvens moleculares aqui fotografado é a nebulosa de reflexão IC 4592. As nebulosas de reflexão são compostas de poeira muito fina que normalmente parece escura, mas pode parecer bastante azul quando reflete a luz visível de estrelas energéticas próximas.  Neste caso, a fonte de grande parte da luz refletida é uma estrela no olho do cavalo.  Essa estrela faz parte de Nu Scorpii, um dos sistemas estelares mais brilhantes em direção à constelação do Escorpião (Escorpião).   Uma segunda nebulosa de reflexão chamada IC 4601 é visível em torno de duas estrelas logo abaixo do centro da imagem.  A foto em destaque foi tirada de Sawda Natheel no Qatar.   Nebulosa Jigsaw: quebra-cabeça astronômico do dia"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2604/BlueHorse_Alkuwari_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2604/BlueHorse_Alkuwari_1620.JPG",
+    "copyright": "Rabeea Alkuwari"
+  },
+  {
     "date": "2026-04-06",
     "title": {
       "en": "The Path of Artemis II",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2603/AuroraTree_Wallace_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2603/AuroraTree_Wallace_2048.jpg",
     "copyright": "Alyn Wallace"
-  },
-  {
-    "date": "2026-03-07",
-    "title": {
-      "en": "Two Eclipses of Saros 133",
-      "pt": "Dois Eclipses de Saros 133"
-    },
-    "explanation": {
-      "en": "Centered on maximum eclipse, these two total lunar eclipse sequences look almost identical. Yet the one shown on top is composed of images recorded in February 2008, while at the bottom is the recent March 2026 total eclipse of the Moon. Why are they so similar? Because these two total lunar eclipses are from the same Saros cycle. The Saros cycle was discovered historically from observations of the Moon's orbit. With a period of 18 years, 11 and 1/3 days, the cycle predicts when the Sun, Earth, and Moon all return to the same relative geometry for a lunar (or solar) eclipse. Eclipses separated by one Saros period belong to the same numbered Saros series, in this case Saros 133. So expect the next lunar eclipse in Saros 133 to be a repeat of this year's March 3 eclipse. You can watch the next Saros 133 total lunar eclipse on March 13, 2044.   Growing Gallery: Total Lunar Eclipse of March 3",
-      "pt": "Centrados no eclipse máximo, essas duas sequências de eclipses lunares totais parecem quase idênticas. No entanto, o mostrado no topo é composto por imagens registradas em fevereiro de 2008, enquanto na parte inferior está o recente eclipse total da Lua em março de 2026. Por que eles são tão parecidos? Porque esses dois eclipses lunares totais são do mesmo ciclo de Saros. O ciclo de Saros foi descoberto historicamente a partir de observações da órbita da Lua. Com um período de 18 anos, 11 e 1/3 dias, o ciclo prevê quando o Sol, a Terra e a Lua retornam à mesma geometria relativa para um eclipse lunar (ou solar). Os eclipses separados por um período Saros pertencem à mesma série numerada de Saros, neste caso Saros 133. Portanto, espere que o próximo eclipse lunar em Saros 133 seja uma repetição do eclipse de 3 de março deste ano. Você pode assistir ao próximo eclipse lunar total Saros 133 em 13 de março de 2044. Galeria crescente: Eclipse lunar total de 3 de março"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2603/Two_Eclipses_Horalek_Tezel_800px.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2603/Two_Eclipses_Horalek_Tezel_1200px.jpg",
-    "copyright": "Tunc Tezel"
   }
 ]
