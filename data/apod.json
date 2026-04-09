@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-04-09",
+    "title": {
+      "en": "Destruction of Comet C/2026 A1 (MAPS)",
+      "pt": "Destruição do Cometa C/2026 A1 (MAPS)"
+    },
+    "explanation": {
+      "en": "As the crew of Artemis II travelled towards the Moon this week, Comet C/2026 A1 (MAPS) was expected to have its closest approach to the Sun on Monday. At this point, comet and Sun would be closer than half the distance separating the Earth and Moon. The comet did not survive; the featured video was made with 40 hours of data and shows the comet plunging toward the Sun, like a moth to a flame. Observing the comet so close to our bright star requires a coronagraph, an instrument that blocks the Sun and is used for studies of its corona. This composite video combines, starting from the outside, views from: the wider angle coronagraph (blue) and the narrower angle coronagraph (red), both on NASA's Solar and Heliospheric Observatory, and NASA's Solar Dynamics Observatory (black). We can see the comet approaching the sun, stretching, disappearing behind the coronagraph's occulting disk and reappearing as a cloud of debris that dissipates.",
+      "pt": "Enquanto a tripulação do Artemis II viajava em direção à Lua esta semana, esperava-se que o cometa C/2026 A1 (MAPS) se aproximasse mais do Sol na segunda-feira. Neste ponto, o cometa e o Sol estariam mais próximos do que metade da distância que separa a Terra e a Lua. O cometa não sobreviveu; o vídeo em destaque foi feito com 40 horas de dados e mostra o cometa mergulhando em direção ao Sol, como uma mariposa em direção à chama. Observar o cometa tão próximo da nossa estrela brilhante requer um coronógrafo, instrumento que bloqueia o Sol e é utilizado para estudos da sua coroa. Este vídeo composto combina, começando de fora, vistas de: o coronógrafo de ângulo mais amplo (azul) e o coronógrafo de ângulo mais estreito (vermelho), ambos no Observatório Solar e Heliosférico da NASA e no Observatório de Dinâmica Solar da NASA (preto). Podemos ver o cometa se aproximando do Sol, esticando-se, desaparecendo atrás do disco ocultador do coronógrafo e reaparecendo como uma nuvem de detritos que se dissipa."
+    },
+    "media_type": "video",
+    "url": "https://apod.nasa.gov/apod/image/2604/comet_plunge.mp4",
+    "hdurl": "https://apod.nasa.gov/apod/image/2604/comet_plunge.mp4",
+    "copyright": null
+  },
+  {
     "date": "2026-04-07",
     "title": {
       "en": "IC 4592: The Blue Horsehead Reflection Nebula",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2603/cranium_WebbMiri2_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2603/Cranium_Webb_8832.jpg",
     "copyright": null
-  },
-  {
-    "date": "2026-03-08",
-    "title": {
-      "en": "The Aurora Tree",
-      "pt": "A Árvore Aurora"
-    },
-    "explanation": {
-      "en": "Yes, but can your tree do this?  Pictured is a visual coincidence between the dark branches of a nearby tree and bright glow of a distant aurora. The beauty of the aurora -- combined with how it seemed to mimic a tree right nearby -- mesmerized the photographer to such a degree that he momentarily forgot to take pictures. When viewed at the right angle, it seemed that this tree had aurora for leaves. Fortunately, before the aurora morphed into a different overall shape, he came to his senses and captured the awe-inspiring momentary coincidence.  Typically triggered by solar explosions, aurora are caused by high energy electrons impacting the Earth's atmosphere around 150 kilometers up.  The unusual Earth-sky collaboration was witnessed in March of 2017 in Iceland.    Sky Surprise: What picture did APOD feature on your birthday? (after 1995)",
-      "pt": "Sim, mas sua árvore pode fazer isso?  Na foto há uma coincidência visual entre os galhos escuros de uma árvore próxima e o brilho brilhante de uma aurora distante. A beleza da aurora – combinada com a forma como ela parecia imitar uma árvore próxima – hipnotizou o fotógrafo a tal ponto que ele se esqueceu momentaneamente de tirar fotos. Quando vista do ângulo certo, parecia que esta árvore tinha aurora no lugar das folhas. Felizmente, antes que a aurora se transformasse em uma forma geral diferente, ele recobrou o juízo e capturou a inspiradora coincidência momentânea.  Normalmente desencadeadas por explosões solares, as auroras são causadas por elétrons de alta energia que impactam a atmosfera da Terra a cerca de 150 quilômetros de altitude.  A incomum colaboração Terra-céu foi testemunhada em março de 2017 na Islândia.    Sky Surprise: Que foto o APOD apresentou no seu aniversário? (depois de 1995)"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2603/AuroraTree_Wallace_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2603/AuroraTree_Wallace_2048.jpg",
-    "copyright": "Alyn Wallace"
   }
 ]
