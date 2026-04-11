@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-04-11",
+    "title": {
+      "en": "Artemis II: Flight Day 6",
+      "pt": "Artemis II: dia de voo 6"
+    },
+    "explanation": {
+      "en": "On flight day 6 (April 6) the Artemis II mission achieved a historic lunar flyby. Rounding the lunar far side, the deep space maneuver marked humanity's first venture to the Moon since Apollo 17 in 1972. The Orion spacecraft Integrity reached a maximum distance of nearly 407,000 kilometers, and the Artemis II crew, Reid Wiseman, Victor Glover, and Christina Koch, and Jeremy Hansen, set the record for the farthest distance from Earth traveled by any human since the Apollo 13 crew in 1970. From behind the Moon on flight day 6, a solar array wing camera recorded this space age selfie, framing the spacecraft and lunar far side. Planet Earth, home to the Artemis II crew, is the small, bright crescent beyond the lunar limb. The crew safely returned home on Artemis II mission flight day 10.   Artemis II: Splashdown",
+      "pt": "No dia 6 de voo (6 de abril), a missão Artemis II realizou um sobrevôo lunar histórico. Contornando o outro lado lunar, a manobra no espaço profundo marcou a primeira aventura da humanidade à Lua desde a Apollo 17 em 1972. A espaçonave Orion Integrity atingiu uma distância máxima de quase 407.000 quilômetros, e a tripulação do Artemis II, Reid Wiseman, Victor Glover e Christina Koch, e Jeremy Hansen, estabeleceram o recorde da maior distância da Terra percorrida por qualquer ser humano desde a tripulação da Apollo 13 em 1970. De trás da Lua em diante No dia 6 do voo, uma câmera de asa com painel solar gravou esta selfie da era espacial, enquadrando a espaçonave e o lado oculto da Lua. O planeta Terra, lar da tripulação do Artemis II, é o pequeno e brilhante crescente além do limbo lunar. A tripulação voltou para casa em segurança no voo da missão Artemis II, dia 10. Artemis II: Splashdown"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2604/art002e009567_1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2604/art002e009567_1920.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-04-09",
     "title": {
       "en": "Destruction of Comet C/2026 A1 (MAPS)",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2603/TeleSkyLasers_Looten_1080.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2603/TeleSkyLasers_Looten_3000.jpg",
     "copyright": "Julien Looten"
-  },
-  {
-    "date": "2026-03-09",
-    "title": {
-      "en": "The Cranium Nebula from the Webb Telescope",
-      "pt": "A Nebulosa do Crânio vista pelo Telescópio Webb"
-    },
-    "explanation": {
-      "en": "What's going on inside the head of this nebula?  Dubbed the Exposed Cranium Nebula for its similarity to the human brain, what created the nebula remains a mystery.  One thought is that the Cranium Nebula, also known as PMR 1, is a planetary nebula surrounding a white dwarf star. In this mode, the outer atmosphere was expelled when the original Sun-like star ran out of central nuclear fuel and contracted. A competing thought is that the central star is much more massive, possibly a Wolf-Rayet star, that is ejecting gas and dust via turbulent stellar winds.  Adding to the intrigue is the dark vertical central division and the thin outer gaseous shell.  The featured image was taken by the Webb Space Telescope in mid- infrared light, while a second image, included as a rollover, is in near-infrared.  Future observations may reveal if this brainy system will quietly just fade from view or, many years from now, suddenly erupt in a powerful supernova.",
-      "pt": "O que está acontecendo dentro da cabeça desta nebulosa?  Apelidada de Nebulosa do Crânio Exposto por sua semelhança com o cérebro humano, o que criou a nebulosa permanece um mistério.  Pensa-se que a Nebulosa do Crânio, também conhecida como PMR 1, seja uma nebulosa planetária que rodeia uma estrela anã branca. Neste modo, a atmosfera exterior foi expelida quando a estrela original semelhante ao Sol ficou sem combustível nuclear central e contraiu-se. Um pensamento concorrente é que a estrela central é muito mais massiva, possivelmente uma estrela Wolf-Rayet, que está ejetando gás e poeira através de ventos estelares turbulentos.  Somando-se à intriga está a divisão central vertical escura e a fina camada gasosa externa.  A imagem apresentada foi obtida pelo Telescópio Espacial Webb no infravermelho médio, enquanto uma segunda imagem, incluída como rollover, é no infravermelho próximo.  Observações futuras poderão revelar se este sistema inteligente desaparecerá silenciosamente de vista ou, daqui a muitos anos, explodirá subitamente numa poderosa supernova."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2603/cranium_WebbMiri2_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2603/Cranium_Webb_8832.jpg",
-    "copyright": null
   }
 ]
