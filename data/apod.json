@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-04-12",
+    "title": {
+      "en": "Comet R3 (PanSTARRS) Brightens",
+      "pt": "Cometa R3 (PanSTARRS) ilumina"
+    },
+    "explanation": {
+      "en": "Comet R3 is brightening rapidly -- will it survive?  C/2025 R3 (PanSTARRS) has been slowly brightening and extending an ion tail since its discovery last year.  This shedding mountain of dirty ice puts on its best sky show this month, though, because it passes its closest to both the Sun (April 19) and the Earth (April 25).  The featured image, showing R3 already sporting a tail extending over 10 degrees, was taken two nights ago from Sion, Switzerland with the big mountain Bietschhorn on the left.  Comet R3 will be visible during mid-April before sunrise. Although the future brightness of any comet is hard to predict, the brightness of R3 makes it already a good camera comet and it may become visible to the unaided eye in the next week.  Comet R3's physical future is also unknown because, like Comet A1 (MAPS) earlier this month, it may disintegrate when it passes its closest to the Sun.  Or it may live to leave the Solar System.    Growing Gallery: Comet R3 in 2026",
+      "pt": "O cometa R3 está brilhando rapidamente – sobreviverá?  C/2025 R3 (PanSTARRS) tem aumentado lentamente o brilho e estendido uma cauda de íons desde sua descoberta no ano passado.  Esta montanha de gelo sujo apresenta seu melhor espetáculo celeste este mês, porque passa mais perto do Sol (19 de abril) e da Terra (25 de abril).  A imagem em destaque, mostrando o R3 já ostentando uma cauda que se estende por mais de 10 graus, foi tirada há duas noites em Sion, na Suíça, com a grande montanha Bietschhorn à esquerda.  O cometa R3 será visível em meados de abril, antes do nascer do sol. Embora seja difícil prever o brilho futuro de qualquer cometa, o brilho do R3 já o torna um bom cometa para câmera e pode se tornar visível a olho nu na próxima semana.  O futuro físico do cometa R3 também é desconhecido porque, tal como o cometa A1 (MAPS) no início deste mês, pode desintegrar-se quando passar mais próximo do Sol.  Ou pode viver para deixar o Sistema Solar.    Galeria em crescimento: Cometa R3 em 2026"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2604/R3Panstarrs_Rodrigues_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2604/R3Panstarrs_Rodrigues_1707.jpg",
+    "copyright": "José Rodrigues"
+  },
+  {
     "date": "2026-04-11",
     "title": {
       "en": "Artemis II: Flight Day 6",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2603/cg4_1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2603/cg4.jpg",
     "copyright": "William Vrbasso"
-  },
-  {
-    "date": "2026-03-10",
-    "title": {
-      "en": "Sky Glows over Paranal Observatory",
-      "pt": "Céu brilha sobre o Observatório do Paranal"
-    },
-    "explanation": {
-      "en": "Are lasers from giant telescopes being used to defend the Earth?  No.  Lasers shot from telescopes are now commonly used to help increase the accuracy of astronomical observations.  In some directions, Earth atmosphere-induced fluctuations in starlight can indicate how the air mass over a telescope is changing, but in other directions, no bright star exists.  In these directions, astronomers can create an artificial star with a laser.  Subsequent observations of the artificial laser guide star can reveal information so detailed about the changing blurring effects of the Earth's atmosphere that much of it can be removed by rapidly flexing a telescope's mirror.  Such adaptive optics techniques allow high-resolution ground-based observations of real stars, planets, and nebulas.  Pictured here, telescopes at Paranal Observatory in Chile study a colorful sky filled with green airglow and the Magellanic Clouds on the left, red airglow on the right, and the majestic central band of our Milky Way Galaxy arching across the center.",
-      "pt": "Os lasers de telescópios gigantes estão sendo usados ​​para defender a Terra?  Não. Lasers disparados por telescópios são agora comumente usados ​​para ajudar a aumentar a precisão das observações astronômicas.  Em algumas direções, as flutuações na luz das estrelas induzidas pela atmosfera terrestre podem indicar como a massa de ar sobre um telescópio está mudando, mas em outras direções, não existe nenhuma estrela brilhante.  Nessas direções, os astrônomos podem criar uma estrela artificial com um laser.  Observações subsequentes da estrela guia laser artificial podem revelar informações tão detalhadas sobre os efeitos mutáveis ​​de desfoque da atmosfera da Terra que grande parte delas pode ser removida flexionando rapidamente o espelho de um telescópio.  Essas técnicas de óptica adaptativa permitem observações terrestres de alta resolução de estrelas, planetas e nebulosas reais.  Na foto aqui, os telescópios do Observatório do Paranal, no Chile, estudam um céu colorido repleto de brilho aéreo verde e as Nuvens de Magalhães à esquerda, brilho aéreo vermelho à direita e a majestosa faixa central da nossa Galáxia, a Via Láctea, arqueando-se no centro."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2603/TeleSkyLasers_Looten_1080.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2603/TeleSkyLasers_Looten_3000.jpg",
-    "copyright": "Julien Looten"
   }
 ]
