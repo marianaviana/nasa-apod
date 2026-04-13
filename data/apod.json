@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-04-13",
+    "title": {
+      "en": "NGC 602 and Beyond",
+      "pt": "NGC 602 e além"
+    },
+    "explanation": {
+      "en": "The clouds may look like an oyster, and the stars like pearls, but look beyond. Near the outskirts of the Small Magellanic Cloud, a satellite galaxy some 200 thousand light-years distant, lies 5 million year young star cluster NGC 602. Surrounded by natal gas and dust, NGC 602 is featured in this stunning Hubble image of the region. Fantastic ridges and swept back shapes strongly suggest that energetic radiation and shock waves from NGC 602's massive young stars have eroded the dusty material and triggered a progression of star formation moving away from the cluster's center. At the estimated distance of the Small Magellanic Cloud, the featured picture spans about 200 light-years, but a tantalizing assortment of background galaxies are also visible in this sharp multi-colored view. The background galaxies are hundreds of millions of light-years or more beyond NGC 602.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)",
+      "pt": "As nuvens podem parecer uma ostra e as estrelas como pérolas, mas olhe além. Perto dos arredores da Pequena Nuvem de Magalhães, uma galáxia satélite a cerca de 200 mil anos-luz de distância, encontra-se o jovem aglomerado estelar NGC 602, com 5 milhões de anos de idade. Rodeado por gás natal e poeira, NGC 602 é apresentado nesta impressionante imagem da região feita pelo Hubble. As cristas fantásticas e as formas curvadas sugerem fortemente que a radiação energética e as ondas de choque das estrelas jovens massivas de NGC 602 erodiram o material poeirento e desencadearam uma progressão na formação estelar afastando-se do centro do aglomerado. À distância estimada da Pequena Nuvem de Magalhães, a imagem apresentada abrange cerca de 200 anos-luz, mas uma variedade tentadora de galáxias de fundo também é visível nesta imagem nítida e multicolorida. As galáxias de fundo estão a centenas de milhões de anos-luz ou mais além da NGC 602. Sky Surprise: Que imagem o APOD apresentou no seu aniversário? (depois de 1995)"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2604/Ngc602_Hubble_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2604/Ngc602_Hubble_3749.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-04-12",
     "title": {
       "en": "Comet R3 (PanSTARRS) Brightens",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2603/Jason_Perry_Totality_Trail_Lake_Toolondo_Australia800.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2603/Jason_Perry_Totality_Trail_Lake_Toolondo_Australia1600.jpg",
     "copyright": "Jason Perry"
-  },
-  {
-    "date": "2026-03-11",
-    "title": {
-      "en": "CG 4: The Globule and the Galaxy",
-      "pt": "CG 4: O Glóbulo e a Galáxia"
-    },
-    "explanation": {
-      "en": "Is this a cosmic monster ready to devour an unsuspecting galaxy? Thankfully, that is not the case. The red “monster” shown in the featured image is Cometary Globule CG 4, 1,300 light-years away in the Constellation Puppis. CG 4 is a molecular cloud, where hydrogen becomes cold enough to form molecules that can be brought together by gravity to create stars. The shape of CG 4 resembles that of a comet, but its head is 1.5 light-year in diameter and its tail is 8 light-years long; for comparison, the distance from the Earth to the sun is only 8 light-minutes. Astronomers believe that the tail of a cometary globule could have been shaped by a nearby supernova explosion or by irradiation from hot, massive stars. Indeed, CG 4 and other nearby globules point away from the Vela Supernova Remnant, at the center of the Gum Nebula. The edge-on spiral galaxy, ESO 257-19, is more than a hundred million light-years beyond CG 4, and is completely safe from the “monster”.",
-      "pt": "Será este um monstro cósmico pronto para devorar uma galáxia desavisada? Felizmente, esse não é o caso. O “monstro” vermelho mostrado na imagem em destaque é o Glóbulo Cometário CG 4, a 1.300 anos-luz de distância, na Constelação Puppis. CG 4 é uma nuvem molecular, onde o hidrogênio se torna frio o suficiente para formar moléculas que podem ser unidas pela gravidade para criar estrelas. A forma do CG 4 lembra a de um cometa, mas sua cabeça tem 1,5 anos-luz de diâmetro e sua cauda tem 8 anos-luz de comprimento; para efeito de comparação, a distância da Terra ao Sol é de apenas 8 minutos-luz. Os astrónomos acreditam que a cauda de um glóbulo cometário pode ter sido moldada pela explosão de uma supernova próxima ou pela irradiação de estrelas quentes e massivas. Na verdade, CG 4 e outros glóbulos próximos apontam para longe do Remanescente da Supernova Vela, no centro da Nebulosa Gum. A galáxia espiral lateral, ESO 257-19, está a mais de cem milhões de anos-luz além de CG 4 e está completamente a salvo do “monstro”."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2603/cg4_1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2603/cg4.jpg",
-    "copyright": "William Vrbasso"
   }
 ]
