@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-04-16",
+    "title": {
+      "en": "South Celestial Tree",
+      "pt": "Árvore Celestial do Sul"
+    },
+    "explanation": {
+      "en": "If you live in the northern hemisphere, you may have learned how to locate the North Star, Polaris, in the night sky. It can be used to find north, and it approximately marks the northern celestial pole. If you live in the southern hemisphere, there is no bright star marking the southern celestial pole, but the Southern Cross can be used to find south. The featured image was taken in Padre Bernardo (GO), Brazil. It shows the apparent motion of the stars around the apparently empty southern celestial pole over 2 hours, on August 20, 2018. Each star takes about 24 hours to make a complete turn around the pole in the sky. Padre Bernardo is located in the Cerrado region, a tropical savanna that occupies most of central Brazil and supports rich biodiversity. The barren branch that apparently supports this sky wheel of rotating stars is a common sight there in the dry season during the southern winter.",
+      "pt": "Se você mora no hemisfério norte, pode ter aprendido como localizar a Estrela do Norte, Polaris, no céu noturno. Pode ser usado para encontrar o norte e marca aproximadamente o pólo celeste norte. Se você mora no hemisfério sul, não há nenhuma estrela brilhante marcando o pólo celeste sul, mas o Cruzeiro do Sul pode ser usado para encontrar o sul. A imagem em destaque foi tirada em Padre Bernardo (GO), Brasil. Ele mostra o movimento aparente das estrelas em torno do pólo celeste sul aparentemente vazio durante 2 horas, em 20 de agosto de 2018. Cada estrela leva cerca de 24 horas para dar uma volta completa em torno do pólo no céu. Padre Bernardo está localizado na região do Cerrado, uma savana tropical que ocupa a maior parte do Brasil central e abriga uma rica biodiversidade. O ramo estéril que aparentemente sustenta esta roda celeste de estrelas em rotação é uma visão comum ali na estação seca durante o inverno austral."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2604/Southern_Celestial_Pole_800.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2604/Southern_Celestial_Pole.jpg",
+    "copyright": "Kiko Fairbairn"
+  },
+  {
     "date": "2026-04-13",
     "title": {
       "en": "NGC 602 and Beyond",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2603/MIT-Pi-Planet-01-PRESS1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2603/MIT-Pi-Planet-01-PRESS.jpg",
     "copyright": null
-  },
-  {
-    "date": "2026-03-13",
-    "title": {
-      "en": "Toolondo Totality Trails",
-      "pt": "Trilhas de totalidade de Toolondo"
-    },
-    "explanation": {
-      "en": "In this composited night skyscape, stacked exposures trace graceful star trails above Lake Toolondo, Victoria, Australia, planet Earth. Captured while the lunar eclipse of March 3 was in progress, the exposures used were made during the hour-long total eclipse phase. So faint star trails are easily visible along with the trail of the reddened Moon in the eclipse-darkened skies above the lake and trees. Of course, the apparent motion of Moon and stars revealed in the timelapse composite reflect the Earth's daily rotation around its axis. Dramatically punctuating the Moon's trail as totality ended, a single, separate telephoto image of the totally eclipsed Moon was scaled and blended into the scene.   Growing Gallery: Total Lunar Eclipse of March 3",
-      "pt": "Nesta paisagem noturna composta, exposições empilhadas traçam graciosos rastros de estrelas acima do Lago Toolondo, Victoria, Austrália, planeta Terra. Capturadas enquanto o eclipse lunar de 3 de março estava em andamento, as exposições utilizadas foram feitas durante a fase do eclipse total de uma hora. Assim, rastros fracos de estrelas são facilmente visíveis junto com o rastro da Lua avermelhada nos céus escurecidos pelo eclipse acima do lago e das árvores. É claro que o movimento aparente da Lua e das estrelas revelado na composição timelapse reflete a rotação diária da Terra em torno do seu eixo. Pontuando dramaticamente o rasto da Lua à medida que a totalidade terminava, uma única imagem telefoto separada da Lua totalmente eclipsada foi dimensionada e misturada na cena.   Galeria crescente: Eclipse lunar total de 3 de março"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2603/Jason_Perry_Totality_Trail_Lake_Toolondo_Australia800.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2603/Jason_Perry_Totality_Trail_Lake_Toolondo_Australia1600.jpg",
-    "copyright": "Jason Perry"
   }
 ]
