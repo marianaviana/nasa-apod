@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-04-19",
+    "title": {
+      "en": "Eye on the Milky Way",
+      "pt": "Olho na Via Láctea"
+    },
+    "explanation": {
+      "en": "Have you ever had stars in your eyes? It appears that the eye on the left does, and moreover, it appears to be gazing at even more stars. The featured 27-frame mosaic was taken in 2019 from Ojas de Salar in the Atacama Desert of Chile.  The eye is actually a small lagoon captured reflecting the dark night sky as the Milky Way Galaxy arched overhead. The seemingly smooth band of the Milky Way is really composed of billions of stars, but decorated with filaments of light-absorbing dust and red-glowing nebulas. Additionally, both Jupiter (slightly left the galactic arch) and Saturn (slightly to the right) are visible.  The lights of small towns dot the unusual vertical horizon.  The rocky terrain around the lagoon appears to some more like the surface of Mars than our Earth.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)",
+      "pt": "Você já teve estrelas nos olhos? Parece que o olho da esquerda sim e, além disso, parece estar olhando para ainda mais estrelas. O mosaico de 27 quadros em destaque foi tirado em 2019 em Ojas de Salar, no deserto do Atacama, no Chile.  O olho é na verdade uma pequena lagoa capturada refletindo o céu noturno escuro enquanto a Via Láctea se curvava acima. A faixa aparentemente lisa da Via Láctea é na verdade composta por bilhões de estrelas, mas decorada com filamentos de poeira que absorve luz e nebulosas de brilho vermelho. Além disso, Júpiter (ligeiramente à esquerda do arco galáctico) e Saturno (ligeiramente à direita) são visíveis.  As luzes das pequenas cidades pontilham o incomum horizonte vertical.  O terreno rochoso ao redor da lagoa parece mais com a superfície de Marte do que com a nossa Terra.   Sky Surprise: Que foto o APOD apresentou no seu aniversário? (depois de 1995)"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2604/EyeOnMW_Claro_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2604/EyeOnMW_Claro_1380.jpg",
+    "copyright": "Miguel Claro, (TWAN,, Dark Sky Alqueva)"
+  },
+  {
     "date": "2026-04-16",
     "title": {
       "en": "South Celestial Tree",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2603/MayanMilkyWay_Fernandez_1080.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2603/MayanMilkyWay_Fernandez_1600.jpg",
     "copyright": "Robert Fedez"
-  },
-  {
-    "date": "2026-03-14",
-    "title": {
-      "en": "A Year for K2-315b",
-      "pt": "Um ano para K2-315b"
-    },
-    "explanation": {
-      "en": "Want to visit a planet that has 3.14 days in a year? Then plan a trip to K2-315b, an earth-sized planet orbiting around a cool, red, M dwarf star about once every 3.14 days. The exoplanet's discovery, based on publicly available data from the planet-hunting Kepler Space Telescope's extended K2 mission, was announced in 2020. K2-315b's measured orbital period in days is nearly equal to the extremely popular irrational number Pi. That puts the exoplanet so close to its parent star that its surface is likely very warm, baking-hot in fact. And this Pi planet is over 185 light-years away. So instead of trying to arrange for an interstellar vacation to K2-315b, there may be easier and more comfortable ways for you to celebrate Pi day on planet Earth.",
-      "pt": "Quer visitar um planeta que tem 3,14 dias por ano? Em seguida, planeje uma viagem para K2-315b, um planeta do tamanho da Terra que orbita uma estrela anã M vermelha e fria cerca de uma vez a cada 3,14 dias. A descoberta do exoplaneta, baseada em dados publicamente disponíveis da missão K2 estendida do Telescópio Espacial Kepler, que caça planetas, foi anunciada em 2020. O período orbital medido em dias do K2-315b é quase igual ao extremamente popular número irracional Pi. Isto coloca o exoplaneta tão perto da sua estrela-mãe que a sua superfície é provavelmente muito quente, na verdade extremamente quente. E este planeta Pi está a mais de 185 anos-luz de distância. Portanto, em vez de tentar organizar férias interestelares para K2-315b, pode haver maneiras mais fáceis e confortáveis ​​​​de comemorar o dia do Pi no planeta Terra."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2603/MIT-Pi-Planet-01-PRESS1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2603/MIT-Pi-Planet-01-PRESS.jpg",
-    "copyright": null
   }
 ]
