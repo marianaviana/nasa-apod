@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-04-20",
+    "title": {
+      "en": "Comet R3 PanSTARRS over a Himalayan Valley",
+      "pt": "Cometa R3 PanSTARRS sobre o vale do Himalaia"
+    },
+    "explanation": {
+      "en": "The best way to see comet R3 PanSTARRS’s long tail is with a camera. This week, the recently brightened comet appears in northern skies to the east just before dawn, but is only barely visible to the unaided eye. The many-degree ion tail captured on long duration camera exposures is not unusual for a comet - it is primarily due to the Earth's nearly sideways view of the tail as it points away from the Sun.  In the featured image taken last week, Comet C/2025 R3 (PanSTARRS) showed off its flowing tail through a valley between two peaks in the Himalayan mountains of India.   The comet passed its closest to the Sun yesterday. As it nears its closest approach to Earth next week, a bushy dust tail may become visible.  The comet is slowly moving out of northern skies and by the end of the month will be visible after sunset in southern skies as it fades and leaves our Solar System.    Growing Gallery: Comet R3 PanSTARRS in 2026",
+      "pt": "A melhor maneira de ver a longa cauda do cometa R3 PanSTARRS é com uma câmera. Esta semana, o cometa recentemente iluminado aparece nos céus do norte, a leste, pouco antes do amanhecer, mas é pouco visível a olho nu. A cauda de íons de muitos graus capturada em exposições de câmera de longa duração não é incomum em um cometa - é principalmente devido à visão quase lateral da cauda da Terra, pois ela aponta para longe do Sol.  Na imagem em destaque tirada na semana passada, o Cometa C/2025 R3 (PanSTARRS) mostrou a sua cauda fluindo através de um vale entre dois picos nas montanhas do Himalaia, na Índia.   O cometa passou ontem mais próximo do Sol. À medida que se aproxima da sua maior aproximação à Terra na próxima semana, uma espessa cauda de poeira pode tornar-se visível.  O cometa está a afastar-se lentamente dos céus do norte e no final do mês será visível após o pôr do sol nos céus do sul, à medida que desaparece e deixa o nosso Sistema Solar.    Galeria em crescimento: Cometa R3 PanSTARRS em 2026"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2604/ValleyComet_Chakrabarti_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2604/ValleyComet_Chakrabarti_3900.jpg",
+    "copyright": "Basudeb Chakrabarti & , Samit Saha"
+  },
+  {
     "date": "2026-04-19",
     "title": {
       "en": "Eye on the Milky Way",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2603/SpanishDancer_Hubble_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2603/SpanishDancer_Hubble_3716.jpg",
     "copyright": null
-  },
-  {
-    "date": "2026-03-15",
-    "title": {
-      "en": "Equinox at the Pyramid of the Feathered Serpent",
-      "pt": "Equinócio na Pirâmide da Serpente Emplumada"
-    },
-    "explanation": {
-      "en": "To see the feathered serpent descend the Mayan pyramid requires exquisite timing.  You must visit El Castillo -- in Mexico's Yucatán Peninsula -- near an equinox.  Then, during the late afternoon if the sky is clear, the pyramid's own shadows create triangles that merge into the famous illusion of a slithering viper.  Also known as the Temple of Kukulkan, the impressive step-pyramid stands 30 meters tall and 55 meters wide at the base.  Built up as a series of square terraces by the pre-Columbian civilization between the 9th and 12th century, the structure can be used as a calendar and is noted for astronomical alignments. The featured composite image was captured in 2019 with Jupiter and Saturn straddling the diagonal central band of our Milky Way galaxy. In a few days another equinox will occur -- not only at Temple of Kukulcán, but all over planet Earth.",
-      "pt": "Ver a serpente emplumada descer pela pirâmide maia requer um timing extraordinário.  Você deve visitar El Castillo – na Península de Yucatán, no México – perto de um equinócio.  Depois, no final da tarde, se o céu estiver limpo, as próprias sombras da pirâmide criam triângulos que se fundem na famosa ilusão de uma víbora rastejante.  Também conhecida como Templo de Kukulkan, a impressionante pirâmide em degraus tem 30 metros de altura e 55 metros de largura na base.  Construída como uma série de terraços quadrados pela civilização pré-colombiana entre os séculos IX e XII, a estrutura pode ser usada como calendário e é conhecida pelos alinhamentos astronômicos. A imagem composta apresentada foi capturada em 2019 com Júpiter e Saturno abrangendo a banda central diagonal da nossa galáxia, a Via Láctea. Dentro de alguns dias ocorrerá outro equinócio – não apenas no Templo de Kukulcán, mas em todo o planeta Terra."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2603/MayanMilkyWay_Fernandez_1080.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2603/MayanMilkyWay_Fernandez_1600.jpg",
-    "copyright": "Robert Fedez"
   }
 ]
