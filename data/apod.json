@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-04-23",
+    "title": {
+      "en": "Large Scale Structure of the Universe",
+      "pt": "Estrutura do Universo em Grande Escala"
+    },
+    "explanation": {
+      "en": "This is a map of the universe. The Dark Energy Spectroscopic Instrument (DESI) at Kitt Peak National Observatory, Arizona, has finished its five-year survey. It observed more than 47 million galaxies and quasars and created a 3D map centered on the Earth. Today's featured image shows a thin slice of these data: the black gaps indicate where our Galaxy obscures distant objects. The feathery web in the inset shows the large scale structure of the universe. Light of the most distant galaxies shown here travelled for 11 billion years to reach the Earth. Galaxies cluster throughout cosmic history under the competing influences of gravity and dark energy, responsible for the accelerated expansion of the universe. Analysis of early DESI results hinted at the possibility that dark energy, described as a cosmological constant by Albert Einstein, may not be constant after all. But we still have to wait for the analysis of the now complete dataset. The nature of dark energy is the biggest mystery of cosmology.",
+      "pt": "Este é um mapa do universo. O Instrumento Espectroscópico de Energia Escura (DESI) no Observatório Nacional Kitt Peak, Arizona, concluiu sua pesquisa de cinco anos. Observou mais de 47 milhões de galáxias e quasares e criou um mapa 3D centrado na Terra. A imagem apresentada hoje mostra uma pequena fatia destes dados: os buracos negros indicam onde a nossa Galáxia obscurece objetos distantes. A teia emplumada na inserção mostra a estrutura em grande escala do universo. A luz das galáxias mais distantes aqui mostradas viajou durante 11 mil milhões de anos para chegar à Terra. As galáxias aglomeram-se ao longo da história cósmica sob as influências concorrentes da gravidade e da energia escura, responsáveis ​​pela expansão acelerada do universo. A análise dos primeiros resultados do DESI sugeriu a possibilidade de que a energia escura, descrita como uma constante cosmológica por Albert Einstein, possa não ser afinal constante. Mas ainda temos que esperar pela análise do conjunto de dados agora completo. A natureza da energia escura é o maior mistério da cosmologia."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2604/noirlab2610c_1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2604/noirlab2610c.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-04-20",
     "title": {
       "en": "Comet R3 PanSTARRS over a Himalayan Valley",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2603/APOD_Sub_Tadpoles_NicoCarver1024c.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2603/APOD_Sub_Tadpoles_NicoCarver.jpg",
     "copyright": "Nico Carver"
-  },
-  {
-    "date": "2026-03-16",
-    "title": {
-      "en": "NGC 1566: The Spanish Dancer Galaxy",
-      "pt": "NGC 1566: A Galáxia Dançarina Espanhola"
-    },
-    "explanation": {
-      "en": "If not perfect, then this spiral galaxy is at least one of the most photogenic. An island universe containing billions of stars and situated about 40 million light-years away toward the constellation of the Dolphinfish (Dorado), NGC 1566 presents a gorgeous face-on view. Classified as a grand design spiral, NGC 1566 shows two prominent and graceful spiral arms that are traced by bright blue star clusters, red emission nebulas, and dark cosmic dust lanes. Numerous Hubble Space Telescope images of NGC 1566 have been taken to study star formation, supernovas, and the spiral's unusually active center. NGC 1566's flaring center makes the spiral one of the closest and brightest Seyfert galaxies, likely housing a central supermassive black hole wreaking havoc on surrounding stars and gas.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)",
-      "pt": "Se não for perfeita, então esta galáxia espiral é pelo menos uma das mais fotogênicas. Um universo insular contendo bilhões de estrelas e situado a cerca de 40 milhões de anos-luz de distância em direção à constelação do Peixe-Golfinho (Dorado), NGC 1566 apresenta uma vista frontal deslumbrante. Classificada como uma espiral de grande design, NGC 1566 mostra dois braços espirais proeminentes e graciosos que são traçados por aglomerados de estrelas azuis brilhantes, nebulosas de emissão vermelhas e faixas escuras de poeira cósmica. Numerosas imagens do Telescópio Espacial Hubble de NGC 1566 foram tiradas para estudar a formação de estrelas, supernovas e o centro incomumente ativo da espiral. O centro em chamas da NGC 1566 torna a espiral uma das galáxias Seyfert mais próximas e brilhantes, provavelmente abrigando um buraco negro supermassivo central que causa estragos nas estrelas e no gás circundantes.   Sky Surprise: Que foto o APOD apresentou no seu aniversário? (depois de 1995)"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2603/SpanishDancer_Hubble_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2603/SpanishDancer_Hubble_3716.jpg",
-    "copyright": null
   }
 ]
