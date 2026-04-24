@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-04-24",
+    "title": {
+      "en": "Young Moon and Sister Stars",
+      "pt": "Lua Jovem e Estrelas Irmãs"
+    },
+    "explanation": {
+      "en": "Sunlit arms of a crescent moon seem to embrace the faint lunar night side in this dramatic celestial scene from planet Earth. The single telephoto exposure tracking the sky was captured on the night of April 19, when a two day old Moon was near perigee in its elliptical orbit. On that date, the young Moon was also close on the sky to the lovely Pleiades Star Cluster. With the moonlight dimmed by clouds the Pleiades sister stars gather below the Moon's bright crescent, seen through a faint but colorful lunar corona. The lunar night side is illuminated by earthshine, sunlight reflected from the Earth itself. The Moon's ashen glow, also known as the \"old moon in the young moon's arms\", tends to be brighter in the northern hemisphere spring. And for now, the Moon's orbit takes it near the Pleiades stars each month in planet Earth's sky, though their close conjunctions are easiest to see when the Moon is near a crescent phase.",
+      "pt": "Os braços iluminados pelo sol de uma lua crescente parecem abraçar o tênue lado noturno lunar nesta dramática cena celestial do planeta Terra. A única exposição telefoto que rastreia o céu foi capturada na noite de 19 de abril, quando uma Lua de dois dias estava perto do perigeu em sua órbita elíptica. Naquela data, a jovem Lua também estava próxima no céu do adorável aglomerado estelar das Plêiades. Com o luar obscurecido pelas nuvens, as estrelas irmãs das Plêiades reúnem-se abaixo do crescente brilhante da Lua, vistas através de uma coroa lunar fraca, mas colorida. O lado noturno lunar é iluminado pelo brilho da terra, a luz solar refletida na própria Terra. O brilho acinzentado da Lua, também conhecido como “lua velha nos braços da lua jovem”, tende a ser mais brilhante na primavera do hemisfério norte. E, por enquanto, a órbita da Lua aproxima-se das estrelas das Plêiades todos os meses no céu do planeta Terra, embora as suas conjunções próximas sejam mais fáceis de ver quando a Lua está perto da fase crescente."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2604/GHR3777LunaPleiadi_101400_1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2604/GHR3777LunaPleiadi_101400.jpg",
+    "copyright": "Giorgia Hofer"
+  },
+  {
     "date": "2026-04-23",
     "title": {
       "en": "Large Scale Structure of the Universe",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2603/cygnus_tree_crop.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2603/cygnus_tree_crop.jpg",
     "copyright": "2025 Horacio Lander / AstroHoracio, Text:, Keighley Rockcliffe  , (NASA, GSFC, UMBC CSST, CRESST II)"
-  },
-  {
-    "date": "2026-03-17",
-    "title": {
-      "en": "The Tadpoles of IC 410",
-      "pt": "Os girinos do IC 410"
-    },
-    "explanation": {
-      "en": "This telescopic close-up shows off the central regions of otherwise faint emission nebula IC 410, captured under backyard skies. Presented in a Hubble color palette, the image combines visible broadband and narrowband data with data from the near-infrared. Below and right of center are two remarkable inhabitants of the interstellar pond of gas and dust. the Tadpoles of IC 410. Partly obscured by foreground dust, the nebula itself surrounds NGC 1893, a young galactic cluster of stars. Formed in the interstellar cloud a mere 4 million years ago, the intensely hot, bright cluster stars energize the glowing gas. But the cosmic tadpoles themselves are composed of denser cooler gas and dust. Around 10 light-years long they are likely sites of ongoing star formation. Sculpted by stellar winds and radiation their heads are outlined by bright ridges of ionized gas while their tails trail away from the cluster's central young stars. IC 410 lies some 10,000 light-years away, toward the nebula-rich constellation Auriga.",
-      "pt": "Este close-up telescópico mostra as regiões centrais da nebulosa de emissão IC 410, que de outra forma seria fraca, capturada sob o céu de quintal. Apresentada numa paleta de cores do Hubble, a imagem combina dados visíveis de banda larga e banda estreita com dados do infravermelho próximo. Abaixo e à direita do centro estão dois habitantes notáveis ​​da lagoa interestelar de gás e poeira. os girinos de IC 410. Parcialmente obscurecida pela poeira do primeiro plano, a própria nebulosa rodeia NGC 1893, um jovem aglomerado galáctico de estrelas. Formado na nuvem interestelar há apenas 4 milhões de anos, o aglomerado de estrelas intensamente quentes e brilhantes energiza o gás brilhante. Mas os próprios girinos cósmicos são compostos de gás e poeira mais densos e frios. Com cerca de 10 anos-luz de comprimento, são prováveis ​​locais de formação estelar contínua. Esculpidas pelos ventos estelares e pela radiação, as suas cabeças são delineadas por cristas brilhantes de gás ionizado, enquanto as suas caudas se afastam das estrelas jovens centrais do aglomerado. IC 410 fica a cerca de 10.000 anos-luz de distância, em direção à constelação do Auriga, rica em nebulosas."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2603/APOD_Sub_Tadpoles_NicoCarver1024c.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2603/APOD_Sub_Tadpoles_NicoCarver.jpg",
-    "copyright": "Nico Carver"
   }
 ]
