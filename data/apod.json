@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-04-25",
+    "title": {
+      "en": "The Persistence of Sunlight",
+      "pt": "A Persistência da Luz Solar"
+    },
+    "explanation": {
+      "en": "This seaside sunset offered a surreal experience, captured in a sea and skyscape from the west coast of Sardinia, Italy, planet Earth. The Daliesque scene is a composition of sequential exposures made with a camera and long telephoto lens. The Sun is not melting, though. Its shifting and fluid appearance as it nears the horizon is caused as refraction along the line of sight changes and creates distorted images or mirages of the reddened solar disk. The changes in atmospheric refraction correspond to atmospheric layers with sharply different temperatures and densities. Another famous but fleeting effect of atmospheric refraction produced by a long sight-line to the setting (or rising) Sun is often called the green flash.",
+      "pt": "Este pôr do sol à beira-mar ofereceu uma experiência surreal, capturada em uma paisagem marítima e celeste da costa oeste da Sardenha, Itália, planeta Terra. A cena Daliesque é uma composição de exposições sequenciais feitas com câmera e teleobjetiva longa. O Sol não está derretendo, no entanto. Sua aparência instável e fluida à medida que se aproxima do horizonte é causada pela refração ao longo da linha de visão que muda e cria imagens distorcidas ou miragens do disco solar avermelhado. As mudanças na refração atmosférica correspondem a camadas atmosféricas com temperaturas e densidades nitidamente diferentes. Outro efeito famoso, mas passageiro, da refração atmosférica produzido por uma longa linha de visão em direção ao Sol poente (ou nascente) é freqüentemente chamado de flash verde."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2604/sequenzasunsetnebida1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2604/sequenzasunsetnebida.jpg",
+    "copyright": "Lorenzo Busilacchi"
+  },
+  {
     "date": "2026-04-24",
     "title": {
       "en": "Young Moon and Sister Stars",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2603/jellyfish_1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2603/jellyfish.jpg",
     "copyright": "Michael Seeley"
-  },
-  {
-    "date": "2026-03-18",
-    "title": {
-      "en": "Cygnus and the Solitary Tree",
-      "pt": "Cygnus e a Árvore Solitária"
-    },
-    "explanation": {
-      "en": "A lone tree stands in a quiet meadow in Guadalajara, Spain, silhouetted against the Cygnus region rising above like flames in the night sky.  This deep night skyscape is a composite of exposures that reveals a range of brightness and color human eyes can't quite see on their own. Spanning over a thousand times the angular size of the full moon, Cygnus sets the sky afire with active star formation where clouds of gas and dust collapse under gravity until nuclear fusion ignites and new stars are born. These stars  ionize the surrounding hydrogen gas, causing it to glow crimson, while tendrils of interstellar dust absorb some of that light and cast dark shadows across the sky. Cygnus is a trove of celestial treasures, notably the Veil, Crescent, and Pelican nebulae, as well as  Cygnus X-1, the first confirmed black hole.  Cygnus continues to yield fresh science, including a new three-dimensional model of the Cygnus Loop made possible by the Chandra X-ray Observatory.   Almost Hyperspace: Random APOD Generator",
-      "pt": "Uma árvore solitária ergue-se num prado tranquilo em Guadalajara, Espanha, recortada contra a região de Cygnus elevando-se como chamas no céu noturno.  Esta paisagem noturna profunda é uma composição de exposições que revela uma gama de brilho e cores que os olhos humanos não conseguem ver por si próprios. Abrangendo mais de mil vezes o tamanho angular da lua cheia, Cygnus incendeia o céu com a formação estelar ativa, onde nuvens de gás e poeira colapsam sob a gravidade até que a fusão nuclear se inicie e novas estrelas nasçam. Estas estrelas ionizam o gás hidrogénio circundante, fazendo-o brilhar em vermelho, enquanto gavinhas de poeira interestelar absorvem parte dessa luz e lançam sombras escuras no céu. Cygnus é um tesouro de tesouros celestes, nomeadamente as nebulosas Véu, Crescente e Pelicano, bem como Cygnus X-1, o primeiro buraco negro confirmado.  Cygnus continua a produzir ciência nova, incluindo um novo modelo tridimensional do Cygnus Loop, tornado possível pelo Observatório de Raios-X Chandra.   Quase Hiperespaço: Gerador APOD Aleatório"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2603/cygnus_tree_crop.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2603/cygnus_tree_crop.jpg",
-    "copyright": "2025 Horacio Lander / AstroHoracio, Text:, Keighley Rockcliffe  , (NASA, GSFC, UMBC CSST, CRESST II)"
   }
 ]
