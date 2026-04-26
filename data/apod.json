@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-04-26",
+    "title": {
+      "en": "Mystic Mountain Monster being Destroyed",
+      "pt": "Monstro da Montanha Mística sendo destruído"
+    },
+    "explanation": {
+      "en": "Inside the head of this interstellar monster is a star that is slowly destroying it.  The huge monster, actually an inanimate series of pillars of gas and dust, measures light years in length.  The in-head star is not itself visible through the opaque interstellar dust but is bursting out partly by ejecting opposing beams of energetic particles called Herbig-Haro jets.  Located about 7,500 light years away in the Carina Nebula and known informally as Mystic Mountain, the appearance of these pillars is dominated by dark dust even though they are composed mostly of clear hydrogen gas.  The featured image was taken with the Hubble Space Telescope. All over these pillars, the energetic light and winds from massive newly formed stars are evaporating and dispersing the dusty stellar nurseries in which they formed.  Within a few million years, the head of this giant, as well as most of its body, will have been completely evaporated by internal and surrounding stars.",
+      "pt": "Dentro da cabeça deste monstro interestelar há uma estrela que o está destruindo lentamente.  O enorme monstro, na verdade uma série inanimada de pilares de gás e poeira, mede anos-luz de comprimento.  A estrela na cabeça não é visível através da poeira interestelar opaca, mas está explodindo parcialmente ao ejetar feixes opostos de partículas energéticas chamados jatos Herbig-Haro.  Localizados a cerca de 7.500 anos-luz de distância, na Nebulosa Carina e conhecidos informalmente como Mystic Mountain, a aparência destes pilares é dominada por poeira escura, embora sejam compostos principalmente de gás hidrogénio transparente.  A imagem apresentada foi tirada com o Telescópio Espacial Hubble. Por todos estes pilares, a luz energética e os ventos das estrelas massivas recém-formadas estão a evaporar e a dispersar os poeirentos berçários estelares onde se formaram.  Dentro de alguns milhões de anos, a cabeça deste gigante, assim como a maior parte do seu corpo, terá sido completamente evaporada pelas estrelas internas e circundantes."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2604/MysticPillar_HubbleSchmidt_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2604/MysticPillar_HubbleSchmidt_1433.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-04-25",
     "title": {
       "en": "The Persistence of Sunlight",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2603/equinox-3k-jcc_1087c.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2603/equinox-3k-jcc.jpg",
     "copyright": "Juan Carlos Casado"
-  },
-  {
-    "date": "2026-03-19",
-    "title": {
-      "en": "Launch Plume: SpaceX Jellyfish",
-      "pt": "Pluma de lançamento: água-viva SpaceX"
-    },
-    "explanation": {
-      "en": "ven if you live with your head in the clouds, you won’t find a jellyfish like this one very often. The featured image shows a SpaceX Falcon 9 rocket launch from Cape Canaveral in Florida on March 4. The launch happened 52 minutes before sunrise, and the second stage rocket exhaust plume was high enough in the sky to catch the light of the rising sun, while the photographer was still in the dark. This combination of light and shadow, possible at dawn or dusk, makes the exhaust, mostly water vapor and carbon dioxide, appear as a glowing cloud. It only looks like it's going down, as the rocket follows the curvature of the Earth on its way to space. A related effect is the twilight phenomenon, which causes colorful contrails sometimes mistaken for UFOs. But, in case you are wondering: real jellyfish were sent to space by NASA in the 1990s as part of a science experiment.",
-      "pt": "mesmo que você viva com a cabeça nas nuvens, não encontrará uma água-viva como esta com muita frequência. A imagem em destaque mostra o lançamento do foguete SpaceX Falcon 9 do Cabo Canaveral, na Flórida, em 4 de março. O lançamento aconteceu 52 minutos antes do nascer do sol, e a nuvem de exaustão do foguete do segundo estágio estava alta o suficiente no céu para captar a luz do sol nascente, enquanto o fotógrafo ainda estava no escuro. Esta combinação de luz e sombra, possível ao amanhecer ou ao anoitecer, faz com que os gases de escape, principalmente vapor de água e dióxido de carbono, apareçam como uma nuvem brilhante. Parece apenas que está caindo, pois o foguete segue a curvatura da Terra em seu caminho para o espaço. Um efeito relacionado é o fenômeno do crepúsculo, que causa rastros coloridos às vezes confundidos com OVNIs. Mas, caso você esteja se perguntando: águas-vivas reais foram enviadas ao espaço pela NASA na década de 1990 como parte de um experimento científico."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2603/jellyfish_1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2603/jellyfish.jpg",
-    "copyright": "Michael Seeley"
   }
 ]
