@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-04-27",
+    "title": {
+      "en": "Comet R3 PanSTARRS Behind Satellite Trails",
+      "pt": "Cometa R3 PanSTARRS atrás das trilhas de satélite"
+    },
+    "explanation": {
+      "en": "Can you find the comet? Somewhere through this web of satellite trails is Comet C/2025 R3 (PanSTARRS), a bright visitor passing through the inner Solar System. Now, the orbiting satellites themselves only appear as streaks because of the long camera exposure, over 10 minutes in this case. On the contrary, to the eye, satellites appear as points that drift slowly across the night sky and shine by reflecting sunlight -- primarily just after sunset and before sunrise.  The featured image was taken just before sunrise two weeks ago from Bavaria, Germany.  Presently, Comet R3 PanSTARRS is hard to see for even another reason -- because it is so (angularly) close to the Sun. As the comet rounds the Sun, it will be best seen in coming weeks from southern hemispheree skies, although then it will be heading out to interstellar space and fading. If you haven't yet found the comet, don't despair; please take a closer look just above the image center.",
+      "pt": "Você consegue encontrar o cometa? Em algum lugar nesta rede de rastros de satélites está o cometa C/2025 R3 (PanSTARRS), um visitante brilhante que passa pelo interior do Sistema Solar. Agora, os próprios satélites em órbita só aparecem como listras devido à longa exposição da câmera, mais de 10 minutos neste caso. Pelo contrário, aos olhos, os satélites aparecem como pontos que flutuam lentamente no céu noturno e brilham ao refletir a luz solar - principalmente logo após o pôr do sol e antes do nascer do sol.  A imagem em destaque foi tirada pouco antes do nascer do sol, há duas semanas, na Baviera, Alemanha.  Atualmente, o cometa R3 PanSTARRS é difícil de ver por outro motivo - porque está muito próximo (angularmente) do Sol. À medida que o cometa orbita o Sol, será melhor observado nas próximas semanas nos céus do hemisfério sul, embora depois se dirija para o espaço interestelar e desapareça. Se você ainda não encontrou o cometa, não se desespere; por favor, dê uma olhada mais de perto logo acima do centro da imagem."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2604/CometTrails_Fehr_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2604/CometTrails_Fehr_2756.jpg",
+    "copyright": "Uli Fehr"
+  },
+  {
     "date": "2026-04-26",
     "title": {
       "en": "Mystic Mountain Monster being Destroyed",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2603/NGC1300-LRGB_1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2603/NGC1300-LRGB.jpg",
     "copyright": "Dietmar Hager"
-  },
-  {
-    "date": "2026-03-20",
-    "title": {
-      "en": "Spring Equinox at Teide Observatory",
-      "pt": "Equinócio de Primavera no Observatório de Teide"
-    },
-    "explanation": {
-      "en": "The defining astronomical moment of the equinox today is at 14:46 UTC (March 20). That's when the Sun crosses the celestial equator moving north in its yearly journey through planet Earth's sky, marking the beginning of spring for our fair planet in the northern hemisphere and fall in the southern hemisphere.  Then, day and night are nearly equal around the globe. In fact, both day and nighttime exposures from a spring equinox at the Observatorio del Teide in Tenerife, Canary Islands, Spain, are used in this composited skyscape. Over 1,000 images were taken with a fisheye lens and merged in the ambitious equinox project. The apparent motion of the Sun setting along the celestial equator on the equinox date follows the bright linear, diagonal track from the sequence of daytime exposures taken over 6 hours. After sunset, nighttime exposures recorded startrails, with the celestial equator as a linear track and concentric arcs circling the north celestial pole near Polaris at upper right and the south celestial pole beyond the lower left edge (and below the Teide horizon). The foreground includes the distant Teide volcano peak and the observatory's pyramid-shaped solar laboratory building.",
-      "pt": "O momento astronômico definidor do equinócio hoje é às 14:46 UTC (20 de março). É quando o Sol cruza o equador celeste movendo-se para norte na sua viagem anual pelo céu do planeta Terra, marcando o início da primavera para o nosso belo planeta no hemisfério norte e o outono no hemisfério sul.  Então, o dia e a noite são quase iguais em todo o mundo. Na verdade, exposições diurnas e noturnas de um equinócio de primavera no Observatório del Teide em Tenerife, Ilhas Canárias, Espanha, são usadas nesta paisagem celeste composta. Mais de 1.000 imagens foram tiradas com lentes olho de peixe e fundidas no ambicioso projeto equinócio. O movimento aparente do pôr do Sol ao longo do equador celeste na data do equinócio segue a trilha diagonal linear brilhante da sequência de exposições diurnas feitas ao longo de 6 horas. Após o pôr do sol, as exposições noturnas registraram trilhas iniciais, com o equador celeste como uma trilha linear e arcos concêntricos circundando o pólo celeste norte perto de Polaris no canto superior direito e o pólo celeste sul além da borda inferior esquerda (e abaixo do horizonte do Teide). O primeiro plano inclui o distante pico do vulcão Teide e o edifício do laboratório solar em forma de pirâmide do observatório."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2603/equinox-3k-jcc_1087c.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2603/equinox-3k-jcc.jpg",
-    "copyright": "Juan Carlos Casado"
   }
 ]
