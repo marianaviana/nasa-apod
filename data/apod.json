@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-04-28",
+    "title": {
+      "en": "CG 30: Cometary Globules",
+      "pt": "CG 30: Glóbulos Cometários"
+    },
+    "explanation": {
+      "en": "They're like mountain peaks, but they are forming stars. Bright-rimmed, flowing shapes gather near the center of this rich starfield toward the borders of the nautical southern constellations Puppis and Vela. Composed of interstellar gas and  dust, the grouping of light-year sized cometary globules is about 1300 light-years distant. Energetic ultraviolet light from nearby hot stars has molded the globules and ionized their bright rims. The globules also stream away from the Vela supernova remnant which may have influenced their swept-back shapes. Within them, cores of cold gas and dust are likely collapsing to form low mass stars whose formation will ultimately cause the globules to disperse. In fact, cometary globule CG 30 (upper right in the group) sports a small reddish glow inside its head, a telltale sign of energetic jets from a star in the early stages of formation.",
+      "pt": "São como picos de montanhas, mas estão formando estrelas. Formas fluidas e com bordas brilhantes reúnem-se perto do centro deste rico campo estelar em direção às fronteiras das constelações náuticas do sul Puppis e Vela. Composto por gás e poeira interestelar, o agrupamento de glóbulos cometários do tamanho de um ano-luz está a cerca de 1.300 anos-luz de distância. A energia ultravioleta emitida por estrelas quentes próximas moldou os glóbulos e ionizou as suas bordas brilhantes. Os glóbulos também se afastam do remanescente da supernova Vela, o que pode ter influenciado as suas formas varridas. Dentro deles, núcleos de gás frio e poeira estão provavelmente em colapso para formar estrelas de baixa massa, cuja formação acabará por causar a dispersão dos glóbulos. Na verdade, o glóbulo cometário CG 30 (canto superior direito do grupo) apresenta um pequeno brilho avermelhado dentro da sua cabeça, um sinal revelador de jatos energéticos de uma estrela nos estágios iniciais de formação."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2604/CG30Globules_Salamme_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2604/CG30Globules_Salamme_2772.jpg",
+    "copyright": "Marcelo Salemme"
+  },
+  {
     "date": "2026-04-27",
     "title": {
       "en": "Comet R3 PanSTARRS Behind Satellite Trails",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2603/DepartingEarth_Messenger.mp4",
     "hdurl": "https://apod.nasa.gov/apod/image/2603/DepartingEarth_Messenger.mp4",
     "copyright": null
-  },
-  {
-    "date": "2026-03-21",
-    "title": {
-      "en": "Galaxies in the River: NGC 1300 and NGC 1297",
-      "pt": "Galáxias no Rio: NGC 1300 e NGC 1297"
-    },
-    "explanation": {
-      "en": "Spiral NGC 1300 and elliptical NGC 1297 are galaxies that lie on the banks of the southern constellation Eridanus (The River). At 70 million light-years distant or more, both are members of the Eridanus Galaxy Cluster. About 100,000 light-years across, at lower left in this sharp, galaxy group photo NGC 1300 is seen face-on with a prominent central bar and grand, sweeping spiral arms. Like other spiral galaxies, including our own barred spiral Milky Way Galaxy, NGC 1300 is thought to have a supermassive central black hole. A contrast in appearance and slightly more distant, NGC 1297 is the roughly spherical large elliptical galaxy near the top of the frame. With little active star formation, elliptical galaxies are composed of older populations of stars and are likely he result of multiple collisions and mergers with spirals.",
-      "pt": "A espiral NGC 1300 e a elíptica NGC 1297 são galáxias que ficam nas margens da constelação meridional de Eridanus (O Rio). A 70 milhões de anos-luz de distância ou mais, ambos são membros do aglomerado de galáxias Eridanus. Com cerca de 100.000 anos-luz de diâmetro, no canto inferior esquerdo nesta foto nítida do grupo de galáxias, NGC 1300 é vista de frente com uma barra central proeminente e grandes braços espirais extensos. Como outras galáxias espirais, incluindo a nossa galáxia espiral barrada, a Via Láctea, acredita-se que a NGC 1300 tenha um buraco negro central supermassivo. Com uma aparência contrastante e um pouco mais distante, NGC 1297 é a grande galáxia elíptica aproximadamente esférica próxima ao topo da imagem. Com pouca formação estelar ativa, as galáxias elípticas são compostas por populações de estrelas mais antigas e são provavelmente o resultado de múltiplas colisões e fusões com espirais."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2603/NGC1300-LRGB_1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2603/NGC1300-LRGB.jpg",
-    "copyright": "Dietmar Hager"
   }
 ]
