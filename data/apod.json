@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-04-29",
+    "title": {
+      "en": "The Moon, Venus, and the Pleiades",
+      "pt": "A Lua, Vênus e as Plêiades"
+    },
+    "explanation": {
+      "en": "No, Earth did not recently acquire six more moons!  Today’s APOD is a combination of images following the Moon, Venus, and the Pleiades across a southern Sicilian sky as twilight turned to evening on April 19. From 2023 to 2029, the Pleiades' and the Moon “visit\" each other once per month due to the Pleiades' location in the ecliptic plane. April 2026 saw the celestial alignment of their visit with Venus.  About six stars in the Pleiades cluster (Messier 45) are typically visible with the unaided eye. Due to the cluster’s visibility across the world, there are many myths and legends across cultures associated with the Pleiades. The Haudenosaunee people of North America, for example, say that seven boys danced so enthusiastically that they lifted off into the sky. Astronomers recently found thousands more Pleiades members, showing that after thousands of years of gazing upon this cluster, there is yet more to learn about the Pleiades.",
+      "pt": "Não, a Terra não adquiriu recentemente mais seis luas!  O APOD de hoje é uma combinação de imagens seguindo a Lua, Vênus e as Plêiades através do céu do sul da Sicília enquanto o crepúsculo se transformava em noite em 19 de abril. De 2023 a 2029, as Plêiades e a Lua “visitam-se” uma vez por mês devido à localização das Plêiades no plano da eclíptica. Abril de 2026 viu o alinhamento celestial de sua visita a Vênus.  Cerca de seis estrelas no aglomerado das Plêiades (Messier 45) são normalmente visíveis a olho nu. Devido à visibilidade do aglomerado em todo o mundo, existem muitos mitos e lendas entre culturas associadas às Plêiades. O povo Haudenosaunee da América do Norte, por exemplo, diz que sete meninos dançaram com tanto entusiasmo que decolaram para o céu. Os astrónomos encontraram recentemente milhares de membros das Plêiades, mostrando que depois de milhares de anos a observar este aglomerado, ainda há mais para aprender sobre as Plêiades."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2604/moon_venus_pleiades_zoom.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2604/moon_venus_pleiades.jpg",
+    "copyright": "Gianni Tumino, Text:, Keighley Rockcliffe  , (NASA, GSFC, UMBC CSST, CRESST II)"
+  },
+  {
     "date": "2026-04-28",
     "title": {
       "en": "CG 30: Cometary Globules",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2603/LightPillarsMohe_Dai_1080.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2603/LightPillarsMohe_Dai_2000.jpg",
     "copyright": "Jeff Dai, (TWAN)"
-  },
-  {
-    "date": "2026-03-22",
-    "title": {
-      "en": "Leaving Earth",
-      "pt": "Saindo da Terra"
-    },
-    "explanation": {
-      "en": "What would it look like to leave planet Earth? Such an event was recorded visually in great detail by the MESSENGER spacecraft as it swung back past the Earth in 2005 on its way in toward the planet Mercury. Earth can be seen rotating in this time-lapse video, as it recedes into the distance. The sunlit half of Earth is so bright that background stars are not visible. The robotic MESSENGER spacecraft orbit around Mercury from 2011 to 2015 has conducted the first complete map of the surface. On occasion, MESSENGER peered back at its home world. MESSENGER is one of the few things created on the Earth that will never return.  At the end of its mission, MESSENGER was purposefully crashed into Mercury's surface.   Almost Hyperspace: Random APOD Generator",
-      "pt": "Como seria deixar o planeta Terra? Tal evento foi registado visualmente e com grande detalhe pela sonda MESSENGER quando esta passou pela Terra em 2005, a caminho do planeta Mercúrio. A Terra pode ser vista girando neste vídeo de lapso de tempo, à medida que se distancia. A metade da Terra iluminada pelo sol é tão brilhante que as estrelas de fundo não são visíveis. A espaçonave robótica MESSENGER que orbita Mercúrio entre 2011 e 2015 conduziu o primeiro mapa completo da superfície. Ocasionalmente, a MESSENGER olhou para o seu mundo natal. MESSENGER é uma das poucas coisas criadas na Terra que nunca retornará.  No final de sua missão, a MESSENGER colidiu propositalmente com a superfície de Mercúrio.   Quase Hiperespaço: Gerador APOD Aleatório"
-    },
-    "media_type": "video",
-    "url": "https://apod.nasa.gov/apod/image/2603/DepartingEarth_Messenger.mp4",
-    "hdurl": "https://apod.nasa.gov/apod/image/2603/DepartingEarth_Messenger.mp4",
-    "copyright": null
   }
 ]
