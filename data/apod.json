@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-05-01",
+    "title": {
+      "en": "Markarian's Chain",
+      "pt": "Corrente de Markarian"
+    },
+    "explanation": {
+      "en": "Near the heart of the Virgo Galaxy Cluster, a string of galaxies known as Markarian's Chain stretches across this telescopic field of view. Anchored in the frame at bottom right by prominent lenticular galaxies, M84 (bottom) and M86, you can follow the chain's gentle arc up and toward the left. Near center you'll spot the pair of interacting galaxies NGC 4438 and NGC 4435, known to some as Markarian's Eyes. An estimated 50 million light-years distant, the Virgo Cluster itself is the nearest galaxy cluster. With up to about 2,000 member galaxies, it has a noticeable gravitational influence on our own Local Group of Galaxies. Within the Virgo Cluster at least seven galaxies in Markarian's Chain  appear to move coherently, while others may appear to be part of the chain by chance.",
+      "pt": "Perto do coração do Aglomerado de Galáxias de Virgem, uma cadeia de galáxias conhecida como Cadeia de Markarian estende-se por este campo de visão telescópico. Ancorado no quadro no canto inferior direito por galáxias lenticulares proeminentes, M84 (parte inferior) e M86, você pode seguir o arco suave da cadeia para cima e para a esquerda. Perto do centro você verá o par de galáxias em interação NGC 4438 e NGC 4435, conhecidas por alguns como Olhos de Markarian. A uma distância estimada de 50 milhões de anos-luz, o próprio Aglomerado de Virgem é o aglomerado de galáxias mais próximo. Com cerca de 2.000 galáxias membros, tem uma influência gravitacional notável no nosso Grupo Local de Galáxias. Dentro do Aglomerado de Virgem, pelo menos sete galáxias da Cadeia de Markarian parecem mover-se de forma coerente, enquanto outras podem parecer fazer parte da cadeia por acaso."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2605/M84andM86_1024.png",
+    "hdurl": "https://apod.nasa.gov/apod/image/2605/M84andM86.png",
+    "copyright": "Chuck Ayoub"
+  },
+  {
     "date": "2026-04-30",
     "title": {
       "en": "Waves on Titan",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2603/rapa_nui_milky_way_1024.jpeg",
     "hdurl": "https://apod.nasa.gov/apod/image/2603/rapa_nui_milky_way.jpeg",
     "copyright": "Rositsa Dimitrova, Text:, Keighley Rockcliffe  , (NASA, GSFC, UMBC CSST, CRESST II)"
-  },
-  {
-    "date": "2026-03-24",
-    "title": {
-      "en": "A Gravity Map of Earth",
-      "pt": "Um mapa gravitacional da Terra"
-    },
-    "explanation": {
-      "en": "Is gravity the same over the surface of the Earth?  No -- in some places you will feel slightly heavier than others.  The featured Earth map video shows in colors and exaggerated highs and lows where the gravitational field of Earth is relatively strong and weak.  A low spot, where you would feel slightly lighter, can be seen just off the coast of India, in blue, while a relative high occurs in the mountains of Chile in South America.  The cause of these irregularities does not always follow present surface features. Scientists hypothesize that other important factors lie in deep underground structures in Earth's mantle and may be related to the Earth's appearance in the distant past.  The featured map was composed from data taken by NASA's twin GRACE satellites that orbited the Earth from 2002 to 2017.  GRACE mapped Earth's gravity by carefully tracking tiny changes in the distance between the two satellites.",
-      "pt": "A gravidade é a mesma na superfície da Terra?  Não – em alguns lugares você se sentirá um pouco mais pesado do que em outros.  O vídeo do mapa da Terra em destaque mostra em cores e altos e baixos exagerados onde o campo gravitacional da Terra é relativamente forte e fraco.  Um ponto baixo, onde você se sentiria um pouco mais leve, pode ser visto próximo à costa da Índia, em azul, enquanto um ponto alto relativo ocorre nas montanhas do Chile, na América do Sul.  A causa destas irregularidades nem sempre segue as características atuais da superfície. Os cientistas levantam a hipótese de que outros fatores importantes residem em estruturas subterrâneas profundas no manto da Terra e podem estar relacionados com a aparência da Terra no passado distante.  O mapa apresentado foi composto a partir de dados obtidos pelos satélites gêmeos GRACE da NASA que orbitaram a Terra de 2002 a 2017. GRACE mapeou a gravidade da Terra rastreando cuidadosamente pequenas mudanças na distância entre os dois satélites."
-    },
-    "media_type": "video",
-    "url": "https://apod.nasa.gov/apod/image/2603/GravityEarth_GRACE_silent.mp4",
-    "hdurl": "https://apod.nasa.gov/apod/image/2603/GravityEarth_GRACE_silent.mp4",
-    "copyright": null
   }
 ]
