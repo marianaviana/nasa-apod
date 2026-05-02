@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-05-02",
+    "title": {
+      "en": "Seeing Titan",
+      "pt": "Vendo Titã"
+    },
+    "explanation": {
+      "en": "Shrouded in a thick atmosphere, the surface of Saturn's largest moon, Titan, is really hard to see. Small particles suspended in Titan's upper atmosphere cause an almost impenetrable haze, strongly scattering light at visible wavelengths and hiding surface features from prying eyes. Still, Titan's surface is better imaged at infrared wavelengths, where scattering is weaker and atmospheric absorption is reduced. Arrayed around this visible light image (center) of Titan are some of the clearest global infrared views of the tantalizing moon so far. In false color, the six panels present a consistent processing of 13 years of infrared image data from the Visual and Infrared Mapping Spectrometer (VIMS) on board the Cassini spacecraft orbiting Saturn from 2004 to 2017. They offer a stunning comparison with Cassini's visible light view. NASA's revolutionary rotorcraft mission to Titan's surface is due to launch no earlier than July, 2028.",
+      "pt": "Envolta em uma atmosfera densa, a superfície da maior lua de Saturno, Titã, é realmente difícil de ver. Pequenas partículas suspensas na atmosfera superior de Titã causam uma névoa quase impenetrável, espalhando fortemente a luz em comprimentos de onda visíveis e escondendo características da superfície de olhares indiscretos. Ainda assim, a superfície de Titã é melhor visualizada nos comprimentos de onda infravermelhos, onde a dispersão é mais fraca e a absorção atmosférica é reduzida. Dispostas em torno desta imagem de luz visível (centro) de Titã estão algumas das imagens infravermelhas globais mais nítidas da tentadora lua até agora. Em cores falsas, os seis painéis apresentam um processamento consistente de 13 anos de dados de imagens infravermelhas do Espectrômetro de Mapeamento Visual e Infravermelho (VIMS) a bordo da espaçonave Cassini orbitando Saturno de 2004 a 2017. Eles oferecem uma comparação impressionante com a visão de luz visível da Cassini. A revolucionária missão de helicóptero da NASA à superfície de Titã não deverá ser lançada antes de julho de 2028."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2605/PIA21923_fig1SeeingTitan1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2605/PIA21923_fig1SeeingTitan2400.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-05-01",
     "title": {
       "en": "Markarian's Chain",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2603/GWTC4-Events-Poster-Landscape_1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2603/GWTC4-Events-Poster-Landscape.jpg",
     "copyright": null
-  },
-  {
-    "date": "2026-03-25",
-    "title": {
-      "en": "The Guardians of Rapa Nui beneath the Milky Way",
-      "pt": "Os Guardiões de Rapa Nui sob a Via Láctea"
-    },
-    "explanation": {
-      "en": "In the words of today's astrophotographer, Rositsa Dimitrova, \"What have these silent sentinels watched pass across the sky?\" The volcanic mo'ai (meaning statue) of Ahu Tongariki stand guard over Rapa Nui (Isla de Pascua, Easter Island), a Polynesian island (annexed by Chile in 1888) located thousands of kilometers off the coast of South America in the Pacific Ocean. Due to the island's remoteness, the mo'ai, with their backs to the dark ocean, are able to gaze upon a clear and vibrant night sky. Pictured, these larger-than-life statues stare at the bright band of the Milky Way, partly obscured by interstellar dust and blurred by Earth's clouds. Under such clear night skies, the Rapa Nui created observatories and used astronomical observations for navigation, calendar calibration, celebrations, and more. Images like this one remind us of the importance of dark skies, protecting the land underneath them, and preserving the culture that they inspire.",
-      "pt": "Nas palavras da astrofotógrafa de hoje, Rositsa Dimitrova, “O que essas sentinelas silenciosas observaram passar pelo céu?” Os mo'ai vulcânicos (que significa estátua) de Ahu Tongariki montam guarda sobre Rapa Nui (Isla de Pascua, Ilha de Páscoa), uma ilha polinésia (anexada pelo Chile em 1888) localizada a milhares de quilômetros da costa da América do Sul, no Oceano Pacífico. Devido ao afastamento da ilha, os mo'ai, de costas para o oceano escuro, conseguem contemplar um céu noturno claro e vibrante. Na foto, estas estátuas gigantescas olham para a faixa brilhante da Via Láctea, parcialmente obscurecida pela poeira interestelar e desfocada pelas nuvens da Terra. Sob céus noturnos tão claros, os Rapa Nui criaram observatórios e usaram observações astronômicas para navegação, calibração de calendário, celebrações e muito mais. Imagens como esta nos lembram a importância dos céus escuros, protegendo a terra abaixo deles e preservando a cultura que eles inspiram."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2603/rapa_nui_milky_way_1024.jpeg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2603/rapa_nui_milky_way.jpeg",
-    "copyright": "Rositsa Dimitrova, Text:, Keighley Rockcliffe  , (NASA, GSFC, UMBC CSST, CRESST II)"
   }
 ]
