@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-05-03",
+    "title": {
+      "en": "Trifid Pillars and Jets",
+      "pt": "Pilares e Jatos Trífidos"
+    },
+    "explanation": {
+      "en": "Dust pillars are like interstellar mountains.  They survive because they are more dense than their surroundings, but they are slowly being  eroded away by a hostile environment.  Visible in the featured picture by the Hubble Space Telescope is the end of a huge gas and dust pillar in the Trifid Nebula (M20), punctuated by a smaller pillar pointing up and an unusual jet pointing to the upper left.  Many of the bright dots are newly formed stars. A star near the small pillar's end is slowly being stripped of its accreting gas by radiation from a tremendously brighter star situated off the top of the image.  The jet extends nearly a light-year and would not be visible without external illumination.  As gas and dust evaporate from the pillars, the hidden stellar source of this jet will likely be uncovered, possibly over the next 20,000 years.   Explore the Universe: Random APOD Generator",
+      "pt": "Pilares de poeira são como montanhas interestelares.  Eles sobrevivem porque são mais densos do que o ambiente ao seu redor, mas estão sendo lentamente erodidos por um ambiente hostil.  Visível na imagem apresentada pelo Telescópio Espacial Hubble está o fim de um enorme pilar de gás e poeira na Nebulosa Trífida (M20), pontuado por um pilar menor apontando para cima e um jato incomum apontando para o canto superior esquerdo.  Muitos dos pontos brilhantes são estrelas recém-formadas. Uma estrela perto da extremidade do pequeno pilar está lentamente a ser despojada do seu gás de acreção pela radiação de uma estrela tremendamente mais brilhante situada no topo da imagem.  O jato se estende por quase um ano-luz e não seria visível sem iluminação externa.  À medida que o gás e a poeira evaporam dos pilares, a fonte estelar oculta deste jacto será provavelmente descoberta, possivelmente nos próximos 20.000 anos.   Explore o Universo: Gerador APOD Aleatório"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2605/TrifidPillar_Hubble_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2605/TrifidPillar_Hubble_4074.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-05-02",
     "title": {
       "en": "Seeing Titan",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2603/NGC3190-APOD1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2603/NGC3190-APOD.jpg",
     "copyright": "Peter Kennett"
-  },
-  {
-    "date": "2026-03-26",
-    "title": {
-      "en": "Black Holes and Neutron Stars: 218 Mergers and Counting",
-      "pt": "Buracos negros e estrelas de nêutrons: 218 fusões e contagens"
-    },
-    "explanation": {
-      "en": "What is the sound of two black holes merging in deep space? Sound waves don't propagate in vacuum, but gravitational waves do. In 2015 we were able to \"hear\" them for the first time and confirm one of Albert Einstein's theoretical predictions. Each square on the grid of the featured image represents one of the gravitational wave detections announced so far by the LIGO-VIRGO-KAGRA Collaboration. These plots show how the binary pair accelerates in their orbit around each other towards merger: the rising frequency effect is called a \"chirp\". Although there are significantly more neutron stars than black holes, most of the detections are binary black hole mergers. That happens because black holes are heavier and their signals are louder and can be seen farther away, resulting in more detections. These events are rare, and we don't expect to see one close by in our Galaxy any time soon. But they are happening continuously throughout the cosmos.",
-      "pt": "Qual é o som de dois buracos negros se fundindo no espaço profundo? As ondas sonoras não se propagam no vácuo, mas as ondas gravitacionais sim. Em 2015 pudemos “ouvi-los” pela primeira vez e confirmar uma das previsões teóricas de Albert Einstein. Cada quadrado na grade da imagem em destaque representa uma das detecções de ondas gravitacionais anunciadas até agora pela Colaboração LIGO-VIRGO-KAGRA. Esses gráficos mostram como o par binário acelera em sua órbita em torno um do outro em direção à fusão: o efeito de aumento da frequência é chamado de \"chirp\". Embora existam significativamente mais estrelas de nêutrons do que buracos negros, a maioria das detecções são fusões binárias de buracos negros. Isso acontece porque os buracos negros são mais pesados ​​e os seus sinais são mais altos e podem ser vistos mais longe, resultando em mais detecções. Esses eventos são raros e não esperamos ver nenhum próximo em nossa galáxia tão cedo. Mas eles estão acontecendo continuamente por todo o cosmos."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2603/GWTC4-Events-Poster-Landscape_1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2603/GWTC4-Events-Poster-Landscape.jpg",
-    "copyright": null
   }
 ]
