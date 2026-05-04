@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-05-04",
+    "title": {
+      "en": "Superplumes Inside Earth",
+      "pt": "Superplumas dentro da Terra"
+    },
+    "explanation": {
+      "en": "Why are there huge, unusual masses inside the Earth? No one is sure.  By noting how earthquakes rumble through our planet's interior, humanity has discovered two deep structures that appear to have unusual temperatures and/or chemical compositions. One hypothesis holds that the superplumes are sunken debris left over from the Earth-shattering collision that created Earth's Moon about 4.5 billion years ago.  A competing hypothesis is that they are graveyards for old tectonic plates that slowly slid under each other over the past few billion years. No matter their origin, the superplumes are thought to affect Earth’s surface volcanism, possibly creating, for example, island chains such as Hawaii.  Also known as large low-shear-velocity provinces (LLSVPs), Earth's superplumes are visualized in the featured animation.",
+      "pt": "Por que existem massas enormes e incomuns dentro da Terra? Ninguém tem certeza.  Ao observar como os terremotos ressoam no interior do nosso planeta, a humanidade descobriu duas estruturas profundas que parecem ter temperaturas e/ou composições químicas incomuns. Uma hipótese sustenta que as superplumas são detritos submersos que sobraram da colisão devastadora da Terra que criou a Lua da Terra há cerca de 4,5 mil milhões de anos.  Uma hipótese concorrente é que sejam cemitérios de antigas placas tectónicas que lentamente deslizaram umas sobre as outras ao longo dos últimos milhares de milhões de anos. Independentemente da sua origem, pensa-se que as superplumas afectam o vulcanismo da superfície da Terra, possivelmente criando, por exemplo, cadeias de ilhas como o Havai.  Também conhecidas como grandes províncias de baixa velocidade de cisalhamento (LLSVPs), as superplumas da Terra são visualizadas na animação apresentada."
+    },
+    "media_type": "video",
+    "url": "https://apod.nasa.gov/apod/image/2605/SuperPlumeEarth_Cottaar.mp4",
+    "hdurl": "https://apod.nasa.gov/apod/image/2605/SuperPlumeEarth_Cottaar.mp4",
+    "copyright": null
+  },
+  {
     "date": "2026-05-03",
     "title": {
       "en": "Trifid Pillars and Jets",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2603/goddardphotop9-1_800.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2603/goddardphotop9-1_wb.jpg",
     "copyright": null
-  },
-  {
-    "date": "2026-03-27",
-    "title": {
-      "en": "Hickson 44 in Leo",
-      "pt": "Hickson 44 em Leão"
-    },
-    "explanation": {
-      "en": "Scanning the skies for galaxies, Canadian astronomer Paul Hickson and colleagues identified some 100 compact groups of galaxies, now appropriately called Hickson Compact Groups. The four prominent galaxies seen in this intriguing telescopic skyscape are one such group, Hickson 44. The Hickson 44 galaxy group is about 100 million light-years distant, far beyond the foreground Milky Way stars, toward the northern springtime constellation Leo. The two spiral galaxies in the center of the image are edge-on NGC 3190 with distinctive, warped dust lanes, and S-shaped NGC 3187. Along with the bright elliptical, NGC 3193 (left) they are also known as Arp 316. The spiral toward the lower right corner is NGC 3185, the 4th member of the Hickson group. Like other galaxies in Hickson groups, these show signs of distortion and enhanced star formation, evidence of a gravitational tug of war that will eventually result in galaxy mergers on a cosmic timescale. The merger process is now understood to be a normal part of the evolution of galaxies, including our own Milky Way. For scale, NGC 3190 is about 75,000 light-years across at the estimated distance of Hickson 44.",
-      "pt": "Examinando os céus em busca de galáxias, o astrônomo canadense Paul Hickson e seus colegas identificaram cerca de 100 grupos compactos de galáxias, agora apropriadamente chamados de Grupos Compactos de Hickson. As quatro galáxias proeminentes vistas nesta intrigante paisagem telescópica são um desses grupos, Hickson 44. O grupo de galáxias Hickson 44 está a cerca de 100 milhões de anos-luz de distância, muito além das estrelas da Via Láctea em primeiro plano, em direção à constelação norte da primavera de Leão. As duas galáxias espirais no centro da imagem são NGC 3190 com faixas de poeira distorcidas distintas, e NGC 3187 em forma de S. Junto com a elíptica brilhante, NGC 3193 (esquerda), elas também são conhecidas como Arp 316. A espiral em direção ao canto inferior direito é NGC 3185, o 4º membro do grupo Hickson. Tal como outras galáxias em grupos de Hickson, estas mostram sinais de distorção e de formação estelar intensificada, evidência de um cabo de guerra gravitacional que acabará por resultar em fusões de galáxias numa escala de tempo cósmica. O processo de fusão é agora entendido como uma parte normal da evolução das galáxias, incluindo a nossa Via Láctea. Em escala, NGC 3190 tem cerca de 75.000 anos-luz de diâmetro, a uma distância estimada de Hickson 44."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2603/NGC3190-APOD1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2603/NGC3190-APOD.jpg",
-    "copyright": "Peter Kennett"
   }
 ]
