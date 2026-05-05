@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-05-05",
+    "title": {
+      "en": "Orion over Mount Teide",
+      "pt": "Órion sobre o Monte Teide"
+    },
+    "explanation": {
+      "en": "Orion is rarely seen like this.  To achieve this majestic vista, you need a camera capable of taking such long duration exposures that faint features in the night sky become revealed.  Iconic nebulas that appear include the Orion Nebula, the Flame Nebula, and Barnard's Loop. For contrast, it also helps to have a volcano on the foreground, in this case the Teide volcano on Tenerife on the Canary Islands of Spain.  But if you want your Teide volcano snow-covered, you also need good timing -- because that only happens, typically, for a few days each year.  Good timing also includes waiting for Orion to appear just behind Teide, which occurred late last year after sunset.  The featured image is the result of a series of images taken consecutively with the same camera from the same location.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)",
+      "pt": "Orion raramente é visto assim.  Para alcançar esta vista majestosa, você precisa de uma câmera capaz de fazer exposições de longa duração que revelam características tênues no céu noturno.  Nebulosas icônicas que aparecem incluem a Nebulosa de Orion, a Nebulosa da Chama e o Loop de Barnard. Por outro lado, também ajuda ter um vulcão em primeiro plano, neste caso o vulcão Teide em Tenerife, nas Ilhas Canárias de Espanha.  Mas se você quiser que seu vulcão Teide fique coberto de neve, você também precisa de um bom momento - porque isso só acontece, normalmente, durante alguns dias por ano.  Um bom momento também inclui esperar que Orion apareça logo atrás do Teide, que ocorreu no final do ano passado, após o pôr do sol.  A imagem apresentada é o resultado de uma série de imagens tiradas consecutivamente com a mesma câmera e no mesmo local.   Sky Surprise: Que foto o APOD apresentou no seu aniversário? (depois de 1995)"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2605/OrionTeide_Rosadzinski_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2605/OrionTeide_Rosadzinski_4247.jpg",
+    "copyright": "Marcin Rosadziński"
+  },
+  {
     "date": "2026-05-04",
     "title": {
       "en": "Superplumes Inside Earth",
@@ -432,21 +447,6 @@
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2603/Message_Arecibo_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2603/Message_Arecibo_2000.jpg",
-    "copyright": null
-  },
-  {
-    "date": "2026-03-28",
-    "title": {
-      "en": "Robert Goddard and Nell",
-      "pt": "Robert Goddard e Nell"
-    },
-    "explanation": {
-      "en": "Robert H. Goddard, considered the father of modern rocketry, was born in Worcester Massachusetts in 1882. As a 16 year old, Goddard read H.G. Wells' science fiction classic \"War Of The Worlds\" and dreamed of space flight. By 1926 he had designed, built, and flown the world's first liquid fuel rocket. Launched 100 years ago, on March 16, 1926 from his aunt Effie's farm in Auburn Massachusetts, the rocket dubbed \"Nell\", rose to an altitude of 41 feet in a flight that lasted about 2 1/2 seconds. In this posed photo Goddard stands next to the 10 foot tall rocket, holding the launch stand frame. To achieve a stable flight without the need for fins, the rocket's heavy motor was located at the top, fed by lines from liquid oxygen and gasoline fuel tanks at the bottom. Widely recognized as a gifted experimenter and engineering genius, his rockets were many years ahead of their time. Goddard was awarded over 200 patents in rocket technology, most of them after his death in 1945. A liquid fuel rocket constructed on principles developed by Goddard landed humans on the Moon in 1969.",
-      "pt": "Robert H. Goddard, considerado o pai dos foguetes modernos, nasceu em Worcester, Massachusetts, em 1882. Aos 16 anos, Goddard leu o clássico de ficção científica de HG Wells, \"War Of The Worlds\", e sonhou com voos espaciais. Em 1926, ele projetou, construiu e pilotou o primeiro foguete de combustível líquido do mundo. Lançado há 100 anos, em 16 de março de 1926, da fazenda de sua tia Effie em Auburn, Massachusetts, o foguete apelidado de \"Nell\" subiu a uma altitude de 41 pés em um vôo que durou cerca de 2 segundos e meio. Nesta foto posada, Goddard está ao lado do foguete de 3 metros de altura, segurando a estrutura do suporte de lançamento. Para conseguir um vôo estável sem a necessidade de aletas, o motor pesado do foguete foi localizado na parte superior, alimentado por linhas de oxigênio líquido e tanques de gasolina na parte inferior. Amplamente reconhecido como um experimentador talentoso e um gênio da engenharia, seus foguetes estavam muitos anos à frente de seu tempo. Goddard recebeu mais de 200 patentes em tecnologia de foguetes, a maioria delas após sua morte em 1945. Um foguete de combustível líquido construído com base em princípios desenvolvidos por Goddard pousou humanos na Lua em 1969."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2603/goddardphotop9-1_800.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2603/goddardphotop9-1_wb.jpg",
     "copyright": null
   }
 ]
