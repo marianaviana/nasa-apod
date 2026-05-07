@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-05-07",
+    "title": {
+      "en": "Supernova in a Sideways Spiral",
+      "pt": "Supernova em espiral lateral"
+    },
+    "explanation": {
+      "en": "A long time ago, in a distant galaxy, a massive star was destroyed in a supernova explosion. The light of this event travelled for tens of millions of years and reached Earth last week as Supernova 2026kid. The featured video shows a time-lapse over three nights of the host galaxy NGC 5907, an edge-on spiral also known as the Splinter or Knife Edge Galaxy, as the supernova appears and becomes brighter. (The occasional streaks are satellites in Earth orbit.) At its brightest, a supernova can outshine the sum of all other stars in its galaxy. Supernova 2026kid appears relatively dim, probably because we are seeing it through the edge-on disk of the galaxy. Such explosions typically happen about once per century in galaxies similar to the Milky Way, and their light can take months to fade away. The brightest supernova in recorded history was SN 1006; it is reported to have been brighter than Venus, and even visible in the sky during daytime.",
+      "pt": "Há muito tempo atrás, numa galáxia distante, uma estrela massiva foi destruída numa explosão de supernova. A luz deste evento viajou durante dezenas de milhões de anos e chegou à Terra na semana passada como Supernova 2026kid. O vídeo apresentado mostra um lapso de tempo ao longo de três noites da galáxia hospedeira NGC 5907, uma espiral lateral também conhecida como Galáxia Splinter ou Knife Edge, à medida que a supernova aparece e se torna mais brilhante. (As faixas ocasionais são satélites na órbita da Terra.) No seu ponto mais brilhante, uma supernova pode ofuscar a soma de todas as outras estrelas da sua galáxia. A Supernova 2026kid parece relativamente fraca, provavelmente porque a vemos através do disco lateral da galáxia. Essas explosões normalmente acontecem uma vez por século em galáxias semelhantes à Via Láctea, e sua luz pode levar meses para desaparecer. A supernova mais brilhante registrada na história foi a SN 1006; é relatado que era mais brilhante que Vênus e até mesmo visível no céu durante o dia."
+    },
+    "media_type": "video",
+    "url": "https://apod.nasa.gov/apod/image/2605/supernova.mp4",
+    "hdurl": "https://apod.nasa.gov/apod/image/2605/supernova.mp4",
+    "copyright": null
+  },
+  {
     "date": "2026-05-05",
     "title": {
       "en": "Orion over Mount Teide",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2603/CenA_SADR_1080.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2603/CenA_SADR_5000.jpg",
     "copyright": "SADR Observatory Team: , J-C Dalouzy, P. Bazart, M. Dherbécourt, C. Humbert,  G. Leroy, J-P Quéau, H. Talbot, & E. Valin"
-  },
-  {
-    "date": "2026-03-29",
-    "title": {
-      "en": "A Message from Earth",
-      "pt": "Uma mensagem da Terra"
-    },
-    "explanation": {
-      "en": "What are these Earthlings trying to tell us?  The featured message was broadcast from Earth towards the globular star cluster M13 in 1974.  During the dedication of an upgrade to the Arecibo Observatory - then the largest single radio telescope in the world - a string of 1's and 0's representing the diagram was sent.  This attempt at extraterrestrial communication was mostly ceremonial - humanity regularly broadcasts radio and television signals out into space accidentally.  Even were this message received, M13 is so far away we would have to wait almost 50,000 years to hear an answer.  The featured message gives a few simple facts about humanity and its knowledge: from left to right are numbers from one to ten, atoms including hydrogen and carbon, some interesting molecules, DNA, a human with description, basics of our Solar System, and basics of the sending telescope.  Several searches for extraterrestrial intelligence are currently underway.   Explore the Universe: Random APOD Generator",
-      "pt": "O que esses terráqueos estão tentando nos dizer?  A mensagem apresentada foi transmitida da Terra em direção ao aglomerado estelar globular M13 em 1974. Durante a dedicação de uma atualização ao Observatório de Arecibo - então o maior radiotelescópio do mundo - foi enviada uma série de 1 e 0 representando o diagrama.  Esta tentativa de comunicação extraterrestre foi principalmente cerimonial - a humanidade transmite regularmente sinais de rádio e televisão para o espaço acidentalmente.  Mesmo que esta mensagem fosse recebida, M13 estaria tão longe que teríamos que esperar quase 50 mil anos para ouvir uma resposta.  A mensagem apresentada fornece alguns factos simples sobre a humanidade e o seu conhecimento: da esquerda para a direita estão números de um a dez, átomos incluindo hidrogénio e carbono, algumas moléculas interessantes, ADN, um ser humano com descrição, noções básicas do nosso Sistema Solar e noções básicas do telescópio emissor.  Várias pesquisas por inteligência extraterrestre estão em andamento.   Explore o Universo: Gerador APOD Aleatório"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2603/Message_Arecibo_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2603/Message_Arecibo_2000.jpg",
-    "copyright": null
   }
 ]
