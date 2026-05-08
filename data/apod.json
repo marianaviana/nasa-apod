@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-05-08",
+    "title": {
+      "en": "Comet R3 PanSTARRS Before Rigel",
+      "pt": "Cometa R3 PanSTARRS antes de Rigel"
+    },
+    "explanation": {
+      "en": "Which way is Comet R3 PanSTARRS going? Not towards the star at the top of the image, because that is Rigel, which, being far in the background, is unrelated to the comet. Not through the nebula in the image middle, because that is the Witch Head Nebula and it, too, is far in the distance -- but not far from Rigel.  Not into northern skies because over the past week Comet C/2025 R3 (PanSTARRS) has moved into southern skies and is now best visible in Earth's Southern Hemisphere toward the west after sunset.  Angularly, Comet R3 PanSTARRS is slowly moving toward the upper right, night by night, and will soon be in the constellation Orion. Spatially, the comet is now headed out of our Solar System but should remain visible to cameras in southern skies for about a week.  The featured image was captured last week near Cerro Paranal in Chile.   Growing Gallery: Comet R3 PanSTARRS in 2026",
+      "pt": "Para onde vai o cometa R3 PanSTARRS? Não em direção à estrela no topo da imagem, porque é Rigel, que, estando bem no fundo, não tem relação com o cometa. Não através da nebulosa no meio da imagem, porque essa é a Nebulosa da Cabeça da Bruxa e ela também está muito distante - mas não muito longe de Rigel.  Não nos céus do norte porque durante a semana passada o cometa C/2025 R3 (PanSTARRS) moveu-se para os céus do sul e agora é melhor visível no hemisfério sul da Terra em direção ao oeste após o pôr do sol.  Angularmente, o cometa R3 PanSTARRS está se movendo lentamente em direção ao canto superior direito, noite após noite, e em breve estará na constelação de Órion. Espacialmente, o cometa está agora a sair do nosso Sistema Solar, mas deverá permanecer visível para as câmaras nos céus do sul durante cerca de uma semana.  A imagem em destaque foi capturada na semana passada perto do Cerro Paranal, no Chile.   Galeria em crescimento: Cometa R3 PanSTARRS em 2026"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2605/CometRigel_Karuk_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2605/CometRigel_Karuk_2851.jpg",
+    "copyright": "Jakub Kuřák & , Martin Mašek , (FZU of the Czech Academy of Sciences)"
+  },
+  {
     "date": "2026-05-07",
     "title": {
       "en": "Supernova in a Sideways Spiral",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2603/Titania_Voyager2_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2603/Titania_Voyager2_960.jpg",
     "copyright": null
-  },
-  {
-    "date": "2026-03-30",
-    "title": {
-      "en": "Peculiar Elliptical Galaxy Centaurus A",
-      "pt": "Galáxia elíptica peculiar Centaurus A"
-    },
-    "explanation": {
-      "en": "What's happened to the center of this galaxy?  Dramatic dust lanes run across the center of unusual elliptical galaxy Centaurus A. These dust lanes are so thick they almost completely obscure the galaxy's center in visible light.  This is particularly unusual as Cen A's older stars and oval shape are characteristic of a giant elliptical galaxy, a galaxy type typically low in dark dust.  Pictured in this deep image is a complex network of foreground gas and dust, as well as shells of dim stars and a jet projecting to the upper right.  Also known as NGC 5128, Cen A is surely the result of a galactic collision where many young dust-creating stars were formed.  However, details of the creation of Cen A's unusually active center and iconic central dust lanes are still being researched.  Cen A lies only 13 million light years away, making it the closest active galaxy.    Jigsaw Galaxy: Astronomy Puzzle of the Day",
-      "pt": "O que aconteceu com o centro desta galáxia?  Dramáticas faixas de poeira atravessam o centro da incomum galáxia elíptica Centaurus A. Essas faixas de poeira são tão espessas que obscurecem quase completamente o centro da galáxia na luz visível.  Isto é particularmente incomum porque as estrelas mais antigas e a forma oval do Cen A são características de uma galáxia elíptica gigante, um tipo de galáxia tipicamente pobre em poeira escura.  Retratada nesta imagem profunda está uma rede complexa de gás e poeira em primeiro plano, bem como conchas de estrelas fracas e um jato projetando-se para o canto superior direito.  Também conhecida como NGC 5128, a Cen A é certamente o resultado de uma colisão galáctica onde se formaram muitas estrelas jovens criadoras de poeira.  No entanto, os detalhes da criação do centro invulgarmente activo do Cen A e das icónicas faixas centrais de poeira ainda estão a ser pesquisados.  Cen A fica a apenas 13 milhões de anos-luz de distância, o que a torna a galáxia ativa mais próxima.    Galáxia Jigsaw: quebra-cabeça astronômico do dia"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2603/CenA_SADR_1080.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2603/CenA_SADR_5000.jpg",
-    "copyright": "SADR Observatory Team: , J-C Dalouzy, P. Bazart, M. Dherbécourt, C. Humbert,  G. Leroy, J-P Quéau, H. Talbot, & E. Valin"
   }
 ]
