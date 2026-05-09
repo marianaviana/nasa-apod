@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-05-09",
+    "title": {
+      "en": "Messier Craters in Stereo",
+      "pt": "Crateras Messier em estéreo"
+    },
+    "explanation": {
+      "en": "Many bright nebulae and star clusters in planet Earth's sky are associated with the name of astronomer Charles Messier from his famous 18th century catalog. His name is also given to these two large and remarkable craters on the Moon. Standouts in the dark, smooth lunar Sea of Fertility or Mare Fecunditatis, Messier (left) and Messier A have dimensions of 15 by 8 and 16 by 11 kilometers respectively. Their elongated shapes are explained by the extremely shallow-angle trajectory followed by an impactor, moving left to right, that gouged out the craters. The shallow impact also resulted in two bright rays of material extending along the surface to the right, beyond the picture. Intended to be viewed with red/blue glasses (red for the left eye), this striking stereo picture of the crater pair was recently created from high resolution scans of two images (AS11-42-6304, AS11-42-6305) taken during the Apollo 11 mission to the Moon.",
+      "pt": "Muitas nebulosas brilhantes e aglomerados de estrelas no céu do planeta Terra estão associados ao nome do astrônomo Charles Messier em seu famoso catálogo do século XVIII. Seu nome também é dado a essas duas grandes e notáveis ​​crateras na Lua. Destaques no escuro e suave Mar da Fertilidade lunar ou Mare Fecunditatis, Messier (à esquerda) e Messier A têm dimensões de 15 por 8 e 16 por 11 quilômetros, respectivamente. Suas formas alongadas são explicadas pela trajetória em ângulo extremamente raso seguida por um impactador, movendo-se da esquerda para a direita, que abriu as crateras. O impacto superficial também resultou em dois raios brilhantes de material estendendo-se ao longo da superfície para a direita, além da imagem. Destinada a ser vista com óculos vermelhos/azuis (vermelho para o olho esquerdo), esta impressionante imagem estéreo do par de crateras foi recentemente criada a partir de digitalizações de alta resolução de duas imagens (AS11-42-6304, AS11-42-6305) obtidas durante a missão Apollo 11 à Lua."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2605/MessierCrater3d_vantuyne1024c.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2605/MessierCrater3d_vantuyne.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-05-08",
     "title": {
       "en": "Comet R3 PanSTARRS Before Rigel",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2604/claw_bubble_800.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2604/claw_bubble.jpg",
     "copyright": "Richard Whitehead, Text:, Keighley Rockcliffe  , (NASA, GSFC, UMBC CSST, CRESST II)"
-  },
-  {
-    "date": "2026-03-31",
-    "title": {
-      "en": "Uranus's Largest Moon: Titania",
-      "pt": "A maior lua de Urano: Titânia"
-    },
-    "explanation": {
-      "en": "Titania's tortured terrain is a mix of canyons, cliffs, and craters.  NASA's interplanetary robot spacecraft Voyager 2 passed the largest moon of Uranus in 1986 and took the feature picture. That the trenches of Titania resemble those on another moon of Uranus, Ariel, indicate that Titania underwent some violent surface event possibly related to water freezing and expanding in its distant past.  Although Titania is Uranus's largest moon, it is only about half the radius of Triton - the largest moon of Uranus's sister planet Neptune, which itself is slightly smaller than Earth's Moon.  Titania, discovered by William Herschel in 1787, is essentially a large dirty iceball that is composed of about half water-ice and half rock.  There is recent speculation that radioactive heating melts some underground ice into oceans.",
-      "pt": "O terreno torturado de Titânia é uma mistura de desfiladeiros, penhascos e crateras.  A espaçonave robótica interplanetária da NASA, Voyager 2, passou pela maior lua de Urano em 1986 e tirou a foto principal. O fato de as trincheiras de Titânia se assemelharem às de outra lua de Urano, Ariel, indica que Titânia sofreu algum evento violento na superfície, possivelmente relacionado ao congelamento e expansão da água em seu passado distante.  Embora Titânia seja a maior lua de Urano, tem apenas cerca de metade do raio de Tritão - a maior lua do planeta irmão de Urano, Netuno, que por sua vez é ligeiramente menor que a Lua da Terra.  Titânia, descoberta por William Herschel em 1787, é essencialmente uma grande bola de gelo suja composta por cerca de metade de água gelada e metade de rocha.  Há especulações recentes de que o aquecimento radioativo derrete parte do gelo subterrâneo nos oceanos."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2603/Titania_Voyager2_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2603/Titania_Voyager2_960.jpg",
-    "copyright": null
   }
 ]
