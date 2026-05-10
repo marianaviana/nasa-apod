@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-05-10",
+    "title": {
+      "en": "Comet R3 PanSTARRS and Orion",
+      "pt": "Cometa R3 PanSTARRS e Orion"
+    },
+    "explanation": {
+      "en": "Orion never had a sword like this. As Comet C/2025 R3 (PanSTARRS) heads out of the inner Solar System, it is putting on quite a show for long exposure cameras.  Currently seen toward the constellation of Orion the Hunter, the distant Orion Nebula is visible on the upper right. Comet R3 PanSTARRS is now showing two distinct tails: a short dust tail pointing toward the top of the image and a long and wavy ion tail trailing off toward the upper left.  The ion tail points away from the Sun and glows blue from excited carbon monoxide.  Large particles in the dust tail somewhat resist the radiation pressure that push them away from the Sun and so retain a bit of the comet's orbit.  The dust tail shines by reflected sunlight. The featured image was taken a few days ago from France's Reunion Island in the southern Indian Ocean.   Growing Gallery: Comet R3 PanSTARRS in 2026",
+      "pt": "Orion nunca teve uma espada como esta. À medida que o cometa C/2025 R3 (PanSTARRS) sai do interior do Sistema Solar, ele está dando um show e tanto para câmeras de longa exposição.  Atualmente vista em direção à constelação de Órion, o Caçador, a distante Nebulosa de Órion é visível no canto superior direito. O cometa R3 PanSTARRS mostra agora duas caudas distintas: uma curta cauda de poeira apontando para o topo da imagem e uma longa e ondulada cauda de íons saindo para o canto superior esquerdo.  A cauda do íon aponta para longe do Sol e brilha em azul devido ao monóxido de carbono excitado.  Partículas grandes na cauda de poeira resistem um pouco à pressão da radiação que as afasta do Sol e, assim, retêm um pouco da órbita do cometa.  A cauda de poeira brilha pela luz solar refletida. A imagem em destaque foi tirada há alguns dias na Ilha da Reunião, na França, no sul do Oceano Índico.   Galeria em crescimento: Cometa R3 PanSTARRS em 2026"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2605/CometOrion_Perrot_960_annotated.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2605/CometOrion_Perrot_960.jpg",
+    "copyright": "Luc Perrot, (TWAN)"
+  },
+  {
     "date": "2026-05-09",
     "title": {
       "en": "Messier Craters in Stereo",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2604/nasa_billingalls.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2604/nasa_billingalls.jpg",
     "copyright": "NASA/Bill Ingalls; , Text: Ogetay Kayali , (MTU)"
-  },
-  {
-    "date": "2026-04-01",
-    "title": {
-      "en": "The Claw and Bubble Nebulae",
-      "pt": "As nebulosas de garra e bolha"
-    },
-    "explanation": {
-      "en": "What unexpected things do you see when you look up at the night sky? Today’s image resembles an abstract painting, with large swaths of color strewn across a cosmic canvas seemingly without design. Despite the image's abstract nature, the human mind finds patterns, identifying a large claw reaching up towards a floating bubble. Embedded within these seemingly random structures are the physical laws that govern how light and matter interact. The Claw (Sh2-157) and Bubble (NGC 7635) Nebulae glow colors that are mapped to the yellow and blue shown, indicating the presence of hydrogen and oxygen ionized by the intense light emitted from stars several times the mass of the Sun. This image depicts both the chaos and structure of astronomical processes, showing that a common thread between art and science is to look for the unexpected.",
-      "pt": "Que coisas inesperadas você vê quando olha para o céu noturno? A imagem de hoje lembra uma pintura abstrata, com grandes faixas de cores espalhadas por uma tela cósmica aparentemente sem desenho. Apesar da natureza abstrata da imagem, a mente humana encontra padrões, identificando uma grande garra que se estende em direção a uma bolha flutuante. Incorporadas nessas estruturas aparentemente aleatórias estão as leis físicas que governam como a luz e a matéria interagem. As nebulosas Garra (Sh2-157) e Bolha (NGC 7635) brilham em cores mapeadas em amarelo e azul mostrados, indicando a presença de hidrogênio e oxigênio ionizados pela luz intensa emitida por estrelas com várias vezes a massa do Sol. Esta imagem retrata tanto o caos quanto a estrutura dos processos astronômicos, mostrando que um traço comum entre a arte e a ciência é procurar o inesperado."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2604/claw_bubble_800.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2604/claw_bubble.jpg",
-    "copyright": "Richard Whitehead, Text:, Keighley Rockcliffe  , (NASA, GSFC, UMBC CSST, CRESST II)"
   }
 ]
