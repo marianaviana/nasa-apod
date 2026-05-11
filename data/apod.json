@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-05-11",
+    "title": {
+      "en": "Moon Setting Behind Teide Volcano",
+      "pt": "Lua se pondo atrás do vulcão Teide"
+    },
+    "explanation": {
+      "en": "These people are not in danger. What is coming down from the left is just the Moon, far in the distance. Luna appears so large here because she is being photographed through a telescopic lens.  What is moving is mostly the Earth, whose spin causes the Moon to slowly disappear behind Mount Teide, a volcano in the Canary Islands of Spain  off the northwest coast of Africa. The people pictured are 16 kilometers away and  many are facing the camera because they are watching the Sun rise behind the photographer. It is not a coincidence that a full moon sets just when the Sun rises because the Sun is always on the opposite side of the sky from a full moon. The featured video was made in 2018 during a full Milk Moon.  The video is not time-lapse -- this was really how fast the Moon was setting.",
+      "pt": "Essas pessoas não estão em perigo. O que vem da esquerda é apenas a Lua, ao longe. Luna parece tão grande aqui porque está sendo fotografada através de uma lente telescópica.  O que se move é principalmente a Terra, cujo giro faz com que a Lua desapareça lentamente atrás do Monte Teide, um vulcão nas Ilhas Canárias, na Espanha, na costa noroeste da África. As pessoas retratadas estão a 16 quilômetros de distância e muitas estão de frente para a câmera porque observam o Sol nascer atrás do fotógrafo. Não é uma coincidência que a lua cheia se ponha exatamente quando o Sol nasce, porque o Sol está sempre no lado oposto do céu à lua cheia. O vídeo em destaque foi feito em 2018 durante uma lua cheia de leite.  O vídeo não é um lapso de tempo - era realmente o quão rápido a Lua estava se pondo."
+    },
+    "media_type": "video",
+    "url": "https://www.youtube.com/embed/afHfMMC-MJE?rel=0",
+    "hdurl": "https://www.youtube.com/embed/afHfMMC-MJE?rel=0",
+    "copyright": "El Cielo de Canarias"
+  },
+  {
     "date": "2026-05-10",
     "title": {
       "en": "Comet R3 PanSTARRS and Orion",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2604/BH_Merger_Tarantula_1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2604/BH_Merger_Tarantula.jpg",
     "copyright": "Carl Knox"
-  },
-  {
-    "date": "2026-04-02",
-    "title": {
-      "en": "Liftoff! Returning to the Moon",
-      "pt": "Decolagem! Voltando à Lua"
-    },
-    "explanation": {
-      "en": "We are one small step closer to returning to the Moon. A new chapter in human exploration began yesterday when NASA's Artemis II launched aboard the Space Launch System (SLS) from Kennedy Space Center. Carrying four astronauts, the Orion spacecraft's planned lunar flyby will be the first in over half a century. This historic test flight, echoing the legacy of Apollo while pushing beyond it, will carry its crew farther from Earth than any humans since 1972, looping around the Moon before returning home. During the approximately ten-day journey, Orion's systems--from life support to navigation--will be tested in deep space, while astronauts observe the lunar surface, including shadowed regions of the far side rarely seen with such perspective. After looping around the Moon, the astronauts will return to Earth, ending their journey with a Pacific Ocean splashdown.",
-      "pt": "Estamos um pequeno passo mais perto de retornar à Lua. Um novo capítulo na exploração humana começou ontem, quando o Artemis II da NASA foi lançado a bordo do Sistema de Lançamento Espacial (SLS) do Centro Espacial Kennedy. Transportando quatro astronautas, o sobrevôo lunar planejado da espaçonave Orion será o primeiro em mais de meio século. Este histórico voo de teste, ecoando o legado da Apollo e ao mesmo tempo indo além dele, levará sua tripulação para mais longe da Terra do que qualquer ser humano desde 1972, dando uma volta ao redor da Lua antes de retornar para casa. Durante a viagem de aproximadamente dez dias, os sistemas da Orion – desde o suporte de vida à navegação – serão testados no espaço profundo, enquanto os astronautas observam a superfície lunar, incluindo regiões sombreadas do outro lado raramente vistas com tal perspectiva. Depois de dar uma volta ao redor da Lua, os astronautas retornarão à Terra, terminando sua jornada com um mergulho no Oceano Pacífico."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2604/nasa_billingalls.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2604/nasa_billingalls.jpg",
-    "copyright": "NASA/Bill Ingalls; , Text: Ogetay Kayali , (MTU)"
   }
 ]
