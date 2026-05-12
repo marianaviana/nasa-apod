@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-05-12",
+    "title": {
+      "en": "The Conjunction of Comet R3 PanSTARRS and the Orion Nebula",
+      "pt": "A conjunção do cometa R3 PanSTARRS e da nebulosa de Órion"
+    },
+    "explanation": {
+      "en": "Today’s composite image features something old, something new, something borrowed, and something blue! Comet R3 PanSTARRS, streaking across the right of the image, likely originated from the Oort Cloud, meaning it is an old Solar System relic from billions of years ago. It’s bright extended ion tail glows blue  as the gas escaping the comet’s core is ionized by sunlight. Astronomers are fascinated by comets for all sorts of reasons: comet compositions are untouched time capsules containing the building blocks of Solar System planets; comets may have delivered water to the young Earth; the behavior of cometary tails shed light on solar wind and radiation interactions. The background mosaic, featuring the Orion Nebula (M42), was taken over two nights of observation with the comet captured on the third night. The Orion Nebula is our nearest stellar nursery and, at about 2 million years old, is our something (relatively) new! Now at around 127.5 million kilometers from Earth, we wave goodbye to the borrowed Comet R3 PanSTARRS as it leaves the Solar System.   Growing Gallery: Comet R3 in 2026",
+      "pt": "A imagem composta de hoje apresenta algo antigo, algo novo, algo emprestado e algo azul! O cometa R3 PanSTARRS, que aparece à direita da imagem, provavelmente se originou na Nuvem de Oort, o que significa que é uma antiga relíquia do Sistema Solar de bilhões de anos atrás. Sua cauda de íons estendida e brilhante brilha em azul enquanto o gás que escapa do núcleo do cometa é ionizado pela luz solar. Os astrônomos são fascinados por cometas por vários motivos: as composições dos cometas são cápsulas do tempo intocadas que contêm os blocos de construção dos planetas do Sistema Solar; os cometas podem ter fornecido água à jovem Terra; o comportamento das caudas cometárias lança luz sobre as interações do vento solar e da radiação. O mosaico de fundo, apresentando a Nebulosa de Orion (M42), foi obtido durante duas noites de observação com o cometa capturado na terceira noite. A Nebulosa de Órion é o nosso berçário estelar mais próximo e, com cerca de 2 milhões de anos, é algo (relativamente) novo! Agora, a cerca de 127,5 milhões de quilómetros da Terra, damos adeus ao cometa R3 PanSTARRS emprestado ao sair do Sistema Solar.   Galeria em crescimento: Cometa R3 em 2026"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2605/CometR3_Orion.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2605/CometR3_Orion.jpg",
+    "copyright": "Julien De Winter, Sascha Ebeler, Text:, Keighley Rockcliffe  , (NASA, GSFC, UMBC CSST, CRESST II)"
+  },
+  {
     "date": "2026-05-11",
     "title": {
       "en": "Moon Setting Behind Teide Volcano",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2604/art002e000192_1050.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2604/art002e000192.jpg",
     "copyright": null
-  },
-  {
-    "date": "2026-04-03",
-    "title": {
-      "en": "Caught in the Web: Visualization of a Black Hole Merger in the Tarantula Nebula",
-      "pt": "Preso na Web: Visualização de uma fusão de buraco negro na nebulosa da Tarântula"
-    },
-    "explanation": {
-      "en": "How can we see what is invisible? Black holes are not easy to see in the dark cosmic night, but astronomers can find them by analyzing their gravitational effects on matter, light and spacetime. The featured image shows an illustration that combines a simulation of a black hole binary system in its final \"death-dance\" with an astrophotography image of the Tarantula Nebula in the background. Even though black holes don't emit light, they distort the path of light rays, acting like a gravitational lens. As a result, the nebula appears extremely distorted, forming Einstein rings and multiple images.  Tarantula Nebula lies in the Large Magellanic Cloud, a dwarf galaxy that is one of the satellite galaxies of the Milky Way, 160,000 light-years away. That is more than 1,000 times closer than any of the binary black hole mergers detected so far. We'll probably never detect a merger so close to home!",
-      "pt": "Como podemos ver o que é invisível? Os buracos negros não são fáceis de ver na noite cósmica escura, mas os astrónomos podem encontrá-los analisando os seus efeitos gravitacionais na matéria, na luz e no espaço-tempo. A imagem apresentada mostra uma ilustração que combina uma simulação de um sistema binário de buraco negro em sua “dança da morte” final com uma imagem astrofotográfica da Nebulosa da Tarântula ao fundo. Embora os buracos negros não emitam luz, eles distorcem o caminho dos raios de luz, agindo como lentes gravitacionais. Como resultado, a nebulosa parece extremamente distorcida, formando anéis de Einstein e múltiplas imagens.  A Nebulosa da Tarântula fica na Grande Nuvem de Magalhães, uma galáxia anã que é uma das galáxias satélites da Via Láctea, a 160.000 anos-luz de distância. Isso é mais de 1.000 vezes mais próximo do que qualquer uma das fusões binárias de buracos negros detectadas até agora. Provavelmente nunca detectaremos uma fusão tão perto de casa!"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2604/BH_Merger_Tarantula_1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2604/BH_Merger_Tarantula.jpg",
-    "copyright": "Carl Knox"
   }
 ]
