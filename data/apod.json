@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-05-13",
+    "title": {
+      "en": "NGC 188: Old Cluster in the New General Catalog",
+      "pt": "NGC 188: Antigo Cluster no Novo Catálogo Geral"
+    },
+    "explanation": {
+      "en": "The New General Catalog of star clusters and nebulae really isn't so new. In fact, it was published in 1888 - an effort by J. L. E. Dreyer to consolidate the work of astronomers William, Caroline, and John Herschel along with others into a useful single, complete catalog of astronomical discoveries and measurements. Dreyer's work was largely successful and is still important today, as this famous catalog continues to lend its \"NGC\" to bright clusters, galaxies, and nebulae. Take for example the star cluster known as NGC 188 (item number 188 in the NGC compilation). It lies about 6,000 light-years distant in the northern constellation Cepheus and represents a galactic or open star cluster. With an age of about 7 billion years, NGC 188 is old for an open cluster. Its old, evolved red giant stars have yellowish hues in this colorful, deep sky view. NGC 188 also enjoys the designation Caldwell 1 in a modern compilation of deep sky objects. Located well above the plane of the Milky Way and seen in the direction of planet Earth's north celestial pole, the ancient stellar group is known to some as the Polarissima Cluster.",
+      "pt": "O Novo Catálogo Geral de aglomerados de estrelas e nebulosas não é tão novo assim. Na verdade, foi publicado em 1888 - um esforço de J. L. E. Dreyer para consolidar o trabalho dos astrônomos William, Caroline e John Herschel, juntamente com outros, em um catálogo útil, único e completo de descobertas e medições astronômicas. O trabalho de Dreyer foi amplamente bem-sucedido e ainda é importante hoje, já que este famoso catálogo continua a emprestar seu “NGC” a aglomerados brilhantes, galáxias e nebulosas. Tomemos por exemplo o aglomerado estelar conhecido como NGC 188 (item número 188 na compilação NGC). Situa-se a cerca de 6.000 anos-luz de distância, na constelação norte de Cepheus, e representa um aglomerado estelar galáctico ou aberto. Com uma idade de cerca de 7 mil milhões de anos, NGC 188 é antigo para ser um aglomerado aberto. Suas antigas e evoluídas estrelas gigantes vermelhas têm tons amarelados nesta vista colorida e profunda do céu. NGC 188 também goza da designação Caldwell 1 em uma compilação moderna de objetos do céu profundo. Localizado bem acima do plano da Via Láctea e visto na direção do pólo celeste norte do planeta Terra, o antigo grupo estelar é conhecido por alguns como Aglomerado Polarissima."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2605/Polarissima1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2605/Polarissima.jpg",
+    "copyright": "Neven Krcmarek"
+  },
+  {
     "date": "2026-05-12",
     "title": {
       "en": "The Conjunction of Comet R3 PanSTARRS and the Orion Nebula",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2604/ngc3310_gemini_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2604/ngc3310_gemini_1837.jpg",
     "copyright": "AAO ITSO Office, Gemini Obs./AURA & , T. A. Rector , (U. Alaska Anchorage)"
-  },
-  {
-    "date": "2026-04-04",
-    "title": {
-      "en": "Hello World",
-      "pt": "Olá mundo"
-    },
-    "explanation": {
-      "en": "From pole to pole our fair planet is captured in this snapshot from space, an evocative image from a window of the Orion spacecraft Integrity. From the spacecraft's perspective the Sun is moving behind Earth's bright limb along the lower right. Africa and the Iberian peninsula are in view on the pale blue planet's surface, while aurorae crown Earth's south and north poles at top right and bottom left. Commander Reid Wiseman took the historic picture on Artemis II mission flight day 2 (April 2), after the completion of the planned translunar injection burn. That burn boosted the spacecraft out of Earth orbit, sending Integrity and crew on a trajectory that will take them around the Moon and back again. That's a journey humans last made over 50 years ago.",
-      "pt": "De pólo a pólo, o nosso belo planeta é capturado nesta fotografia tirada do espaço, uma imagem evocativa de uma janela da nave espacial Orion Integrity. Da perspectiva da espaçonave, o Sol está se movendo atrás do membro brilhante da Terra, no canto inferior direito. A África e a Península Ibérica podem ser vistas na superfície do planeta azul claro, enquanto as auroras coroam os pólos sul e norte da Terra no canto superior direito e no canto inferior esquerdo. O comandante Reid Wiseman tirou a foto histórica no dia 2 do voo da missão Artemis II (2 de abril), após a conclusão da queima de injeção translunar planejada. Essa queima impulsionou a espaçonave para fora da órbita da Terra, enviando Integridade e tripulação em uma trajetória que os levará ao redor da Lua e de volta. Essa é uma jornada que os humanos fizeram pela última vez há mais de 50 anos."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2604/art002e000192_1050.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2604/art002e000192.jpg",
-    "copyright": null
   }
 ]
