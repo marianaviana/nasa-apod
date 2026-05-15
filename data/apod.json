@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-05-15",
+    "title": {
+      "en": "R3 PanSTARRS: An Orion Comet",
+      "pt": "R3 PanSTARRS: Um cometa Orion"
+    },
+    "explanation": {
+      "en": "Comet R3 PanSTARRS might be best remembered as an Orion comet.  A key reason is because Comet C/2025 R3 (PanSTARRS) was near its most spectacular -- in terms of tail visibility -- when passing in front of the iconic constellation.  Although rare, other bright comets, too, have ventured across Orion, including  Lovejoy in 2015, Hale-Bopp in 1997, and the Great Comet of 1264.  Best visible in long duration exposures, the featured image was captured last week from the Craigieburn Mountain Range in New Zealand.  Visible in the deep background image are the Orion Nebula, Barnard's Loop, and through R3's tail, the bright star Saiph, the sixth brightest star in the constellation of Orion. Comet R3 PanSTARRS continues to fade as it moves further south, passing into the constellation of the Unicorn (Monoceros) in the next few days.    Sky Surprise: What picture did APOD feature on your birthday? (after 1995)",
+      "pt": "O cometa R3 PanSTARRS pode ser mais lembrado como um cometa Orion.  Uma das principais razões é porque o cometa C/2025 R3 (PanSTARRS) estava próximo do seu ponto mais espectacular - em termos de visibilidade da cauda - ao passar em frente da icónica constelação.  Embora raros, outros cometas brilhantes também se aventuraram por Orion, incluindo Lovejoy em 2015, Hale-Bopp em 1997, e o Grande Cometa de 1264. Melhor visível em exposições de longa duração, a imagem em destaque foi capturada na semana passada na Cordilheira Craigieburn, na Nova Zelândia.  Visíveis na imagem de fundo profundo estão a Nebulosa de Órion, o Loop de Barnard e, através da cauda de R3, a estrela brilhante Saiph, a sexta estrela mais brilhante da constelação de Órion. O cometa R3 PanSTARRS continua a desaparecer à medida que se move mais para sul, passando pela constelação do Unicórnio (Monoceros) nos próximos dias.    Sky Surprise: Que foto o APOD apresentou no seu aniversário? (depois de 1995)"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2605/R3Orion_Hall_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2605/R3Orion_Hall_2870.jpg",
+    "copyright": "Chester Hall-Fernandez"
+  },
+  {
     "date": "2026-05-13",
     "title": {
       "en": "NGC 188: Old Cluster in the New General Catalog",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2604/BlueHorse_Alkuwari_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2604/BlueHorse_Alkuwari_1620.JPG",
     "copyright": "Rabeea Alkuwari"
-  },
-  {
-    "date": "2026-04-06",
-    "title": {
-      "en": "The Path of Artemis II",
-      "pt": "O Caminho de Ártemis II"
-    },
-    "explanation": {
-      "en": "Why doesn't Artemis II land on the Moon? The main reason is that Artemis II is primarily a test mission designed to make a future Artemis missions -- which will land humans on the Moon -- better prepared.  Similarly, NASA's Apollo 8 and Apollo 10 went right near the Moon as tests before Apollo 11 -- which landed.  As the trajectory in the featured animated video shows, Artemis II will loop around both the Earth and the Moon before returning to the Earth about 10 days after launch. The Artemis II mission will take humans outside the Earth's magnetosphere for the first time since the Apollo missions 50 years ago.  In the video, particles from the solar wind are shown as streaks, while the Earth's reacting magnetosphere is shown in flickering green.  The Earth's magnetosphere is important in deflecting powerful particles arriving from the Sun as well as creating picturesque auroras visible from the Earth's surface.    Explore the Universe: Random APOD Generator",
-      "pt": "Por que Artemis II não pousa na Lua? A principal razão é que Artemis II é principalmente uma missão de teste projetada para tornar as futuras missões Artemis - que pousarão humanos na Lua - mais bem preparadas.  Da mesma forma, a Apollo 8 e a Apollo 10 da NASA passaram bem perto da Lua como testes antes da Apollo 11 – que pousou.  Como mostra a trajetória no vídeo animado apresentado, o Artemis II dará uma volta ao redor da Terra e da Lua antes de retornar à Terra cerca de 10 dias após o lançamento. A missão Artemis II levará os humanos para fora da magnetosfera da Terra pela primeira vez desde as missões Apollo, há 50 anos.  No vídeo, as partículas do vento solar são mostradas como listras, enquanto a magnetosfera reativa da Terra é mostrada em verde tremeluzente.  A magnetosfera da Terra é importante para desviar partículas poderosas que chegam do Sol, bem como para criar auroras pitorescas visíveis da superfície da Terra.    Explore o Universo: Gerador APOD Aleatório"
-    },
-    "media_type": "video",
-    "url": "https://apod.nasa.gov/apod/image/2604/Artemis2Path_NasaSvs.mp4",
-    "hdurl": "https://apod.nasa.gov/apod/image/2604/Artemis2Path_NasaSvs.mp4",
-    "copyright": null
   }
 ]
