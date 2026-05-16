@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-05-16",
+    "title": {
+      "en": "Aurora Slathers Up the Sky",
+      "pt": "Aurora cobre o céu"
+    },
+    "explanation": {
+      "en": "Like salsa verde on your favorite burrito, a green aurora slathers up the sky in this 2017 June 25 snapshot from the International Space Station. About 400 kilometers (250 miles) above Earth, the orbiting station is itself within the upper realm of the auroral displays. Aurorae have the signature colors of excited molecules and atoms at the low densities found at extreme altitudes. Emission from atomic oxygen dominates this view. The tantalizing glow is green at lower altitudes, but rarer reddish bands extend above the space station's horizon. The orbital scene was captured while passing over a point south and east of Australia, with stars above the horizon at the right belonging to the constellation Canis Major, Orion's big dog. Sirius, alpha star of Canis Major, is the brightest star near the Earth's limb.",
+      "pt": "Como salsa verde em seu burrito favorito, uma aurora verde cobre o céu nesta foto de 25 de junho de 2017 da Estação Espacial Internacional. A cerca de 400 quilómetros (250 milhas) acima da Terra, a estação orbital está ela própria dentro do reino superior das exibições aurorais. Aurorae tem as cores características de moléculas e átomos excitados nas baixas densidades encontradas em altitudes extremas. A emissão do oxigênio atômico domina esta visão. O brilho tentador é verde em altitudes mais baixas, mas faixas avermelhadas mais raras estendem-se acima do horizonte da estação espacial. A cena orbital foi capturada ao passar sobre um ponto ao sul e leste da Austrália, com estrelas acima do horizonte à direita pertencentes à constelação do Cão Maior, o grande cachorro de Órion. Sirius, estrela alfa de Canis Major, é a estrela mais brilhante perto do bordo da Terra."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2605/aurora_iss052e007857_1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2605/aurora_iss052e007857.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-05-15",
     "title": {
       "en": "R3 PanSTARRS: An Orion Comet",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2604/comet_plunge.mp4",
     "hdurl": "https://apod.nasa.gov/apod/image/2604/comet_plunge.mp4",
     "copyright": null
-  },
-  {
-    "date": "2026-04-07",
-    "title": {
-      "en": "IC 4592: The Blue Horsehead Reflection Nebula",
-      "pt": "IC 4592: A Nebulosa de Reflexão Cabeça de Cavalo Azul"
-    },
-    "explanation": {
-      "en": "Do you see the horse's head?   What you are seeing is not the famous Horsehead nebula toward Orion, but rather a fainter nebula that only takes on a familiar form with deeper imaging.  The main part of the here-imaged molecular cloud complex is  reflection nebula IC 4592.  Reflection nebulas are made up of very fine dust that normally appears dark but can look quite blue when reflecting the visible light of energetic nearby stars.  In this case, the source of much of the reflected light is a star at the eye of the horse.  That star is part of Nu Scorpii, one of the brighter star systems toward the constellation of the Scorpion (Scorpius).   A second reflection nebula dubbed IC 4601 is visible surrounding two stars just below the image center.  The featured picture was taken from  Sawda Natheel in  Qatar.   Jigsaw Nebula: Astronomy Puzzle of the Day",
-      "pt": "Você vê a cabeça do cavalo?   O que você está vendo não é a famosa nebulosa Cabeça de Cavalo em direção a Órion, mas sim uma nebulosa mais tênue que só assume uma forma familiar com imagens mais profundas.  A parte principal do complexo de nuvens moleculares aqui fotografado é a nebulosa de reflexão IC 4592. As nebulosas de reflexão são compostas de poeira muito fina que normalmente parece escura, mas pode parecer bastante azul quando reflete a luz visível de estrelas energéticas próximas.  Neste caso, a fonte de grande parte da luz refletida é uma estrela no olho do cavalo.  Essa estrela faz parte de Nu Scorpii, um dos sistemas estelares mais brilhantes em direção à constelação do Escorpião (Escorpião).   Uma segunda nebulosa de reflexão chamada IC 4601 é visível em torno de duas estrelas logo abaixo do centro da imagem.  A foto em destaque foi tirada de Sawda Natheel no Qatar.   Nebulosa Jigsaw: quebra-cabeça astronômico do dia"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2604/BlueHorse_Alkuwari_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2604/BlueHorse_Alkuwari_1620.JPG",
-    "copyright": "Rabeea Alkuwari"
   }
 ]
